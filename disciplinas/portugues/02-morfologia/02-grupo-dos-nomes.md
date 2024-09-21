@@ -35,7 +35,7 @@ Ex: Os outros acordos.
   - Adjetivos que são características;
   - Adjetivos expressam qualidades;
   - Adjetivos que manifestam estados;
-  - Adjetivos que revelasm relações.
+  - Adjetivos que revelam relações.
 
 Ex: Os nefastos perigos radioativos.
 

@@ -3,12 +3,12 @@
 <br>
 
 ## DEFINIÇÃO
-* O grupo dos verbos é formado pelo verbos e pelo advérbio. 
+* O grupo dos verbos é formado pelo verbo e pelo advérbio. 
 
 > ### Verbo
 * O verbo, é a classe de palavras mais importante do português. Sendo o ponto de partida da análise textual. 
 * Na perspectiva semântica os verbos são palavras que indicam ação, estado ou fenômeno da natureza.
-* A morfologia do verbo é a flexão verbal. A flexão verbal tem relação com a conjugação do verbo, ou seja, o verbo tem sua forma alterada de acordo com que é conjugado. A flexão verbal faz parte da perspectiva morfológica.
+* A morfologia do verbo é a flexão verbal. A flexão verbal tem relação com a conjugação do verbo, ou seja, o verbo tem sua forma alterada de acordo com o que é conjugado. A flexão verbal faz parte da perspectiva morfológica.
 * Os verbos, flexionam em modo, tempo, número e pessoa.
 * Na perspectiva sintática, o verbo funciona como o organizador da oração. Na língua portuguesa, quando temos uma sentença organizada, ela é chamada de frase. 
 * Quando a frase possui um verbo, ela é chamada de oração. E cada verbo representa uma oração, ou seja, frases com mais de um verbo possuem mais de uma oração. 
