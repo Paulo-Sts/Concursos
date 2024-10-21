@@ -3,7 +3,7 @@
 <br>
 
 ## DEFINIÇÃO
-* A sintaxe é o estudo das funções das palavras.
+* A sintaxe é o estudo das funções das palavras, ou seja, trata da organização das palavras em seu contexto aplicado.
 * O estudo da sintaxe é formado pela:
   - Divisão da sintaxe;
   - Análise sintática.
