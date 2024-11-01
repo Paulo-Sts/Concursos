@@ -11,7 +11,6 @@
 * O substantivo possui flexão nominal, essa ocorre em gênero (masculino e feminino) e número (singular e plural). O artigo, adjetivo, numeral e pronome devem respeitar a flexão do substantivo. Essa relação é chamada de **concordância nominal**.
 
 Ex: O carro velho.
-
 1. carro = substantivo
 2. o = artigo
 3. velho = adjetivo
@@ -24,7 +23,6 @@ Ex: O carro velho.
 * O artigo tem a função de determinar o substantivo. Ele sempre vem antes do substantivo, nunca aparecendo após o substantivo.
 
 Ex: Os outros acordos.
-
 1. acordos = substantivo
 2. os = artigo
 3. outros = pronome indefinido adjetivo
@@ -39,14 +37,12 @@ Ex: Os outros acordos.
   - Adjetivos que revelam relações.
 
 Ex: Os nefastos perigos radioativos.
-
 1. perigos = substantivo
 2. os = artigo
 3. nefastos = adjetivo
 4. radioativos = adjetivo
 
 Ex: Você tem olhos de águia.  
-
 1. tem = verbo
 2. olhos = substantivo
 3. você = pronome
@@ -57,13 +53,11 @@ Ex: Você tem olhos de águia.
 * Existem dois tipos de numerais, o numeral adjetivo que acompanha o substantivo, e o numeral substantivo que é o substantivo. 
 
 Ex: Dois rapazes saíram.
-
 1. saíram = verbo
 2. rapazes = substantivo
 3. dois = numeral adjetivo
 
 Ex: O três saiu.
-
 1. saiu = verbo
 2. três = numeral substantivo
 3. o = artigo
@@ -74,7 +68,6 @@ Ex: O três saiu.
 * O pronome que substitui o substantivo é chamado de pronome substantivo.
 
 Ex: As minhas fotos.
-
 1. fotos = substantivo
 2. as = artigo
 3. minhas = pronome possessivo adjetivo
