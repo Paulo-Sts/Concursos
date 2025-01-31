@@ -19,7 +19,7 @@ segurado e graças ao pagamento antecipado de uma quantia (prêmio), receber uma
 * Deve ter risco futuro e incerto (não é possível fazer um seguro de um prédio que já se sabe que será demolido).
 * Deve gerar prejuízo de ordem econômica (o dano que não traga prejuízo financeiro não precisa de seguro, caso de um carro antigo e já identificado como "perda total").
 * Deve ser independente da vontade das partes contratantes (não será paga indenização quando o próprio segurado forjar o dano ou o roubo do próprio carro).
-* Deve ter um risco seja mensurável (é o risco em que se pode mensurar o prejuízo financeiro. O risco abstrato é difícil de ser mensurado).
+* Deve ter um risco mensurável (é o risco em que se pode mensurar o prejuízo financeiro. O risco abstrato é difícil de ser mensurado).
 
 > ### Sociedades seguradoras
 * As sociedades seguradoras, são as instituições que emitem as apólices, e se responsabilizam, perante as pessoas adquirentes, pelo fiel cumprimento dos contratos de seguros. 
@@ -44,15 +44,15 @@ segurado e graças ao pagamento antecipado de uma quantia (prêmio), receber uma
 * É a modificação realizada nas condições da apólice durante o seu período de vigência. As modificações são feitas com a anuência (acordo) de ambas as partes. 
 * Por exemplo, uma pessoa que fez o seguro do seu carro por um período de 12 meses, após 6 meses, troca de carro. Nessa hipótese, ela poderá transferir o seguro do carro antigo para o novo. 
 
-#### Corretora de Seguros
+#### Corretora de seguros
 * São as instituições que intermedeiam o relacionamento das seguradoras com os segurados. 
 * Nenhum seguro pode ser contratado sem o envolvimento de uma corretora de seguros.
 
-#### Prêmio de Seguro
-* É o valor pago pelo segurado ou para a seguradora para que esta assuma o risco a que o segurado está exposto.
+#### Prêmio de seguro
+* É o valor pago pelo segurado para a seguradora para que esta assuma o risco a que o segurado está exposto.
 * A obrigação do pagamento do prêmio pelo segurado vigerá a partir do dia previsto na apólice ou bilhete de seguro, ficando suspensa a cobertura do seguro até o pagamento do prêmio 
 e demais encargos.
-* Na segunda-feira, uma pessoa emite para outra apólice de seguros e determina que ela tem até quarta-feira para pagar. Mesmo sem ter pago, a que recebeu a apólice já está assegurada. Entretanto, o seguro fica suspenso sob a condição da pessoa pagá-lo. A partir do pagamento, o seguro é ativado. Se a pessoa sofrer um acidente na terça-feira e pagar o seguro, ela terá direito à cobertura do seguro, pois a data-limite para pagamento é quarta-feira. Isso está na regra do decreto-lei 73/1966.
+* Na segunda-feira, uma pessoa emite para outra apólice de seguros e determina que ela tem até quarta-feira para pagar. Mesmo sem ter pago, a que recebeu a apólice já está assegurada. Entretanto, o seguro fica suspenso sob a condição da pessoa pagá-lo. A partir do pagamento, o seguro é ativado. Se a pessoa sofrer um acidente na terça-feira e pagar o seguro, ela terá direito à cobertura do seguro, pois a data-limite para pagamento é quarta-feira. Isso está na regra do Decreto-Lei n.º 73/1966.
 
 #### Sinistro
 * É a ocorrência do risco coberto, durante o período de vigência do plano de seguro.
@@ -82,10 +82,10 @@ e demais encargos.
 * No resseguro existe a solidariedade entre seguradora e resseguradora, ao contrário do cosseguro. 
 
 #### Retrocessão
-* É a operação de transferência dos riscos de uma resseguradora para seguradores ou resseguradores. É a situação na qual a resseguradora também faz um seguro para o resseguro.
+* É a operação de transferência dos riscos de uma resseguradora para seguradoras ou resseguradoras. É a situação na qual a resseguradora também faz um seguro para o resseguro.
 
 ## MODALIDADES DE SEGURO DE RISCO
-* Existem seguros de risco nas modalidades de: seguro de danos, seguro de pessoas além de seguros específicos.
+* Existem seguros de risco nas modalidades de: seguro de danos, seguro de pessoas, além de seguros específicos.
 
 > ### Seguro de danos
 
@@ -96,7 +96,7 @@ amparada.
 * O DPVAT tem cobertura em acidentes de trânsito, causados por veículos ou por suas cargas, que ocasionem:
   - Morte;
   - Invalidez permanente; 
-  - Despesas de Assistência Médica e Suplementares.
+  - Despesas de Assistência médica e suplementares.
 * O DPVAT tem uma cobertura ampla. 
 
 #### DPEM 
@@ -127,7 +127,7 @@ um seguro.
 * Este seguro é destinado, em especial, às instituições financeiras que realizam operações de crédito. 
 
 #### Seguro de garantia estendida
-* Tem por objetivo fornecer ao segurado a extensão e/ou complementação da garantia legal ou da garantia original de fábrica,estabelecida no contrato de compra e venda de bens de consumo duráveis. 
+* Tem por objetivo fornecer ao segurado a extensão e/ou complementação da garantia legal ou da garantia original de fábrica, estabelecida no contrato de compra e venda de bens de consumo duráveis. 
 
 #### Seguro aluguel
 * Ao alugar um imóvel, na falta de um fiador, é possível contratar um seguro aluguel, no qual a pessoa paga um valor para que a seguradora se torne a sua fiadora. 
@@ -144,7 +144,7 @@ de vida, de acidentes pessoais, de assistência funerária e prestamista.
 * Estes seguros têm por objetivo garantir o pagamento de uma indenização ao segurado ou aos seus beneficiários, observadas as condições contratuais e as garantias contratadas. 
 * Os seguros de pessoas podem ser contratados de forma individual ou coletiva. Nos seguros coletivos, os segurados aderem a uma apólice contratada por um estipulante, que tem 
 poderes de representação dos segurados perante a seguradora, nos termos da regulamentação vigente. 
-* Exemplos de suguros de pessoas:
+* Exemplos de seguros de pessoas:
   - Seguro de vida;
   - Seguro funeral;
   - Seguro de acidentes pessoais;
