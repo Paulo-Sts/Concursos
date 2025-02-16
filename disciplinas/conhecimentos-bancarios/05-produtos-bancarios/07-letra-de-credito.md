@@ -32,7 +32,7 @@
 | -------------------- | ------------ |
 | Atualização Mensal   | 36 meses     |
 | Atualização Anual    | 12 meses     |
-| sem índice de preços | 90 dias      |
+| sem índice de preços | 9 meses      |
 
 > ### Letra de crédito do agronegócio
 * É uma aplicação financeira com destinação a concessão de crédito ao agronegócio, produtores rurais, cooperativas além de financiamentos relacionados ao processo de produção, comercialização, beneficiamento e industrialização que envolva a produção agropecuária.
@@ -44,6 +44,6 @@
 * É segurado pelo FGC.
 * Não cobra imposto de renda para pessoa física.
 * Não incide IOF.
-* O prazo mínimo varia de acordo com o indexador, sendo o menor, 90 dias.
+* O prazo mínimo varia de acordo com o indexador, sendo o menor, 9 meses.
 * É negociável e transferível.
 
