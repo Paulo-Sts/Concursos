@@ -1,5 +1,7 @@
 # Cartão de Débito
 
+<br>
+
 ## DEFINIÇÃO
 * Emitidos pelos bancos ou instituições de pagamento, possibilita o acesso direto do cliente aos terminais de autoatendimento para saques, até determinada quantia diária, consultas de
 saldos, extratos, transferências de valores etc., inclusive nos bancos 24 horas.
