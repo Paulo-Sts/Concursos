@@ -57,14 +57,6 @@
 
 > ### Tabela de classes gramaticais fechadas
 
-#### Artigos
-
-| DEFINIDOS | INDEFINIDOS |
-| --------- | ----------- |         
-| O(s)      | Um          |                                
-| A(s)      | Uma         |                    
-|           | Uns         | 
-|           | Umas        |
 
 #### Pronomes pessoais
 
