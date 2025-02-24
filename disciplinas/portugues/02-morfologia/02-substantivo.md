@@ -6,10 +6,10 @@
 * Nomeia seres, objetos, lugares, sentimentos, qualidades, ações, etc.
 * O substantivo é um ponto de origem na frase, sendo as classes gramaticais que se referem a ele (artigo, adjetivo, numeral e pronome) subordinadas devendo seguir a sua flexão.
 * O substantivo flexiona em:
-  - Gênero (masculino e feminino);
-  - Número (Singular e plural).
+  - Gênero (masculino/feminino);
+  - Número (singular/plural).
 
-**Observação:** O grau (aumentativo e diminutivo) não faz parte da estruturação do grupo dos nomes.
+**Observação:** O grau (aumentativo/diminutivo) não faz parte da estruturação do grupo dos nomes.
 
 Ex: O carro velho.
 1. carro = substantivo
