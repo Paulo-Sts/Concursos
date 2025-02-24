@@ -1,8 +1,8 @@
-# Classes Gramaticais
+# Morfologia
 
 <br>
 
-## MORFOLOGIA
+## DEFINIÇÃO
 * A morfologia é o estudo da forma das palavras. No estudo morfológico as palavras são divididas em conjuntos, a partir de suas características. Esses conjuntos são chamados de classes de palavras ou classes gramaticais.
 * A lingua portuguesa possui 10 classes de palavras, são elas:
   - Substantivo;
@@ -52,6 +52,8 @@
 | Preposição  | Locução prepositiva |
 | Conjunção   | Locução conjuntiva  |
 | Interjeição | Locução interjetiva |
+
+
 
 > ### Tabela de classes gramaticais fechadas
 
