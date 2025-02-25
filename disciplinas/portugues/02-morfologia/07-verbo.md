@@ -60,11 +60,11 @@ Ex: O rapaz correu.
 > ### Modos verbais
 * Os modos verbais indicam a atitude do falante em relação à ação, ou seja, como ele percebe ou deseja que a ação aconteça.
 
-| MODO       | USO                      | EXEMPLO                    |
-|------------|--------------------------|----------------------------|
-| Indicativo | Expressa certeza         | "Eu estudo todos os dias." |
-| Subjuntivo | Expressa hipótese/desejo | "Se eu estudasse mais..."  |
-| Imperativo | Expressa ordem/pedido    | "Estude mais!"             |
+| MODO       | USO                      | EXEMPLO                        |
+|------------|--------------------------|--------------------------------|
+| Indicativo | Expressa certeza         | "Eu **estudo** todos os dias." |
+| Subjuntivo | Expressa hipótese/desejo | "Se eu **estudasse** mais..."  |
+| Imperativo | Expressa ordem/pedido    | "**Estude** mais!"             |
 
 > ### Tempos verbais
 * Os tempos verbais indicam quando a ação acontece (presente, passado ou futuro) e a duração dessa ação. Eles podem ser divididos em tempos simples e compostos.

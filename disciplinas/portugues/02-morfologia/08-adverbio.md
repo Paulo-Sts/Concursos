@@ -42,11 +42,11 @@ Ex: recente + mente = recentemente
 
 > ### Função do advérbio
 
-| FUNÇÃO                        | EXEMPLO                        |
-|-------------------------------|--------------------------------|
-| Modifica o verbo | "Ele corre **rapidamente**." (modifica o verbo "corre"). |
-| Modifica o adjetivo | "Ela é **muito** inteligente." (modifica o adjetivo "inteligente"). |
-| Modifica outro advérbio | "Ele estuda **bem** demais." (modifica o advérbio "bem"). |
+| FUNÇÃO                  | EXEMPLO                                                             |
+|-------------------------|---------------------------------------------------------------------|
+| Modifica o verbo        | "Ele corre **rapidamente**." (modifica o verbo "corre").            |
+| Modifica o adjetivo     | "Ela é **muito** inteligente." (modifica o adjetivo "inteligente"). |
+| Modifica outro advérbio | "Ele estuda **bem** demais." (modifica o advérbio "bem").           |
 
 > ### Classificação dos advérbios
 
