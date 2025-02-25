@@ -1,5 +1,9 @@
-> ### Interjeição
-* Expressar emoções, sentimentos, reações ou comandos de forma breve e intensa.
+# Interjeição
+
+<br>
+
+## DEFINIÇÃO
+* Expressa emoções, sentimentos, reações ou comandos de forma breve e intensa.
 * Podem ser acompanhadas de ponto de exclamação (!) para dar mais ênfase.
 * Não variam em gênero, número ou grau.
 
