@@ -47,16 +47,16 @@ Ex: **Quais** são os seus livros? (plural)
 * Dividem-se em retos e oblíquos.
 
 #### Retos
-* Funcionam como sujeito (eu, tu, ele, nós, vós, eles).
+* Funcionam como sujeito.
 * Exemplo:
   - **Eu** estudo muito.
   - **Eles** chegaram cedo.
 
 | PESSOA | SINGULAR | PLURAL     | EXEMPLO                                           |
 |--------|----------|------------|---------------------------------------------------|
-| 1ª     | eu       | nós        | **Eu** estudo muito. / **Nós** vamos à praia.     |
-| 2ª     | tu       | vós        | **Tu** és inteligente. / **Vós** sois bem-vindos. |
-| 3ª     | ele, ela | eles, elas | **Ele** chegou cedo. / **Elas** são amigas.       |
+| 1ª     | eu       | nós        | **Eu** estudo muito. /**Nós** vamos à praia.      |
+| 2ª     | tu       | vós        | **Tu** és inteligente. /**Vós** sois bem-vindos.  |
+| 3ª     | ele, ela | eles, elas | **Ele** chegou cedo. /**Elas** são amigas.        |
 
 #### Oblíquos átonos
 * Funcionam como objeto.
@@ -71,11 +71,11 @@ Ex: **Quais** são os seus livros? (plural)
 |---------|------------------------|----------------------------------------------------------------------|
 | me      | 1ª pessoa singular     | Ele **me** viu. (objeto direto)                                      |
 | te      | 2ª pessoa singular     | Eu **te** amo. (objeto direto)                                       |
-| o, a    | 3ª pessoa singular     | Eu **o** vi. (objeto direto) / Eu **a** encontrei. (objeto direto)   |
+| o, a    | 3ª pessoa singular     | Eu **o** vi. (objeto direto) /Eu **a** encontrei. (objeto direto)    |
 | se      | reflexivo ou recíproco | Ele **se** machucou. (reflexivo)                                     |
 | nos     | 1ª pessoa plural       | Eles **nos** chamaram. (objeto direto)                               |
 | vos     | 2ª pessoa plural       | Eu **vos** digo. (objeto direto)                                     |
-| os, as  | 3ª pessoa plural       | Eu **os** vi. (objeto direto) / Eu **as** encontrei. (objeto direto) |
+| os, as  | 3ª pessoa plural       | Eu **os** vi. (objeto direto) /Eu **as** encontrei. (objeto direto)  |
 
 #### Oblíquos tônicos
 * Funcionam como objeto.
@@ -103,9 +103,9 @@ Ex: **Quais** são os seus livros? (plural)
 
 | PESSOA | SINGULAR           | PLURAL                 | EXEMPLO                                                 |
 |--------|--------------------|------------------------|---------------------------------------------------------|
-| 1ª     | meu/minha          | nosso/nossa            | **Meu** livro está aqui. / **Nossa** casa é grande.     |
-| 2ª     | teu/tua            | vosso/vossa            | **Teu** carro é novo. / **Vossa** opinião é importante. |
-| 3ª     | seu/sua, dele/dela | seus/suas, deles/delas | **Seu**a ideia é boa. / **Deles** é a responsabilidade. |
+| 1ª     | meu/minha          | nosso/nossa            | **Meu** livro está aqui. /**Nossa** casa é grande.      |
+| 2ª     | teu/tua            | vosso/vossa            | **Teu** carro é novo. /**Vossa** opinião é importante.  |
+| 3ª     | seu/sua, dele/dela | seus/suas, deles/delas | **Seu**a ideia é boa. /**Deles** é a responsabilidade.  |
 
 > ### Pronomes demonstrativos
 * Indicam a posição no espaço ou no tempo em relação às pessoas do discurso.
@@ -115,9 +115,9 @@ Ex: **Quais** são os seus livros? (plural)
 
 | POSIÇÃO            | SINGULAR      | PLURAL          | EXEMPLO                                                           |
 |--------------------|---------------|-----------------|-------------------------------------------------------------------|
-| Perto de quem fala | este/esta     | estes/estas     | **Este** livro é interessante. / **Estas** flores são lindas.     |
-| Perto de quem ouve | esse/essa     | esses/essas     | **Esse** carro é rápido. / **Essas** casas são antigas.           |
-| Longe de ambos     | aquele/aquela | aqueles/aquelas | **Aquele** menino é meu amigo. / **Aquelas** montanhas são altas. |
+| Perto de quem fala | este/esta     | estes/estas     | **Este** livro é interessante. /**Estas** flores são lindas.      |
+| Perto de quem ouve | esse/essa     | esses/essas     | **Esse** carro é rápido. /**Essas** casas são antigas.            |
+| Longe de ambos     | aquele/aquela | aqueles/aquelas | **Aquele** menino é meu amigo. /**Aquelas** montanhas são altas.  |
 
 > ### Pronomes relativos
 * Ligam orações, substituindo um termo mencionado anteriormente.
@@ -142,10 +142,10 @@ Ex: **Quais** são os seus livros? (plural)
 
 | PRONOME | SINGULAR       | PLURAL           | EXEMPLO                                                                  |
 |---------|----------------|------------------|--------------------------------------------------------------------------|
-| algum   | algum/alguma   | alguns/algumas   | **Algum** livro está faltando. / **Algumas** pessoas chegaram atrasadas. |
-| nenhum  | nenhum/nenhuma | nenhuns/nenhumas | **Nenhum** problema foi resolvido. / **Nenhumas** respostas foram dadas. |
-| todo    | todo/toda      | todos/todas      | **Todo** dia é uma nova chance. / **Todas** as flores são bonitas.       |
-| outro   | outro/outra    | outros/outras    | **Outro** dia eu te conto. / **Outras** pessoas pensam diferente.        |
+| algum   | algum/alguma   | alguns/algumas   | **Algum** livro está faltando. /**Algumas** pessoas chegaram atrasadas.  |
+| nenhum  | nenhum/nenhuma | nenhuns/nenhumas | **Nenhum** problema foi resolvido. /**Nenhumas** respostas foram dadas.  |
+| todo    | todo/toda      | todos/todas      | **Todo** dia é uma nova chance. /**Todas** as flores são bonitas.        |
+| outro   | outro/outra    | outros/outras    | **Outro** dia eu te conto. /**Outras** pessoas pensam diferente.         |
 | alguém  | invariável     | -                | **Alguém** chamou por você.                                              |
 | ninguém | invariável     | -                | **Ninguém** sabe a resposta.                                             |
 
@@ -158,8 +158,8 @@ Ex: **Quais** são os seus livros? (plural)
 | PRONOME | SINGULAR      | PLURAL          | EXEMPLO                                                |
 |---------|---------------|-----------------|--------------------------------------------------------|
 | quem    | invariável    | -               | **Quem** fez isso?                                     |
-| qual    | qual          | quais           | **Qual** é o seu nome? / **Quais** são os seus livros? |
-| quanto  | quanto/quanta | quantos/quantas | **Quanto** custa isso? / **Quantas** pessoas vieram?   |
+| qual    | qual          | quais           | **Qual** é o seu nome? /**Quais** são os seus livros?  |
+| quanto  | quanto/quanta | quantos/quantas | **Quanto** custa isso? /**Quantas** pessoas vieram?    |
 
 
 > ### Pronomes de tratamento
@@ -170,10 +170,10 @@ Ex: **Quais** são os seus livros? (plural)
   - Situações cerimoniais ou solenes.
 * Apesar de se referirem à 2ª pessoa (a quem se fala), os pronomes de tratamento são conjugados na 3ª pessoa. Isso significa que, ao usá-los, o verbo e os pronomes complementares devem concordar com a 3ª pessoa.
 
-| PRONOME              | USO                                                               | EXEMPLO |
-|----------------------|-------------------------------------------------------------------|---------------------|
+| PRONOME              | USO                                                               | EXEMPLO                                                                     |
+|----------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | Você                 | Informal, usado no dia a dia.                                     | **Você** pode me ajudar?                                                    |
-| Senhor/Senhora       | Formal, usado para mostrar respeito.                              | **Senhor**, posso falar com você? / **Senhora**, sua presença é importante. |
+| Senhor/Senhora       | Formal, usado para mostrar respeito.                              | **Senhor**, posso falar com você? /**Senhora**, sua presença é importante.  |
 | Vossa Excelência     | Muito formal, usado para autoridades (presidentes, juízes, etc.). | **Vossa Excelência** está convidado para a cerimônia.                       |
 | Vossa Senhoria       | Formal, usado em documentos ou para autoridades menores.          | **Vossa Senhoria** pode assinar Aqui?                                       |
 | Vossa Reverendíssima | Formal, usado para religiosos (padres, bispos, etc.).             | **Vossa Reverendíssima** fará o sermão hoje?                                |
