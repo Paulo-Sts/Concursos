@@ -101,45 +101,6 @@ contratos inteligentes (smart contracts), que automatizam processos financeiros 
   - Liquidez aumentada;
   - Transparência nas transações.
 
-> ### CBDCs
-* CBDCs (Central Bank Digital Currencies) são moedas digitais emitidas e regulamentadas por bancos centrais. Diferente das criptomoedas como o bitcoin, que são descentralizadas, as CBDCs são centralizadas e controladas pelo governo de cada país.
-* As moedas digitais centralizadas estão sendo criadas para:
-  - Redução de custos (Transações financeiras mais rápidas e baratas);
-  - Inclusão financeira (Facilita o acesso de pessoas sem conta bancária ao sistema financeiro);
-  - Combate à lavagem de dinheiro e fraudes (Maior rastreabilidade das transações);
-  - Resposta à popularização das criptomoedas (Manter a relevância das moedas nacionais).
-
-> ### Real digital
-* O Brasil está desenvolvendo sua própria moeda digital chamada DREX que será emitida pelo Banco Central.
-* Objetivos do DREX:
-  - Modernizar o sistema financeiro brasileiro;
-  - Facilitar pagamentos e transferências instantâneas, inclusive fora do horário comercial;
-  - Integrar serviços financeiros a tecnologias como contratos inteligentes.
-
-#### Características
-* O DREX será utilizado através de carteiras digitais disponibilizadas pelos bancos.
-* Transações serão instantâneas e com baixo custo.
-* O Banco Central monitorará todas as movimentações para garantir segurança e evitar crimes financeiros.
-
-#### Principais diferenças entre o DREX e o PIX
-
-| ASPECTO            | PIX                         | DREX                                        |
-|--------------------|-----------------------------|---------------------------------------------|
-| Tipo de ferramanta | Meio de pagamento           | Moeda digital oficial                       |
-| Uso                | Transferências e pagamentos | Pagamentos e serviçõs financeiros integrado |
-| Rastreabilidade    | Limitada                    | Total, com regulação do BACEN               |
-| Disponibilidade    | Imediata                    | Prevista para os próximos anos              |
-
-#### Impactos esperados do DREX no sistema financeiro 
-* Maior praticidade em pagamentos e acesso facilitado a serviços financeiros para os cidadãos.
-* Redução de custos com operações e possibilidade de criação de produtos financeiros inovadores para as empresas.
-* Mais eficácia no combate à corrupção e evasão fiscal para o governo.
-
-#### Desafios e preocupações com o DREX
-* Privacidade (Como garantir que os dados dos usuários sejam protegidos).
-* Inclusão digital (Como incluir populações que não têm acesso à tecnologia).
-* Segurança cibernética (Prevenção contra hackers e fraudes digitais).
-
 > ### Futuro do dinheiro digital
 * Com a digitalização do dinheiro, os bancos tradicionais precisarão se reinventar para oferecer serviços mais ágeis e tecnológicos.
 * Empresas como Apple, Google e Facebook já oferecem soluções de pagamento digital e podem competir com bancos e governos.
