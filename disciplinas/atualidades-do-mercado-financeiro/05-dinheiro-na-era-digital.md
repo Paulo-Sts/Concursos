@@ -42,3 +42,114 @@ venda de criptoarte (músicas, filmes, artes gráficas, entre outros), serviços
   - Tether (USDT);
   - Cardano (ADA);
   - Polkadot (DOT).
+
+> ### CBDCs
+* CBDCs (Central Bank Digital Currencies) são moedas digitais emitidas e regulamentadas por bancos centrais. Diferente das criptomoedas como o Bitcoin, que são descentralizadas, as CBDCs são centralizadas e controladas pelo governo de cada país.
+* As moedas digitais centralizadas estão sendo criadas para:
+  - Redução de custos: Transações financeiras mais rápidas e baratas.
+  - Inclusão financeira: Facilita o acesso de pessoas sem conta bancária ao sistema financeiro.
+  - Combate à lavagem de dinheiro e fraudes: Maior rastreabilidade das transações.
+  - Resposta à popularização das criptomoedas: Manter a relevância das moedas nacionais.
+
+> ### O Real Digital (DREX)
+* O Brasil está desenvolvendo sua própria moeda digital chamada DREX que será emitida pelo Banco Central.
+* Objetivos do DREX:
+  - Modernizar o sistema financeiro brasileiro.
+  - Facilitar pagamentos e transferências instantâneas, inclusive fora do horário comercial.
+  - Integrar serviços financeiros a tecnologias como contratos inteligentes.
+
+#### Características
+* O DREX será utilizado através de carteiras digitais disponibilizadas pelos bancos.
+* Transações serão instantâneas e com baixo custo.
+* O Banco Central monitorará todas as movimentações para garantir segurança e evitar crimes financeiros.
+
+#### Principais diferenças entre o DREX e o PIX
+
+| ASPECTO            | PIX                         | DREX                                        |
+|--------------------|-----------------------------|---------------------------------------------|
+| Tipo de ferramanta | Meio de pagamento           | Moeda digital oficial                       |
+| Uso                | Transferências e pagamentos | Pagamentos e serviçõs financeiros integrado |
+| Rastreabilidade    | Limitada                    | Total, com regulação do BACEN               |
+| Disponibilidade    | Imediata                    | Prevista para os próximos anos              |
+
+#### Impactos esperados do DREX no sistema financeiro 
+* Maior praticidade em pagamentos e acesso facilitado a serviços financeiros para os cidadãos.
+* Redução de custos com operações e possibilidade de criação de produtos financeiros inovadores para as empresas.
+* Mais eficácia no combate à corrupção e evasão fiscal para o governo.
+
+#### Desafios e preocupações com o DREX
+* Privacidade: Como garantir que os dados dos usuários sejam protegidos?
+* Inclusão digital: Como incluir populações que não têm acesso à tecnologia?
+* Segurança cibernética: Prevenção contra hackers e fraudes digitais.
+
+> ### Regulação das Criptomoedas
+* A popularização das criptomoedas trouxe benefícios e desafios para os governos e instituições financeiras. A falta de regulamentação pode favorecer crimes como lavagem de dinheiro, evasão fiscal e financiamento ao terrorismo.
+* O Brasil tem avançado na criação de normas para exchanges e transações com criptoativos.
+* A Receita Federal exige a declaração de criptomoedas no Imposto de Renda como bens.
+* O Banco Central e a CVM monitoram operações para coibir práticas ilícitas.
+* Principais desafios da regulação:
+  - Dificuldade em criar regras válidas para transações internacionais;
+  - Velocidade da inovação tecnológica: Novos criptoativos surgem mais rápido do que as leis podem acompanhar.
+  - Equilíbrio entre segurança e inovação.
+
+#### Casos de fraudes e golpes envolvendo criptomoedas
+* Esquemas de pirâmide prometendo retornos irreais.
+* Fraudes com ICOs (Ofertas Iniciais de Moedas) falsas.
+* Phishing e ataques cibernéticos a carteiras digitais.
+
+
+> ### Stablecoins
+* Stablecoins são criptomoedas que possuem lastro em ativos estáveis, como o dólar ou ouro, para reduzir a volatilidade.
+* Principais tipos:
+  - Lastreadas em moeda fiduciária: Como USDT (Tether), USDC, BUSD (Binance USD) e EURC (Euro Coin).
+  - Lastreadas em commodities: Como o PAX Gold.
+  - Algorítmicas: Utilizam algoritmos para manter a estabilidade.
+
+> ### DeFi
+* DeFi (Decentralized Finance), ou Finanças Descentralizadas, é um ecossistema de aplicativos financeiros construídos sobre redes blockchain, especialmente a do Ethereum. 
+* O objetivo do DeFi é criar alternativas aos serviços financeiros tradicionais (como bancos e corretoras) sem a necessidade de intermediários. Isso é possível graças ao uso de
+contratos inteligentes (smart contracts), que automatizam processos financeiros de forma segura e transparente.
+* Serviços disponíveis no DeFi:
+  - Empréstimos e financiamentos descentralizados.
+  - Troca de ativos via DEXs (exchanges descentralizadas).
+
+#### Riscos e benefícios do DeFi
+
+| RISCOS                                  | BENEFÍCIOS                 |
+|-----------------------------------------|----------------------------|
+| Falta de regulação e segurança jurídica | Inclusão financeira global |
+| Vulnerabilidade a ataques hackers       | Taxas mais baixas          |
+| Possibilidade de perda total dos ativos | Inovação e novos produtos  |
+
+> ### NFTs
+* NFTs (Non-Fungible Tokens) são tokens digitais únicos que representam propriedade de itens digitais ou físicos. Utilizam a tecnologia blockchain para garantir autenticidade e propriedade.
+* Exemplos de uso:
+  - Artes digitais e colecionáveis;
+  - Música e vídeos exclusivos;
+  - Itens em jogos e ambientes virtuais.
+
+#### Formas de ganhar dinheiro com NFTs
+
+| MÉTODO                                  | GANHOS                                                                                     |
+|-----------------------------------------|--------------------------------------------------------------------------------------------|
+| Compra e venda (Trading)                | Comprar NFTs com potencial de valorização e revender por um preço maior.                   |  
+| Criação e venda de obras                | Criar e vender artes digitais, músicas ou vídeos como NFTs; receber royalties em revendas. |  
+| Jogos com NFTs (Play-to-earn)           | Ganhar NFTs em jogos e vendê-los ou receber recompensas em criptoativos.                   |  
+| Imóveis e terrenos virtuais (Metaverso) | Comprar terrenos virtuais e lucrar com revendas, aluguel ou eventos.                       |  
+| Música e direitos autorais              | Lanças músicas ou ingressos exclusivos como NFTs; venda direta aos fãs.                    |  
+
+> ### Tokenização de ativos
+* A tokenização permite que ativos do mundo real, como imóveis e ações, sejam representados em blockchain. Isso facilita a negociação e amplia o acesso a investimentos.
+* Vantagens da tokenização:
+  - Fracionamento de ativos para pequenos investidores;
+  - Liquidez aumentada;
+  - Transparência nas transações.
+
+> ### Futuro do dinheiro digital
+* Com a digitalização do dinheiro, os bancos tradicionais precisarão se reinventar para oferecer serviços mais ágeis e tecnológicos.
+* Empresas como Apple, Google e Facebook já oferecem soluções de pagamento digital e podem competir com bancos e governos.
+* Possíveis cenários futuros:
+  - Crescimento das CBDCs; 
+  - Mais países adotando moedas digitais oficiais; 
+  - Integração de criptomoedas ao sistema financeiro tradicional; 
+  - Desafios com privacidade e segurança dos dados financeiros.
