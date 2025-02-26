@@ -23,12 +23,14 @@
 > ### Reserva de valor
 * Permite que os agentes econômicos mantenham seus patrimônios para uso posterior. 
 * Forma uma reserva de valor que possui liquidez imediata. No entanto, a moeda pode ser utilizada para acumulação de poder aquisitivo, a usar no futuro. Ou seja, os indivíduos devem poder guardar uma moeda com a confiança de que a mesma irá continuar a valer no futuro.
-* A moeda não é o único ativo a desempenhar esta função; o ouro, as ações, as obras de arte e mesmo os imóveis também são reservas de valor. A grande diferença entre a moeda e as outras reservas de valor está na possibilidade de mobilização imediata do poder de compra (maior liquidez), enquanto os outros ativos têm de ser transformados em moeda antes de serem trocados por outro bem.
+* A moeda não é o único ativo a desempenhar esta função. O ouro, as ações, as obras de arte e mesmo os imóveis também são reservas de valor. 
+* A grande diferença entre a moeda e as outras reservas de valor está na possibilidade de mobilização imediata do poder de compra (maior liquidez), enquanto os outros ativos têm de ser transformados em moeda antes de serem trocados por outro bem.
 
 > ### Conceitos importantes relacionados a moeda
 
 #### Liquidez
-* Facilidade em converter um ativo em meio de pagamento para a economia. Por exemplo, quando se compra títulos do governo, passado seu prazo, imediatamente eles passam a ser dinheiro novamente. O ativo mais líquido na economia é a moeda. 
+* Facilidade em converter um ativo em meio de pagamento para a economia. Por exemplo, quando se compra títulos do governo, passado seu prazo, imediatamente eles passam a ser dinheiro novamente. 
+* O ativo mais líquido na economia é a moeda. 
 * No entanto, possuir grande liquidez não quer dizer ser grande reserva de valor, pois o valor da moeda é suscetível ao aumento de preços.
 
 #### Papel-moeda
@@ -44,7 +46,7 @@
 * Criada em um ambiente virtual por um sistema de computador sem a participação do Estado e de forma descentralizada. 
 * São as criptomoedas.
 
-#### Moeda Digital de Banco Central (CBDC)
+#### Moeda digital de Banco Central
 * Trata-se da versão virtual do papel moeda.
 * É emitida exclusivamente por uma autoridade monetária. Nela, o papel moeda já será emitido no formato digital pelo Banco Central.
 * Essa moeda digital, diferentemente da criptomoeda, não é emitida de forma descentralizada, mas sim de forma centralizada. 
