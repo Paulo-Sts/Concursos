@@ -3,23 +3,20 @@
 <br>
 
 ## DEFINIÇÃO
-* Após a crise financeira de 2008 surgiram, a partir da desconfiança com a moeda fiduciária centralizada no Estado, novas formas de representação da moeda a fim de não depender mais do governo.
+* Após a crise financeira de 2008 surgiram da desconfiança com a moeda fiduciária centralizada no Estado, novas formas de representação da moeda a fim de não depender mais do governo.
 * Assim, surgiu o bitcoin e, com ele, o advento das criptomoedas.
-* Com base nas tecnologias disponíveis até então, como a tecnologia blockchain, que possibilita que toda rede de computadores integrada a ela e disposta a participar dessa
-integração, valide a ocorrência de uma operação, obtém-se o registro da utilização dessa moeda digital por parte dessa rede de computadores.
-* A ideia por trás do bitcoin é estabelecer uma criptomoeda com emissão descentralizada. Eliminando a dependência do governo, qualquer pessoa pode participar na validação das transações através da decifração de uma sequência matemática de código.
-* Ao registrar uma transação sem revelar o seu conteúdo, o participante é recompensado com uma parcela da moeda digital. Esta validação envolve a resolução de complexas fórmulas matemáticas através de computadores, garantindo a singularidade da transação e fornecendo uma recompensa em bitcoins. Este processo, conhecido como mineração, é altamente procurado devido à sua natureza tecnologicamente avançada e à garantia de integridade das transações na cadeia de blocos.
 
 > ### Criptomoedas
 * Criptomoedas são moedas digitais, isso significa que elas não existem fisicamente e estão presentes apenas no ambiente digital.
 * Atualmente existem cerca de três mil criptomoedas. Cada uma com um propósito diferente, mas todas com o objetivo de melhorar a segurança e a eficiência na troca de ativos financeiros, e democratizar a distribuição e o produto do dinheiro no mundo.
-* O que vai fazer com que a moeda prevaleça sobre a outra? É o quanto as pessoas a utilizam, quanto mais a utilizada, mais valorizada ela é.
 * No Brasil as criptomoedas são classificadas como bens, como um carro ou uma casa, por exemplo, mas não como moeda. Por isso, há a cobrança de imposto em cima do valor informado na Declaração Anual do Imposto de Renda de Pessoa Física (IRPF). Então, as criptomoedas são declaradas como bens e direitos, não como dinheiro.
-* A primeira criptomoeda, e também a mais conhecida, é a bitcoin. Ela foi criada por Satoshi Nakamoto em 2008, depois da crise econômica mundial.
-* Todas as transações com criptomoedas são virtuais. bitcoins e as demais criptomoedas são transferidas de uma pessoa para outra, sem passar por nenhum tipo de intermediário ou banco. O preço das criptomoedas seguem as mesmas regras de mercado: quanto maior a demanda, maior o valor.
+* O preço das criptomoedas seguem as mesmas regras de mercado: quanto maior a demanda, maior o valor.
 * As transações em criptomoedas são feitas por meio de um código, formado por números e letras, chamado de endereço bitcoin ou endereço BTC. Cada endereço BTC tem de 26 a 35 caracteres alfanuméricos, que podem ser convertidos em códigos QR para facilitar o processo. O código QR é uma espécie de código de barras em 2D que pode ser escaneado pela câmera dos smartphones.
 * Nas transações, tanto a identidade do comprador como a do vendedor são mantidas em sigilo de criptografia, por isso, é comum usar criptomoedas para fins ilícitos, já que não é possível identificar o comprador e o vendedor. Sistema esse que codifica as mensagens enviadas pela rede para assegurar a integridade da informação.
-* Esses dados são codificados apenas quando chegam ao destinatário correto. Porém, toda transação fica registrada em uma rede, conhecida como blockchain, de forma pública e vitalícia. Esse processo tem o intuito de evitar fraudes. Por isso, qualquer transação feita em criptomoeda não pode ser cancelada e é rastreável.
+
+> ### Bitcoin
+* Foi a primeira criptomoeda, e também a mais conhecida. Ela foi criada por Satoshi Nakamoto em 2008, depois da crise econômica mundial.
+* Bitcoins e as demais criptomoedas são transferidas de uma pessoa para outra, sem passar por nenhum tipo de intermediário ou banco.
 
 > ### Blockchain
 * Blockchain é uma tecnologia que garante a segurança das transações com criptoativos, pois permite rastrear o envio e o recebimento de informações pela internet. Trata-se de uma tecnologia que está por trás do bitcoin e de muitas outras criptomoedas.
@@ -33,7 +30,7 @@ venda de criptoarte (músicas, filmes, artes gráficas, entre outros), serviços
 
 > ### Altcoins
 * São criptomoedas alternativas ao bitcoin. Já existem milhares de moedas virtuais.
-* O bitcoin é, de longe, a criptomoeda mais negociada em todo o planeta e acumula uma capitalização de mercado maior que US$ 1 trilhão. 
+* O bitcoin é de longe, a criptomoeda mais negociada em todo o planeta e acumula uma capitalização de mercado maior que US$ 1 trilhão. 
 * Criptomoedas promissoras no mercado:
   - Ethereum (ETH);
   - Binance Coin (BNB);
@@ -43,70 +40,29 @@ venda de criptoarte (músicas, filmes, artes gráficas, entre outros), serviços
   - Cardano (ADA);
   - Polkadot (DOT).
 
-> ### CBDCs
-* CBDCs (Central Bank Digital Currencies) são moedas digitais emitidas e regulamentadas por bancos centrais. Diferente das criptomoedas como o Bitcoin, que são descentralizadas, as CBDCs são centralizadas e controladas pelo governo de cada país.
-* As moedas digitais centralizadas estão sendo criadas para:
-  - Redução de custos: Transações financeiras mais rápidas e baratas.
-  - Inclusão financeira: Facilita o acesso de pessoas sem conta bancária ao sistema financeiro.
-  - Combate à lavagem de dinheiro e fraudes: Maior rastreabilidade das transações.
-  - Resposta à popularização das criptomoedas: Manter a relevância das moedas nacionais.
+> ### Stablecoins
+* Stablecoins são criptomoedas que possuem lastro em ativos estáveis, como o dólar ou ouro, para reduzir a volatilidade.
+* Principais tipos:
+  - Lastreadas em moeda fiduciária (Como USDT, USDC, BUSD e EURC);
+  - Lastreadas em commodities (Como o PAX Gold);
+  - Algorítmicas (Utilizam algoritmos para manter a estabilidade).
 
-> ### O Real Digital (DREX)
-* O Brasil está desenvolvendo sua própria moeda digital chamada DREX que será emitida pelo Banco Central.
-* Objetivos do DREX:
-  - Modernizar o sistema financeiro brasileiro.
-  - Facilitar pagamentos e transferências instantâneas, inclusive fora do horário comercial.
-  - Integrar serviços financeiros a tecnologias como contratos inteligentes.
-
-#### Características
-* O DREX será utilizado através de carteiras digitais disponibilizadas pelos bancos.
-* Transações serão instantâneas e com baixo custo.
-* O Banco Central monitorará todas as movimentações para garantir segurança e evitar crimes financeiros.
-
-#### Principais diferenças entre o DREX e o PIX
-
-| ASPECTO            | PIX                         | DREX                                        |
-|--------------------|-----------------------------|---------------------------------------------|
-| Tipo de ferramanta | Meio de pagamento           | Moeda digital oficial                       |
-| Uso                | Transferências e pagamentos | Pagamentos e serviçõs financeiros integrado |
-| Rastreabilidade    | Limitada                    | Total, com regulação do BACEN               |
-| Disponibilidade    | Imediata                    | Prevista para os próximos anos              |
-
-#### Impactos esperados do DREX no sistema financeiro 
-* Maior praticidade em pagamentos e acesso facilitado a serviços financeiros para os cidadãos.
-* Redução de custos com operações e possibilidade de criação de produtos financeiros inovadores para as empresas.
-* Mais eficácia no combate à corrupção e evasão fiscal para o governo.
-
-#### Desafios e preocupações com o DREX
-* Privacidade: Como garantir que os dados dos usuários sejam protegidos?
-* Inclusão digital: Como incluir populações que não têm acesso à tecnologia?
-* Segurança cibernética: Prevenção contra hackers e fraudes digitais.
-
-> ### Regulação das Criptomoedas
+> ### Regulação das criptomoedas
 * A popularização das criptomoedas trouxe benefícios e desafios para os governos e instituições financeiras. A falta de regulamentação pode favorecer crimes como lavagem de dinheiro, evasão fiscal e financiamento ao terrorismo.
 * O Brasil tem avançado na criação de normas para exchanges e transações com criptoativos.
-* A Receita Federal exige a declaração de criptomoedas no Imposto de Renda como bens.
+* A Receita Federal exige a declaração de criptomoedas no imposto de renda como bens.
 * O Banco Central e a CVM monitoram operações para coibir práticas ilícitas.
 * Principais desafios da regulação:
   - Dificuldade em criar regras válidas para transações internacionais;
   - Velocidade da inovação tecnológica: Novos criptoativos surgem mais rápido do que as leis podem acompanhar.
   - Equilíbrio entre segurança e inovação.
-
-#### Casos de fraudes e golpes envolvendo criptomoedas
-* Esquemas de pirâmide prometendo retornos irreais.
-* Fraudes com ICOs (Ofertas Iniciais de Moedas) falsas.
-* Phishing e ataques cibernéticos a carteiras digitais.
-
-
-> ### Stablecoins
-* Stablecoins são criptomoedas que possuem lastro em ativos estáveis, como o dólar ou ouro, para reduzir a volatilidade.
-* Principais tipos:
-  - Lastreadas em moeda fiduciária: Como USDT (Tether), USDC, BUSD (Binance USD) e EURC (Euro Coin).
-  - Lastreadas em commodities: Como o PAX Gold.
-  - Algorítmicas: Utilizam algoritmos para manter a estabilidade.
+* Casos de fraudes e golpes envolvendo criptomoedas:
+  - Esquemas de pirâmide prometendo retornos irreais;
+  - Fraudes com ICOs (Ofertas iniciais de moedas) falsas;
+  - Phishing e ataques cibernéticos a carteiras digitais.
 
 > ### DeFi
-* DeFi (Decentralized Finance), ou Finanças Descentralizadas, é um ecossistema de aplicativos financeiros construídos sobre redes blockchain, especialmente a do Ethereum. 
+* DeFi (Decentralized Finance), ou finanças descentralizadas, é um ecossistema de aplicativos financeiros construídos sobre redes blockchain, especialmente a do ethereum. 
 * O objetivo do DeFi é criar alternativas aos serviços financeiros tradicionais (como bancos e corretoras) sem a necessidade de intermediários. Isso é possível graças ao uso de
 contratos inteligentes (smart contracts), que automatizam processos financeiros de forma segura e transparente.
 * Serviços disponíveis no DeFi:
@@ -144,6 +100,45 @@ contratos inteligentes (smart contracts), que automatizam processos financeiros 
   - Fracionamento de ativos para pequenos investidores;
   - Liquidez aumentada;
   - Transparência nas transações.
+
+> ### CBDCs
+* CBDCs (Central Bank Digital Currencies) são moedas digitais emitidas e regulamentadas por bancos centrais. Diferente das criptomoedas como o bitcoin, que são descentralizadas, as CBDCs são centralizadas e controladas pelo governo de cada país.
+* As moedas digitais centralizadas estão sendo criadas para:
+  - Redução de custos (Transações financeiras mais rápidas e baratas);
+  - Inclusão financeira (Facilita o acesso de pessoas sem conta bancária ao sistema financeiro);
+  - Combate à lavagem de dinheiro e fraudes (Maior rastreabilidade das transações);
+  - Resposta à popularização das criptomoedas (Manter a relevância das moedas nacionais).
+
+> ### Real digital
+* O Brasil está desenvolvendo sua própria moeda digital chamada DREX que será emitida pelo Banco Central.
+* Objetivos do DREX:
+  - Modernizar o sistema financeiro brasileiro;
+  - Facilitar pagamentos e transferências instantâneas, inclusive fora do horário comercial;
+  - Integrar serviços financeiros a tecnologias como contratos inteligentes.
+
+#### Características
+* O DREX será utilizado através de carteiras digitais disponibilizadas pelos bancos.
+* Transações serão instantâneas e com baixo custo.
+* O Banco Central monitorará todas as movimentações para garantir segurança e evitar crimes financeiros.
+
+#### Principais diferenças entre o DREX e o PIX
+
+| ASPECTO            | PIX                         | DREX                                        |
+|--------------------|-----------------------------|---------------------------------------------|
+| Tipo de ferramanta | Meio de pagamento           | Moeda digital oficial                       |
+| Uso                | Transferências e pagamentos | Pagamentos e serviçõs financeiros integrado |
+| Rastreabilidade    | Limitada                    | Total, com regulação do BACEN               |
+| Disponibilidade    | Imediata                    | Prevista para os próximos anos              |
+
+#### Impactos esperados do DREX no sistema financeiro 
+* Maior praticidade em pagamentos e acesso facilitado a serviços financeiros para os cidadãos.
+* Redução de custos com operações e possibilidade de criação de produtos financeiros inovadores para as empresas.
+* Mais eficácia no combate à corrupção e evasão fiscal para o governo.
+
+#### Desafios e preocupações com o DREX
+* Privacidade (Como garantir que os dados dos usuários sejam protegidos).
+* Inclusão digital (Como incluir populações que não têm acesso à tecnologia).
+* Segurança cibernética (Prevenção contra hackers e fraudes digitais).
 
 > ### Futuro do dinheiro digital
 * Com a digitalização do dinheiro, os bancos tradicionais precisarão se reinventar para oferecer serviços mais ágeis e tecnológicos.
