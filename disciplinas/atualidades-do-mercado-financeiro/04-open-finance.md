@@ -3,12 +3,12 @@
 <br>
 
 ## DEFINIÇÃO
-* O Open Finance, ou sistema financeiro aberto, é a possibilidade de clientes de produtos e serviços financeiros permitirem o compartilhamento de suas informações entre diferentes
+* O open finance, ou sistema financeiro aberto, é a possibilidade de clientes de produtos e serviços financeiros permitirem o compartilhamento de suas informações entre diferentes
 instituições autorizadas pelo Banco Central e a movimentação de suas contas bancárias a partir de diferentes plataformas e não apenas pelo aplicativo ou site do banco, de forma segura, ágil e conveniente.
-* Com a permissão de cada correntista, as instituições se conectam diretamente às plataformas de outras instituições participantes e acessam exatamente os dados autorizados pelo(a)s clientes. Todo esse processo é feito em um ambiente seguro e a permissão poderá ser cancelada pela pessoa sempre que ela quiser.
-* O Open Finance é a ampliação do Open Banking. O projeto mudou de nome para mostrar a sua maior abrangência, que inclui não somente informações sobre produtos e serviços financeiros mais tradicionais (como contas e operações de crédito), mas também dados de produtos e serviços relacionados a investimentos, e, futuramente, os referentes a câmbio, credenciamento, seguros e previdência.
-* Segundo o Bacen, o nosso Open Finance deve abranger:
-  - Instituições Financeiras;
+* Com a permissão de cada correntista, as instituições se conectam diretamente às plataformas de outras instituições participantes e acessam exatamente os dados autorizados pelos clientes. Todo esse processo é feito em um ambiente seguro e a permissão poderá ser cancelada pela pessoa sempre que ela quiser.
+* O open finance é a ampliação do open banking. O projeto mudou de nome para mostrar a sua maior abrangência, que inclui não somente informações sobre produtos e serviços financeiros mais tradicionais (como contas e operações de crédito), mas também dados de produtos e serviços relacionados a investimentos, e, futuramente, os referentes a câmbio, credenciamento, seguros e previdência.
+* Segundo o Bacen, o nosso open finance deve abranger:
+  - Instituições financeiras;
   - Instituições de pagamento;
   - Demais instituições autorizadas a funcionar pelo Banco Central.
 
@@ -22,7 +22,7 @@ instituições autorizadas pelo Banco Central e a movimentação de suas contas 
 * Aumentar a eficiência do SFN.
 * Aumentar a competição entra as instituições.
 * Consequente redução do preço dos ativos financeiros.
-* O Open Finance permitirá a abertura e integração de plataformas e infraestruturas, propiciar melhores produtos e serviços financeiros, além da sua customização.
+* Permitirá a abertura e integração de plataformas e infraestruturas, propiciar melhores produtos e serviços financeiros, além da sua customização.
 
 #### Customização
 * Possibilidade de "construir" o produto ou serviço financeiro que atende na medida a sua necessidade.
@@ -32,7 +32,7 @@ instituições autorizadas pelo Banco Central e a movimentação de suas contas 
 * A proposta é possibilitar que os dados da clientela passam a fazer parte de um novo modelo de negócio, onde serão disponibilizadas APIs para que outras empresas possam criar serviços integrados entre si.
 
 #### Compartilhamento dos dados
-* Com o Open Finance o cliente que toma um empréstimo numa instituição financeira poderia usar o seu histórico já existente em outras instituições para conseguir melhores taxas e um melhor limite.
+* Com o open finance o cliente que toma um empréstimo numa instituição financeira poderia usar o seu histórico já existente em outras instituições para conseguir melhores taxas e um melhor limite.
 * O compartilhamento dos dados é gratuito.
 
 #### Vantagens
@@ -43,22 +43,22 @@ instituições autorizadas pelo Banco Central e a movimentação de suas contas 
 * Acesso a melhores propostas de crédito.
 
 #### Dados mínimos a serem compartilhados
-* Dados relativos aos produtos e serviços oferecidos pelas instituições participantes (termos e condições contratuais);
-* Dados cadastrais dos clientes;
-* Dados transacionais dos clientes (Dados das contas de depósito, operações de crédito e demais produtos e serviços contratados pelos clientes);
-* Serviços de pagamento (inicialização de pagamento, transferências, pagamentos de produtos e serviços);
+* Dados relativos aos produtos e serviços oferecidos pelas instituições participantes (termos e condições contratuais).
+* Dados cadastrais dos clientes.
+* Dados transacionais dos clientes (Dados das contas de depósito, operações de crédito e demais produtos e serviços contratados pelos clientes).
+* Serviços de pagamento (inicialização de pagamento, transferências, pagamentos de produtos e serviços).
 
-#### Os próximos dados e serviços com previsão futura de implementação são
+#### Os próximos dados e serviços com previsão futura de implementação
 * Solicitação de propostas de crédito padronizadas e comparáveis por meio de plataformas eletrônicas.
 * Compartilhamento de dados referentes a seguros, previdência, câmbio e credenciamento.
 
 #### Dados de investimentos que podem ser compartilhados
-* Certificado de Depósito Bancário (CDB).
-* Recibo de Depósito Bancário (RDB).
-* Letras de Crédito Imobiliário (LCI).
-* Letras de Crédito do Agronegócio (LCA).
-* Certificados de Recebíveis Imobiliários (CRI).
-* Certificados de Recebíveis do Agronegócio (CRA).
+* Certificado de depósito bancário (CDB).
+* Recibo de depósito bancário (RDB).
+* Letras de crédito imobiliário (LCI).
+* Letras de crédito do agronegócio (LCA).
+* Certificados de recebíveis imobiliários (CRI).
+* Certificados de recebíveis do agronegócio (CRA).
 * Debêntures.
 * Títulos públicos federais disponibilizados pelo Tesouro Direto.
 * Cotas de fundos de investimento (renda fixa, ações, cambial e multimercado).
@@ -66,18 +66,17 @@ instituições autorizadas pelo Banco Central e a movimentação de suas contas 
 * Cotas de fundos de índices listados em bolsa de valores.
 
 #### Prazo da autorização
-* Não tem mais um prazo determinado em dias, antigamente eram 12 meses. Atualmente, cada instituição irá definir com o seu cliente qual será o prazo a ser fixado.
+* Não tem mais um prazo determinado em dias, antigamente eram 12 meses. 
+* Atualmente, cada instituição irá definir com o seu cliente qual será o prazo a ser fixado.
 
 #### Cancelamento de autorização
-* Veja os prazos para que a solicitação seja efetivada pelas instituições:
-  - No caso de iniciação de transação de pagamento: em até um dia, contado a partir do pedido de cancelamento.
-* Outros casos: 
-  - Imediatamente, tanto na instituição de origem dos dados (instituição transmissora), quanto na de destino (receptora).
+* No caso de iniciação de transação de pagamento: em até um dia, contado a partir do pedido de cancelamento.
+* Outros casos: imediatamente, tanto na instituição de origem dos dados (instituição transmissora), quanto na de destino (receptora).
 * A instituição poderá cancelar o compartilhamento apenas em caso de suspeita de fraude.
-* Nos demais casos, o cancelamento deve partir de você e não da instituição participante.
+* Nos demais casos, o cancelamento deve partir de cliente e não da instituição participante.
 
-#### Quem está obrigado a Particiar
-* As instituições integrantes de conglomerados prudenciais dos Segmentos 1 (S1) e 2 (S2) serão obrigadas a participar do compartilhamento de dados.
+#### Participantes obrigatórios
+* As instituições integrantes de conglomerados prudenciais dos segmentos 1 (S1) e 2 (S2) serão obrigadas a participar do compartilhamento de dados.
 * Para compartilhamento de encaminhamento de proposta de crédito:
   - As instituições reguladas que possuam contrato com correspondente para receber e encaminhar propostas de operações de crédito por meio de plataforma eletrônica.
 * Para compartilhamento de iniciação de pagamento:
