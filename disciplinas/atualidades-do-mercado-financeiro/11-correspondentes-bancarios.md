@@ -8,7 +8,7 @@
 * As ações do correspondente são atribuídas à instituição financeira contratante.  
 * O BCB não fiscaliza diretamente cada correspondente, mas investiga denúncias e responsabiliza a instituição contratante.  
 
-> ### Normas e Regulamentação (Resolução CMN nº 4.935/2021)
+> ### Normas e regulamentação (Resolução CMN nº 4.935/2021)
 * Regula a contratação de correspondentes por instituições financeiras.  
 * O correspondente atua sob responsabilidade da instituição contratante.  
 * Pode operar presencialmente ou por meio de plataformas eletrônicas.  
