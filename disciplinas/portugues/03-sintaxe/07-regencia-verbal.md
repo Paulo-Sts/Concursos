@@ -46,3 +46,47 @@
   - Resposta: "Gostar de música" => "Música" é o objeto indireto, pois precisa da preposição "de".
 
 **Observação:** Saber a transitividade do verbo ajuda no entendimento do uso correto da regência, da concordância, da crase e também do emprego de pronomes nas orações.
+
+> ### Regência de pronomes relativos
+* Trata do uso da preposição correta quando os pronomes relativos são empregados para estabelecer uma relação entre a oração principal e a oração subordinada.
+* Os pronomes relativos conectam orações e, dependendo do verbo ou nome ao qual se referem, podem exigir ou não preposição. A preposição é transmitida ao pronome relativo, conforme o verbo ou o substantivo que aparece na oração.
+
+#### Estrutura
+* Verbo + preposição = Preposição é transmitida ao pronome relativo.
+* Verbo sem preposição = O pronome relativo não precisa de preposição.
+
+#### Explicação detalhada com exemplos
+
+##### Exemplo 1 - "Referir-se" (Verbo que exige preposição "a")
+* Frase 1: Comprei o livro.
+* Frase 2: Meu amigo se referiu ao livro.
+* Frase combinada: Comprei o livro **a que** meu amigo se referiu./Comprei o livro **ao qual** meu amigo se referiu.
+* Explicação: O verbo "referir-se" exige a preposição **a**. A preposição se transmite ao pronome relativo "que", ou "qual", para formar a combinação correta.
+
+##### Exemplo 2 - "Gostar" (Verbo que exige preposição "de")
+* Frase 1: Comprei o livro.
+* Frase 2: Meu amigo gosta do livro.
+* Frase combinada: Comprei o livro **de que** meu amigo gosta./Comprei o livro **do qual** meu amigo gosta.
+* Explicação: O verbo "gostar" exige a preposição **de**, que se transmite ao pronome relativo "que" ou "qual".
+
+##### Exemplo 3 - "Confiar" (Verbo que exige preposição "em")
+* Frase 1: Conheço o médico.
+* Frase 2: Você confia no médico.
+* Frase combinada: Conheço o médico **em que** você confia./Conheço o médico **em quem** você confia./Conheço o médico **no qual** você confia.
+* Explicação: O verbo "confiar" exige a preposição **em**, que é transmitida ao pronome relativo "que", "quem", ou "qual", conforme o caso.
+
+##### Exemplo 4 - "Cujo" (Relação de posse - qualidades)
+* Frase 1: Conheço o médico.
+* Frase 2: A comunidade admira as qualidades do médico.
+* Frase combinada: Conheço o médico **cujas** qualidades a comunidade admira.
+* Explicação: Há uma relação de posse entre o médico e as qualidades. O pronome relativo **cujo** indica essa posse. **Cujo** é usado para indicar algo que pertence a alguém ou a alguma coisa. (Exemplo: "cujas qualidades" indica que as qualidades pertencem ao médico.)
+
+##### Exemplo 5 - "Cujo" (Relação de posse - atuação)
+* Frase 1: Conheço o médico.
+* Frase 2: A comunidade confia na atuação do médico.
+* Frase combinada: Conheço o médico **em cuja** atuação a comunidade confia.
+* Explicação: A relação de posse é entre o médico e sua atuação. O pronome **cuja** indica que a atuação pertence ao médico.
+
+**Observação:** Quando um verbo exige uma preposição (como **referir-se a**, **gostar de**, **confiar em**), ela será transmitida ao pronome relativo.  
+**Observação:** No uso de "a", "de" e "em"** dependendo da preposição exigida pelo verbo, o pronome relativo será adaptado conforme o contexto, utilizando "a que", "de que", "em que", ou "ao qual", "do qual", "em quem", etc.  
+**Observação:** O pronome relativo **cujo** é usado para indicar posse e não pode ser seguido de artigo. Por exemplo, **"cujo o"** ou **"cujas as"** são formas incorretas.
