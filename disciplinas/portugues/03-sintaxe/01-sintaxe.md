@@ -5,14 +5,14 @@
 ## DEFINIÇÃO
 * A sintaxe é o estudo das funções das palavras, ou seja, trata da organização das palavras em seu contexto aplicado.
 * O estudo da sintaxe é formado pela:
-  - Divisão da sintaxe;
+  - Função sintática;
   - Análise sintática.
 
-#### Divisão da sintaxe
-* É formado pela concordância nominal e verbal, regência nominal e verbal e colocação pronominal.
+#### Função sintática
+* É o papel que cada um dos termos da oração desempenha em relação aos outros. 
 
 #### Análise sintática
-* É a análise da oração. Estuda os termos essenciais da oração, os termos integrantes da oração, os termos acessórios da oração e o vocativo.
+* A análise sintática é o estudo da função de cada termo de uma oração.
 
 ## CONCEITOS FUNDAMENTAIS
 
