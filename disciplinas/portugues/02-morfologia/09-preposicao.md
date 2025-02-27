@@ -48,6 +48,14 @@ Ex: por + a = pela
 * Algumas preposições são impessoais (não variam de acordo com o gênero ou número do substantivo): "em", "de", "para", etc.
 * Algumas expressões exigem preposição, como "à medida que", "por causa de", "a fim de", entre outras.
 
+### Diferenciando artigos, pronomes e preposições
+
+| LETRA | CLASSE     | DICA                                                            | EXEMPLOS                                                       |
+|-------|------------|-----------------------------------------------------------------|----------------------------------------------------------------|
+| A     | Artigo     | Pressupõe substantivo escrito na sequência. (varia: o/a/os/as.) | A prefeitura reformou a praça./O governo reformou o clube.     |
+| A     | Pronome    | Fica no lugar de um nome. (varia: o/a/os/as.)                   | A prefeitura reformou a praça e reinaugurou-a.                 |
+| A     | Preposição | NÃO VARIA.                                                      | A prefeitura entregou a todos./A diretora informou aos alunos. |
+
 > ### Contrações
 * As contrações entre preposição e outros termos (como artigos, pronomes, demonstrativos, etc.) são muito comuns em português. Elas acontecem quando uma preposição se funde com esses outros elementos, formando uma palavra única. Aqui estão as principais contrações:
 
