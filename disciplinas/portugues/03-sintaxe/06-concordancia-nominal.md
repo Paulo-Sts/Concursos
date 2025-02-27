@@ -28,11 +28,13 @@ Ex: **As músicas** clássica e popular são manifestações artísticas.
 #### Adjetivo após os substantivos
 * O adjetivo deve concordar com o substantivo mais próximo ou com todos os substantivos. 
 * Exemplo:
-  - Pronúncia e vocabulário **perfeito**. (mais próximo)
-  - Vocabulário e pronúncia **perfeita**. (mais próximo)
-  - Pronúncia e vocabulário **perfeitos**. (Ambos)
-  - Vocabulário e pronúncia **perfeitos**. (Ambos)
-  - **Os órgãos** de proteção ambiental e **as instituições** de pesquisa **brasileiros** empenham-se em estudar a preservação de espécies naturais (Ambos)
-  - **Os órgãos** de proteção ambiental e **as instituições** de pesquisa **brasileiras** empenham-se em estudar a preservação de espécies naturais (mais próximo)
+  - Pronúncia e vocabulário **perfeito**. (mais próximo masculino)
+  - Vocabulário e pronúncia **perfeita**. (mais próximo feminino)
+  - Pronúncia e vocabulário **perfeitos**. (Ambos feminino e masculino)
+  - Vocabulário e pronúncia **perfeitos**. (Ambos masculino e feminino)
+  - **Os órgãos** de proteção ambiental e **as instituições** de pesquisa **brasileiros** empenham-se em estudar a preservação de espécies naturais ✅ (Ambos masculino e feminino)
+  - **Os órgãos** de proteção ambiental e **as instituições** de pesquisa **brasileiras** empenham-se em estudar a preservação de espécies naturais ✅ (mais próximo feminino)
+  - **A destruição** de biomas e **a redução** da biodiversidade **aceleradas** resultam em um perigo irreversível para o planeta. ✅ (Ambos femininos)
+  - **A destruição** de biomas e **a redução** da biodiversidade **acelerada** resultam em um perigo irreversível para o planeta. ✅ (mais próximo feminino)
 
-**Observação:** De acordo com a gramática da língua portuguesa, o plural masculino é uma forma neutra.
+**Observação:** De acordo com a gramática da língua portuguesa, o plural masculino é uma forma neutra, para quando um substantivo for masculino e o outro feminino.
