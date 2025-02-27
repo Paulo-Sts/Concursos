@@ -44,3 +44,5 @@
   - Verbo: "Gostar"
   - Pergunta: **"Gostar de quem?"** ou **"Gostar de o quê?"**
   - Resposta: "Gostar de música" => "Música" é o objeto indireto, pois precisa da preposição "de".
+
+**Observação:** Saber a transitividade do verbo ajuda no entendimento do uso correto da regência, da concordância, da crase e também do emprego de pronomes nas orações.
