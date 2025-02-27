@@ -41,7 +41,6 @@
 | Entre termo antecedente e oração subordinada adjetiva restritiva. | As pessoas que chegaram cedo conseguiram lugar. ✅/As pessoas, que chegaram cedo, conseguiram lugar. ❌ |
 | Em separações desnecessárias dentro da oração.                    | Fui ao mercado e comprei frutas. ✅/Fui ao mercado, e comprei frutas. ❌                                |
 
-
 #### Ponto e Vírgula
 * O ponto e vírgula é usado para separar orações dentro de um período composto que já possui vírgulas ou quando a separação entre os elementos for mais forte que a vírgula, mas não tão definitiva quanto o ponto final.
 * Exemplo:
