@@ -43,5 +43,5 @@
 - Não se aplica a instituições controladas pela União.
 
 ### Pontos importantes
-- **BNDES**: Não é um banco de desenvolvimento, mas uma agência de fomento federal.
-- **Comparação**: Bancos de desenvolvimento são públicos, enquanto bancos de investimento são privados.
+- **BNDES:** Não é um banco de desenvolvimento, mas uma agência de fomento federal.
+- **Comparação:** Bancos de desenvolvimento são públicos, enquanto bancos de investimento são privados.

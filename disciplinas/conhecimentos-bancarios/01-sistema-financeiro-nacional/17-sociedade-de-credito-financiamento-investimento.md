@@ -28,8 +28,8 @@
 - Dependem de autorização do Banco Central do Brasil (BACEN) para funcionar.
 
 ### Tipos de leasing
-- **Leasing financeiro**: Focado na compra futura do bem arrendado.
-- **Leasing operacional**: Focado no uso temporário do bem, sem intenção de compra.
+- **Leasing financeiro:** Focado na compra futura do bem arrendado.
+- **Leasing operacional:** Focado no uso temporário do bem, sem intenção de compra.
 
 ### Operações permitidas
 - Arrendamento de bens móveis (nacionais ou estrangeiros) e imóveis.
@@ -47,5 +47,5 @@
 - Vedado celebrar contratos de mútuo com pessoas físicas ou jurídicas não financeiras.
 
 ### Pontos importantes
-- **SCFI**: Foco em financiamento ao consumidor final e capital de giro, com captação via letras de câmbio e depósitos bancários.
-- **Arrendamento mercantil**: Foco em leasing de bens, com possibilidade de compra futura (leasing financeiro) ou uso temporário (leasing operacional).
+- **SCFI:** Foco em financiamento ao consumidor final e capital de giro, com captação via letras de câmbio e depósitos bancários.
+- **Arrendamento mercantil:** Foco em leasing de bens, com possibilidade de compra futura (leasing financeiro) ou uso temporário (leasing operacional).

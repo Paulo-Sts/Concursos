@@ -5,7 +5,7 @@
 - Constituída como sociedade anônima.
 - Denominação social obrigatória: "Sociedade de Empréstimo entre Pessoas".
 - Capital mínimo: R$ 1.000.000,00.
-- **Objeto social**: Realização de operações de empréstimo e financiamento entre pessoas, exclusivamente por meio de plataforma eletrônica.
+- **Objeto social:** Realização de operações de empréstimo e financiamento entre pessoas, exclusivamente por meio de plataforma eletrônica.
 
 ### Operações permitidas
 - Intermediação de empréstimos entre credores e devedores.
@@ -16,7 +16,7 @@
 - Representação de seguros relacionados às operações de crédito.
 
 ### Restrições
-- **Vedado**:
+- **Vedado:**
   - Realizar operações com recursos próprios.
   - Participar do capital de outras instituições financeiras.
   - Coobrigar-se ou prestar garantias nas operações de empréstimo.
@@ -38,7 +38,7 @@
 | Limite por operação  | Sem limite específico.                                             | R$ 15.000,00 por devedor (exceto para investidores qualificados).                 |
 
 ### Pontos importantes
-- **SCD**: Foco em concessão de crédito com recursos próprios ou de repasses, sem captação direta do público.
-- **SEP**: Atua como intermediária em operações de empréstimo entre pessoas, com captação de recursos do público e limites operacionais específicos.
-- **Ambas**: Utilizam plataformas eletrônicas para operações e são supervisionadas pelo Banco Central do Brasil.
+- **SCD:** Foco em concessão de crédito com recursos próprios ou de repasses, sem captação direta do público.
+- **SEP:** Atua como intermediária em operações de empréstimo entre pessoas, com captação de recursos do público e limites operacionais específicos.
+- **Ambas:** Utilizam plataformas eletrônicas para operações e são supervisionadas pelo Banco Central do Brasil.
 

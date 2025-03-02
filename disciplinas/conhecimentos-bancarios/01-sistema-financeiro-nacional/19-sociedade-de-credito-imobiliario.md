@@ -75,6 +75,6 @@
 | Foco principal        | Financiamento residencial | Financiamento residencial e comercial | Financiamento residencial |
 
 ### Pontos importantes
-- **SCI**: Foco em financiamento residencial, com captação via depósitos de poupança e emissão de títulos imobiliários.
-- **CH**: Atua tanto no mercado residencial quanto comercial, sem captação de poupança.
-- **APE**: Sem fins lucrativos, voltada ao financiamento residencial, com captação de poupança e emissão de títulos.
+- **SCI:** Foco em financiamento residencial, com captação via depósitos de poupança e emissão de títulos imobiliários.
+- **CH:** Atua tanto no mercado residencial quanto comercial, sem captação de poupança.
+- **APE:** Sem fins lucrativos, voltada ao financiamento residencial, com captação de poupança e emissão de títulos.

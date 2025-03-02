@@ -18,7 +18,7 @@
 - Não podem realizar operações de financiamento a exportações e importações (diferente dos bancos de câmbio).
 
 ### Restrições
-- **Vedado**:
+- **Vedado:**
   - Conceder financiamentos, empréstimos ou adiantamentos a clientes.
   - Adquirir bens não destinados ao uso próprio (exceto em liquidação de dívidas de difícil solução).
   - Obter empréstimos ou financiamentos de instituições financeiras (exceto para aquisição de bens para uso próprio).
@@ -28,8 +28,8 @@
 - Administradores não podem participar de mais de uma corretora de câmbio simultaneamente.
 
 ### Pontos importantes
-- **Diferença entre corretora de câmbio e banco de câmbio**:
-   - Corretoras têm limite operacional de **US$ 300.000,00** por operação.
-   - Bancos de câmbio não têm limite e podem realizar operações mais complexas, como financiamentos a exportações e importações.
-- **Correspondentes cambiais**: Lotéricas e outras empresas autorizadas podem atuar como intermediárias das corretoras.
-- **Foco exclusivo**: A corretora de câmbio não pode realizar operações fora do mercado de câmbio.
+- **Diferença entre corretora de câmbio e banco de câmbio:**
+  - Corretoras têm limite operacional de **US$ 300.000,00** por operação.
+  - Bancos de câmbio não têm limite e podem realizar operações mais complexas, como financiamentos a exportações e importações.
+- **Correspondentes cambiais:** Lotéricas e outras empresas autorizadas podem atuar como intermediárias das corretoras.
+- **Foco exclusivo:** A corretora de câmbio não pode realizar operações fora do mercado de câmbio.
