@@ -1,14 +1,8 @@
-Aqui está o resumo objetivo e claro sobre **Governança Corporativa**, seguindo as regras que você forneceu:
-
----
-
 # Governança corporativa
 
 ## Definição
 - **Governança corporativa**: Sistema pelo qual as sociedades são dirigidas e monitoradas, alinhando interesses entre acionistas, investidores e outras partes interessadas.
 - **Objetivo**: Promover transparência, equidade, prestação de contas (accountability) e responsabilidade corporativa.
-
----
 
 ## Pilares da governança corporativa (segundo o IBGC)
 1. **Transparência**:
@@ -20,8 +14,6 @@ Aqui está o resumo objetivo e claro sobre **Governança Corporativa**, seguindo
 4. **Responsabilidade corporativa**:
    - Atuar com ética e responsabilidade para a sustentabilidade organizacional.
 
----
-
 ## Mecanismos de governança corporativa
 1. **Conselho de administração**:
    - Define diretrizes estratégicas e supervisiona a gestão.
@@ -32,28 +24,20 @@ Aqui está o resumo objetivo e claro sobre **Governança Corporativa**, seguindo
 4. **Assembleia de acionistas**:
    - Espaço para tomada de decisões relevantes pelos proprietários.
 
----
-
 ## Benefícios da governança corporativa
 - Melhora o acesso ao capital externo.
 - Aumenta o valor da sociedade.
 - Dá maior confiabilidade aos dados internos.
 - Contribui para a perenidade da organização.
 
----
-
 ## Origem e evolução
 - O termo surgiu na década de 1990 em países desenvolvidos (EUA e Europa).
 - Criado para melhorar as regras que regem o relacionamento entre acionistas controladores, minoritários e administradores.
-
----
 
 ## Governança e riscos
 - **Gestão de riscos e controles internos**: Essenciais para a governança.
 - **Conformidade (compliance)**: Relacionada diretamente com a governança.
 - **Papel das auditorias**: Verificar a conformidade e a eficácia dos controles internos.
-
----
 
 ## Modelos de governança
 1. **Governança pública**:
@@ -63,20 +47,10 @@ Aqui está o resumo objetivo e claro sobre **Governança Corporativa**, seguindo
    - Aplicada em empresas privadas.
    - Foco na maximização de valor e retorno aos acionistas.
 
----
-
 ## Premissas da governança corporativa
 - Proteger os interesses dos acionistas (majoritários e minoritários), investidores, credores e demais partes interessadas.
 - Estabelecer princípios e elementos relacionados a controles internos, políticas, procedimentos e diretrizes.
 - Garantir transparência e correção das informações geradas internamente.
-
----
-
-Esse resumo está organizado de forma clara e hierárquica, seguindo as regras que você forneceu. Se precisar de mais ajustes ou resumos, é só avisar!
-
-Aqui está o resumo objetivo e claro sobre **Governança no Setor Público e o Referencial Básico de Governança**, seguindo as regras que você forneceu:
-
----
 
 # Governança no setor público
 
@@ -88,13 +62,9 @@ Aqui está o resumo objetivo e claro sobre **Governança no Setor Público e o R
   - Garantir alocação eficiente de recursos.
   - Minimizar corrupção e práticas administrativas indevidas.
 
----
-
 ## Influência da governança privada na administração pública
 - As práticas de governança corporativa das empresas privadas influenciam a administração pública.
 - **Exemplo**: O **Referencial Básico de Governança**, desenvolvido pelo Tribunal de Contas da União (TCU), é um guia para aprimorar a governança nas organizações públicas.
-
----
 
 ## O que é o referencial básico de governança?
 - **Definição**: Documento que orienta e aprimora as práticas de governança no setor público.
@@ -102,8 +72,6 @@ Aqui está o resumo objetivo e claro sobre **Governança no Setor Público e o R
   - Estabelecer diretrizes, princípios e boas práticas.
   - Promover eficiência, transparência e responsabilização (accountability).
   - Alinhar as ações das organizações públicas aos interesses da sociedade.
-
----
 
 ## Estrutura do referencial básico de governança
 O documento é organizado em três pilares fundamentais:
@@ -116,9 +84,8 @@ O documento é organizado em três pilares fundamentais:
    - Mecanismos de supervisão, avaliação e gestão de riscos.
    - Garantia do cumprimento dos objetivos e conformidade legal.
 
----
-
 ## Funções da governança (segundo o referencial básico)
+
 ### Funções principais
 1. **Avaliar**:
    - Ambiente, cenários, desempenho e resultados atuais e futuros.
@@ -138,12 +105,6 @@ O documento é organizado em três pilares fundamentais:
 6. Auditar e avaliar o sistema de gestão e controle.
 7. Promover transparência e accountability.
 
----
-
 ## Conclusão
 - O Referencial Básico de Governança é uma ferramenta essencial para fortalecer a administração pública.
 - Promove a entrega de resultados com ética, responsabilidade e transparência, alinhando as ações públicas aos interesses da sociedade.
-
----
-
-Esse resumo está organizado de forma clara e hierárquica, seguindo as regras que você forneceu. Se precisar de mais ajustes ou resumos, é só avisar!

@@ -1,6 +1,4 @@
-Aqui está o resumo objetivo e claro do **PRSAC do BANESE - Capítulo I: Definições**, seguindo as regras que você forneceu:
-
----
+# Política de responsabilidade social, ambiental e climática do banese
 
 # Prsac do banese: capítulo I – definições
 
@@ -22,8 +20,6 @@ Aqui está o resumo objetivo e claro do **PRSAC do BANESE - Capítulo I: Defini�
   10. Alterações legislativas que impactem negativamente a instituição.
   11. Atos que prejudiquem a reputação da instituição, mesmo sendo legais.
 
----
-
 ## Natureza ambiental
 - Preservação, reparação e recuperação do meio ambiente.
 
@@ -37,8 +33,6 @@ Aqui está o resumo objetivo e claro do **PRSAC do BANESE - Capítulo I: Defini�
   5. Desastres ambientais (rompimento de barragens, derramamentos químicos).
   6. Alterações legislativas que impactem negativamente a instituição.
   7. Atos que prejudiquem a reputação da instituição, mesmo sendo legais.
-
----
 
 ## Natureza climática
 - Contribuição positiva da instituição para a transição para uma economia de baixo carbono e redução de impactos climáticos.
@@ -56,20 +50,8 @@ Aqui está o resumo objetivo e claro do **PRSAC do BANESE - Capítulo I: Defini�
       a) Condições climáticas extremas (secas, inundações, tempestades).
       b) Alterações permanentes (aumento do nível do mar, desertificação).
 
----
-
 ## Interesse comum
 - Associado a um grupo de pessoas ligadas por uma causa ou circunstância, sem relação direta com riscos ambientais ou climáticos.
-
----
-
-Esse resumo está organizado de forma clara e hierárquica, seguindo as regras que você forneceu. Se precisar de mais ajustes ou resumos, é só avisar!
-
-Aqui está o resumo objetivo e claro do texto sobre a **Política de Responsabilidade Social, Ambiental e Climática do Banese**, seguindo as regras que você forneceu:
-
----
-
-# Política de responsabilidade social, ambiental e climática do banese
 
 ## Missão e valores
 - **Missão**: Oferecer soluções financeiras eficientes, promover desenvolvimento social, inclusão financeira e gerar valor sustentável para acionistas e sociedade.
@@ -81,13 +63,9 @@ Aqui está o resumo objetivo e claro do texto sobre a **Política de Responsabil
   5. **Foco em resultados**: Garantir a perenidade dos negócios.
   6. **Respeito**: Valorizar pessoas e diversidade sociocultural.
 
----
-
 ## Princípios da política
 - Baseada em integridade, confiança e lealdade.
 - Alinhada às Resoluções do CMN nºs 4.557/17, 4.943/2021, 4.945/2021 e recomendações do BIS (Bank for International Settlements).
-
----
 
 ## Capítulo III – Público-alvo
 - Destina-se a:
@@ -95,14 +73,10 @@ Aqui está o resumo objetivo e claro do texto sobre a **Política de Responsabil
   - Empresas do conglomerado.
   - Demais partes interessadas.
 
----
-
 ## Capítulo IV – Objetivo
 - Estabelecer princípios e diretrizes para práticas sustentáveis.
 - Mitigar impactos negativos e promover o desenvolvimento sustentável.
 - Incluir práticas de prevenção e gerenciamento de riscos sociais, ambientais e climáticos.
-
----
 
 ## Capítulo V – Diretrizes gerais
 1. **Conformidade**: Atuar dentro das leis e normas de responsabilidade social, ambiental e climática.
@@ -115,16 +89,6 @@ Aqui está o resumo objetivo e claro do texto sobre a **Política de Responsabil
 8. **Energia renovável e baixo carbono**: Promover fontes renováveis e apoiar a transição para uma economia de baixo carbono.
 9. **Critérios sustentáveis**: Incluir critérios sociais, ambientais e climáticos em produtos, serviços e processos.
 10. **Análise de crédito**: Considerar critérios sustentáveis na concessão e acompanhamento de operações de crédito e garantias imobiliárias.
-
----
-
-Esse resumo está organizado de forma clara e hierárquica, seguindo as regras que você forneceu. Se precisar de mais ajustes ou resumos, é só avisar!
-
-Aqui está o resumo objetivo e claro do **Capítulo VI ao XIII da Política de Responsabilidade Social, Ambiental e Climática do Banese**, seguindo as regras que você forneceu:
-
----
-
-# Política de responsabilidade social, ambiental e climática do banese
 
 ## Capítulo VI – Princípios
 A política é pautada nos seguintes princípios:
@@ -155,8 +119,6 @@ A política é pautada nos seguintes princípios:
 5. **Ética, conformidade e combate à corrupção**:
    - Respeito a funcionários, parceiros, clientes e meio ambiente, com intolerância a atividades ilícitas.
 
----
-
 ## Capítulo VII – Governança
 - **Estrutura de governança**: Compatível com a natureza, porte e complexidade das atividades.
 - **Partes interessadas**: Funcionários, fornecedores, clientes, governo e acionistas.
@@ -171,8 +133,6 @@ A política é pautada nos seguintes princípios:
   8. Desenvolvimento de produtos e serviços sustentáveis.
   9. Redução de impactos ambientais (resíduos, energia, ecoeficiência).
 
----
-
 ## Capítulo VIII – Impedimentos
 - **Vedações**:
   1. Crédito a clientes em desacordo com legislações SAC.
@@ -180,12 +140,8 @@ A política é pautada nos seguintes princípios:
   3. Atividades ilegais ou em áreas de preservação (Amazônia, terras indígenas, quilombolas).
   4. Empresas sem licença ambiental ou envolvidas em lavagem de dinheiro.
 
----
-
 ## Capítulo IX – Concorrência
 - Cooperação com outras instituições financeiras para ampliar impactos positivos no mercado e na sociedade.
-
----
 
 ## Capítulo X – Integração entre riscos
 - **Riscos SAC podem impactar**:
@@ -196,12 +152,8 @@ A política é pautada nos seguintes princípios:
   5. **Operacional**: Danos físicos por eventos climáticos.
   6. **Liquidez**: Saques por clientes afetados por eventos SAC.
 
----
-
 ## Capítulo XI – Gestão da política
 - Responsabilidade da Área de Gestão de Capital e Riscos (ARGER), vinculada à Superintendência de Gestão de Riscos (SUGER).
-
----
 
 ## Capítulo XII – Comunicação e divulgação
 - Divulgação transparente das ações SAC no Portal de Relação com Investidores.
@@ -209,11 +161,5 @@ A política é pautada nos seguintes princípios:
   1. Texto da PRSAC.
   2. Ações implementadas e critérios de avaliação.
 
----
-
 ## Capítulo XIII – Disposições finais
 - Revisão anual da política pela SUGER/ARGER, com submissão ao COGER, Diretoria Executiva e Conselho de Administração (CONAD).
-
----
-
-Esse resumo está organizado de forma clara e hierárquica, seguindo as regras que você forneceu. Se precisar de mais ajustes ou resumos, é só avisar!

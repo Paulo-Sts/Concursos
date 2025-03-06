@@ -1,7 +1,4 @@
 # **Lei nº 12.288/2010 – Estatuto da Igualdade Racial**  
-**Resumo para Estudo**
-
----
 
 ## **Disposições Preliminares**
 - **Objetivo**: Promover a igualdade racial e combater a discriminação e o preconceito.  
@@ -10,8 +7,6 @@
   - **Desigualdade racial**: Diferenciação injustificada no acesso a bens, serviços e oportunidades.  
   - **População negra**: Pessoas que se autodeclaram pretas ou pardas (classificação do IBGE).  
   - **Ações afirmativas**: Políticas públicas temporárias para corrigir desigualdades históricas (ex.: cotas raciais).  
-
----
 
 ## **Direitos Fundamentais**
 
@@ -43,14 +38,10 @@
 - **Valorização cultural**: Produção de conteúdo que valorize a herança cultural e a participação da população negra na história do Brasil.  
 - **Diversidade étnica**: Oportunidades de emprego para atores, figurantes e técnicos negros em produções audiovisuais.  
 
----
-
 ## **Sistema Nacional de Promoção da Igualdade Racial (SINAPIR)**
 - **Objetivo**: Organizar e articular políticas públicas para superar desigualdades raciais.  
 - **Ações afirmativas**: Descentralização das políticas para adaptação às necessidades locais.  
 - **Foco**: Combate ao racismo e promoção da igualdade de oportunidades.  
-
----
 
 ## **Parte Criminal (Alterações na Lei nº 7.716/1989)**
 
@@ -76,8 +67,6 @@
     - **Pena**: Reclusão de 2 a 5 anos e multa.  
   - **Medidas cautelares**: O juiz pode determinar o recolhimento do material, cessação de transmissões ou interdição de páginas na internet.  
 
----
-
 ## **Pontos Importantes para Provas**
 1. **Discriminação racial**: Comportamento que restringe direitos com base em raça, cor, etnia, religião ou procedência nacional.  
 2. **Ações afirmativas**: Políticas temporárias para corrigir desigualdades (ex.: cotas raciais).  
@@ -86,8 +75,6 @@
    - Negar emprego ou tratar de forma discriminatória no setor privado.  
    - Praticar discriminação por meio de comunicação social ou internet.  
 4. **Penas**: Variam de 1 a 5 anos de reclusão, dependendo do crime e das agravantes.  
-
----
 
 ## **Conclusão**
 A Lei nº 12.288/2010 (Estatuto da Igualdade Racial) é um marco legal para a promoção da igualdade racial no Brasil, garantindo direitos fundamentais à população negra e combatendo a discriminação e o preconceito. A parte criminal da lei, que altera a Lei nº 7.716/1989, tipifica e pune condutas racistas, com penas que variam conforme a gravidade do crime.

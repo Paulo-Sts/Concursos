@@ -1,7 +1,3 @@
-Aqui está um resumo objetivo e direto sobre **Assédio Sexual e Moral no Trabalho**, com foco nos pontos essenciais:
-
----
-
 # Assédio Sexual no Trabalho
 
 ## Definição
@@ -30,8 +26,6 @@ Aqui está um resumo objetivo e direto sobre **Assédio Sexual e Moral no Trabal
 ## Consequências para a Vítima
 - Impactos na carreira, saúde mental (ansiedade, depressão) e física (dores, distúrbios).
 - **Trauma**: Dificuldade de reprocessamento emocional.
-
----
 
 # Assédio Moral no Trabalho
 
@@ -62,8 +56,6 @@ Aqui está um resumo objetivo e direto sobre **Assédio Sexual e Moral no Trabal
 - **Responsabilização** nas esferas administrativa, trabalhista, cível e criminal.
 - **Possíveis crimes**: Lesão corporal, crimes contra a honra, racismo.
 
----
-
 # Diferença entre Assédio e Conflito
 - **Conflito**:
   - Surge das interações naturais.
@@ -74,13 +66,7 @@ Aqui está um resumo objetivo e direto sobre **Assédio Sexual e Moral no Trabal
   - Sempre gera consequências negativas.
   - Deve ser **eliminado**, não gerenciado.
 
----
-
 # Prevenção e Combate
 - **Consentimento**: Fundamental para diferenciar interações saudáveis de assédio.
 - **Documentação**: Preservar provas (mensagens, testemunhas) para processos legais.
 - **Apoio**: Buscar ajuda profissional e rede de apoio para lidar com os impactos emocionais.
-
----
-
-Este resumo destaca os principais aspectos do **assédio sexual e moral no trabalho**, com foco em definições, formas de expressão, consequências e diferenças entre conflito e assédio. 😊

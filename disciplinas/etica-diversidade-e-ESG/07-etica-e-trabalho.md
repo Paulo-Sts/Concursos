@@ -1,7 +1,3 @@
-Aqui estão os resumos em markdown, seguindo as regras que você forneceu:
-
----
-
 # Ética e moral
 
 ## Ética
@@ -23,8 +19,6 @@ Aqui estão os resumos em markdown, seguindo as regras que você forneceu:
 | Atemporal                | Temporal                |
 | Teoria (reflexão)        | Prática (costumes)      |
 | Exemplo: bioética        | Exemplo: moral cristã   |
-
----
 
 # Teorias éticas
 
@@ -51,8 +45,6 @@ Aqui estão os resumos em markdown, seguindo as regras que você forneceu:
 - **Princípio**: Ação ética é aquela que maximiza o bem-estar coletivo.
 - **Crítica**: Pode justificar sacrifícios individuais em prol da maioria.
 
----
-
 # Ética no serviço público
 
 ## Princípios constitucionais
@@ -62,8 +54,6 @@ Aqui estão os resumos em markdown, seguindo as regras que você forneceu:
 ## Ética da convicção vs. Ética da responsabilidade (Weber)
 - **Ética da convicção**: Baseada em valores pessoais ou religiosos.
 - **Ética da responsabilidade**: Foco no bem comum e nas consequências das ações.
-
----
 
 # Valores, princípios e virtudes
 
@@ -83,8 +73,6 @@ Aqui estão os resumos em markdown, seguindo as regras que você forneceu:
   - **Virtude intelectual**: Resultado da educação.
   - **Virtude moral**: Resultado do hábito.
 
----
-
 # Ética empresarial e profissional
 
 ## Ética empresarial
@@ -95,8 +83,6 @@ Aqui estão os resumos em markdown, seguindo as regras que você forneceu:
 - **Código de ética**: Conjunto de normas que orientam a conduta do profissional.
 - **Postura profissional**:
   - Honestidade, responsabilidade, imparcialidade e respeito ao sigilo.
-
----
 
 # Gestão da ética nas empresas
 
@@ -114,8 +100,6 @@ Aqui estão os resumos em markdown, seguindo as regras que você forneceu:
 - **Foco**: Respeito às diferenças de gênero, raça, religião e orientação sexual.
 - **Vantagem competitiva**: Melhora o clima organizacional e a produtividade.
 
----
-
 # Exercícios de fixação
 
 1. **Ética e moral**:
@@ -129,7 +113,3 @@ Aqui estão os resumos em markdown, seguindo as regras que você forneceu:
 3. **Gestão da ética**:
    - **Código de ética**: Define valores e comportamentos esperados na organização.
    - **Responsabilidade social**: Contribui para o bem-estar coletivo.
-
----
-
-Espero que esses resumos ajudem nos seus estudos! Se precisar de mais ajustes ou detalhes, é só avisar. 😊

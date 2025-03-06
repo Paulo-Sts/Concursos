@@ -1,7 +1,4 @@
-Você está certa! Vou adicionar a parte sobre **tipos de dados** ao resumo. Aqui está a versão atualizada:
-
-```markdown
-# Resumo da Lei Geral de Proteção de Dados (LGPD)
+# Lei Geral de Proteção de Dados (LGPD)
 
 ## Estrutura da LGPD
 - **10 Capítulos**: Abrangem fundamentos, tratamento de dados, direitos dos titulares, poder público, transferência internacional de dados, agentes de tratamento, segurança, sanções, ANPD e disposições finais.
@@ -45,17 +42,15 @@ Você está certa! Vou adicionar a parte sobre **tipos de dados** ao resumo. Aqu
 ## Capítulo 10º – Disposições Finais
 - **Alterações**: Inclui mudanças no Marco Civil da Internet.
 
----
-
 ## Resumo dos Pontos-Chave
 - **LGPD**: Protege dados pessoais com base em princípios como transparência e segurança.
 - **Tipos de Dados**: Pessoal, sensível e anonimizado.
 - **Direitos dos Titulares**: Incluem acesso, correção e eliminação de dados.
 - **Sanções**: Multas e bloqueio de dados em caso de descumprimento.
 - **ANPD**: Órgão responsável pela fiscalização e aplicação da LGPD.
-```
 
-### Tabela de Sanções
+### Tabela de sanções
+
 | **Tipo de Sanção**       | **Descrição**                                                                 |
 |--------------------------|-------------------------------------------------------------------------------|
 | Multa simples            | Até 2% do faturamento, limitada a R$ 50 milhões por infração.                 |
@@ -63,7 +58,3 @@ Você está certa! Vou adicionar a parte sobre **tipos de dados** ao resumo. Aqu
 | Bloqueio de dados        | Suspensão do tratamento até regularização.                                   |
 | Eliminação de dados      | Exclusão definitiva dos dados.                                               |
 | Suspensão de atividades  | Parcial ou total, por até 6 meses (prorrogável).                             |
-
----
-
-Agora o resumo inclui os **tipos de dados** (pessoal, sensível e anonimizado). Se precisar de mais ajustes, é só avisar! 😊

@@ -1,6 +1,3 @@
-Aqui está o resumo objetivo e enxuto em Markdown sobre a **Lei Anticorrupção (Lei nº 12.846/2013)**:
-
-```markdown
 # Lei Anticorrupção (Lei nº 12.846/2013)
 
 ## Objetivo
@@ -54,17 +51,8 @@ Aqui está o resumo objetivo e enxuto em Markdown sobre a **Lei Anticorrupção 
 - **Aplicação Extraterritorial** (Art. 28): A lei se aplica a atos de empresas brasileiras contra a administração pública estrangeira, mesmo fora do Brasil.
 - **Independência das Sanções** (Art. 30): As sanções da Lei Anticorrupção não afetam processos de improbidade administrativa ou infrações em licitações.
 
----
-
-## Resumo dos Pontos-Chave
-- **Responsabilidade Objetiva**: A pessoa jurídica responde por atos lesivos sem necessidade de comprovação de culpa.
-- **Sanções**: Multas, publicação da decisão, reparação do dano e possibilidade de dissolução da empresa.
-- **Acordo de Leniência**: Permite redução de multas e isenção de publicidade, mas não exclui a reparação do dano.
-- **CNEP**: Registro público de empresas punidas, com exclusão após cumprimento das sanções.
-- **Prescrição**: 5 anos para infrações, contados da data da ciência ou cessação do ato ilícito.
-```
-
 ### Tabela de Sanções Administrativas
+
 | **Tipo de Sanção**       | **Descrição**                                                                 |
 |--------------------------|-------------------------------------------------------------------------------|
 | Multa                    | 0,1% a 20% do faturamento bruto ou R$ 6.000 a R$ 60 milhões.                 |
@@ -72,6 +60,7 @@ Aqui está o resumo objetivo e enxuto em Markdown sobre a **Lei Anticorrupção 
 | Reparação Integral       | Obrigação de reparar o dano causado.                                         |
 
 ### Tabela de Sanções Judiciais
+
 | **Tipo de Sanção**       | **Descrição**                                                                 |
 |--------------------------|-------------------------------------------------------------------------------|
 | Perdimento de bens       | Confisco de bens obtidos com a infração.                                      |
@@ -79,13 +68,6 @@ Aqui está o resumo objetivo e enxuto em Markdown sobre a **Lei Anticorrupção 
 | Dissolução compulsória   | Extinção da pessoa jurídica em casos graves.                                  |
 | Proibição de benefícios  | Impedimento de receber incentivos públicos por 1 a 5 anos.                    |
 
----
-
-Se precisar de mais ajustes ou detalhes, é só avisar! 😊
-
-Aqui está o resumo objetivo e enxuto em Markdown sobre o **Decreto nº 11.129/2022**, que regulamenta a Lei Anticorrupção (Lei nº 12.846/2013):
-
-```markdown
 # Decreto nº 11.129/2022 – Regulamentação da Lei Anticorrupção
 
 ## Objetivo
@@ -94,8 +76,6 @@ Aqui está o resumo objetivo e enxuto em Markdown sobre o **Decreto nº 11.129/2
 ## Aplicabilidade
 - **Ato Lesivo**: Aplica-se a atos praticados por pessoas jurídicas brasileiras contra a administração pública estrangeira, mesmo no exterior, ou que produzam efeitos no Brasil.
 - **Responsabilidade**: Pessoas jurídicas com sede, filial ou representação no Brasil, mesmo que temporárias.
-
----
 
 ## Processo Administrativo de Responsabilização (PAR)
 - **Finalidade**: Apurar atos lesivos e aplicar sanções administrativas.
@@ -114,8 +94,6 @@ Aqui está o resumo objetivo e enxuto em Markdown sobre o **Decreto nº 11.129/2
   - Multa de 0,1% a 20% do faturamento bruto (mínimo de R$ 6.000 e máximo de R$ 60 milhões).
   - Publicação extraordinária da decisão condenatória.
 
----
-
 ## Acordo de Leniência
 - **Finalidade**: Incentivar a colaboração da pessoa jurídica na apuração de atos lesivos.
 - **Condições**:
@@ -133,8 +111,6 @@ Aqui está o resumo objetivo e enxuto em Markdown sobre o **Decreto nº 11.129/2
   - Cobrança integral da multa e danos.
   - Impedimento de celebrar novo acordo por 3 anos.
 
----
-
 ## Sanções Administrativas
 - **Multa**:
   - Base de cálculo: faturamento bruto do último exercício, excluídos tributos.
@@ -143,8 +119,6 @@ Aqui está o resumo objetivo e enxuto em Markdown sobre o **Decreto nº 11.129/2
 - **Publicação Extraordinária**:
   - Divulgação da decisão em meios de comunicação, edital e site da empresa.
   - Custo arcado pela pessoa jurídica.
-
----
 
 ## Cadastro Nacional de Empresas Punidas (CNEP)
 - **Finalidade**: Registrar sanções aplicadas a pessoas jurídicas.
@@ -156,8 +130,6 @@ Aqui está o resumo objetivo e enxuto em Markdown sobre o **Decreto nº 11.129/2
   - Após cumprimento integral da sanção ou acordo de leniência.
   - Mediante solicitação da pessoa jurídica, após reparação do dano e quitação da multa.
 
----
-
 ## Programa de Integridade
 - **Objetivo**:
   - Prevenir, detectar e sanar desvios, fraudes e atos ilícitos.
@@ -168,8 +140,6 @@ Aqui está o resumo objetivo e enxuto em Markdown sobre o **Decreto nº 11.129/2
   - Canais de denúncia e proteção ao denunciante.
   - Procedimentos para prevenir fraudes em licitações e contratos.
 
----
-
 ## Competência da Controladoria-Geral da União (CGU)
 - **Atribuições**:
   - Instaurar e julgar PARs.
@@ -179,29 +149,24 @@ Aqui está o resumo objetivo e enxuto em Markdown sobre o **Decreto nº 11.129/2
 - **Avocação**:
   - Pode avocar processos de outros órgãos em casos de omissão, complexidade ou relevância.
 
----
-
 ## Resumo dos Pontos-Chave
 - **PAR**: Processo administrativo para apuração de atos lesivos, com sanções como multa e publicação extraordinária.
 - **Acordo de Leniência**: Incentivo à colaboração, com redução de multas e isenção de sanções.
 - **CNEP**: Cadastro público de empresas punidas, com exclusão após cumprimento das sanções.
 - **Programa de Integridade**: Medidas internas para prevenir e combater atos ilícitos.
 - **CGU**: Órgão responsável pela fiscalização, aplicação de sanções e celebração de acordos.
-```
 
 ### Tabela de Sanções Administrativas
+
 | **Tipo de Sanção**       | **Descrição**                                                                 |
 |--------------------------|-------------------------------------------------------------------------------|
 | Multa                    | 0,1% a 20% do faturamento bruto (mínimo de R$ 6.000 e máximo de R$ 60 milhões). |
 | Publicação Extraordinária| Divulgação da decisão em meios de comunicação, edital e site da empresa.      |
 
 ### Tabela de Benefícios do Acordo de Leniência
+
 | **Benefício**            | **Descrição**                                                                 |
 |--------------------------|-------------------------------------------------------------------------------|
 | Redução da Multa         | Até 2/3 do valor original.                                                    |
 | Isenção de Publicação    | Dispensa da publicação extraordinária da decisão.                             |
 | Isenção de Sanções       | Em licitações e contratos, conforme a Lei nº 14.133/2021.                     |
-
----
-
-Se precisar de mais ajustes ou detalhes, é só avisar! 😊

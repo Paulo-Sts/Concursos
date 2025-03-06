@@ -1,7 +1,3 @@
-Aqui está um resumo objetivo e direto da **Circular 3978/2020**, focando nos pontos essenciais para prevenção de lavagem de dinheiro e financiamento ao terrorismo:
-
----
-
 # Circular 3978/2020 - Prevenção à lavagem de dinheiro e financiamento ao terrorismo
 
 ## Política e procedimentos internos
@@ -56,7 +52,3 @@ Aqui está um resumo objetivo e direto da **Circular 3978/2020**, focando nos po
   - Informações de identificação de clientes.
   - Registros de operações acima de R$50.000,00.
   - Informações sobre funcionários, parceiros e terceirizados.
-
----
-
-Este resumo destaca os principais pontos da Circular 3978/2020, focando em prevenção, identificação de clientes, monitoramento e comunicação de operações suspeitas. 😊

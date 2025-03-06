@@ -1,14 +1,8 @@
-Aqui está um resumo objetivo e direto da **Resolução CMN nº 4.893/2021**, focando nos principais pontos relacionados à política de segurança cibernética e à contratação de serviços de processamento e armazenamento de dados:
-
----
-
 # Resolução CMN nº 4.893/2021 - Política de Segurança Cibernética
 
 ## Objetivo
 - Estabelecer diretrizes para a **política de segurança cibernética** e requisitos para a **contratação de serviços de processamento, armazenamento de dados e computação em nuvem**.
 - **Aplicação**: Instituições financeiras autorizadas pelo Banco Central do Brasil (exceto instituições de pagamento).
-
----
 
 ## Política de Segurança Cibernética
 - **Objetivo**: Garantir a **confidencialidade, integridade e disponibilidade** dos dados e sistemas de informação.
@@ -18,8 +12,6 @@ Aqui está um resumo objetivo e direto da **Resolução CMN nº 4.893/2021**, fo
   - **Registros e análises**: Documentar incidentes relevantes e seus impactos.
   - **Cultura de segurança**: Programas de capacitação e conscientização.
   - **Compartilhamento de informações**: Promover a troca de dados sobre incidentes com outras instituições.
-
----
 
 ## Plano de Ação e Resposta a Incidentes
 - **Obrigatoriedade**: Todas as instituições devem elaborar um plano de ação e resposta a incidentes.
@@ -32,8 +24,6 @@ Aqui está um resumo objetivo e direto da **Resolução CMN nº 4.893/2021**, fo
   - Efetividade das ações.
   - Resumo dos incidentes relevantes.
   - Resultados dos testes de continuidade de negócios.
-
----
 
 ## Contratação de Serviços de Processamento e Armazenamento de Dados
 - **Requisitos para contratação**:
@@ -52,8 +42,6 @@ Aqui está um resumo objetivo e direto da **Resolução CMN nº 4.893/2021**, fo
   - **Autorização**: Em caso de inexistência de convênio, a instituição deve solicitar autorização ao Banco Central com 60 dias de antecedência.
   - **Continuidade dos negócios**: Prever alternativas para garantir a continuidade em caso de interrupção dos serviços.
 
----
-
 ## Continuidade de Negócios
 - **Plano de continuidade**:
   - Tratamento de incidentes relevantes.
@@ -62,8 +50,6 @@ Aqui está um resumo objetivo e direto da **Resolução CMN nº 4.893/2021**, fo
 - **Comunicação**: Notificação imediata ao Banco Central em caso de incidentes que configurem uma situação de crise.
 - **Critérios de crise**: Documentar os critérios que caracterizam uma situação de crise.
 
----
-
 ## Mecanismos de Acompanhamento e Controle
 - **Implementação**:
   - Definição de processos, testes e auditorias.
@@ -71,13 +57,9 @@ Aqui está um resumo objetivo e direto da **Resolução CMN nº 4.893/2021**, fo
   - Identificação e correção de deficiências.
 - **Testes periódicos**: Realizados pela auditoria interna para garantir a eficácia dos controles.
 
----
-
 ## Compartilhamento de Informações
 - **Iniciativas**: Promover o compartilhamento de informações sobre incidentes relevantes entre instituições.
 - **Acesso do Banco Central**: Todas as informações compartilhadas devem estar acessíveis ao Banco Central.
-
----
 
 ## Disposições Finais
 - **Acesso do Banco Central**: O Banco Central deve ter acesso por 5 anos à:
@@ -87,13 +69,3 @@ Aqui está um resumo objetivo e direto da **Resolução CMN nº 4.893/2021**, fo
   - Relatórios anuais.
   - Contratos e documentação de serviços prestados.
 - **Medidas do Banco Central**: Pode vetar ou impor restrições à contratação de serviços em caso de descumprimento da resolução.
-
----
-
-## Questão de Concurso
-- **Questão (Cesgranrio/2021)**:
-  - A política de segurança cibernética e o plano de ação e resposta a incidentes devem ser revisados **anualmente**.
-
----
-
-Este resumo destaca os principais pontos da **Resolução CMN nº 4.893/2021**, com foco em segurança cibernética, contratação de serviços e continuidade de negócios. 😊

@@ -1,7 +1,3 @@
-Você está certíssimo! Vou complementar o resumo com as **etapas do crime de lavagem de dinheiro**, que são fundamentais para entender como o processo ocorre. Aqui está a versão atualizada:
-
----
-
 # Lei nº 9.613/1998 – Lei de Lavagem de Dinheiro  
 
 ## Definição do crime de lavagem de dinheiro  
@@ -10,8 +6,6 @@ Você está certíssimo! Vou complementar o resumo com as **etapas do crime de l
 
 ### Tentativa de lavagem de dinheiro  
 - A tentativa é punível com pena reduzida de 1/3 a 2/3 da pena do crime consumado.  
-
----
 
 ## Etapas do crime de lavagem de dinheiro  
 
@@ -34,8 +28,6 @@ Você está certíssimo! Vou complementar o resumo com as **etapas do crime de l
      - Investir em negócios legítimos;  
      - Comprar imóveis ou outros bens de valor com recursos aparentemente legais.  
 
----
-
 ## Características do crime  
 1. **Independência do crime antecedente**:  
    - O processo de lavagem de dinheiro independe do julgamento do crime antecedente (ex.: tráfico de drogas, corrupção).  
@@ -50,8 +42,6 @@ Você está certíssimo! Vou complementar o resumo com as **etapas do crime de l
 3. **Redução de pena**:  
    - A pena pode ser reduzida de 1/3 a 2/3 se o autor colaborar espontaneamente com as autoridades, fornecendo informações úteis para a investigação.  
 
----
-
 ## Condutas típicas de lavagem de dinheiro  
 1. **Conversão de bens ilícitos em ativos lícitos**:  
    - Exemplo: Comprar imóveis ou veículos com dinheiro obtido ilegalmente.  
@@ -65,34 +55,9 @@ Você está certíssimo! Vou complementar o resumo com as **etapas do crime de l
 4. **Participação em organizações criminosas**:  
    - Atuar em grupos cuja atividade principal ou secundária é a prática de crimes de lavagem de dinheiro.  
 
----
-
-## Questões comentadas  
-
-1. **Configuração do crime de lavagem de dinheiro**:  
-   - É irrelevante se o indivíduo foi ou não processado pelo crime antecedente (ex.: tráfico de drogas).  
-
-2. **Redução de pena**:  
-   - A pena pode ser reduzida se o autor colaborar espontaneamente com as autoridades, ajudando a localizar bens objeto do crime.  
-
-3. **Aumento de pena**:  
-   - A pena é aumentada se o crime for cometido de forma reiterada ou por intermédio de organização criminosa.  
-
----
-
 ## Reciclagem de dinheiro  
 - Refere-se ao processo de "limpar" recursos financeiros de origem ilícita, dando-lhes aparência legal.  
 - Exemplo: Investir dinheiro obtido ilegalmente em negócios legítimos para ocultar sua origem.  
-
----
-
-Este resumo agora inclui as **etapas do crime de lavagem de dinheiro** (colocação, ocultação e integração), que são essenciais para compreender como o dinheiro ilícito é inserido, dissimulado e reintroduzido na economia. Se precisar de mais ajustes ou outros detalhes, é só avisar! 😊
-
-Aqui está o resumo objetivo e claro do texto, seguindo as regras que você forneceu:
-
----
-
-# Lei dos crimes de lavagem de dinheiro II
 
 ## Disposições processuais especiais
 
@@ -107,8 +72,6 @@ Aqui está o resumo objetivo e claro do texto, seguindo as regras que você forn
 - **§ 1°**: A denúncia deve conter indícios da infração antecedente, mesmo que o autor seja desconhecido ou isento de pena.
 - **§ 2°**: O acusado que não comparecer nem constituir advogado será citado por edital, e o processo seguirá com defensor dativo.
 
----
-
 ## Medidas assecuratórias
 
 - **Art. 4°**: O juiz pode decretar medidas assecuratórias (bloqueio de bens, direitos ou valores) de ofício, a pedido do Ministério Público ou do delegado de polícia, com indícios de infração penal.
@@ -119,8 +82,6 @@ Aqui está o resumo objetivo e claro do texto, seguindo as regras que você forn
 - **§ 3°**: O acusado ou interposta pessoa deve comparecer pessoalmente para pedir liberação de bens.
 - **§ 4°**: Medidas assecuratórias podem ser decretadas para reparação de danos ou pagamento de multas.
 
----
-
 ## Alienação antecipada de bens
 
 - **Art. 4°-A**: O juiz pode decretar a alienação antecipada de bens para preservação de valor.
@@ -128,37 +89,21 @@ Aqui está o resumo objetivo e claro do texto, seguindo as regras que você forn
   - **§ 3°**: Os bens serão alienados em leilão ou pregão, preferencialmente eletrônico, por valor não inferior a 75% da avaliação.
   - **§ 4°**: O valor arrecadado será depositado em conta judicial remunerada.
 
----
-
 ## Efeitos da condenação
 
 - **Art. 7º**: Além dos efeitos previstos no Código Penal, a condenação por lavagem de dinheiro acarreta:
   - Perda de bens, direitos e valores relacionados ao crime, em favor da União ou dos Estados.
   - Interdição do exercício de cargos públicos ou funções de direção pelo dobro do tempo da pena aplicada.
 
----
-
 ## Crimes praticados no estrangeiro
 
 - **Art. 8°**: O juiz pode decretar medidas assecuratórias sobre bens oriundos de crimes praticados no exterior, com base em tratados ou reciprocidade.
   - **§ 2°**: Na falta de tratado, os bens ou valores serão repartidos igualmente entre o Estado requerente e o Brasil.
 
----
-
 ## Observações importantes
 
 - **COAF**: Não tem competência para decretar medidas assecuratórias; essa atribuição é exclusiva do juiz.
 - **Crimes internacionais**: A reciprocidade entre países é suficiente para cooperação, mesmo sem tratado formal.
-
----
-
-Este resumo está organizado de forma clara e hierarquizada, seguindo as regras de markdown que você solicitou. Espero que ajude nos seus estudos! 😊
-
-Aqui está um resumo objetivo e direto do texto, destacando apenas o essencial:
-
----
-
-# Lei nº 9.613/98 - Crimes de lavagem de dinheiro
 
 ## Pessoas sujeitas ao controle
 - Pessoas físicas e jurídicas que atuam com:
@@ -177,19 +122,6 @@ Aqui está um resumo objetivo e direto do texto, destacando apenas o essencial:
 
 ## Transferências internacionais e saques
 - Devem ser comunicados previamente à instituição financeira, conforme regras do Banco Central.
-
-## Questão de concurso
-- **Alternativa correta**: **1b** (Dependências no exterior que atendem residentes no exterior **não estão sujeitas** aos mecanismos de controle da Lei nº 9.613/98).
-
----
-
-Resumo conciso e focado no essencial para estudos! 😊
-
-Aqui está um resumo objetivo e direto do texto, destacando apenas o essencial:
-
----
-
-# Lei nº 9.613/1998 - Crimes de lavagem de dinheiro IV
 
 ## Responsabilidade administrativa
 - **Sanções aplicáveis** (art. 12):
@@ -222,9 +154,5 @@ Aqui está um resumo objetivo e direto do texto, destacando apenas o essencial:
   - Coordenar mecanismos de cooperação e troca de informações.
   - Requerer informações cadastrais bancárias e financeiras de pessoas envolvidas em atividades suspeitas.
   - Comunicar às autoridades competentes para instauração de procedimentos cabíveis.
-
 - **Integração internacional**: COAF atua como unidade de inteligência financeira (UIF) e participa de grupos como GAFI, GAFILAT e EGMONT para combate à lavagem de dinheiro e financiamento ao terrorismo.
 
----
-
-Resumo conciso e focado no essencial para estudos! 😊

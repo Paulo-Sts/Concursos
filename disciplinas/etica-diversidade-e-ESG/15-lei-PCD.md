@@ -1,7 +1,6 @@
 # Lei nº 13.146/2015 – Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência)
 
 ## Conceitos gerais
-
 - **Objetivo**: Assegurar e promover, em igualdade de condições, o exercício dos direitos e liberdades fundamentais das pessoas com deficiência, visando à inclusão social e à cidadania.
 - **Base legal**: Convenção sobre os Direitos das Pessoas com Deficiência, ratificada pelo Brasil com status de emenda constitucional.
 
@@ -20,8 +19,6 @@
 ### Dupla vulnerabilidade
 - **Grupos especialmente vulneráveis**: Crianças, adolescentes, mulheres e idosos com deficiência.
 
----
-
 ## Acessibilidade e desenho universal
 
 ### Acessibilidade
@@ -39,8 +36,6 @@
   4. **Nas comunicações**: Dificuldades de expressão e recebimento de informações.
   5. **Atitudinais**: Comportamentos que impedem a participação social.
   6. **Tecnológicas**: Dificuldades de acesso a tecnologias.
-
----
 
 ## Direitos fundamentais
 
@@ -76,8 +71,6 @@
   1. Cobrança de valores diferenciados por condição de deficiência.
   2. Negação de serviços ofertados aos demais clientes.
 
----
-
 ## Capacidade civil e direitos reprodutivos
 
 ### Capacidade civil
@@ -92,8 +85,6 @@
 - **Regra**: Consentimento prévio, livre e esclarecido é indispensável para tratamentos, procedimentos e pesquisas científicas.
 - **Exceção**: Em casos de risco de morte ou emergência em saúde.
 
----
-
 ## Residências inclusivas e moradia independente
 
 ### Residências inclusivas
@@ -102,20 +93,13 @@
 ### Moradia para vida independente
 - **Definição**: Moradia com estruturas adequadas para promover autonomia e serviços de apoio coletivos e individualizados.
 
----
-
 ## Profissional de apoio escolar
-
 - **Definição**: Pessoa que auxilia estudantes com deficiência em atividades de alimentação, higiene e locomoção, excluindo técnicas de profissões legalmente estabelecidas.
-
----
 
 ## Símbolo nacional de identificação
 
 - **Cordão de fita com girassóis**: Símbolo opcional para identificação de pessoas com deficiências ocultas (ex.: deficiência auditiva, autismo).
 - **Uso**: Não obrigatório, mas auxilia na identificação de necessidades específicas.
-
----
 
 ## Sanções e proteção
 
@@ -126,18 +110,9 @@
 ### Proteção em situações de risco
 - **Direito**: Medidas de proteção e segurança em situações de emergência ou calamidade pública.
 
----
-
-Espero que este resumo ajude nos estudos! 😊
-
-Aqui está o resumo objetivo e claro, seguindo as regras que você forneceu:
-
----
-
 # Lei n. 13.146/2015 - Lei Brasileira de Inclusão da Pessoa com Deficiência
 
 ## Direitos na educação
-
 - **Notificação compulsória**: Serviços de saúde públicos e privados devem notificar casos de suspeita ou confirmação de violência contra pessoas com deficiência (PCD) à autoridade policial, ao Ministério Público e aos Conselhos dos Direitos da Pessoa com Deficiência.
 - **Violência**: Inclui ações ou omissões que causem morte, dano físico ou psicológico.
 - **Educação inclusiva**: O poder público deve garantir um sistema educacional inclusivo em todos os níveis, com recursos de acessibilidade e adaptações razoáveis.
@@ -145,22 +120,18 @@ Aqui está o resumo objetivo e claro, seguindo as regras que você forneceu:
 - **Formação de professores**: Capacitação para atendimento educacional especializado e disponibilização de intérpretes de Libras e profissionais de apoio.
 
 ## Direito ao trabalho
-
 - **Ambiente inclusivo**: Empresas devem garantir ambientes de trabalho acessíveis e inclusivos.
 - **Igualdade de oportunidades**: PCD têm direito a condições justas de trabalho, incluindo igual remuneração por trabalho de igual valor.
 - **Vedação de discriminação**: É proibida qualquer forma de discriminação em processos de recrutamento, seleção e ascensão profissional.
 
 ## Direito à assistência social
-
 - **Benefício mensal**: PCD sem meios de subsistência têm direito a um salário-mínimo mensal, conforme a Lei n. 8.742/1993 (LOAS).
 - **Cuidadores sociais**: Serviços socioassistenciais devem contar com cuidadores para PCD em situação de dependência.
 
 ## Direito à previdência social
-
 - **Aposentadoria**: PCD seguradas do Regime Geral de Previdência Social (RGPS) têm direito à aposentadoria conforme a Lei Complementar n. 142/2013.
 
 ## Direito ao transporte e à mobilidade
-
 - **Acessibilidade**: PCD têm direito a transporte e mobilidade em igualdade de condições, com eliminação de barreiras.
 - **Reservas de vagas**:
   - **Moradia**: 3% das unidades habitacionais em programas públicos ou subsidiados.
@@ -169,35 +140,24 @@ Aqui está o resumo objetivo e claro, seguindo as regras que você forneceu:
   - **Locadoras de veículos**: 1 veículo adaptado a cada 20 veículos.
 
 ## Direito à cultura, esporte, turismo e lazer
-
 - **Acesso a bens culturais**: PCD têm direito a bens culturais, programas de TV, cinema, teatro e atividades esportivas em formatos acessíveis.
 - **Audiodescrição e Libras**: Serviços de radiodifusão devem oferecer closed caption, janela com intérprete de Libras e audiodescrição.
 
 ## Direito à informação e comunicação
-
 - **Telecentros e lan houses**: 10% dos computadores devem ter recursos de acessibilidade, com mínimo de 1 equipamento.
 - **Sites governamentais**: Devem incluir ferramentas de acessibilidade, como o símbolo internacional de acesso.
 
 ## Direito à participação na vida pública e política
-
 - **Voto e candidatura**: PCD têm direito de votar e ser votadas, com garantia de acessibilidade nos procedimentos eleitorais.
 - **Auxílio na votação**: PCD podem ser auxiliadas por pessoa de sua escolha durante a votação.
 
 ## Direito ao acesso à justiça
-
 - **Acesso à justiça**: PCD têm garantido o acesso à justiça com adaptações e recursos de tecnologia assistiva.
 - **Curatela**: A curatela é medida excepcional e restrita a atos patrimoniais e negociais, não afetando direitos como saúde, educação e voto.
 - **Tomada de decisão apoiada**: PCD podem optar por um processo de decisão apoiada, com auxílio de pelo menos duas pessoas de confiança.
 
----
-
 ### Destaques para provas:
-
 - **Educação bilíngue**: Libras como primeira língua e português como segunda língua.
 - **Intérpretes de Libras**: Nível superior obrigatório para intérpretes em cursos de graduação e pós-graduação.
 - **Reservas de vagas**: 3% para moradia, 2% para estacionamentos, 10% para táxis.
 - **Curatela**: Restrita a atos patrimoniais e negociais, não afetando direitos pessoais como saúde e voto.
-
----
-
-Espero que ajude nos estudos! 😊

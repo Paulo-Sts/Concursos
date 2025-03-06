@@ -1,7 +1,3 @@
-Aqui está um resumo objetivo e direto sobre os **Princípios da Administração Pública**, com foco nos pontos essenciais:
-
----
-
 # Princípios da Administração Pública
 
 ## Princípios Expressos na Constituição (LIMPE)
@@ -33,8 +29,6 @@ Aqui está um resumo objetivo e direto sobre os **Princípios da Administração
    - Inclui **eficiência organizacional** (estrutura e processos) e **eficiência individual** (desempenho do servidor).
    - **Avaliação de desempenho**: Servidores estáveis podem ser demitidos por insuficiência de desempenho (art. 41, §1º, III, CF).
 
----
-
 ## Princípios Implícitos
 1. **Razoabilidade e Proporcionalidade**:
    - A administração deve agir de forma equilibrada, sem excessos.
@@ -47,13 +41,9 @@ Aqui está um resumo objetivo e direto sobre os **Princípios da Administração
 3. **Motivação**:
    - Os atos administrativos devem ser fundamentados.
 
----
-
 ## Diferença entre Eficiência e Eficácia
 - **Eficiência**: Uso racional dos recursos para alcançar resultados (foco nos meios).
 - **Eficácia**: Alcance dos objetivos desejados (foco nos resultados).
-
----
 
 ## Questões de Concurso
 1. **Nepotismo**:
@@ -68,16 +58,3 @@ Aqui está um resumo objetivo e direto sobre os **Princípios da Administração
 
 4. **Eficiência**:
    - Envolve rapidez, economia e qualidade na prestação de serviços públicos.
-
----
-
-## Resumo dos Princípios
-- **Legalidade**: Só fazer o que a lei permite.
-- **Impessoalidade**: Atuar no interesse público, sem promoção pessoal.
-- **Moralidade**: Agir com ética e probidade.
-- **Publicidade**: Transparência dos atos administrativos.
-- **Eficiência**: Melhor uso dos recursos para alcançar resultados.
-
----
-
-Este resumo destaca os principais aspectos dos **princípios da administração pública**, com foco em definições, aplicações e diferenças entre eles. 😊

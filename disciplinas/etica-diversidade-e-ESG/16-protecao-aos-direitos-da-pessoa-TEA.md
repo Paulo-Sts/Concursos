@@ -1,15 +1,10 @@
-# **Decreto nº 8.368, de 2 de dezembro de 2014**  
-**Regulamentação da Lei nº 12.764/2012 – Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista**
-
----
+# **Decreto nº 8.368, de 2 de dezembro de 2014** **Regulamentação da Lei nº 12.764/2012 – Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista**
 
 ## **Contexto legal**
 - **Base legal**:  
   - **Lei nº 12.764/2012**: Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista (TEA).  
   - **Decreto nº 6.949/2009**: Promulga a Convenção Internacional sobre os Direitos da Pessoa com Deficiência.  
   - **Art. 1º da Lei nº 12.764/2012**: A pessoa com TEA é considerada **pessoa com deficiência** para todos os efeitos legais.
-
----
 
 ## **Principais disposições**
 
@@ -45,8 +40,6 @@
 ### **Art. 7º**  
 - **Campanhas de conscientização**: A Secretaria de Direitos Humanos e o Conade promoverão campanhas sobre os direitos das pessoas com TEA e suas famílias.  
 
----
-
 ## **Diretrizes da Política Nacional de Proteção dos Direitos da Pessoa com TEA**
 1. **Intersetorialidade**: Integração de ações e políticas públicas.  
 2. **Participação da comunidade**: Formulação e controle social das políticas.  
@@ -54,8 +47,6 @@
 4. **Inserção no mercado de trabalho**: Respeitando as peculiaridades da deficiência.  
 5. **Formação de profissionais**: Capacitação de especialistas no atendimento ao TEA.  
 6. **Pesquisa científica**: Prioridade para estudos epidemiológicos sobre o TEA.  
-
----
 
 ## **Direitos da Pessoa com TEA**
 1. **Vida digna**: Integridade física e moral, livre desenvolvimento da personalidade, segurança e lazer.  
@@ -66,20 +57,14 @@
 6. **Mercado de trabalho**.  
 7. **Previdência e assistência social**.  
 
----
-
 ## **Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (CIPTEA)**  
 - **Finalidade**: Garantir atenção integral, pronto atendimento e prioridade no acesso a serviços públicos e privados.  
 - **Validade**: 5 anos, com necessidade de revalidação.  
 - **Informações**: Nome completo, filiação, dados de identificação, fotografia, assinatura e dados do responsável legal.  
 
----
-
 ## **Sanções**
 - **Recusa de matrícula**: Multa de 3 a 20 salários-mínimos ao gestor escolar.  
 - **Reincidência**: Perda do cargo após processo administrativo.  
-
----
 
 ## **Conclusão**
 O Decreto nº 8.368/2014 regulamenta a Lei nº 12.764/2012, garantindo direitos fundamentais às pessoas com TEA, como acesso à saúde, educação, proteção social e inclusão no mercado de trabalho. Além disso, estabelece mecanismos de fiscalização e punição para casos de discriminação ou recusa de matrícula.

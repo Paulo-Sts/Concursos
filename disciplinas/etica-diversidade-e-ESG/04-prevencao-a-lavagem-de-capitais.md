@@ -1,7 +1,3 @@
-Aqui está um resumo objetivo e direto da **Resolução CVM 50/2021**, focando nos principais pontos relacionados à prevenção de lavagem de capitais, financiamento ao terrorismo e proliferação de armas de destruição em massa no mercado de valores mobiliários:
-
----
-
 # Resolução CVM 50/2021 - Prevenção de lavagem de capitais e financiamento ao terrorismo
 
 ## Objetivos
@@ -11,8 +7,6 @@ Aqui está um resumo objetivo e direto da **Resolução CVM 50/2021**, focando n
 - **Manter arquivos** por pelo menos 5 anos.
 - **Cooperar juridicamente**, inclusive internacionalmente, com órgãos como o Conselho Internacional das Nações Unidas.
 
----
-
 ## Definições importantes
 - **Alta administração**: Nível estratégico e decisório máximo da empresa sobre lavagem de capitais e governança.
 - **Autoridade central estrangeira**: Órgão equivalente ao Banco Central ou CVM em outros países.
@@ -21,8 +15,6 @@ Aqui está um resumo objetivo e direto da **Resolução CVM 50/2021**, focando n
 - **Entidade operadora**: Responsável pela liquidação de operações no mercado de valores mobiliários.
 - **Influência significativa**: Quando um indivíduo controla mais de 25% do capital social de uma empresa.
 
----
-
 ## Aplicação da Resolução
 - **Não se aplica** a:
   - Sociedades Anônimas Abertas no Brasil.
@@ -30,8 +22,6 @@ Aqui está um resumo objetivo e direto da **Resolução CVM 50/2021**, focando n
   - Instituições financeiras autorizadas pelo Banco Central.
   - Seguradoras e entidades de previdência complementar.
   - Investidores não residentes (bancos centrais, S.A. abertas no exterior, administradores de carteiras, etc.).
-
----
 
 ## Obrigações das pessoas jurídicas
 1. **Governança e compliance**:
@@ -54,8 +44,6 @@ Aqui está um resumo objetivo e direto da **Resolução CVM 50/2021**, focando n
    - Eleger um diretor estatutário responsável por questões de lavagem de capitais.
    - Em conglomerados financeiros, um diretor pode ser responsável por todas as empresas do grupo.
 
----
-
 ## Processo "Conheça seu Cliente" (KYC)
 1. **Validação de informações**:
    - Coletar e manter atualizadas as informações dos clientes.
@@ -69,8 +57,6 @@ Aqui está um resumo objetivo e direto da **Resolução CVM 50/2021**, focando n
    - Comunicar ao COAF operações suspeitas, com detalhes e fundamentação.
    - Incluir data de início do relacionamento com o cliente.
 
----
-
 ## Registro de operações
 - **Prazo mínimo de 5 anos** para:
   - Movimentações financeiras.
@@ -78,7 +64,3 @@ Aqui está um resumo objetivo e direto da **Resolução CVM 50/2021**, focando n
   - Ativos em custódia.
   - Transferências de valores mobiliários.
 - **Imagens digitais** podem substituir documentos físicos.
-
----
-
-Este resumo destaca os principais pontos da Resolução CVM 50/2021, focando em prevenção, identificação de clientes, monitoramento e comunicação de operações suspeitas no mercado de valores mobiliários. 😊

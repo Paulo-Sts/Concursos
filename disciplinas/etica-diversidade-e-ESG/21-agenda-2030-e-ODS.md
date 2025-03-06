@@ -69,8 +69,6 @@
 17. **Parcerias e meios de implementação**:
     - Meta: Fortalecer a cooperação internacional e o sistema multilateral de comércio.
 
----
-
 # Destaques e desafios
 
 ## Desafios globais
@@ -83,7 +81,5 @@
 - **Políticas públicas**: Investimento em saúde, educação, infraestrutura e proteção social.
 - **Sustentabilidade**: Uso eficiente de recursos naturais e promoção de energias limpas.
 
----
-
 # Conclusão
-A Agenda 2030 e os ODS representam um compromisso global para promover o desenvolvimento sustentável, combater a pobreza e proteger o meio ambiente. A implementação desses objetivos depende da adesão dos países e da cooperação internacional, com foco em ações concretas e políticas públicas eficazes.
+- A Agenda 2030 e os ODS representam um compromisso global para promover o desenvolvimento sustentável, combater a pobreza e proteger o meio ambiente. A implementação desses objetivos depende da adesão dos países e da cooperação internacional, com foco em ações concretas e políticas públicas eficazes.

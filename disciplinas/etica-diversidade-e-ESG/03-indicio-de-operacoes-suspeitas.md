@@ -1,7 +1,3 @@
-Aqui está um resumo objetivo e direto da **Carta Circular nº 4.001/2020**, focando nos principais pontos relacionados à prevenção de lavagem de dinheiro e financiamento ao terrorismo:
-
----
-
 # Carta Circular 4.001/2020 - Indícios de operações suspeitas
 
 ## Objetivo
@@ -88,12 +84,6 @@ Aqui está um resumo objetivo e direto da **Carta Circular nº 4.001/2020**, foc
   - Venda ou compra de ouro incompatível com o perfil do cliente.
   - Fracionamento de operações para burlar limites regulamentares.
 
----
-
 ## Comunicação de operações suspeitas
 - As operações ou situações suspeitas devem ser comunicadas ao COAF **após confirmação dos indícios**.
 - Os procedimentos de análise devem considerar todas as informações disponíveis, incluindo dados de clientes, funcionários, parceiros e terceirizados.
-
----
-
-Este resumo destaca os principais pontos da Carta Circular 4.001/2020, focando em exemplos de operações suspeitas que exigem monitoramento e comunicação ao COAF. 😊
