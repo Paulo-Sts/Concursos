@@ -5,15 +5,16 @@
 ## DEFINIÇÃO
 * A cooperativa de crédito é uma instituição financeira formada por uma associação autônoma de pessoas unidas voluntariamente, com forma e natureza jurídica próprias, de natureza civil, sem fins lucrativos, constituída para prestar serviços a seus associados.
 * O objetivo da constituição de uma cooperativa de crédito é prestar serviços financeiros de modo mais simples e vantajoso aos seus associados, possibilitando o acesso ao crédito e outros produtos financeiros (aplicações, investimentos, empréstimos, financiamentos, recebimento de contas, seguros, etc).
+
+#### Características
 * As cooperativas de crédito são autorizadas e supervisionadas pelo Banco Central, ao contrário dos outros ramos do cooperativismo, tais como transporte, educação e agropecuária.
-* Atua tanto no setor rural quanto no urbano. As cooperativas de crédito podem se originar da associação de funcionários de uma mesma empresa ou grupo de empresas, de profissionais de
-determinado segmento, de empresários ou mesmo adotar a livre admissão de associados (Regra geral pessoas físicas, mas também podem ser pessoas jurídicas desde que não concorram com a própria cooperativa).
-* Os cooperados são ao mesmo tempo donos e usuários da cooperativa, participando de sua gestão e usufruindo de seus produtos e serviços. Os associados têm poder igual de voto independentemente da sua cota de participação no capital social da cooperativa. 
+* Atua tanto no setor rural quanto no urbano. 
+* As cooperativas de crédito podem se originar da associação de funcionários de uma mesma empresa ou grupo de empresas, de profissionais de determinado segmento, de empresários ou mesmo adotar a livre admissão de associados (regra geral pessoas físicas, mas também podem ser pessoas jurídicas desde que não concorram com a própria cooperativa).
+* Os cooperados são ao mesmo tempo donos e usuários da cooperativa, participando de sua gestão e usufruindo de seus produtos e serviços. 
+* Os associados têm poder igual de voto independentemente da sua cota de participação no capital social da cooperativa. 
 * O cooperativismo não visa lucros, os direitos e deveres de todos são iguais e a adesão é livre e voluntária.
 * Consideram-se cooperativas de crédito a cooperativa singular de crédito, a cooperativa central de crédito e a confederação de crédito constituída por cooperativas centrais de crédito.
 * As cooperativas de crédito devem adotar, obrigatoriamente, em sua denominação social, a expressão "Cooperativa", vedada a utilização da palavra "Banco". 
-* Consideram-se cooperativas de crédito a cooperativa singular de crédito, a cooperativa central de crédito e a confederação de crédito constituída por cooperativas centrais de
-crédito.
 * As Cooperativas devem participar de fundo garantidor de crédito específico, o denominado FGC - COP.
 * As cooperativas de crédito não possuem agências, mas postos de atendimento eletrônico e postos de atendimento cooperativo (PAC), que são dependências subordinadas e destinadas ao atendimento de associados e demais clientes.
 
@@ -46,11 +47,11 @@ crédito.
   - A cooperativas filiadas, serviço de aplicação centralizada de recursos, subordinado a política própria, aprovada pelo conselho de administração, contendo diretrizes relativas à
 captação, aplicação e remuneração dos recursos transferidos pelas filiadas, observada, na remuneração, proporcionalidade em relação à participação de cada filiada no montante total aplicado.
 
-**Observação:** A prestação dos serviços de pagamento a não associados deve ser autorizada pela assembleia geral e constar no estatuto social da cooperativa de crédito.
+**OBSERVAÇÃO:** A prestação dos serviços de pagamento a não associados deve ser autorizada pela assembleia geral e constar no estatuto social da cooperativa de crédito.
 
 > ### Tipos de cooperativas
 * Consideram-se cooperativas de crédito a cooperativa singular de crédito, a cooperativa central de crédito e a confederação de crédito constituída por cooperativas centrais de crédito.
-* Essas cooperativas se unem e formam as centrais cooperativas ou federações de cooperativas, sendo necessário no mínimo 3 cooperativas de credito para formarem uma Central.
+* Essas cooperativas se unem e formam as centrais cooperativas ou federações de cooperativas, sendo necessário no mínimo 3 cooperativas de credito para formarem uma central.
 * Tem por objetivo organizar, em comum acordo e em maior escala, os serviços econômicos e assistenciais de interesse das filiadas, integrando e orientando suas atividades, bem como
 facilitando a utilização recíproca dos serviços.
 * As confederações constituídas de cooperativas centrais de crédito têm por objetivo orientar, coordenar e executar atividades destas, nos casos em que o vulto dos empreendimentos e a

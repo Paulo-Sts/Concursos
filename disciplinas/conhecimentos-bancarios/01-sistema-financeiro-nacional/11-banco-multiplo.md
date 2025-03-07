@@ -3,12 +3,13 @@
 <br>
 
 ## DEFINIÇÃO
-* De acordo com a Resolução CMN 5060/2023, O banco múltiplo consiste em instituição financeira constituída com, no mínimo, duas das seguintes carteiras, sendo uma delas
-obrigatoriamente comercial ou de investimento.
+* De acordo com a Resolução CMN n.º 5060/2023, o banco múltiplo consiste em Instituição financeira constituída com, no mínimo, duas carteiras, sendo uma delas obrigatoriamente comercial ou de investimento.
+
+#### Características
 * Na sua denominação social deve constar a expressão "Banco".
-* É vedado aos bancos múltiplos emitir debentures (Res. 2099/2000).
+* É vedado aos bancos múltiplos emitir debentures (Res. n.º 2099/2000).
 * Apenas o banco múltiplo público pode ter carteira de desenvolvimento.
-*  O banco múltiplo que possui a carteira comercial é classificado como instituição financeira bancária ou monetária. Já aquele que não a possui é denominado de banco múltiplo não monetário ou não bancário.
+* O banco múltiplo que possui a carteira comercial é classificado como Instituição financeira bancária ou monetária. Já aquele que não a possui é denominado de banco múltiplo não monetário ou não bancário.
 
 #### Carteira
 * Considera-se carteira o conjunto de atividades principais desempenhadas por bancos comerciais, bancos de investimento, bancos de desenvolvimento, sociedades de crédito
@@ -22,8 +23,7 @@ imobiliário, sociedades de crédito, financiamento e investimento e sociedades 
   - Arrendamento mercantil.
 
 #### Atividades desenvolvidas
-* Os bancos múltiplos podem realizar as operações ativas, passivas e acessórias das diversas
-instituições financeiras. 
+* Os bancos múltiplos podem realizar as operações ativas, passivas e acessórias das diversas Instituições financeiras. 
 * Essas operações estão sujeitas às mesmas normas legais e regulamentares aplicáveis às instituições singulares correspondentes às suas carteiras.
 * As instituições com carteira comercial podem captar depósitos à vista.
 

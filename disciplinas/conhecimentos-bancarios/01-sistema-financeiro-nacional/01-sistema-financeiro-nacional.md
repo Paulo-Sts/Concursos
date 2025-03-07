@@ -46,7 +46,7 @@
 * É a parte que oferece serviços e produtos financeiros para a sociedade.
 * Exemplos de operadores:
   - Instituições financeiras;
-  - Bancos e Caixas econômicas;
+  - Bancos e Caixas Econômicas;
   - Corretoras de valores mobiliários;
   - Seguradoras;
   - Bolsas de valores;
@@ -83,11 +83,11 @@
 
 #### Orgãos normativos
 * Todos os conselhos (CMN, CNSP e CNPC) são orgãos subordinados aos seus respectivos ministérios.
-* O CMN e o CNSP são subordinados ao ministério da fazenda.
-* O CNPC é subordinado ao ministério da previdência.
+* O CMN e o CNSP são subordinados ao Ministério da Fazenda.
+* O CNPC é subordinado ao Ministério da Previdência.
 
 #### Entidades supervisoras
 * São vinculadas aos seus respectivos ministérios, com exceção do BACEN que possui autonomia plena e não é vinculado ou subordinado a nenhum ministério. O BACEN no entanto cumpre as determinações do CMN estabelecidas em lei.
-* A CVM possui autonomia, mas está vinculada ao ministério da fazenda.
-* A SUSEP é vinculada ao ministério da fazenda.
-* A PREVIC é vinculada ao ministério da previdência.
+* A CVM possui autonomia, mas está vinculada ao Ministério da Fazenda.
+* A SUSEP é vinculada ao Ministério da Fazenda.
+* A PREVIC é vinculada ao Ministério da Previdência.

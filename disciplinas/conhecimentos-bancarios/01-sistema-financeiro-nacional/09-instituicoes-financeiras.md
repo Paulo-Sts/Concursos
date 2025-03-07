@@ -14,16 +14,16 @@ de recursos financeiros próprios ou de terceiros, em moeda nacional ou estrange
 * São instituições que captam recursos por meio do depósitos à vista e, portanto, criam a denominada moeda escritural.
 * Tipos de instituições financeiras bancárias:
   - Bancos comerciais;
-  - Banco múltiplo com carteira comercial
+  - Banco múltiplo com carteira comercial;
   - Banco cooperativo;
-  - Caixas econômicas (CEF);
-  - Cooperativas de créditos.
+  - Caixa Econômica Federal (CEF);
+  - Cooperativas de crédito.
 
 > ### Instituições financeiras não bancárias
 * São instituições que captam recursos para empréstimo por meio da emissão de títulos, e, portanto, intermedeiam moeda. 
 * Tipos de instituições financeiras não bancárias:
   - Bancos de desenvolvimento;
-  - Bancos de Investimento;
+  - Bancos de investimento;
   - Sociedades de crédito financiamento e investimento;
   - Sociedade de arrendamento mercantil;
   - Associações de poupança e empréstimo;
