@@ -310,8 +310,8 @@ O mercado é o conjunto de interações entre consumidores, fornecedores, concor
   
 ### **Matriz BCG (Boston Consulting Group)**
 A **Matriz BCG** é uma ferramenta usada para analisar o portfólio de produtos de uma organização, levando em consideração o crescimento do mercado e a participação de mercado dos produtos. Ela ajuda a definir onde a organização deve investir ou desinvestir:
-- **Estrela**: Produtos com alta participação de mercado e alto crescimento no mercado, que exigem grandes investimentos, mas com potencial de grandes lucros.
 - **Interrogação (?)**: Produtos com baixo desempenho no mercado, mas com alto potencial de crescimento. Esses produtos apresentam riscos e necessitam de investimentos para se tornarem rentáveis.
+- **Estrela**: Produtos com alta participação de mercado e alto crescimento no mercado, que exigem grandes investimentos, mas com potencial de grandes lucros.
 - **Vaca Leiteira**: Produtos com alta participação de mercado em um mercado com baixo crescimento. Esses produtos geram lucros estáveis com baixos investimentos.
 - **Abacaxi**: Produtos em declínio, com baixa participação e baixo crescimento, que podem gerar prejuízos.
 
