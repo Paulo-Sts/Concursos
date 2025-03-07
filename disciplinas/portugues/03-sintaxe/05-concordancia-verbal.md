@@ -22,10 +22,10 @@
 * Núcleo do sujeito no singular exige verbo no singular.
 * Núcleo do sujeito no plural exige verbo no plural.
 * Exemplo:
-  - O **índice** de acidentes graves com vítimas fatais **diminuiu**. ✅
-  - O **índice** de acidentes graves com vítimas fatais **diminuíram**. ❌
-  - Novas **regras** de acentuação gráfica da Língua Portuguesa **está** em vigor. ❌
-  - Novas **regras** de acentuação gráfica da Língua Portuguesa **estão** em vigor. ✅
+  - **Diminuiu** o **índice** de acidentes graves com vítimas fatais. ✅
+  - **Diminuíram** o **índice** de acidentes graves com vítimas fatais. ❌
+  - **Está** em vigor novas **regras** de acentuação gráfica da Língua Portuguesa. ❌
+  - **Estão** em vigor novas **regras** de acentuação gráfica da Língua Portuguesa. ✅
 
 #### Sujeito simples regra especial
 * Quando o núcleo do sujeito indica parte, coletivo ou percentual o verbo pode concordar com o núcleo ou com o adjunto adnominal.
@@ -38,8 +38,8 @@
   - A maioria dos **cientistas evitam** os clichês. ✅
   - Um **grupo** de clientes **protestou**. ✅
   - Um grupo de **clientes protestaram**. ✅
-  - Hoje, 7% da **população** não **sabem** ler. ✅
-  - Hoje, **7%** da população não **sabe** ler. ✅
+  - Hoje, 7% da **população** não **sabe** ler. ✅
+  - Hoje, **7%** da população não **sabem** ler. ✅
   - A **maioria** da turma **evita** os clichês. ✅
   - A **maioria** da turma **evitam** os clichês. ❌
   - Hoje, **1,5%** da população não **sabe** ler. ✅
