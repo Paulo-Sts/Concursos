@@ -3,7 +3,8 @@
 <br>
 
 ## DEFINIÇÃO
-* As conjunções são palavras que servem para ligar orações ou termos dentro de uma mesma oração, indicando relações de sentido entre eles. Elas podem estabelecer relações como adversidade, causa, condição, oposição, entre outras.
+* As conjunções são palavras que servem para ligar orações ou termos dentro de uma mesma oração, indicando relações de sentido entre eles. 
+* Elas podem estabelecer relações como adversidade, causa, condição, oposição, entre outras.
 
 Ex: Os meninos comem e brincam.
 1. comem = verbo 1

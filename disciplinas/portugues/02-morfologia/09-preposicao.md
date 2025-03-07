@@ -23,12 +23,15 @@ Ex: por + a = pela
 | A          | "Vou **a** escola."                        | Indica **direção** ou **destino**.           |
 | Ante       | "A criança estava **ante** o espelho."     | Indica uma **posição anterior** a algo.      |
 | Após       | "Ele chegou **após** o intervalo."         | Indica **tempo posterior**.                  |
+| Até        | "Eu caminhei **até** o parque."            | Indica um limite no espaço, tempo ou ação    |
 | Com        | "Ela foi **com** ele."                     | Indica **companhia**.                        |
 | Contra     | "Ele lutou **contra** a injustiça."        | Indica **oposição**.                         |
 | De         | "A chave **de** casa."                     | Indica **posse**, **origem** ou **matéria**. |
+| Desde      | "Eu moro nesta cidade **desde** 2010."     | Indica ponto de partida no tempo ou espaço.  | 
 | Em         | "Ela mora **em** Recife."                  | Indica **lugar**, **tempo** ou **modo**.     |
 | Entre      | "O livro está **entre** as duas estantes." | Indica **localização intermediária**.        |
 | Para       | "Este presente é **para** você."           | Indica **finalidade** ou **destino**.        |
+| Per        | "Ele foi promovido **per** mérito."        | Indica causa, motivo ou meio.                |
 | Perante    | "Ele se expressou **perante** os juízes."  | Indica **posição diante de algo ou alguém**. |
 | Por        | "Ela viajou **por** três países."          | Indica **causa**, **meio** ou **passagem**.  |
 | Sem        | "Ele foi **sem** o carro."                 | Indica **ausência**.                         |
