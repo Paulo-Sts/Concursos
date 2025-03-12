@@ -60,7 +60,7 @@ estadunidense com grande aglomeração de empreendimentos e indústrias de domí
   - **C2C (consumer to consumer):** Consumidor para consumidor.
 
 > ### Sistema de bancos sombra 
-- Shadow banking é um sistema bancário paralelo, que atua a margem do SFN e não possui regulamentação. No Brasil não existe a modalidade de Shadow Banking, pois no sistema financeiro brasileiro todas as instituições são reguladas pelo Banco Central. 
+- Shadow Banking são bancos que realizam operações financeiras à margem do sistema de regulação e supervisão do Banco Central do Brasil. É um sistema bancário paralelo, que atua a margem do SFN e não possui regulamentação. No Brasil não existe a modalidade de Shadow Banking, pois no sistema financeiro brasileiro todas as instituições são reguladas pelo Banco Central. 
 - O sistema de bancos-sombra, não recebe depósitos à vista, por isso, não tem necessidade de ter patrimônio líquido suficiente para garantir seus compromissos, tornando a aplicação mais arriscada.
 - Bancos sombra oferecem maior retorno, devido a não exigência de garantias e mecanismos de proteção diferentemente dos bancos tradicionais, porém o risco envolvendo operações financeiras é mais elevado do que no sistema financeiro tradicional.
 - Com papel relevante no sistema financeiro, as operações possuem maiores riscos de mercado, de crédito e de liquidez, além de não possuir uma reserva de capital para servir como garantia como os bancos convencionais.
