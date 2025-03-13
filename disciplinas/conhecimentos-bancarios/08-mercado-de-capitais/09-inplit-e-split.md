@@ -16,7 +16,7 @@
   - **Após o Split:** 200 ações a R$ 40,00 cada = R$ 8.000,00.
 - **Impacto:** O valor total do investimento permanece o mesmo.
 
-### Comparação entre Inplit e Split
+> ### Comparação entre Inplit e Split
 
 | OPERAÇÃO | INPLIT                                     | SPLIT                                         |
 |----------|--------------------------------------------|-----------------------------------------------|
@@ -26,13 +26,13 @@
 
 ## Outros conceitos importantes
 
-### Circuit Breaker
+> ### Circuit Breaker
 - **Definição:** mecanismo que interrompe o pregão em caso de queda acentuada do Ibovespa.
 - **Níveis:**
   - **Queda de 10%:** Paralisação de 30 minutos.
   - **Queda de 15%:** Paralisação de 1 hora.
 
-### After Market
+> ### After Market
 - **Definição:** Período de negociação após o fechamento do pregão regular.
 - **Horário:** Das 17h às 18h15.
 - **Limites:**

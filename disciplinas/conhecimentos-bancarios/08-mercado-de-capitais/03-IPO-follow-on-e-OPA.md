@@ -9,7 +9,7 @@
 ## OPA (Oferta Pública de Aquisição)
 - Oferta para aquisição de ações de uma empresa listada na bolsa, podendo visar controle ou retirada do mercado.
 
-### Diferenças entre IPO, Follow On e OPA
+> ### Diferenças entre IPO, Follow On e OPA
 
 | TERMO     | DESCRIÇÃO                                                                                 |
 |-----------|-------------------------------------------------------------------------------------------|

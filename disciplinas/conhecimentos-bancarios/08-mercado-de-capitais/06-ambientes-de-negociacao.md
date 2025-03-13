@@ -3,7 +3,7 @@
 ## Definição
 - Ambientes de negociação são locais onde são realizadas as transações de títulos e valores mobiliários, como **bolsas de valores** e **mercado de balcão** (organizado e não organizado).
 
-### Bolsa de valores
+> ### Bolsa de valores
 - **Definição:** Espaço físico ou eletrônico onde são negociados valores mobiliários no **mercado secundário** (ações, debêntures, commercial papers, etc.).
 - Características:
   - Pode ter ou não fins lucrativos.
@@ -11,7 +11,7 @@
   - Negociações são realizadas por meio de corretoras e distribuidoras.
 - **Função:**: proporcionar liquidez e transparência às operações.
 
-### Mercado de balcão organizado
+> ### Mercado de balcão organizado
 - **Definição:** Ambiente de negociação para empresas que não têm estrutura para operar na bolsa de valores, mas buscam segurança e regulamentação.
 - Características:
   - Supervisionado pela CVM (Comissão de Valores Mobiliários).
@@ -19,14 +19,14 @@
   - Ideal para pequenas e médias empresas que desejam acesso gradual ao mercado de capitais.
 - Exemplo: Bovespa Mais, programa que facilita a entrada de empresas de menor porte no mercado.
 
-### Mercado de balcão não organizado
+> ### Mercado de balcão não organizado
 - **Definição:** Ambiente sem local físico definido, onde as negociações são feitas diretamente entre as partes (por telefone ou outros meios).
 - Características:
   - Não é supervisionado por entidades autorreguladoras.
   - Falta de transparência em relação a volumes e preços negociados.
   - Pode incluir operações legais e ilegais.
 
-### Comparação entre os ambientes de negociação
+> ### Comparação entre os ambientes de negociação
 
 |                       | BOLSA DE VALORES           | MERCADO DE BALCÃO ORGANIZADO | MERCADO DE BALCÃO NÃO ORGANIZADO             |
 |-----------------------|----------------------------|------------------------------|----------------------------------------------|

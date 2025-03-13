@@ -15,15 +15,15 @@
 
 ## Valores das ações
 
-### Valor nominal
+> ### Valor nominal
 - Valor atribuído à ação no estatuto social da empresa.
 - Pode ser omitido, com preço definido na emissão.
 
-### Valor patrimonial
+> ### Valor patrimonial
 - Representa a parcela do patrimônio líquido da empresa correspondente a cada ação.
 - Calculado como: **Patrimônio Líquido / Número de Ações Emitidas**.
 
-### Valor de mercado
+> ### Valor de mercado
 - Preço de negociação da ação no mercado.
 - Reflete a oferta e demanda no momento.
 
@@ -37,13 +37,13 @@
 
 ## Tipos de operações
 
-### Block Trade
+> ### Block Trade
 - Oferta de grande lote de ações antigas, negociadas em bolsa ou mercado de balcão.
 
-### Day Trade
+> ### Day Trade
 - Compra e venda de ações no mesmo pregão.
 - Exemplo: compra pela manhã e venda à tarde.
 
-### Swing Trade
+> ### Swing Trade
 - Operações que duram de alguns dias a poucas semanas.
 - Foco em tendências de curto a médio prazo.

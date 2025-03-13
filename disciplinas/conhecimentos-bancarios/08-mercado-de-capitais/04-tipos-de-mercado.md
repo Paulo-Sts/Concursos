@@ -4,7 +4,7 @@
 - É a primeira emissão de títulos, com recursos diretos para a empresa.
 - **Benefícios:** Captação de recursos para a empresa.
 - Exemplos:
-  - **IPO (Initial Public Offering):**: Primeira oferta pública de ações.
+  - **IPO (Initial Public Offering):** Primeira oferta pública de ações.
   - **Follow On:** Emissões subsequentes de ações.
 
 ## Mercado secundário
@@ -13,7 +13,7 @@
 - Exemplo: 
   - Negociação de ações na bolsa de valores ou balcão organizado.
 
-### Diferenças entre mercado primário e secundário
+> ### Diferenças entre mercado primário e secundário
 
 | ASPECTO                 | MERCADO PRIMÁRIO                      | MERCADO SECUNDÁRIO                        |
 |-------------------------|-------------------------------------- |-------------------------------------------|

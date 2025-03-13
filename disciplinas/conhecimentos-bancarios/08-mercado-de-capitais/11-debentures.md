@@ -5,7 +5,7 @@
 - **Objetivo:** Financiar projetos de expansão, alongamento de dívidas ou capital de giro.
 - **Emitentes:** S.A. de capital aberto (pública) ou fechado (privada, com restrições).
 
-### Características das debêntures
+> ### Características das debêntures
 
 #### Remuneração
 - **Juros:** Fixos ou variáveis.
@@ -32,7 +32,7 @@
 - **Escritura de emissão:** Documento que define os direitos e obrigações dos debenturistas e da empresa.
 - **Agente fiduciário:** Fiscaliza o cumprimento das condições da escritura e protege os interesses dos debenturistas.
 
-### Vantagens das debêntures
+> ### Vantagens das debêntures
 - **Para a empresa:**
   - Dedução dos juros como despesa financeira.
   - Flexibilidade na estruturação do pagamento (amortizações, repactuações).
@@ -40,14 +40,14 @@
   - Remuneração atrativa (juros, participação nos lucros).
   - Possibilidade de conversão em ações (debêntures conversíveis ou permutáveis).
 
-### Debêntures incentivadas
+> ### Debêntures incentivadas
 - **Definição:** Debêntures emitidas para financiar projetos de infraestrutura de interesse nacional.
 - **Benefícios:**
   - Isenção de imposto de renda para pessoa física.
   - Setores beneficiados: logística, transporte, saneamento, energia, telecomunicações, etc.
 - **Regulamentação:** Lei n. 12.431/2011.
 
-### Garantias das debêntures
+> ### Garantias das debêntures
 
 | TIPO DE GARANTIA | DESCRIÇÃO                                                               |
 |------------------|-------------------------------------------------------------------------|
