@@ -3,7 +3,7 @@
 ## Definição
 - Garantia pessoal que recai sobre contratos (Ex.: aluguel, empréstimos).
 
-### Características
+#### Características
 - **Subsidiariedade:** O fiador só é cobrado após esgotar as tentativas de receber do devedor principal (salvo cláusula de solidariedade).
 - **Formalização:** Contrato por escrito, sem interpretação extensiva.
 - **Responsabilidade:** O fiador se responsabiliza pela dívida principal e pelos acessórios (Ex.: juros, custas judiciais).
@@ -14,12 +14,12 @@
 - **Fiança conjunta:** Vários fiadores podem ser solidários entre si, respondendo cada um por toda a dívida.
 - **Autorização do cônjuge:** Necessária, exceto em caso de separação total de bens.
 
-### Tabela comparativa entre Aval e Fiança
+> ### Tabela comparativa entre Aval e Fiança
 
 | ASPECTO                | AVAL                                                   | FIANÇA                                                                   |
 |------------------------|--------------------------------------------------------|--------------------------------------------------------------------------|
 | Natureza               | Recai sobre títulos de crédito.                        | Recai sobre contratos.                                                   |
-| Solidariedade          | **Solidário**: Cobrança direta do avalista.            | **Subsidiária**: Cobrança do fiador só após esgotar o devedor principal. |
+| Solidariedade          | **Solidário:** Cobrança direta do avalista.            | **Subsidiária:** Cobrança do fiador só após esgotar o devedor principal. |
 | Formalização           | Deve constar no próprio título de crédito.             | Contrato por escrito.                                                    |
 | Responsabilidade       | Assume o valor literal do título.                      | Assume a dívida principal e acessórios (Ex.: juros, custas judiciais).   |
 | Parcialidade           | Permitida apenas em títulos com legislação específica. | Pode ser integral ou limitada (parcial).                                 |

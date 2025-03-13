@@ -1,14 +1,14 @@
 # Penhor
 
 ## Definição e características
-- **O penhor é:** uma garantia real que recai sobre bens móveis.
+- O penhor é uma garantia real que recai sobre bens móveis.
 - **Transferência de posse:** O devedor transfere a posse do bem móvel ao credor como garantia de uma obrigação.
-- **Modalidades de penhor:**
+- Modalidades de penhor:
   - **Penhor civil:** Envolve bens como joias, realizado exclusivamente pela Caixa Econômica Federal (70% do valor de mercado).
   - **Penhor legal:** Exclusivo da justiça.
   - **Penhor agrícola, industrial e mercantil:** Seguem as mesmas regras.
 
-### Penhor mercantil
+> ### Penhor mercantil
 - **Constituição:** Mediante instrumento público ou particular, registrado no Cartório de Registro de Imóveis.
 - **Bens sujeitos ao penhor mercantil:**
   - Máquinas, aparelhos, materiais e instrumentos.
@@ -31,6 +31,6 @@
 - **Fiscalização:** O credor pode fiscalizar os bens empenhados.
 - **Penhor rural:** O bem pode estar em cultivo no momento do penhor.
 
-### Execução do penhor
+#### Execução do penhor
 - **Para pessoa jurídica:** O credor pode efetivar o penhor sem ação judicial, em caso de perigo de demora.
 - **Para pessoa física:** A execução sem ação judicial só é permitida se comprovado que a pessoa física é empresária.

@@ -3,7 +3,7 @@
 ## Definição 
 - Garantia pessoal que recai sobre títulos de crédito (Ex.: nota promissória, duplicata, cheque).
 
-### Características
+#### Características
 - **Solidariedade:** O avalista pode ser cobrado diretamente, sem necessidade de esgotar o devedor principal.
 - **Formalização:** Deve constar no próprio título de crédito (anverso ou verso).
 - **Responsabilidade:** O avalista assume a obrigação de pagar a dívida caso o devedor não cumpra.
@@ -17,12 +17,12 @@
 - **Aval sucessivo:** Avalista do avalista.
 - **Aval cumulativo:** Vários avalistas garantindo a mesma obrigação.
 
-### Tabela comparativa entre Aval e Fiança
+> ### Tabela comparativa entre Aval e Fiança
 
 | ASPECTO                | AVAL                                                   | FIANÇA                                                                   |
 |------------------------|--------------------------------------------------------|--------------------------------------------------------------------------|
 | Natureza               | Recai sobre títulos de crédito.                        | Recai sobre contratos.                                                   |
-| Solidariedade          | **Solidário**: Cobrança direta do avalista.            | **Subsidiária**: Cobrança do fiador só após esgotar o devedor principal. |
+| Solidariedade          | **Solidário:** Cobrança direta do avalista.            | **Subsidiária:** Cobrança do fiador só após esgotar o devedor principal. |
 | Formalização           | Deve constar no próprio título de crédito.             | Contrato por escrito.                                                    |
 | Responsabilidade       | Assume o valor literal do título.                      | Assume a dívida principal e acessórios (Ex.: juros, custas judiciais).   |
 | Parcialidade           | Permitida apenas em títulos com legislação específica. | Pode ser integral ou limitada (parcial).                                 |
