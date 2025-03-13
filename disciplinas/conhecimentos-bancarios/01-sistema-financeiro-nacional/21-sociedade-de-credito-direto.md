@@ -7,7 +7,7 @@
 - Capital mínimo: R$ 1.000.000,00.
 - **Objeto social:** Realização de operações de empréstimo, financiamento e aquisição de direitos creditórios, exclusivamente por meio de plataforma eletrônica, utilizando recursos próprios ou de repasses (ex.: BNDES).
 
-### Operações permitidas
+#### Operações permitidas
 - Concessão de crédito a pessoas físicas e jurídicas.
 - Análise de crédito para terceiros.
 - Cobrança de crédito de terceiros.
@@ -15,7 +15,7 @@
 - Atuação como iniciadora de transação de pagamento.
 - Representação de seguros relacionados às operações de crédito.
 
-### Restrições
+#### Restrições
 - **Vedado:**
   - Captar recursos do público (exceto por emissão de ações).
   - Participar do capital de outras instituições financeiras.

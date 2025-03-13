@@ -6,13 +6,13 @@
 - Denominação social obrigatória: "Crédito Imobiliário".
 - Capital mínimo: R$ 7.000.000,00.
 
-### Operações ativas
+#### Operações ativas
 - Financiamento para construção, aquisição, reforma ou ampliação de imóveis **residenciais**.
 - Repasses de recursos para programas habitacionais (ex.: Minha Casa Minha Vida).
 - Prestação de garantias.
 - Atuação como agente fiduciário em operações de crédito imobiliário.
 
-### Operações passivas (fontes de recursos)
+#### Operações passivas (fontes de recursos)
 - Depósitos de poupança.
 - Emissão de:
   - Letras hipotecárias (LH).
@@ -22,20 +22,18 @@
 - Empréstimos e financiamentos no exterior.
 
 ## Companhia hipotecária (CH)
-
-## Definição e características
 - Instituição financeira que concede financiamentos imobiliários **residenciais e comerciais**.
 - Constituída como sociedade anônima.
 - Denominação social obrigatória: "Companhia Hipotecária".
 - Capital mínimo: R$ 3.000.000,00.
 
-## Operações ativas
+#### Operações ativas
 - Financiamento para aquisição, construção, reforma ou comercialização de imóveis **residenciais e comerciais**.
 - Empréstimos garantidos por hipoteca ou alienação fiduciária.
 - Administração de fundos de investimento imobiliário (autorizados pela CVM).
 - Repasses de recursos para programas imobiliários.
 
-## Operações passivas (fontes de recursos)
+#### Operações passivas (fontes de recursos)
 - Emissão de:
   - Letras hipotecárias (LH).
   - Letras de crédito imobiliário (LCI).
@@ -44,19 +42,17 @@
 - Empréstimos e financiamentos no país e no exterior.
 
 ## Associação de poupança e empréstimo (APE)
-
-### Definição e características
 - Instituição financeira sem fins lucrativos, voltada ao financiamento imobiliário **residencial**.
 - Constituída como sociedade civil.
 - Denominação social obrigatória: "Associação de Poupança e Empréstimo".
 - Capital mínimo: R$ 7.000.000,00.
 
-### Operações ativas
+#### Operações ativas
 - Financiamento para aquisição, construção, reforma ou ampliação de imóveis **residenciais**.
 - Empréstimos vinculados a operações imobiliárias.
 - Aplicações no mercado financeiro (com restrições).
 
-### Operações passivas (fontes de recursos)
+#### Operações passivas (fontes de recursos)
 - Depósitos de poupança.
 - Emissão de:
   - Letras hipotecárias (LH).
@@ -64,7 +60,7 @@
 - Depósitos interfinanceiros.
 - Empréstimos e financiamentos no país e no exterior.
 
-### Comparativo entre SCI, CH e APE
+> ### Comparativo entre SCI, CH e APE
 
 | CARACTERÍSTICA        | SCI                       | CH                                    | APE                       |
 |-----------------------|---------------------------|---------------------------------------|---------------------------|
@@ -74,7 +70,7 @@
 | Depósitos de poupança | Sim                       | Não                                   | Sim                       |
 | Foco principal        | Financiamento residencial | Financiamento residencial e comercial | Financiamento residencial |
 
-### Pontos importantes
+> ### Pontos importantes
 - **SCI:** Foco em financiamento residencial, com captação via depósitos de poupança e emissão de títulos imobiliários.
 - **CH:** Atua tanto no mercado residencial quanto comercial, sem captação de poupança.
 - **APE:** Sem fins lucrativos, voltada ao financiamento residencial, com captação de poupança e emissão de títulos.
