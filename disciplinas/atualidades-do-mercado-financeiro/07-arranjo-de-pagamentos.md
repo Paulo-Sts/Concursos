@@ -17,14 +17,14 @@
 - Também não são sujeitos à supervisão do BC os arranjos para pagamento de serviços públicos (como provisão de água, energia elétrica e gás) ou carregamento de cartões pré-pagos de bilhete de transporte. Incluem-se nessa categoria, ainda, os cartões de vale-refeição e vale-alimentação.  
 - A legislação proíbe que instituições de pagamento prestem serviços privativos de instituições financeiras, como a concessão de empréstimos e financiamentos ou a disponibilização de conta bancária e de poupança. ​
 
-#### Exemplo de Arranjos  
+#### Exemplos de Arranjos  
 - Cartões de crédito, débito e pré-pago.  
 - Transferências (TED, DOC).  
 - Pagamentos instantâneos (PIX).  
 - Cheques e boletos.  
 - Vale refeição e alimentação.
 
-> ### Participantes do Arranjo  
+> ### Participantes do Arranjo 
 
 #### Instituidor do arranjo
 - As instituidoras do arranjo, isto é, aquelas que estabelecem as regras. É o caso das bandeiras de cartão de crédito, que conectam pessoas do mundo inteiro para que o dinheiro do
