@@ -5,7 +5,7 @@
 - **Objetivo:** Evitar que os bancos encerrem o dia com saldo negativo, conforme exigido pelo Banco Central (BC).
 - **Operações:** Bancos com excesso de recursos (superavitários) emprestam para bancos com falta de recursos (deficitários).
 
-### Características das operações
+#### Características das operações
 - **Garantias:**
   - Títulos públicos ou privados são usados como garantia nas operações.
   - Títulos públicos: Prazo de 1 dia (operam com a **taxa Selic Over**).
@@ -17,16 +17,16 @@
  - **Prazo:**
   - Operações de **overnight:** Empréstimos de um dia, com liquidação no dia útil seguinte.
 
-### Registro das operações
+#### Registro das operações
 - As operações são registradas na **B3** (Brasil, Bolsa, Balcão), que incorporou a Cetip (Central de Custódia e de Liquidação Financeira de Títulos).
 - **Cetip:** Segmento da B3 responsável pelo registro de operações com títulos privados.
 
-### Importância do mercado interbancário
+#### Importância do mercado interbancário
 - **Liquidez:** Garante que os bancos mantenham liquidez diária, evitando a necessidade de recorrer ao redesconto do Banco Central (que pode ter taxas mais altas).
 - **Referência para investimentos:** A taxa DI (ou CDI) é usada como benchmark para diversas aplicações financeiras, como fundos de investimento e títulos privados.
 - **Geração de lucro:** A tesouraria dos bancos gerencia essas operações para obter margens de lucro.
 
-### Pontos importantes
+#### Pontos importantes
 - **Taxa CDI:** Principal taxa do mercado interbancário, usada como referência para investimentos.
 - **Operações overnight:** Empréstimos de um dia, com garantia de títulos públicos ou privados.
 - **B3 e Cetip:** Responsáveis pelo registro e liquidação das operações interbancárias.

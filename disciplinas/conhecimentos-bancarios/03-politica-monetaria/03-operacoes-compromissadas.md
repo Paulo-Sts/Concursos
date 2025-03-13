@@ -9,7 +9,7 @@
 - **Prazos:** Geralmente de curto prazo (1 dia, conhecido como **overnight**), mas podem ter prazos maiores.
 - **Garantias:** Títulos públicos federais são usados como lastro nas operações.
 
-### Taxa Selic e Selic Over
+> ### Taxa Selic e Selic Over
 - **Taxa Selic-Meta:**
   - Definida pelo Copom.
   - Serve como referência para todas as taxas de juros da economia.
@@ -17,7 +17,7 @@
   - Média das taxas praticadas nas operações compromissadas de 1 dia.
   - Calculada diariamente no Sistema Especial de Liquidação e Custódia (Selic).
 
-### Canais de transmissão da taxa de juros
+> ### Canais de transmissão da taxa de juros
 - **Aumento da Selic:**
   - Eleva as taxas de juros reais.
   - Reduz o consumo e os investimentos.
@@ -27,7 +27,7 @@
   - Aumenta o consumo e os investimentos.
   - Pode elevar a demanda e os preços, estimulando a economia.
 
-### Pontos importantes
+> ### Pontos importantes
 - **Operações compromissadas:** Ferramenta do BC para controlar a liquidez do mercado, comprando ou vendendo títulos públicos.
 - **Taxa Selic:** Principal instrumento de política monetária, usada para influenciar a inflação e a atividade econômica.
 - **Meta de inflação:** Definida pelo CMN, com intervalo de tolerância. O BC usa a Selic e as operações compromissadas para alcançá-la.

@@ -8,18 +8,18 @@
   - Evitar recessão e deflação.
   - Aumentar o consumo e o investimento.
 
-### Como funciona o QE
+> ### Como funciona o QE
 - **Criação de moeda:** O Banco Central cria moeda eletronicamente (sem imprimir dinheiro físico).
 - **Compra de ativos:** O BC compra títulos públicos e privados de bancos e instituições financeiras.
 - **Aumento da liquidez:** Os bancos recebem mais dinheiro, aumentando sua capacidade de empréstimo.
 - **Redução das taxas de juros:** Com mais dinheiro disponível, as taxas de juros caem, incentivando o consumo e o investimento.
 
-### Exemplos de QE
+> ### Exemplos de QE
 - **Japão (anos 2000):** Primeiro país a usar QE para combater a deflação e a estagnação econômica.
 - **EUA (crise de 2008):** O Federal Reserve (Fed) comprou títulos hipotecários e do Tesouro para estimular a economia.
 - **Europa (pandemia de Covid-19):** O Banco Central Europeu (BCE) lançou o Programa Pandêmico de Compras de Emergência (PEPP), comprando títulos públicos e privados.
 
-### Objetivos do QE
+> ### Objetivos do QE
 - **Aumentar a atividade econômica:**
   - Estimular financiamentos, investimentos e consumo.
   - Evitar recessão.
@@ -28,7 +28,7 @@
 - **Combater a deflação:**
   - Aumentar a demanda e os preços.
 
-### Efeitos do QE
+> ### Efeitos do QE
 
 #### Positivos
 - Aumento da liquidez no mercado.
