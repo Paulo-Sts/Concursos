@@ -2,15 +2,15 @@
 
 ## Mercado bancário
 - O mercado bancário envolve operações ativas, passivas e acessórias realizadas pelos bancos.
-  - **Operações passivas:** Quando o banco capta recursos (ex.: depósitos em poupança ou conta corrente).
-  - **Operações ativas:** Quando o banco empresta recursos (ex.: empréstimos).
-  - **Operações acessórias:** Serviços prestados pelo banco (ex.: cobrança de tarifas).
+- **Operações passivas:** Quando o banco capta recursos (ex.: depósitos em poupança ou conta corrente).
+- **Operações ativas:** Quando o banco empresta recursos (ex.: empréstimos).
+- **Operações acessórias:** Serviços prestados pelo banco (ex.: cobrança de tarifas).
 - A tesouraria gerencia os recursos financeiros do banco, evitando descasamentos (ex.: pagar mais juros na captação do que receber nos empréstimos).
-- O **Acordo de Basileia** regulamenta as atividades bancárias, exigindo separação de passivos e ativos por categorias e margens de segurança.
+- O Acordo de Basileia regulamenta as atividades bancárias, exigindo separação de passivos e ativos por categorias e margens de segurança.
 
-## Operações de tesouraria
+> ### Operações de tesouraria
 - A tesouraria gerencia fluxos de pagamentos e recebimentos para maximizar lucros.
-- Pode ser **setorial** (por agência) ou **central** (geral).
+- Pode ser setorial (por agência) ou central (geral).
 - Funções da tesouraria:
   - Gerenciar recursos financeiros.
   - Separar linhas de negócios conforme regulamentações.
@@ -22,7 +22,7 @@
   - **Pesquisa macroeconômica:** Análise de riscos e tendências econômicas.
   - **Trading:** Negociação de títulos e oportunidades de mercado.
 
-## Varejo bancário
+> ### Varejo bancário
 - Bancos de varejo atendem um grande número de clientes, oferecendo serviços como:
   - Conta corrente e poupança.
   - Empréstimos, seguros e cartões.
