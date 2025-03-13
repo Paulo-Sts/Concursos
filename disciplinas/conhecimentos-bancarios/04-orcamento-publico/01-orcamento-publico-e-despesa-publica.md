@@ -5,14 +5,14 @@
 - **Base legal:** Arts. 165 a 169 da Constituição Federal.
 - **Objetivo:** Garantir que o governo não gaste mais do que arrecada e priorize políticas públicas.
 
-### Receitas do orçamento
+> ### Receitas do orçamento
 - **Receitas ordinárias:** Arrecadação de tributos (impostos, taxas, contribuições).
   - Exemplos: ICMS, IPVA, IPTU (estaduais e municipais); IR, IOF, IPI (federais).
 - **Receitas extraordinárias:** Venda de bens públicos, privatizações, multas.
 - **Receitas vinculadas:** Destinadas a fins específicos (ex.: contribuições para a previdência).
 - **Receitas não vinculadas:** Podem ser usadas livremente pelo governo.
 
-### Elaboração do orçamento
+> ### Elaboração do orçamento
 - **Lei do Plano Plurianual (PPA):**
   - Planejamento para 4 anos.
   - Define diretrizes, prioridades e metas.
@@ -28,7 +28,7 @@
   - Orçamento da seguridade social.
   - Orçamento de investimento das estatais.
 
-### Tipos de orçamento
+> ### Tipos de orçamento
 - **Orçamento autorizativo:**
   - Autoriza o governo a executar obras, se houver recursos.
   - Maior parte do orçamento.
@@ -44,12 +44,12 @@
 - **Déficit orçamentário:** Quando as despesas superam as receitas.
   - Soluções: Emissão de títulos públicos ou empréstimos (ex.: FMI).
 
-### Títulos públicos
+> ### Títulos públicos
 - **Função:** Complementar a receita do Estado para cobrir despesas.
 - **Emissão:** O governo toma dinheiro emprestado da população em troca de títulos.
 - **Objetivo:** Evitar déficits e garantir o pagamento de obrigações (ex.: salários, aposentadorias).
 
-### Fiscalização e transparência
+> ### Fiscalização e transparência
 - **Portal da Transparência:** Permite o acompanhamento das despesas e receitas do governo.
 - **Importância:** Garantir o uso eficiente dos recursos públicos e a melhoria da gestão.
 
