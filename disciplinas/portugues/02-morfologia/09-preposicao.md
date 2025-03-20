@@ -6,6 +6,7 @@
 * A preposição é uma palavra que liga dois termos da oração, estabelecendo uma relação de subordinação entre eles. Ela indica a circunstância em que a ação ou o estado ocorre, como tempo, lugar, modo, causa, finalidade, entre outros. 
 * A preposição é usada antes de um substantivo, pronome ou verbo para conectar esses elementos a outras partes da oração.
 * Preposições podem sofrer fusões com artigos ou pronomes, formando novas preposições.
+* A preposição é uma classe de palavras invariável.
 
 Ex: Carro de mão.
 1. carro = 1ª palavra
