@@ -1,7 +1,7 @@
 # Recursos Argumentativos
 
-## DEFINIÇÃO
-* São formas de fundamentação da elaboração de um posicionamento no texto.
+## Definição
+- São formas de fundamentação da elaboração de um posicionamento no texto.
 
 > ### Citações
 
@@ -30,22 +30,21 @@
 23. "O que não provoca minha morte faz com que eu fique mais forte."(Nietzsche - Filósofo)
 24. "Os limites de minha linguagem significam os limites de meu mundo." (Wittgenstein - Filósofo)
 25. "O importante não é aquilo que fazem de nós, mas o que nós mesmos fazemos do que os outros fizeram de nós."(Sartre - Filósofo)
-26. "A única coisa que podemos ter certeza, é a incerteza." (Bauman - Filósofo)
-27. "Preconceito é opinião sem conhecimento." (Voltaire - Filósofo)
-28. "A inclusão acontece quando se aprende com as diferenças e não com as igualdades." (Paulo Freire - Educador)
-29. "Ler um bom livro é como conversar com as melhores mentes do passado." (Descartes - Filósofo)
-30. "Tornou-se chocantemente óbvio que a nossa tecnologia excedeu a nossa humanidade." (Albert Einstein - Físico)
-31. "Se você não for cuidadoso, os jornais vão acabar te fazendo odiar as pessoas que estão sendo oprimidas e adorar os opressores." (Malcolm X - Ativista)
+26. "Preconceito é opinião sem conhecimento." (Voltaire - Filósofo)
+27. "A inclusão acontece quando se aprende com as diferenças e não com as igualdades." (Paulo Freire - Educador)
+28. "Ler um bom livro é como conversar com as melhores mentes do passado." (Descartes - Filósofo)
+29. "Tornou-se chocantemente óbvio que a nossa tecnologia excedeu a nossa humanidade." (Albert Einstein - Físico)
+30. "Se você não for cuidadoso, os jornais vão acabar te fazendo odiar as pessoas que estão sendo oprimidas e adorar os opressores." (Malcolm X - Ativista)
 
 > ### Dados
-* Tipos de dados:
-  - Alusões históricas
-  - Relação entre fatos, situações ou épocas/lugares diferentes
-  - Dados estatísticos
-  - Exemplos
-  - Fatos comprováveis
-  - Narrativas ilustrativas
-  - Pesquisas
+- Tipos de dados:
+  - Alusões históricas;
+  - Relação entre fatos, situações ou épocas/lugares diferentes;
+  - Dados estatísticos;
+  - Exemplos;
+  - Fatos comprováveis;
+  - Narrativas ilustrativas;
+  - Pesquisas.
 
 Exemplos:
 1. Desemprego de 8% no segundo trimestre 2023, segundo o IBGE.
@@ -60,18 +59,18 @@ Exemplos:
 10. Prática de atividade física de pessoas de 15 anos ou mais em 2015 é de 37.9%, segundo o IBGE.
 11. 21 milhões de pessoas que não tem o que comer todos os dias em 2023 no Brasil, segundo a ONU.
 12. 70,3 milhões de pessoas em insegurança alimentar em 2023 no Brasil, segundo a ONU.
-13. Mulheres e pessoas negras são as que mais sofrem os impactos da desigualdade e também as que menos contam com representação política, no executivo, legislativa e judiciário, segundo o Observatório Brasileiro das Desigualdades.
+13. Mulheres e pessoas negras são as que mais sofrem os impactos da desigualdade e também as que menos contam com representação política, no executivo, legislativo e judiciário, segundo o Observatório Brasileiro das Desigualdades.
 14. 10% mais ricos ganharam 31 vezes o salário dos mais pobres na regiões metropolitanas do país, segundo a 12ª edição do boletim desigualdade nas metrópolis de 2023.
 15. MST é o maior produtor de arroz orgânico do Brasil, segundo a CUT.
 
 > ### Argumentos
-* Tipos de argumentos:
-  - Exemplificação
-  - Enumeração
-  - Comparação
-  - Causas e efeitos
-  - Evolução histórica
-  - Contraposição
+- Tipos de argumentos:
+  - Exemplificação;
+  - Enumeração;
+  - Comparação;
+  - Causas e efeitos;
+  - Evolução histórica;
+  - Contraposição.
 
 Exemplos:
 1. A baixa escolarização do brasileiro.
