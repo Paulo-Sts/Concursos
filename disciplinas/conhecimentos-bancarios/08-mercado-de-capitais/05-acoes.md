@@ -6,15 +6,14 @@
 > ### Tipos de ações
 
 #### Ações ordinárias (ON)
-- **Direito a voto:** Permitem ao acionista participar das decisões da empresa em assembleias.
-- **Dividendos:** Não têm prioridade no recebimento de lucros.
+- Permitem ao acionista participar das decisões da empresa em assembleias (direito a voto).
+- Não têm prioridade no recebimento de lucros (dividendos).
 
 #### Ações preferenciais (PN)
-- **Sem direito a voto:** Em regra, não permitem participação nas decisões da empresa.
-- **Preferência:**
-  - **Dividendos:** Recebem lucros antes dos acionistas ordinários.
-  - **Reembolso de capital:** Prioridade em caso de liquidação da empresa.
-- **Limite de emissão:** Até 50% do capital social da empresa.
+- Em regra, não permitem participação nas decisões da empresa (sem direito a voto).
+- Recebem lucros antes dos acionistas ordinários (dividendos).
+- Tem prioridade no reembolso de capital em caso de liquidação da empresa .
+- As ações preferenciais tem um limite de emissão de até 50% do capital social da empresa.
 
 #### Ações de gozo e fruição
 - Menos comuns, geralmente associadas a direitos específicos, como participação em lucros ou bens da empresa.

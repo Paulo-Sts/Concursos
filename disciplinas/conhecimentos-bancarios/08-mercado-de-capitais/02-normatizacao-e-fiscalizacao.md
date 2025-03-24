@@ -1,8 +1,8 @@
-# Normatização d Fiscalização
+# Normatização e Fiscalização
 
 ## Atuação do CMN no mercado de capitais
 - **Art. 3º da Lei 6.385/1976:** Define políticas, regula crédito e coordena ações com a CVM e o Banco Central.
-- **Art. 4º:** Objetivos incluem proteger investidores, evitar fraudes e assegurar transparência no mercado.
+- **Art. 4º da Lei 6.385/1976:** Objetivos incluem proteger investidores, evitar fraudes e assegurar transparência no mercado.
 
 #### Principais atribuições do CMN e CVM
 - Estimular a poupança e aplicação em valores mobiliários.
@@ -10,7 +10,7 @@
 - Assegurar práticas comerciais equitativas e transparência.
 
 ## Comissão de valores mobiliários (CVM)
-- É uma autarquia federal vinculada ao Ministério da Economia, sob orientação do CMN.
+- É uma autarquia federal vinculada ao Ministério da Fazenda, sob orientação do CMN.
 - Sua administração é composta por um presidente e quatro diretores, nomeados pelo Presidente da República e aprovados pelo Senado Federal.
 - Seu objetivo é proteger o mercado de valores mobiliários, garantir segurança aos investidores e incentivar a capitalização das empresas por meio da emissão de títulos.
 

@@ -21,8 +21,7 @@
 
 > ### Oferta pública x oferta privada
 - **Oferta pública:** Negociação em bolsa de valores, com registro na CVM.
-- **Oferta privada:** Negociação direta, sem necessidade de registro na CVM.
-  - **Conversibilidade:** Em ofertas privadas, a nota comercial pode ser convertida em participação societária (cotas), mas **não em ações**.
+- **Oferta privada:** Negociação direta, sem necessidade de registro na CVM (em ofertas privadas, a nota comercial pode ser convertida em participação societária (cotas), mas **não em ações**).
 
 > ### Diferença entre commercial papers e debêntures
 

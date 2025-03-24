@@ -39,7 +39,7 @@
 - **S.A. de capital aberto:** negocia valores mobiliários em bolsas ou mercado de balcão.
 - **S.A. de capital fechado:** não negocia títulos publicamente, tendo poucos sócios.
 
-## Formas de negociação dos títulos e valores mobiliários
+## Negociação dos títulos e valores mobiliários
 - **Autorização da CVM:** Para negociar títulos, a empresa precisa estar registrada na CVM.
 - **Subscrição pública:** Oferta de títulos para qualquer investidor, com intermediação obrigatória de instituições financeiras.
 - **Subscrição privada:** Oferta restrita a acionistas ou investidores específicos, sem necessidade de intermediação.
@@ -51,8 +51,8 @@
 4. **OPA:** Oferta para aquisição de ações, podendo visar controle ou retirada da bolsa.
 
 ## B3 (Brasil, Bolsa, Balcão)
-É a principal bolsa de valores do Brasil, resultante da fusão entre a BM&FBOVESPA e a CETIP em 2017.
-- Funções:
-  - Negociação de ações, títulos e derivativos.
-  - Registro e custódia de operações financeiras.
-  - Supervisão pela **CVM** (Comissão de Valores Mobiliários).
+- É a principal bolsa de valores do Brasil, resultante da fusão entre a BM&FBOVESPA e a CETIP em 2017.
+- Características:
+  - Realiza a negociação de ações, títulos e derivativos.
+  - Faz o registro e custódia de operações financeiras.
+  - É supervisionada pela **CVM** (Comissão de Valores Mobiliários).

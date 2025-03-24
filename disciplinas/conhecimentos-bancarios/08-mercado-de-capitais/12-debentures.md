@@ -2,8 +2,8 @@
 
 ## Definição
 - São títulos de dívida emitidos por sociedades anônimas (S.A.) para captação de recursos de médio e longo prazo.
-- **Objetivo:** Financiar projetos de expansão, alongamento de dívidas ou capital de giro.
-- **Emitentes:** S.A. de capital aberto (pública) ou fechado (privada, com restrições).
+- Tem como objetivo financiar projetos de expansão, alongamento de dívidas ou capital de giro.
+- Podem emitir debêntures as S.A. de capital aberto (pública) ou fechado (privada, com restrições).
 
 > ### Características das debêntures
 
@@ -26,7 +26,7 @@
 - **Quirografária:** Sem preferência em relação a outros credores.
 - **Subordinada:** Última na fila de pagamento em caso de falência.
 
-### Emissão de debêntures
+> ### Emissão de debêntures
 - **Pública:** Apenas por S.A. de capital aberto, com registro na CVM.
 - **Privada:** Por S.A. de capital fechado, para investidores qualificados (máximo de 27).
 - **Escritura de emissão:** Documento que define os direitos e obrigações dos debenturistas e da empresa.
@@ -46,12 +46,3 @@
   - Isenção de imposto de renda para pessoa física.
   - Setores beneficiados: logística, transporte, saneamento, energia, telecomunicações, etc.
 - **Regulamentação:** Lei n. 12.431/2011.
-
-> ### Garantias das debêntures
-
-| TIPO DE GARANTIA | DESCRIÇÃO                                                               |
-|------------------|-------------------------------------------------------------------------|
-| Real             | Sobre bens específicos da empresa, com preferência em caso de falência. |
-| Flutuante        | Sobre o ativo geral da empresa, mas sem impedir a venda dos bens.       |
-| Quirografária    | Sem preferência, concorrendo em igualdade com outros credores.          |
-| Subordinada      | Última na fila de pagamento, após outros credores e acionistas.         |
