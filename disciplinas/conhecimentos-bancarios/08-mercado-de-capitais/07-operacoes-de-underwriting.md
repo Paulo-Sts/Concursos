@@ -27,3 +27,5 @@
 - Processo de oferta de ações no mercado, tanto no Brasil quanto no exterior.
 - Define o preço das ações com base na demanda dos investidores.
 - Exemplo: A Nubank utilizou o book building para lançar suas ações no Brasil e nos EUA.
+
+**OBSERVAÇÃO:** As operações de underwriting são o lançamento de ações ou debêntures e podem ocorrer no mercado primário ou no secundário.
