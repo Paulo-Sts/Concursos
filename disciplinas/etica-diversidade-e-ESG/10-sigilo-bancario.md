@@ -3,11 +3,13 @@
 ## Introdução
 - A Lei Complementar nº 105/2001 regula o sigilo das operações realizadas por instituições financeiras.
 - As instituições financeiras devem manter sigilo em operações ativas, passivas e serviços prestados.
+- A Lei Complementar nº 105/2001 estabelece regras claras para o sigilo bancário, com exceções para casos específicos.
+- O Banco Central e a CVM têm papel central na fiscalização e no combate a ilícitos financeiros.
 
 ## Operações financeiras
-- **Operações passivas**: Captação de recursos (ex.: depósitos de clientes).
-- **Operações ativas**: Empréstimos ou investimentos dos recursos captados.
-- **Serviços prestados**: Cobrança de tarifas e operações acessórias.
+- Operações passivas: Captação de recursos (ex.: depósitos de clientes).
+- Operações ativas: Empréstimos ou investimentos dos recursos captados.
+- Serviços prestados: Cobrança de tarifas e operações acessórias.
 
 ## Instituições financeiras abrangidas
 - Bancos de qualquer espécie.
@@ -20,14 +22,14 @@
 - Outras sociedades consideradas pelo Conselho Monetário Nacional (CMN).
 
 ## Exceções ao sigilo bancário
-Não constitui violação do sigilo:
-1. Troca de informações entre instituições financeiras para fins cadastrais.
-2. Fornecimento de dados a entidades de proteção ao crédito.
-3. Informações à Receita Federal para identificação de contribuintes.
-4. Comunicação de ilícitos penais ou administrativos às autoridades.
-5. Revelação de informações com consentimento expresso do cliente.
-6. Prestação de informações conforme a Lei Complementar nº 105.
-7. Fornecimento de dados para formação de histórico de crédito.
+- Não constitui violação do sigilo:
+  - Troca de informações entre instituições financeiras para fins cadastrais.
+  - Fornecimento de dados a entidades de proteção ao crédito.
+  - Informações à Receita Federal para identificação de contribuintes.
+  - Comunicação de ilícitos penais ou administrativos às autoridades.
+  - Revelação de informações com consentimento expresso do cliente.
+  - Prestação de informações conforme a Lei Complementar nº 105.
+  - Fornecimento de dados para formação de histórico de crédito.
 
 ## Quebra de sigilo
 - Pode ser decretada para investigação de crimes como:
@@ -50,7 +52,3 @@ Não constitui violação do sigilo:
 ## Operações financeiras informadas à Receita Federal
 - Incluem depósitos, pagamentos, empréstimos, aplicações, transferências e operações com cartões de crédito.
 - As informações devem ser globais, sem detalhes que identifiquem a origem ou natureza dos gastos.
-
-## Conclusão
-- A Lei Complementar nº 105/2001 estabelece regras claras para o sigilo bancário, com exceções para casos específicos.
-- O Banco Central e a CVM têm papel central na fiscalização e no combate a ilícitos financeiros.
