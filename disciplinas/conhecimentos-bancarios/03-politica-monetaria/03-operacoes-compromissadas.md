@@ -1,7 +1,7 @@
 # Operações compromissadas
 
 ## Definição e características
-- Operações em que o Banco Central vende títulos públicos com o compromisso de recomprá-los em data futura, acrescidos de juros.
+- Operações em que o Banco Central compra e vende títulos públicos com o compromisso de recomprá-los em data futura, acrescidos de juros.
 - **Objetivo:** Controlar a liquidez do mercado, aumentando ou reduzindo a oferta de moeda.
 - **Funcionamento:**
   - **Enxugamento de liquidez:** O BC vende títulos para retirar dinheiro do mercado, reduzindo a oferta de moeda e aumentando os juros.

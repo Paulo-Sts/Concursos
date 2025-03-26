@@ -14,7 +14,7 @@
   - **CDI (Certificado de Depósito Interbancário):** Taxa de juros cobrada nos empréstimos interbancários.
   - **DI (Depósito Interbancário):** Média das taxas de juros praticadas no mercado interbancário.
   - A taxa CDI é ligeiramente inferior à taxa Selic (em torno de 0,1% a 0,15% ao ano).
- - **Prazo:**
+- **Prazo:**
   - Operações de **overnight:** Empréstimos de um dia, com liquidação no dia útil seguinte.
 
 #### Registro das operações

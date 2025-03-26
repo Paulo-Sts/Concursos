@@ -6,67 +6,67 @@
   - Estimula o consumo, o PIB e o emprego.
   - Pode gerar inflação.
 
-| EFEITOS                         | INSTRUMENTOS                                                          |
-|---------------------------------|-----------------------------------------------------------------------|
-| Aumenta a oferta monetária.     | **C**ompra de títulos públicos.                                       |
-| Aumenta o consumo das famílias. | **R**edução do compulsório.                                           |
-| Aumenta o PIB, o emprego.       | **R**edução do redesconto.                                            |
-| Aumenta a inflação.             | **R**ealização de quantitative easing (instrumento não convencional). |
-|                                 | **Q**ueda da taxa Selic.                                              |
+| INSTRUMENTOS                                                          | EFEITOS                         |
+|-----------------------------------------------------------------------|---------------------------------|
+| **C**ompra de títulos públicos.                                       | Aumenta a oferta monetária.     |
+| **R**edução do compulsório.                                           | Aumenta o consumo das famílias. |
+| **R**edução do redesconto.                                            | Aumenta o PIB, o emprego.       |
+| **R**ealização de quantitative easing (instrumento não convencional). | Aumenta a inflação.             |
+| **Q**ueda da taxa Selic.                                              |                                 |
 
 - **Restricionista:**
   - Reduz a oferta monetária.
   - Desacelera o consumo, o PIB e o emprego.
   - Controla a inflação.
 
-| EFEITOS                       | INSTRUMENTOS                                                          |
-|-------------------------------|-----------------------------------------------------------------------|
-| Diminui a oferta monetária.   | **V**enda de títulos públicos.                                        |
-| Diminui consumo das famílias. | **A**umento do compulsório.                                           |
-| Diminui o PIB, os empregos.   | **A**umento do redesconto.                                            |
-| Diminui a inflação.           | **D**epósitos voluntários remunerados (instrumento não convencional). | 
-|                               | **A**umento da taxa Selic.                                            |
+| INSTRUMENTOS                                                          | EFEITOS                       |
+|-----------------------------------------------------------------------|-------------------------------|
+| **V**enda de títulos públicos.                                        | Diminui a oferta monetária.   |
+| **A**umento do compulsório.                                           | Diminui consumo das famílias. |
+| **A**umento do redesconto.                                            | Diminui o PIB, os empregos.   |
+| **D**epósitos voluntários remunerados (instrumento não convencional). | Diminui a inflação.           | 
+| **A**umento da taxa Selic.                                            |                               |
 
-**DICA:** Usar a sigla CRRRQ para lembras dos instrumentos de política expansionista e VAADA para instrumentos de política restricionista.
+**DICA:** Usar a sigla CRRRQ para lembrar dos instrumentos de política expansionista e VAADA para instrumentos de política restricionista.
 
 > ### Instrumentos clássicos
 
 #### Depósito compulsório
-- **Definição:** Parte dos depósitos bancários que os bancos são obrigados a manter no Banco Central.
-- **Efeitos:**
+- Parte dos depósitos bancários que os bancos são obrigados a manter no Banco Central.
+- Efeitos:
   - **Aumento do compulsório:** Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
   - **Redução do compulsório:** Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
 
 #### Redesconto
-- **Definição:** Empréstimos do Banco Central aos bancos comerciais para garantir liquidez.
-- **Efeitos:**
+- Empréstimos do Banco Central aos bancos comerciais para garantir liquidez.
+- Efeitos:
   - **Aumento da taxa de redesconto:** Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
   - **Redução da taxa de redesconto:** Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
 
 #### Operações de mercado aberto (Open Market)
-- **Definição:** Compra e venda de títulos públicos pelo Banco Central para regular a oferta de moeda.
-- **Efeitos:**
+- Compra e venda de títulos públicos pelo Banco Central para regular a oferta de moeda.
+- Efeitos:
   - **Venda de títulos:** Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
   - **Compra de títulos:** Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
 
 #### Taxa Selic
-- **Definição:** Taxa básica de juros da economia, definida pelo Copom.
-- **Efeitos:**
+- Taxa básica de juros da economia, definida pelo Copom.
+- Efeitos:
   - **Aumento da Selic:** Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
   - **Redução da Selic:** Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
 
 > ### Instrumentos não convencionais
 
 #### Quantitative Easing (QE)
-- **Definição:** Compra de ativos financeiros (como títulos públicos e privados) pelo Banco Central para aumentar a oferta de moeda.
-- **Efeitos:**
+- Compra de ativos financeiros (como títulos públicos e privados) pelo Banco Central para aumentar a oferta de moeda.
+- Efeitos:
   - Aumenta a liquidez do mercado.
   - Reduz as taxas de juros de longo prazo.
   - Estimula o consumo e o investimento.
 
 #### Depósitos remunerados
-- **Definição:** Depósitos voluntários de instituições financeiras no Banco Central, remunerados por uma taxa de juros.
-- **Efeitos:**
+- Depósitos voluntários de instituições financeiras no Banco Central, remunerados por uma taxa de juros.
+- Efeitos:
   - **Aumento dos depósitos remunerados:** Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
   - **Redução dos depósitos remunerados:** Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
 
@@ -80,8 +80,3 @@
 | Taxa Selic            | Diminui oferta de moeda, aumenta juros, reduz consumo.  | Aumenta oferta de moeda, reduz juros, estimula consumo. |
 | Quantitative Easing   | Aumenta oferta de moeda, reduz juros, estimula consumo. | -                                                       |
 | Depósitos remunerados | Diminui oferta de moeda, aumenta juros, reduz consumo.  | Aumenta oferta de moeda, reduz juros, estimula consumo. |
-
-> ### Pontos importantes
-- **Instrumentos clássicos:** Depósito compulsório, redesconto, open market e taxa Selic são os principais mecanismos de controle da oferta de moeda.
-- **Instrumentos não convencionais:** Quantitative Easing e depósitos remunerados são usados em situações excepcionais para estimular ou controlar a economia.
-- **Expansionista x Restritiva:** A política expansionista aumenta a oferta de moeda e estimula a economia, enquanto a restritiva reduz a oferta de moeda e controla a inflação.
