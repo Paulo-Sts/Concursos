@@ -14,8 +14,8 @@
 * Para outras autoridades, usa-se "Senhor" seguido do cargo (ex.: "Senhor Governador").
 
 > ### Observações
-* "Digníssimo" e "Ilustríssimo"** não são mais usados para autoridades, pois ocupantes de cargos públicos já são considerados dignos e ilustres.
-* O vocativo usado se referir a particulares pode ser "Senhor" ou "Prezado Senhor" seguido do nome.
+* "Digníssimo" e "Ilustríssimo" não são mais usados para autoridades, pois ocupantes de cargos públicos já são considerados dignos e ilustres.
+* O vocativo usado para se referir a particulares pode ser "Senhor" ou "Prezado Senhor" seguido do nome.
 * "Doutor" é termo acadêmico, não é forma de tratamento oficial. Apenas quem concluiu doutorado deve ser chamado assim.
 * O vocativo deve ser sempre isolado por vírgulas. Esse é um princípio fundamental que deve ser memorizado e aplicado corretamente.
 * Na redação oficial, o vocativo “Excelentíssimo Senhor” é reservado exclusivamente para os chefes dos três Poderes em âmbito federal.

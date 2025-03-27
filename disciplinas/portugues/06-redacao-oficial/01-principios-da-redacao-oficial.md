@@ -3,8 +3,8 @@
 <br>
 
 ## DEFINIÇÃO
-* redação oficial é a maneira pela qual o poder público redige atos normativos e comunicações.
-* Três norteiam a elaboração de expedientes oficiais:
+* Redação oficial é a maneira pela qual o poder público redige atos normativos e comunicações.
+* Três princípios norteiam a elaboração de expedientes oficiais:
   - Impessoalidade: O texto não pode conter marcas subjetivas, expressar opiniões, uma vez que provém sempre de um mesmo comunicador: a Administração Pública.
   - Publicidade: Relacionada à clareza do texto, ou seja, não se pode ter duplicidade de interpretações, a fim de que todos que tenham acesso ao texto o interpretem da mesma forma.
   - Eficiência: A redação oficial precisa ser eficiente. Segundo o manual, não existem assuntos urgentes, mas assuntos atrasados.

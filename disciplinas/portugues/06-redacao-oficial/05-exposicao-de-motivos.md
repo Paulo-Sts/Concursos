@@ -20,16 +20,16 @@
 * O atendimento dos requisitos do Decreto nº 9.191, de 2017, nas exposições de motivos que proponham a edição de ato normativo, tem como propósito:
   - Permitir a adequada reflexão sobre o problema que se busca resolver;
   - Ensejar avaliação das diversas causas do problema e dos efeitos que podem ter a adoção da medida ou a edição do ato, em consonância com as questões que devem ser analisadas na elaboração de proposições normativas no âmbiro do Poder Executivo;
-  - Conferir transparência aot atos propostos;
+  - Conferir transparência aos atos propostos;
   - Resumir os principais aspectos da proposta;
   - Evitar a devolução a proposta de ato normativo para complementação ou reformulação da proposta.
 * A exposição de motivos é a principal modalidade de comunicação dirigida ao Presidente da República pelos ministros. Além disso, pode, em certos casos, ser encaminhada cópia ao Congresso Nacional ou ao Poder Judiciário.
 
 ## MENSAGEM
-* A mensagem é o instrumento de comunicação oficial entre os Chefes dos Poderes Públicos, notadamente as mensagens enviadas pelo Chefe do Poder Executivo ao Poder Legislativo para informar sobre fato da administração pública; para expor o plano de foverno por ocasião da abertura de sessão legislativa; para submeter ao Congresso Nacional matérias que dependem de deliberação de suas Casas; para apresentar veto; enfim; fazer comunicações do que seja de interesse dos Poderes Públicos e da Nação.
+* A mensagem é o instrumento de comunicação oficial entre os Chefes dos Poderes Públicos, notadamente as mensagens enviadas pelo Chefe do Poder Executivo ao Poder Legislativo para informar sobre fato da administração pública; para expor o plano de governo por ocasião da abertura de sessão legislativa; para submeter ao Congresso Nacional matérias que dependem de deliberação de suas Casas; para apresentar veto; enfim; fazer comunicações do que seja de interesse dos Poderes Públicos e da Nação.
 
 ## CORREIO ELETRÔNICO
-* A utilização do e-mail para a comunicação tornou-se prática comum, não só em âmbiro privado, mas também na administração pública. O termo e-mail pode ser empregado com três sentidos. 
+* A utilização do e-mail para a comunicação tornou-se prática comum, não só em âmbito privado, mas também na administração pública. O termo e-mail pode ser empregado com três sentidos. 
 * Dependendo do contexto, pode significar gênero textual, endereço eletrônico ou sistema de transmissão de mensagem eletrônica.
 * Como gênero textual, o e-mail pode ser considerado um documento oficial, assim como o ofício. Portanto, deve-se evitar o uso de linguagem incompatível com a comunicação oficial.
 * Como endereço eletrônico utilizado pelos servidores públicos, o e-mail deve ser oficial, utilizando-se a extensão ".gov.br", por exemplo.
@@ -37,5 +37,5 @@
 
 #### Valor domumental
 * Nos termos da Medida Provisória n° 2.200-2, de 24 de agosto de 2001, para que o e-mail tenha valor documental, isto é, para que possa ser aceito como documento original, é necessário existir certificação digital que ateste a identidade do remetente, segundo os parâmentros de integridade, autenticidade e validade jurídica da infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).
-* O destinatário poderá reconhecer como válido o e-mail sem certificação digital ou com certificação digital fora ICP-Brasil; contudo, caso haja questionamento, será obrigatório a repetição do ato por meio documento físico assinado ou por meio eletrônico reconhecido pela ICP-Brasil.
+* O destinatário poderá reconhecer como válido o e-mail sem certificação digital ou com certificação digital fora ICP-Brasil; contudo, caso haja questionamento, será obrigatório a repetição do ato por meio de documento físico assinado ou por meio eletrônico reconhecido pela ICP-Brasil.
 * Salvo lei específica, não é dado ao ente público impor a aceitação de documento eletrônico que não atenda os parâmetros da ICP-Brasil.
