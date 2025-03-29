@@ -27,4 +27,4 @@
 
 #### Vantagens
 - **Para o credor:** Segurança na garantia, pois detém a propriedade do bem.
-- **Para o devedor:** Possibilidade de usar o bem enquanto paga a dívida.f
+- **Para o devedor:** Possibilidade de usar o bem enquanto paga a dívida.
