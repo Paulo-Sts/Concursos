@@ -1,8 +1,6 @@
 # Sujeito
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * O sujeito é o termo da oração com o qual o verbo estabelece concordância (concordância verbal).
 * O sujeito é o termo que orienta os demais elementos da oração, não podendo ser subordinado a nenhum outro termo. Dessa forma o sujeito não pode ser preposicionado.
 * O núcleo do sujeito é um substantivo sem preposição. O verbo da oração concorda com o sujeito e com o núcleo do sujeito.

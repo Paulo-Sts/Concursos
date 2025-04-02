@@ -1,8 +1,6 @@
 # Sinais de Pontuação
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * Sinais de pontuação são marcas gráficas que indicam pausas, entonações e inflexões da voz. 
 
 #### Etapas na análise da pontuação
@@ -10,7 +8,7 @@
 2. Econtrar o sujeito.
 3. Encontrar o complemento verbal.
 
-## TIPOS DE SINAIS
+## Tipos de sinais
 
 > ### Vírgula 
 * A vírgula é usada para separar elementos dentro de uma frase. Sua principal função é indicar uma pausa curta, facilitando o entendimento da estrutura da oração.
@@ -27,7 +25,7 @@
 | Separar orações coordenadas sindéticas aditivas (com sujeitos diferentes). | O professor explicou a matéria, e os alunos tiraram dúvidas.                   |
 | Isolar adjuntos adverbiais deslocados.                                     | No fim do dia, todos estavam cansados./Todos estavam, no fim do dia, cansados. |
 
-***DICA:*** Adjunto advérbial pode estar em qualquer posição da oração. Para adjuntos com até duas palavras no início ou no meio da oração, as vírgulas são facultativas. A partir de três palavras as vírgulas são obrigatórias.
+**DICA:** Adjunto advérbial pode estar em qualquer posição da oração. Para adjuntos com até duas palavras no início ou no meio da oração, as vírgulas são facultativas. A partir de três palavras as vírgulas são obrigatórias.
 
 #### Uso proibído da vírgula  
 

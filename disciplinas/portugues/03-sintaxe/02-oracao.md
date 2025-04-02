@@ -1,8 +1,6 @@
 # Oração
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * Oração é toda frase que possui um verbo, podendo ser incluse formada apenas pelo verbo. 
 * Na formação de orações o verbo é a palavra mais importante, pois organiza toda a oração, indica o sujeito da oração ou se a oração possui sujeito, quais os complementos (se houver) e os adjuntos adverbiais (se houverem).
 * Períodos com uma oração na sintaxe são chamados de período simples. Períodos com mais de uma oração são conhecidos como período composto. Cada uma apresenta uma forma de análise sintática.
@@ -14,7 +12,7 @@
 * Ordem direta da oração:
   - Sujeito + verbo + complemento + adjunto adverbial
 
-## TERMOS DA ORAÇÃO
+## Termos da oração
 
 > ### Termos essenciais da oração  
 * Sujeito:  

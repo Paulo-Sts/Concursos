@@ -1,8 +1,6 @@
 # Concordância Verbal
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * A concordância verbal se refere à adequação do verbo ao sujeito em número (singular/plural) e pessoa (1ª, 2ª ou 3ª pessoa).
 
 > ### Regras de concordância
@@ -15,7 +13,7 @@
   - O **aluno estuda** bastante. (Sujeito no singular = verbo no singular)
   - Os **alunos estudam** bastante. (Sujeito no plural = verbo no plural)
 
-***DICA:*** O núcleo do sujeito inicia sem preposição. É substantivo ou pronome.
+**DICA:** O núcleo do sujeito inicia sem preposição. É substantivo ou pronome.
 
 #### Sujeito simples com sujeito após o verbo (posposto)
 * O núcleo do sujeito conjuga o verbo.
@@ -45,7 +43,7 @@
   - Hoje, **1,5%** da população não **sabe** ler. ✅
   - Hoje, 1,5% da **população** não **sabem** ler. ❌ 
 
-**Observação:** Qualquer valor abaixo de 2 é sempre no singular.
+**OBSERVAÇÃO:** Qualquer valor abaixo de 2 é sempre no singular.
 
 #### Sujeito composto com oração em ordem direta
 * O verbo fica no plural.

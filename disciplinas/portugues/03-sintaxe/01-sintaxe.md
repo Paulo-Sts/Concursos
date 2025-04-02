@@ -1,8 +1,6 @@
 # Sintaxe
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * A sintaxe é o estudo das funções das palavras, ou seja, trata da organização das palavras em seu contexto aplicado.
 * O estudo da sintaxe é formado pela:
   - Função sintática;
@@ -14,7 +12,7 @@
 #### Análise sintática
 * A análise sintática é o estudo da função de cada termo de uma oração.
 
-## CONCEITOS FUNDAMENTAIS
+## Conceitos fundamentais
 
 > ### Frase
 * Frase é todo o enunciado que tem sentido completo e termina com uma pausa pontuada.

@@ -1,8 +1,6 @@
 # Colocação Pronominal
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * A colocação pronominal são um conjunto de regras que determinam a posição adequada do pronome oblíquo átono em relação ao verbo. O Pronome pode estar inserido antes do verbo (próclise), no meio do verbo (mesóclise) o cortando ou após o verbo (ênclise) sendo ligado a ele por hífen.
 
 > ### Próclise
@@ -21,7 +19,7 @@
 | Pronomes indefinidos (tudo, todos, algo, qualquer, vários...)               |
 | Conjunções subordinativas (que, se, quando, como...)                        |
 | Frases exclamativas                                                         |
-| Preposição *em* + *verbo no gerúndio*                                       |
+| Preposição ***em*** + ***verbo no gerúndio***                               |
 
 Ex: Nada **te** assusta mais.  
 Ex: Sempre **se** quer mais.  
@@ -39,9 +37,9 @@ Ex: Sente-**se** agora e coma!
 Ex: Sorriu, sentindo-**se** livre.  
 Ex: Convém dar-**me** uma resposta agora.  
 
-***DICA:*** Para verificar a ocorrência de próclise, deve-se observar o verbo e analisar as palavras que o antecedem, para ver se existe alguma palavra atrativa que condiciona o pronome a ficar antes do verbo.
+**DICA:** Para verificar a ocorrência de próclise, deve-se observar o verbo e analisar as palavras que o antecedem, para ver se existe alguma palavra atrativa que condiciona o pronome a ficar antes do verbo.
 
-**Observação:** Nas situações em que não existe uma palavra atrativa que obrigue o adiantamento do pronome ou em que não haja a proibição do adiantamento do pronome, o uso da próclise se torna facultativo.
+**OBSERVAÇÃO:** Nas situações em que não existe uma palavra atrativa que obrigue o adiantamento do pronome ou em que não haja a proibição do adiantamento do pronome, o uso da próclise se torna facultativo.
 
 > ### Mesóclise
 * A mesóclise ocorre quando o pronome aparece no meio do verbo, cortando a palavra. O pronome é ligado ao verbo por hífen nesse caso (tanto antes quanto depois, já que está no meio da palavra). A mesóclise é muito rara, sendo uma ocorrência que vem caindo em desuso.
@@ -63,7 +61,7 @@ Ex: Chegou-**se** cedo hoje.
 Ex: Tirem-**no** daqui imediatamente!  
 Ex: Essa música exige muita potência vocal. Cantá-la não é para qualquer um.
 
-**Observação:** Para locuções verbais, se o verbo for *verbo auxiliar + verbo principal no infinitivo ou gerúndio* a ocorrência da colocação pronominal poderá ser de próclise e ênclise  voltado para o verbo auxiliar, ou de ênclise para o verbo principal.. Se o verbo for *verbo auxiliar + verbo principal no particípio* a ocorrência da colocação pronominal ocorrerá em relação ao verbo auxiliar.
+**OBSERVAÇÃO:** Para locuções verbais, se o verbo for ***verbo auxiliar + verbo principal no infinitivo ou gerúndio*** a ocorrência da colocação pronominal poderá ser de próclise e ênclise  voltado para o verbo auxiliar, ou de ênclise para o verbo principal.. Se o verbo for ***verbo auxiliar + verbo principal no particípio*** a ocorrência da colocação pronominal ocorrerá em relação ao verbo auxiliar.
 
 Ex: Ela **me** estava irritando demais!  
 Ex: Estava irritando-**me** demais!  

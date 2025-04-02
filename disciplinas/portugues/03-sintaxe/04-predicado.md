@@ -1,8 +1,6 @@
 # Predicado
 
-<br>
-
-## DEFINIÇÃO
+## Definição
 * O predicado é a parte da oração que contém o verbo e que atribui uma ação, estado ou qualidade ao sujeito. 
 * O verbo é o elemento central do predicado, e a classificação do predicado depende do tipo de verbo e de como ele interage com o sujeito e os complementos.
 * Em uma oração, o predicado sempre está associado ao sujeito e, em conjunto, expressam a ideia completa da ação ou estado descrito. 
