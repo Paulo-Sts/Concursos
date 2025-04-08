@@ -1,9 +1,10 @@
 # Orçamento Público e Despesa Pública
 
 ## Orçamento Público
-- Instrumento de planejamento que estima as receitas e fixa as despesas do governo para o próximo ano.
-- Sua baase legal são os Arts. 165 a 169 da Constituição Federal.
-- Seu objetivo é garantir que o governo não gaste mais do que arrecada e priorize políticas públicas.
+- Instrumento de planejamento que estima as receitas e fixa as despesas do governo para o próximo ano. O Orçamento público é o instrumento utilizado pelo Governo Federal para planejar a utilização do dinheiro arrecadado com os tributos.
+- Sua base legal são os Arts. 165 a 169 da Constituição Federal.
+- O planejamento é uma das tarefas essenciais da gestão governamental. É por meio dele que se definem as estratégias para orientar o rumo que se deseja para o país e são definidas as prioridades do Governo Federal. 
+- O planejamento é um espaço político decisório no qual o governo decide, em resposta às demandas da sociedade, quais políticas públicas serão implementas para solucionar problemas e aproveitar oportunidades.
 
 > ### Receitas do orçamento
 - Receitas ordinárias: Arrecadação de tributos (impostos, taxas, contribuições).
@@ -20,7 +21,7 @@
 - Entra em vigor no segundo ano de mandato presidencial.
 
 #### Lei de Diretrizes Orçamentárias (LDO)
-- Define metas e prioridades para o ano seguinte.
+- Define metas e prioridades para o ano seguinte, além de trazer obrigações de transparência.
 - Deve ser aprovada até 17 de julho.
 
 #### Lei Orçamentária Anual (LOA)
