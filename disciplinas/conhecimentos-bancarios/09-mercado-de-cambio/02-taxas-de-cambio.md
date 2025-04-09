@@ -82,6 +82,22 @@
 - Empresas estrangeiras remetendo lucros para suas matrizes.  
 - Remessas de brasileiros para o exterior.  
 
+## Diferencial de juros interno e externo
+- Juros internos são os juros praticados no Brasil e os externos são os juros praticados no exterior.
+- Geralmente as taxas de juros domésticas são maiores que as taxas de juros praticadas no exterior (países de primeiro mundo). 
+- Nesse sentido, é como se o mundo entendesse que aplicar no Brasil oferece maior risco do que se aplicar nos EUA, por exemplo.
+- Por essa razão é natural que haja uma maior entrada de recursos estrangeiros quando houver uma elevação nas taxas de juros domésticas, em especial a taxa selic.
+- O investidor irá comparar a taxa de juros praticada nos EUA com a praticada no Brasil e decidirá investir no Brasil se o ganho dele for substancialmente maior, é o chamado Prêmio de risco.
+
+#### Premio de risco
+- O prêmio de risco é o quanto a mais de juros será ganho por investir no Brasil e não em seu país.
+- É o prêmio pago ao investidor que decidiu aplicar em um ativo arriscado em vez de deixar seu dinheiro em uma aplicação sem risco.
+- A lógica é que quanto mais arriscado for uma aplicação, maior o prêmio de risco oferecido.
+- Exemplo: 
+  - Brasil: 14,25%
+  - EUA: 3% 
+  - Prêmio de risco: 14,25 - 3 = 11,25%
+
 ## Fluxo de capitais e impacto nas taxas de câmbio  
 
 #### Entrada de capital estrangeiro  
