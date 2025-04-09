@@ -27,13 +27,50 @@
 
 ## Taxa de câmbio nominal vs. real  
 
-#### Taxa nominal  
+#### Taxa de câmbio nominal  
 - Relação de valor entre duas moedas, sem considerar a inflação;  
 - Exemplo: US$ 1,00 = R$ 5,00.  
 
-#### Taxa real  
+#### Taxa de câmbio real  
 - Considera a inflação interna e externa;  
 - Reflete o poder de compra de uma moeda em relação à outra.  
+- Representação:
+  - Câmbio real = (câmbio nominal . inflação externa)/inflação interna
+- Relação:
+  - Câmbio nominal > câmbio real = real subvalorizado
+  - Câmbio nominal < câmbio real = real valorizado
+  - Câmbio nominal = câmbio real = real e dólar em paridade de compra
+
+Ex: Qual o câmbio real e qual a situação existente?
+
+DADOS:
+câmbio nominal = R$ 5,00
+inflação interna = 10%
+inflação externa = 5%
+câmbio real = 2,50
+
+1. CR = (5 . 0,05)/0,1 = 2,50
+2. Logo o real está desvalorizado em relação ao dólar. A inflação brasileira torna o real desvalorizado em relação ao dólar. 
+
+Ex: Qual o câmbio real e qual a situação existente?
+
+DADOS:
+câmbio nominal = R$ 3,00
+inflação interna = 5%
+inflação externa = 5%
+câmbio real = 3,00
+
+1. CR = (3 . 0,05)/0,05 = 3,00
+2. A inflação descontada por ser igual torna a taxa nominal e real as mesmas em relação ao dólar. 
+
+DADOS:
+câmbio nominal = R$ 5,00
+inflação interna = 2%
+inflação externa = 5%
+câmbio real = 7,50
+
+1. CR = (5 . 0,05)/0,02 = 7,50
+2. Indica que o real está valorizado, pois descontada a inflação a taxa real é maior que a taxa nominal. Nessa situação são necessários menos reais para se ter dólares. 
 
 ## Variação da taxa de câmbio  
 - Influenciada pela oferta e demanda de moeda estrangeira;  
