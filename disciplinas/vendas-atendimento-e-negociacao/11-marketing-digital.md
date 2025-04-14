@@ -95,11 +95,19 @@ Técnicas psicológicas para aumentar conversões. Exemplos:
 
 ---
 
-## 🧲 7. Inbound Marketing
+## 🧲 7. Inbound Marketing e Geração de Leads
 
 ### Conceito
 - Também conhecido como **Marketing de Atração**
 - Atrai visitantes com conteúdo relevante e os transforma em leads
+
+### Lead 
+- Cliente potencial que fornece dados (ex.: e-mail em troca de um e-book).
+- Técnicas para Geração de Leads:
+  - Marketing de conteúdo.
+  - SEO.
+  - Landing pages com formulários.
+  - E-mail marketing.
 
 ### Etapas:
 1. **Atração**: SEO, mídias sociais, blogs
@@ -129,3 +137,4 @@ Técnicas psicológicas para aumentar conversões. Exemplos:
 ---
 
 Se quiser, posso dividir por arquivos ou gerar esse conteúdo como `.md` completo pra baixar. Quer seguir assim?
+
