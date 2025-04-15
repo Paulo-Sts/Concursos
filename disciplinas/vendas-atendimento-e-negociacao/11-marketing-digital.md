@@ -92,8 +92,35 @@ Técnicas psicológicas para aumentar conversões. Exemplos:
 - **Reciprocidade**: “Baixe o e-book gratuito”
 - **Compromisso**: “Comece agora e continue com nosso apoio”
 - **Novidade**: “Conheça nosso novo curso!”
-
----
+• Urgência: Relaciona-se ao tempo. Cria a percepção de que a ação deve ser tomada
+imediatamente para evitar perder uma oportunidade. Exemplo Prático: “Compre
+nas próximas 2 horas para garantir seu desconto!”
+• Escassez: Relaciona-se a quantidade. Sugere que um produto ou oferta é limitada,
+aumentando seu valor percebido devido à sua raridade. Exemplo Prático: “Restam
+apenas 5 peças em estoque!”
+• Ancoragem: Usa uma informação inicial como ponto de referência (âncora) para
+decisões subsequentes. É comum em precificação, onde o primeiro preço visto
+influencia a percepção de valor subsequente. Exemplo Prático: Mostrar o preço “original” alto ao lado do preço de venda para destacar o desconto significativo.
+• Prova Social: As pessoas olham para o comportamento dos outros para guiar suas
+próprias ações, especialmente em situações de incerteza. Exemplo Prático: “Mais de
+10.000 clientes satisfeitos!”
+• Surpresa: Oferece algo inesperado para capturar a atenção e estimular o engajamento. Exemplo Prático: “Compre um livro e receba, grátis, um livro surpresa!”
+• Conformidade: Baseia-se na tendência natural das pessoas de seguir normas sociais
+e se encaixar, seguindo o comportamento da maioria. Exemplo Prático: “Junte-se a
+milhares que já mudaram suas vidas com nosso curso!”
+• Autoridade: Pessoas tendem a seguir o conselho de especialistas ou autoridades
+no assunto. Exemplo Prático: “Recomendado por renomados nutricionistas em
+todo o mundo.”
+• Reciprocidade: As pessoas sentem-se obrigadas a retribuir depois de receberem algo.
+Exemplo Prático: “Baixe nosso e-book gratuito e comece sua jornada para o sucesso!”
+• Afinidade: As pessoas preferem concordar e seguir indivíduos ou marcas com as
+quais se identificam ou gostam. Exemplo Prático: “Criado por entusiastas do fitness
+para amantes do fitness como você.”
+• Antecipação: Criar expectativa e excitação sobre o que está por vir. Exemplo Prático: “Algo grande está chegando... Inscreva-se para ter acesso antecipado!”
+• Compromisso e Consistência: Uma vez que uma pessoa se compromete, ela é mais
+propensa a agir de forma consistente com esse comprometimento. Exemplo Prático: “Comprometa-se com sua saúde hoje e veja a transformação acontecer.”
+• Novidade: A novidade atrai a atenção e o interesse, pois as pessoas são naturalmente curiosas sobre coisas novas e diferentes. Exemplo Prático: “Apresentando
+nosso produto mais inovador até agora!”
 
 ## 🧲 7. Inbound Marketing e Geração de Leads
 
