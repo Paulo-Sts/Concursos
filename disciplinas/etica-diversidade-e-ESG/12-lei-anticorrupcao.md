@@ -70,96 +70,89 @@
 
 ## Decreto nº 11.129/2022 – Regulamentação da Lei Anticorrupção
 
-> ### Objetivo
-- Regulamentar a responsabilização administrativa e civil de pessoas jurídicas por atos lesivos contra a administração pública, nacional ou estrangeira, conforme a Lei nº 12.846/2013.
+> ### 📌 Finalidade
+- Regulamenta a **Lei nº 12.846/2013** (Lei Anticorrupção).
+- Trata da **responsabilização objetiva administrativa e civil** de pessoas jurídicas por **atos lesivos contra a administração pública nacional ou estrangeira**.
 
-> ### Aplicabilidade
-- Ato Lesivo: Aplica-se a atos praticados por pessoas jurídicas brasileiras contra a administração pública estrangeira, mesmo no exterior, ou que produzam efeitos no Brasil.
-- Responsabilidade: Pessoas jurídicas com sede, filial ou representação no Brasil, mesmo que temporárias.
+> ### 🧍‍♂️ Abrangência
+- Aplica-se a **todas as pessoas jurídicas**, com ou sem fins lucrativos, inclusive:
+  - Sociedades empresárias e simples;
+  - Fundações, associações, entidades e filiais estrangeiras no Brasil.
+- Alcança atos lesivos:
+  - No Brasil ou exterior;
+  - Contra administração nacional ou estrangeira;
+  - Que produzam efeitos no Brasil.
 
-> ### Processo Administrativo de Responsabilização (PAR)
-- Finalidade: Apurar atos lesivos e aplicar sanções administrativas.
-- Instauração:
-  - Pode ser iniciado por investigação preliminar ou diretamente pelo PAR.
-  - A autoridade competente decide pela abertura, recomendação de PAR ou arquivamento.
-- Investigação Preliminar:
-  - Sigilosa e não punitiva.
-  - Prazo de 180 dias, prorrogável.
-  - Concluída com relatório indicando indícios de autoria e materialidade.
-- Comissão do PAR:
-  - Composta por dois ou mais servidores estáveis ou empregados permanentes.
-  - Prazo de 180 dias para conclusão, prorrogável.
-  - Intima a pessoa jurídica para apresentar defesa em 30 dias.
-- Sanções:
-  - Multa de 0,1% a 20% do faturamento bruto (mínimo de R$ 6.000 e máximo de R$ 60 milhões).
-  - Publicação extraordinária da decisão condenatória.
+> ### ⚠️ Atos Lesivos (Art. 5º)
+- Oferecer vantagem indevida a agente público
+- Financiar ou patrocinar ato ilícito
+- Dissimular interesses ou identidade dos beneficiários
+- Dificultar fiscalização ou investigação
+- Fraudes em licitações e contratos:
+  - Frustrar ou manipular concorrência;
+  - Criar empresas de fachada;
+  - Obter vantagens indevidas em aditivos.
 
-> ### Acordo de Leniência
-- Finalidade: Incentivar a colaboração da pessoa jurídica na apuração de atos lesivos.
-- Condições:
-  - Cessação do envolvimento no ato lesivo.
-  - Admissão da responsabilidade objetiva.
-  - Colaboração plena com as investigações.
-  - Reparação integral do dano incontroverso.
-- Benefícios:
-  - Redução de até 2/3 da multa.
-  - Isenção da publicação extraordinária.
-  - Isenção de sanções administrativas em licitações e contratos.
-- Prazo de Negociação: 180 dias, prorrogável.
-- Descumprimento:
-  - Perda dos benefícios.
-  - Cobrança integral da multa e danos.
-  - Impedimento de celebrar novo acordo por 3 anos.
+> ### 📝 Sanções Administrativas (Art. 6º)
+1. **Multa de 0,1% a 20% do faturamento bruto** do último exercício (mínimo: valor da vantagem indevida).
+2. **Publicação extraordinária** da decisão condenatória.
+3. Aplicadas **isolada ou cumulativamente**, conforme gravidade.
 
-> ### Sanções Administrativas
-- Multa:
-  - Base de cálculo: faturamento bruto do último exercício, excluídos tributos.
-  - Fatores agravantes: reincidência, interrupção de serviços públicos, etc.
-  - Fatores atenuantes: colaboração, programa de integridade, devolução de vantagens.
-- Publicação Extraordinária:
-  - Divulgação da decisão em meios de comunicação, edital e site da empresa.
-  - Custo arcado pela pessoa jurídica.
+> ### 🏛️ Sanções Judiciais (Art. 19)
+- Perdimento de bens.
+- Suspensão/interdição de atividades.
+- **Dissolução compulsória**.
+- Proibição de receber incentivos e subsídios (1 a 5 anos).
 
-> ### Cadastro Nacional de Empresas Punidas (CNEP)
-- Finalidade: Registrar sanções aplicadas a pessoas jurídicas.
-- Informações:
-  - Razão social e CNPJ.
-  - Tipo de sanção e fundamentação legal.
-  - Data de aplicação e término da sanção.
-- Exclusão:
-  - Após cumprimento integral da sanção ou acordo de leniência.
-  - Mediante solicitação da pessoa jurídica, após reparação do dano e quitação da multa.
+> ### 🧑‍⚖️ Responsabilidade Objetiva
+- **Sem necessidade de culpa ou dolo**.
+- Basta que haja **autoria + materialidade**.
 
-> ### Programa de Integridade
-- Objetivo:
-  - Prevenir, detectar e sanar desvios, fraudes e atos ilícitos.
-  - Promover uma cultura de integridade na organização.
-- Parâmetros:
-  - Comprometimento da alta direção.
-  - Códigos de ética e conduta.
-  - Canais de denúncia e proteção ao denunciante.
-  - Procedimentos para prevenir fraudes em licitações e contratos.
+> ### 🔍 Investigação Preliminar
+- Duração: até **180 dias**, prorrogável.
+- Avalia indícios de autoria/materialidade.
+- Pode resultar em:
+  - Abertura do PAR;
+  - Arquivamento.
 
-> ### Competência da Controladoria-Geral da União (CGU)
-- Atribuições:
-  - Instaurar e julgar PARs.
-  - Celebrar acordos de leniência.
-  - Monitorar o cumprimento de programas de integridade.
-  - Manter o CNEP.
-- Avocação:
-  - Pode avocar processos de outros órgãos em casos de omissão, complexidade ou relevância.
+> ### ⚖️ PAR – Processo Administrativo de Responsabilização
+- Instauração: pela autoridade máxima do órgão.
+- Comissão com **mínimo 2 servidores estáveis**.
+- Fases:
+  1. Instauração;
+  2. Defesa e relatório;
+  3. Julgamento.
+- Prazo: **180 dias prorrogáveis**.
+- Garante **contraditório e ampla defesa**.
 
-> ### Tabela de Sanções Administrativas
+> ### 🧾 Acordo de Leniência (Art. 32 a 55)
+- "Delação premiada da empresa".
+- Celebrado com a **CGU**, pode envolver a **AGU**.
+- Requisitos:
+  - Confissão do ato;
+  - Colaboração efetiva;
+  - Identificação de envolvidos;
+  - Cessação da prática ilícita;
+  - Reparação parcial do dano;
+  - Devolução de valores indevidos.
 
-| TIPO DE SANÇÃO            | DESCRIÇÃO                                                                       |
-|---------------------------|---------------------------------------------------------------------------------|
-| Multa                     | 0,1% a 20% do faturamento bruto (mínimo de R$ 6.000 e máximo de R$ 60 milhões). |
-| Publicação Extraordinária | Divulgação da decisão em meios de comunicação, edital e site da empresa.        |
+#### Benefícios
+- Redução ou isenção de sanções.
+- Multa com desconto (até **2/3**).
+- Suspensão de processos.
+- Possibilidade de ajuste do acordo (Art. 54).
 
-> ### Tabela de Benefícios do Acordo de Leniência
+> ### 🛡️ Programa de Integridade (Art. 56-57)
+- Conjunto de políticas, auditoria, código de conduta e denúncia.
+- Visa prevenir, detectar e sanar irregularidades.
+- Gera **redução da multa** (até 5%).
+- Deve ser **estruturado, aplicado e atualizado**.
 
-| BENEFÍCIO             | DESCRIÇÃO                                                 |
-|-----------------------|-----------------------------------------------------------|
-| Redução da Multa      | Até 2/3 do valor original.                                |
-| Isenção de Publicação | Dispensa da publicação extraordinária da decisão.         |
-| Isenção de Sanções    | Em licitações e contratos, conforme a Lei nº 14.133/2021. |
+> ### 📑 Cadastros de Empresas
+
+#### 🔸 CEIS – Cadastro de Empresas Inidôneas e Suspensas (Art. 58)
+- Reúne empresas proibidas de contratar com o poder público.
+
+#### 🔸 CNEP – Cadastro Nacional de Empresas Punidas (Art. 59)
+- Inclui sanções da Lei 12.846/2013 e acordos de leniência descumpridos.
+
