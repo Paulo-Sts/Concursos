@@ -22,6 +22,7 @@
 
 #### Lei de Diretrizes Orçamentárias (LDO)
 - Define metas e prioridades para o ano seguinte, além de trazer obrigações de transparência.
+- Orienta a elaboração do orçamento do ano seguinte, dispondo de eventuais alterações na legislação tributária e limite do montante da dívida pública federal.
 - Deve ser aprovada até 17 de julho.
 
 #### Lei Orçamentária Anual (LOA)
