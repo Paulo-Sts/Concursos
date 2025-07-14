@@ -43,31 +43,31 @@
 
 Ex: Qual o câmbio real e qual a situação existente?
 
-DADOS:
-câmbio nominal = R$ 5,00
-inflação interna = 10%
-inflação externa = 5%
-câmbio real = 2,50
+DADOS:  
+câmbio nominal = R$ 5,00  
+inflação interna = 10%  
+inflação externa = 5%  
+câmbio real = 2,50  
 
 1. CR = (5 . 0,05)/0,1 = 2,50
 2. Logo o real está desvalorizado em relação ao dólar. A inflação brasileira torna o real desvalorizado em relação ao dólar. 
 
 Ex: Qual o câmbio real e qual a situação existente?
 
-DADOS:
-câmbio nominal = R$ 3,00
-inflação interna = 5%
-inflação externa = 5%
-câmbio real = 3,00
+DADOS:  
+câmbio nominal = R$ 3,00  
+inflação interna = 5%  
+inflação externa = 5%  
+câmbio real = 3,00  
 
 1. CR = (3 . 0,05)/0,05 = 3,00
 2. A inflação descontada por ser igual torna a taxa nominal e real as mesmas em relação ao dólar. 
 
-DADOS:
-câmbio nominal = R$ 5,00
-inflação interna = 2%
-inflação externa = 5%
-câmbio real = 7,50
+DADOS:  
+câmbio nominal = R$ 5,00  
+inflação interna = 2%  
+inflação externa = 5%  
+câmbio real = 7,50  
 
 1. CR = (5 . 0,05)/0,02 = 7,50
 2. Indica que o real está valorizado, pois descontada a inflação a taxa real é maior que a taxa nominal. Nessa situação são necessários menos reais para se ter dólares. 
@@ -124,7 +124,7 @@ câmbio real = 7,50
 - Geralmente as taxas de juros domésticas são maiores que as taxas de juros praticadas no exterior (países de primeiro mundo). 
 - Nesse sentido, é como se o mundo entendesse que aplicar no Brasil oferece maior risco do que se aplicar nos EUA, por exemplo.
 - Por essa razão é natural que haja uma maior entrada de recursos estrangeiros quando houver uma elevação nas taxas de juros domésticas, em especial a taxa selic.
-- O investidor irá comparar a taxa de juros praticada nos EUA com a praticada no Brasil e decidirá investir no Brasil se o ganho dele for substancialmente maior, é o chamado Prêmio de risco.
+- O investidor irá comparar a taxa de juros praticada nos EUA com a praticada no Brasil e decidirá investir no Brasil se o ganho dele for substancialmente maior, é o chamado prêmio de risco.
 
 #### Premio de risco
 - O prêmio de risco é o quanto a mais de juros será ganho por investir no Brasil e não em seu país.
