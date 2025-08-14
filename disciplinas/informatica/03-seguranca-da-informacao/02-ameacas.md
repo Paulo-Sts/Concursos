@@ -44,7 +44,7 @@
 - Pode conter: golpes, fake news, propagandas e **malwares**.
 - Spammer: quem envia.
 
-> ### 🧠 Engenharia Social
+> ### 🧠 Engenharia social
 - Técnica que explora **emoções humanas** (ganância, medo, empatia) para enganar.
 - Exemplos:
   - Phishing: link falso enviado por e-mail.
@@ -54,7 +54,7 @@
 
 > ### 🍪 Cookies
 
-| Tipo         | Característica                                         |
+| TIPO         | CARACTERÍSTICA                                         |
 |--------------|--------------------------------------------------------|
 | Sessão       | Temporário. Some ao fechar navegador.                  |
 | Persistente  | Salvo no disco. Gera sugestões personalizadas.         |
@@ -67,11 +67,11 @@
 - DDoS: distribuído por botnets.
 - Viola a disponibilidade.
 
-> ### 🔓 Spraying de Senhas
+> ### 🔓 Spraying de senhas
 - Usa lista de senhas comuns para tentar acesso (ex: 123456).
 - Diferente de **força bruta**, que testa combinações aleatórias.
 
-> ### 💣 Força Bruta
+> ### 💣 Força bruta
 - Tenta descobrir senhas via tentativa e erro.
 - Pode ser evitado com **MFA** (autenticação em 2 etapas).
 
@@ -91,7 +91,7 @@
 - Invasor altera visual de um site (vandalismo).
 - Viola a integridade.
 
-## 💀 Pragas Virtuais (Malwares)
+## 💀 Pragas virtuais (Malwares)
 
 > ### 🦠 Vírus
 - Se espalha por outros arquivos.
@@ -137,7 +137,7 @@
   - Adware (exibe anúncios indesejados, pode se comportar como spyware).
   - Backdoor (cria uma porta de entrada oculta para o invasor retornar).
 
-## 🧠 Comparações Importantes
+## 🧠 Comparações importantes
 
 | TERMO      | CARACTERÍSTICA PRINCIPAL                       |
 |------------|------------------------------------------------|
@@ -153,4 +153,4 @@
 | Worm       | Se espalha pela rede                           |
 | Trojan     | Parece útil, mas é malicioso                   |
 | Adware     | Exibe propaganda                               |
-| Backdoor   | Deixa “porta aberta” para retorno do invasor   |
+| Backdoor   | Deixa "porta aberta" para retorno do invasor   |
