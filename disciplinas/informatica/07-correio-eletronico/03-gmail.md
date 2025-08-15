@@ -15,10 +15,10 @@
 - Anexos até 25MB (arquivos maiores são salvos no Drive como link)
 
 #### Ações com mensagens
-- **Responder:** apenas ao remetente original
-- **Responder a todos:** remetente + destinatários em "Cc" (exclui "Cco")
-- **Encaminhar:** preserva anexos, destinatários em branco
-- **Programar envio:** agenda data/hora (funciona mesmo com computador desligado)
+- **Responder:** Apenas ao remetente original
+- **Responder a todos:** Remetente + destinatários em "Cc" (exclui "Cco")
+- **Encaminhar:** Preserva anexos, destinatários em branco
+- **Programar envio:** Agenda data/hora (funciona mesmo com computador desligado)
 - **Desfazer envio:** 30 segundos para cancelar após enviar
 
 #### Pastas principais
