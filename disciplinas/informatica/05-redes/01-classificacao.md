@@ -1,84 +1,84 @@
-# Resumo: Classificação de Redes de Computadores
+# Classificação de Redes de Computadores
 
-## 1. Classificação por Abrangência
+## Classificação por abrangência
 
-### PAN (Personal Area Network)
+#### PAN (personal area network)
 - Rede pessoal de curta distância (poucos metros)
 - Conecta dispositivos móveis entre si
 - Exemplos: conexão Bluetooth entre smartphone e fones
 
-### LAN (Local Area Network)
+#### LAN (local area network)
 - Rede local restrita a uma instituição
 - Alcance: dezenas de metros
 - Pode ser com fio (Ethernet) ou sem fio (Wi-Fi)
 
-### CAN (Campus Area Network)
+#### CAN (campus area network)
 - Conecta várias LANs em uma mesma instituição
 - Alcance: centenas de metros
 - Exemplo: rede universitária com múltiplos prédios
 
-### MAN (Metropolitan Area Network)
+#### MAN (metropolitan area network)
 - Rede metropolitana entre regiões ou cidades
 - Alcance: dezenas de quilômetros
 - Exemplo: rede de órgãos públicos em uma capital
 
-### WAN (Wide Area Network)
+#### WAN (wide area network)
 - Rede de longa distância entre países/continentes
 - Exemplo: Internet
 
-## 2. Classificação por Funcionalidade
+## Classificação por funcionalidade
 
-### Internet
+#### Internet
 - Rede pública mundial
 - Arquiteturas: cliente/servidor e P2P
 - Protocolos: TCP/IP
 
-### Intranet
+#### Intranet
 - Rede privada corporativa
 - Acesso restrito a usuários autorizados
 - Pode usar diferentes alcances (LAN, WAN)
 
-### Extranet
+#### Extranet
 - Disponibiliza recursos da Intranet via Internet
 - Acesso controlado para parceiros/clientes
 - Exemplo: portal do aluno
 
-### VPN (Virtual Private Network)
+#### VPN (virtual private network)
 - Conexão segura à rede privada via Internet
 - Usa criptografia (IPSec)
 - Diferente da Extranet: usuário acessa a rede
 
-### Backbone
+#### Backbone
 - Rede central de alto desempenho
 - Espinha dorsal de comunicação
 - Exemplo: rede de fibra ótica entre estados
 
-## 3. Classificação por Topologia
+## Classificação por topologia
 
-### Estrela (Star)
+#### Estrela (star)
 - Equipamento central conecta todos dispositivos
 - Vantagem: falha em nó não afeta outros
 - Desvantagem: falha no central paralisa rede
 
-### Anel (Ring)
+#### Anel (ring)
 - Dispositivos conectados em série
 - Transmissão unidirecional com token
 - Falha em um nó interrompe toda rede
 
-### Barramento (Bus)
+#### Barramento (bus)
 - Todos conectados a um cabo central
 - Tecnologia obsoleta
 - Falha em nó afeta toda rede
 
-### Malha (Mesh)
+#### Malha (mesh)
 - Todos dispositivos conectados entre si
 - Full-mesh: cada nó conectado a todos
 - Mais comum em topologia lógica
 
-### Híbrida
+#### Híbrida
 - Combinação de duas ou mais topologias
 
-## Dicas para Provas
+## Dicas para provas
 - WAN: conecta países/continentes (Internet)
 - LAN: rede local (escritórios, empresas)
 - PAN: dispositivos pessoais (Bluetooth)
