@@ -48,7 +48,7 @@
 #### EDW (Enterprise Data Warehouse)
 - DW corporativo que centraliza dados de toda a organização.
 
-#### Diferenças entre DW e Banco de Dados Transacional
+#### Diferenças entre DW e banco de dados transacional
 - BD Transacional: operacional, volátil, focado em transações.
 - DW: analítico, não volátil, focado em consulta e análise.
 
@@ -81,7 +81,7 @@
   - Menor redundância → menos espaço.
   - Menor agilidade (mais joins).
 
-#### Dimensão Degenerada
+#### Dimensão degenerada
 - Dimensão inserida como coluna na tabela fato (não em tabela dimensão).
 
 ## 5. Operações multidimensionais (OLAP)
