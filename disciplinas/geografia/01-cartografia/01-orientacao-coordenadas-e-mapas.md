@@ -3,7 +3,7 @@
 ## 1. Orientação e pontos de referência
 
 #### Pontos cardeais, colaterais e subcolaterais
-- **Pontos cardeais:** Norte (N), Sul (S), Leste (L), Oeste (O).
+- **Pontos cardeais:** Norte (setentrional ou boreal), Sul (meridional ou austral), Leste (oriental ou nascente), Oeste (ocidental ou poente).
 - **Pontos colaterais:** Nordeste (NE), Sudeste (SE), Sudoeste (SO), Noroeste (NO).
 - **Pontos subcolaterais:** Exemplos: Leste-Nordeste (ENE), Sul-Sudeste (SSE), etc.
 - **Rosa dos ventos:** Representação gráfica que reúne todos os pontos de orientação.
