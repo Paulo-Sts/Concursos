@@ -24,15 +24,15 @@
 
 ## 4. Tipos de Decisões
 
-### 4.1. Programadas vs Não Programadas
+#### 4.1. Programadas vs Não Programadas
 - Programadas: problemas rotineiros, soluções padronizadas, rápidas e de baixo custo.
 - Não Programadas: problemas novos, exigem diagnóstico e soluções originais, lentas e de custo mais alto.
 
-### 4.2. Centralizadas vs Descentralizadas
+#### 4.2. Centralizadas vs Descentralizadas
 - Centralizadas: poder concentrado no topo, maior controle e padronização.
 - Descentralizadas: poder distribuído na base, maior agilidade e criatividade.
 
-### 4.3. Estratégicas, Táticas e Operacionais
+#### 4.3. Estratégicas, Táticas e Operacionais
 - Estratégicas: longo prazo, afetam toda a organização, tomadas pela direção.
 - Táticas: médio prazo, afetam áreas específicas, tomadas pela gerência.
 - Operacionais: curto prazo, relacionadas à rotina, tomadas pela supervisão.
