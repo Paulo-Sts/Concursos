@@ -27,13 +27,14 @@
 - **EADGURU:** Recursos multimídia e segurança avançada.  
 
 ## Ferramentas EAD  
-- **AVA (Ambiente Virtual de Aprendizagem):** Plataforma central (ex.: Moodle).  
-- **Fóruns:** Discussões assíncronas.  
-- **Chat:** Comunicação síncrona em tempo real.  
-- **Bibliotecas Virtuais:** Acervos digitais (ex.: Domínio Público).  
-- **Gamificação:** Jogos para engajar alunos.  
-- **Streaming:** Transmissão de aulas sem download.  
-- **Blended Learning:** Combinação de ensino online e presencial.  
+- AVA (Ambiente Virtual de Aprendizagem): Plataforma central (ex.: Moodle).  
+- Fóruns: Discussões assíncronas.  
+- Chat: Comunicação síncrona em tempo real.  
+- Bibliotecas Virtuais: Acervos digitais (ex.: Domínio Público).  
+- Gamificação: Jogos para engajar alunos.  
+- Streaming: Transmissão de aulas sem download.  
+- Blended Learning: Combinação de ensino online e presencial.  
+- Sala de Aula Invertida (Flipped Classroom): O aluno estuda o conteudo teorico online antes e utiliza o momento presencial ou sincrono para atividades praticas e debates.
 
 ## Befenífcios do EAD  
 - Flexibilidade de horários.  
@@ -41,3 +42,9 @@
 - Diploma reconhecido pelo MEC.  
 - Acesso a recursos multimídia.  
 - Suporte via tutores e ferramentas interativas.  
+
+## Pontos Chave para Concursos
+- Decreto 12.456/2025: Define legalmente a EaD como processo mediado por tecnologias com estudantes e docentes em lugares ou tempos diversos.
+- Papel do Tutor: Diferente do professor, o tutor foca no acompanhamento, motivação e suporte direto ao aluno dentro do AVA.
+- Aprendizagem Híbrida (Blended Learning): Combinação de atividades presenciais e a distância.
+- Avaliação na EaD: Deve ser um processo contínuo e processual, utilizando diversas ferramentas digitais para medir o progresso.
