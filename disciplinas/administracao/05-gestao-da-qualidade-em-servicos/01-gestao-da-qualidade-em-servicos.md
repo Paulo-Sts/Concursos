@@ -1,4 +1,4 @@
-# Resumo - Gestão da Qualidade em Serviços
+# Gestão da Qualidade em Serviços
 
 ## 1. Conceito de Serviço
 - Serviços são atos, ações e desempenhos.

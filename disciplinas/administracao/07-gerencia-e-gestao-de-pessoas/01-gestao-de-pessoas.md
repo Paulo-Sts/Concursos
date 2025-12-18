@@ -1,4 +1,4 @@
-# Resumo - Gestão de Pessoas
+# Gestão de Pessoas
 
 ## 1. Conceito e Evolução
 - Gestão de Pessoas e Recursos Humanos são termos utilizados como sinônimos.
@@ -8,14 +8,14 @@
 
 ## 2. Funções e Responsabilidades
 
-### 2.1. Função de Staff (RH)
+#### 2.1 Função de Staff (RH)
 - Criar políticas de RH
 - Prestar consultoria interna
 - Apoio e suporte aos líderes
 - Desenvolver estratégias de RH
 - Assessoria e suporte
 
-### 2.2. Atividades de Linha (Gestores)
+#### 2.2 Atividades de Linha (Gestores)
 - Gerenciar equipes
 - Tomar decisões sobre subordinados
 - Executar ações de RH
@@ -30,21 +30,21 @@
 
 ## 4. Processos Básicos de Gestão de Pessoas
 
-### 4.1. Processo Agregar
+#### 4.1 Processo Agregar
 - Provisão de pessoas
 - Planejamento de pessoal
 - Recrutamento (comunicação)
 - Seleção (escolha)
 - Contratação
 
-### 4.2. Processo Aplicar
+#### 4.2 Processo Aplicar
 - Posicionar pessoas em cargos
 - Avaliação de desempenho
 - Integração e socialização
 - Modelagem de cargos
 - Gestão de desempenho
 
-### 4.3. Processo Desenvolver
+#### 4.3 Processo Desenvolver
 - Desenvolvimento das pessoas
 - Treinamento e desenvolvimento
 - Aprendizagem
@@ -52,14 +52,14 @@
 - Educação corporativa
 - Desenvolvimento organizacional
 
-### 4.4. Processo Recompensar
+#### 4.4 Processo Recompensar
 - Reconhecimento e retribuição
 - Remuneração
 - Benefícios
 - Incentivos
 - Carreira
 
-### 4.5. Processo Manter
+#### 4.5 Processo Manter
 - Manter pessoas na organização
 - Qualidade de vida no trabalho
 - Segurança e higiene
@@ -67,7 +67,7 @@
 - Clima organizacional
 - Relações trabalhistas
 
-### 4.6. Processo Monitorar
+#### 4.6 Processo Monitorar
 - Acompanhamento funcional
 - Gestão de dados dos colaboradores
 - Sistemas de informação
