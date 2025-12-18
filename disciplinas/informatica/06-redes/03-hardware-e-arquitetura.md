@@ -1,6 +1,8 @@
-# Equipamentos de Rede e Arquiteturas TCP/IP e OSI
+# Hardware de Rede e Arquiteturas TCP/IP e OSI
 
-## Equipamentos de rede e suas funções
+## Hardware de rede e suas funções
+- Hardware de rede refere-se aos equipamentos físicos que permitem a comunicação entre computadores e dispositivos em uma rede.
+- São os meios necessários para facilitar o transporte de dados e a conexão entre os componentes.
 
 #### Gateway
 - Portal de entrada/saída entre redes distintas
@@ -28,6 +30,19 @@
 #### Modem
 - Modula e demodula sinais
 - Conecta usuário ao provedor (ISP)
+
+#### Placa de Rede (NIC - Network Interface Card)
+- É o componente que permite a conexão do computador com a rede.
+- Tipos de conexão: Cabo de par trançado, cabo coaxial, fibra óptica ou sem fio (Wi-Fi).
+- Endereço MAC (Media Access Control): É o endereço físico único e exclusivo de cada placa de rede. Não existem duas placas com o mesmo número no mundo.
+
+#### Roteador (Router)
+- Equipamento responsável por encaminhar pacotes de dados entre redes diferentes (ex: ligar sua rede local à Internet).
+- Funcionamento: Escolhe a melhor rota para o dado chegar ao destino baseando-se no endereço IP.
+
+#### Access Point (Ponto de Acesso ou AP)
+- Dispositivo que permite a conexão de dispositivos sem fio a uma rede cabeada.
+- Hotspot: Termo utilizado para designar o local físico onde o acesso sem fio é disponibilizado.
 
 ## Arquiteturas de rede
 
