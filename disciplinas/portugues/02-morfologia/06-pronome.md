@@ -1,12 +1,10 @@
 # Pronome
 
-<br>
-
-## DEFINIÇÃO
-* O pronome substitui ou acompanha o substantivo, indicando pessoa, lugar, posse, etc.
-* O pronome que acompanha o substantivo é chamado de pronome adjetivo, ele em geral aparece antes do substantivo.
-* O pronome que substitui o substantivo é chamado de pronome substantivo.
-* Os pronomes podem sofrer flexão em gênero (masculino/feminino), número (singular/plural) e pessoa (1ª, 2ª, 3ª), dependendo do tipo de pronome. 
+## Definição
+- O pronome substitui ou acompanha o substantivo, indicando pessoa, lugar, posse, etc.
+- O pronome que acompanha o substantivo é chamado de pronome adjetivo, ele em geral aparece antes do substantivo.
+- O pronome que substitui o substantivo é chamado de pronome substantivo.
+- Os pronomes podem sofrer flexão em gênero (masculino/feminino), número (singular/plural) e pessoa (1ª, 2ª, 3ª), dependendo do tipo de pronome. 
 
 #### Flexão dos pronomes
 
@@ -43,12 +41,12 @@ Ex: **Quais** são os seus livros? (plural)
 ## TIPOS DE PRONOMES
 
 > ### Pronomes pessoais
-* Indicam as pessoas do discurso (quem fala, com quem se fala e de quem se fala).
-* Dividem-se em retos e oblíquos.
+- Indicam as pessoas do discurso (quem fala, com quem se fala e de quem se fala).
+- Dividem-se em retos e oblíquos.
 
 #### Retos
-* Funcionam como sujeito.
-* Exemplo:
+- Funcionam como sujeito.
+- Exemplo:
   - **Eu** estudo muito.
   - **Eles** chegaram cedo.
 
@@ -59,11 +57,11 @@ Ex: **Quais** são os seus livros? (plural)
 | 3ª     | ele, ela | eles, elas | **Ele** chegou cedo. /**Elas** são amigas.        |
 
 #### Oblíquos átonos
-* Funcionam como objeto.
-* Os pronomes oblíquos átonos são aqueles que não têm autonomia fonética, ou seja, são mais fracos e sempre se ligam ao verbo. 
-* Eles não podem aparecer sozinhos na frase e geralmente vêm antes do verbo (próclise) ou depois do verbo (ênclise). 
-* São usados como objetos diretos** ou **indiretos.
-* Exemplo: 
+- Funcionam como objeto.
+- Os pronomes oblíquos átonos são aqueles que não têm autonomia fonética, ou seja, são mais fracos e sempre se ligam ao verbo. 
+- Eles não podem aparecer sozinhos na frase e geralmente vêm antes do verbo (próclise) ou depois do verbo (ênclise). 
+- São usados como objetos diretos** ou **indiretos.
+- Exemplo: 
   - Ele **me** viu.
   - Eles **nos** chamaram.
 
@@ -78,10 +76,10 @@ Ex: **Quais** são os seus livros? (plural)
 | os, as  | 3ª pessoa plural       | Eu **os** vi. (objeto direto) /Eu **as** encontrei. (objeto direto)  |
 
 #### Oblíquos tônicos
-* Funcionam como objeto.
-* Os pronomes oblíquos tônicos são aqueles que têm autonomia fonética, ou seja, são mais fortes e podem aparecer sozinhos ou após preposições. 
-* Eles são usados principalmente como objetos indiretos ou em situações que exigem ênfase.
-* Exemplo: 
+- Funcionam como objeto.
+- Os pronomes oblíquos tônicos são aqueles que têm autonomia fonética, ou seja, são mais fortes e podem aparecer sozinhos ou após preposições. 
+- Eles são usados principalmente como objetos indiretos ou em situações que exigem ênfase.
+- Exemplo: 
   - Ele **me** viu.
   - Eles **nos** chamaram.
 
@@ -96,8 +94,8 @@ Ex: **Quais** são os seus livros? (plural)
 | eles, elas | 3ª pessoa plural       | Eu confio **neles**. (após preposição)            |
 
 > ### Pronomes possessivos
-* Indicam posse ou relação de pertencimento.
-* Exemplos:
+- Indicam posse ou relação de pertencimento.
+- Exemplos:
   - **Meu** livro está aqui. (meu = possessivo).
   - **Seu** carro é novo. (seu = possessivo).
 
@@ -108,8 +106,8 @@ Ex: **Quais** são os seus livros? (plural)
 | 3ª     | seu/sua, dele/dela | seus/suas, deles/delas | **Seu**a ideia é boa. /**Deles** é a responsabilidade.  |
 
 > ### Pronomes demonstrativos
-* Indicam a posição no espaço ou no tempo em relação às pessoas do discurso.
-* Exemplos:
+- Indicam a posição no espaço ou no tempo em relação às pessoas do discurso.
+- Exemplos:
   - **Este** livro é interessante. (este = algo próximo de quem fala).
   - **Aquela** casa é grande. (aquela = algo distante de quem fala).
 
@@ -120,8 +118,8 @@ Ex: **Quais** são os seus livros? (plural)
 | Longe de ambos     | aquele/aquela | aqueles/aquelas | **Aquele** menino é meu amigo. /**Aquelas** montanhas são altas.  |
 
 > ### Pronomes relativos
-* Ligam orações, substituindo um termo mencionado anteriormente.
-* Exemplos:
+- Ligam orações, substituindo um termo mencionado anteriormente.
+- Exemplos:
   - O livro **que** comprei é ótimo. (que = relativo).
   - A casa **cuja** porta está aberta é bonita. (cuja = relativo).
 
@@ -135,8 +133,8 @@ Ex: **Quais** são os seus livros? (plural)
 | onde    | invariável         | A cidade **onde** moro é tranquila.                |
 
 > ### Pronomes indefinidos
-* Indicam algo de forma vaga ou imprecisa.
-* Exemplos:
+- Indicam algo de forma vaga ou imprecisa.
+- Exemplos:
   - **Alguém** chamou por você. (alguém = indefinido).
   - **Nada** aconteceu. (nada = indefinido).
 
@@ -150,8 +148,8 @@ Ex: **Quais** são os seus livros? (plural)
 | ninguém | invariável     | -                | **Ninguém** sabe a resposta.                                             |
 
 > ### Pronomes interrogativos
-* São usados para fazer perguntas.
-* Exemplos:
+- São usados para fazer perguntas.
+- Exemplos:
   - **Quem** fez isso? (quem = interrogativo).
   - **Qual** é o seu nome? (qual = interrogativo).
 
@@ -163,12 +161,12 @@ Ex: **Quais** são os seus livros? (plural)
 
 
 > ### Pronomes de tratamento
-* Os pronomes de tratamento são usados para substituir ou acompanhar o nome de uma pessoa, indicando respeito, hierarquia ou formalidade. 
-* Eles são empregados principalmente em contextos formais, como:
+- Os pronomes de tratamento são usados para substituir ou acompanhar o nome de uma pessoa, indicando respeito, hierarquia ou formalidade. 
+- Eles são empregados principalmente em contextos formais, como:
   - Comunicação com autoridades (juízes, presidentes, etc.);
   - Documentos oficiais (cartas, ofícios, etc.);
   - Situações cerimoniais ou solenes.
-* Apesar de se referirem à 2ª pessoa (a quem se fala), os pronomes de tratamento são conjugados na 3ª pessoa. Isso significa que, ao usá-los, o verbo e os pronomes complementares devem concordar com a 3ª pessoa.
+- Apesar de se referirem à 2ª pessoa (a quem se fala), os pronomes de tratamento são conjugados na 3ª pessoa. Isso significa que, ao usá-los, o verbo e os pronomes complementares devem concordar com a 3ª pessoa.
 
 | PRONOME              | USO                                                               | EXEMPLO                                                                     |
 |----------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------|
@@ -181,20 +179,20 @@ Ex: **Quais** são os seus livros? (plural)
 | Vossa Alteza         | Formal, usado para príncipes e princesas.                         | **Vossa Alteza** está convidado para o baile.                               |
 
 #### Exemplos em frases
-* **Eu** gosto de estudar. (eu = pessoal reto).
-* Ele **me** viu na rua. (me = pessoal oblíquo).
-* **Meu** carro é azul. (meu = possessivo).
-* **Seu** livro está na mesa. (seu = possessivo).
-* **Este** filme é emocionante. (este = demonstrativo).
-* **Aquela** casa é antiga. (aquela = demonstrativo).
-* O menino **que** chegou é meu amigo. (que = relativo).
-* A cidade **onde** moro é pequena. (onde = relativo).
-* **Alguém** deixou a porta aberta. (alguém = indefinido).
-* **Nada** foi resolvido. (nada = indefinido).
-* **Quem** fez isso? (quem = interrogativo).
-* **Qual** é o seu nome? (qual = interrogativo).
-* **Vossa Excelência** **está** convidado. (3ª pessoa, não "estás").
+- **Eu** gosto de estudar. (eu = pessoal reto).
+- Ele **me** viu na rua. (me = pessoal oblíquo).
+- **Meu** carro é azul. (meu = possessivo).
+- **Seu** livro está na mesa. (seu = possessivo).
+- **Este** filme é emocionante. (este = demonstrativo).
+- **Aquela** casa é antiga. (aquela = demonstrativo).
+- O menino **que** chegou é meu amigo. (que = relativo).
+- A cidade **onde** moro é pequena. (onde = relativo).
+- **Alguém** deixou a porta aberta. (alguém = indefinido).
+- **Nada** foi resolvido. (nada = indefinido).
+- **Quem** fez isso? (quem = interrogativo).
+- **Qual** é o seu nome? (qual = interrogativo).
+- **Vossa Excelência** **está** convidado. (3ª pessoa, não "estás").
 
-***DICA:*** Use pronomes para substituir substantivos e evitar repetições. (Exemplo: Maria comprou um livro. **Ela** adorou a leitura. (ela = pronome pessoal).)  
-***DICA:*** Pronomes possessivos e demonstrativos concordam em gênero e número com o substantivo. (Exemplo: **Este** livro (masculino singular)/**Estes** livros (masculino plural).)  
-***DICA:*** O pronome "seu" pode gerar ambiguidade, pois pode se referir à 2ª ou 3ª pessoa. (Exemplo: João disse a Pedro que **seu** carro quebrou. (de quem é o carro?).)  
+**DICA:** Use pronomes para substituir substantivos e evitar repetições. (Exemplo: Maria comprou um livro. **Ela** adorou a leitura. (ela = pronome pessoal).)  
+**DICA:** Pronomes possessivos e demonstrativos concordam em gênero e número com o substantivo. (Exemplo: **Este** livro (masculino singular)/**Estes** livros (masculino plural).)  
+**DICA:** O pronome "seu" pode gerar ambiguidade, pois pode se referir à 2ª ou 3ª pessoa. (Exemplo: João disse a Pedro que **seu** carro quebrou. (de quem é o carro?).)  

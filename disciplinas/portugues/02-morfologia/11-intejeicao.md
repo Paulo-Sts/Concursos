@@ -1,11 +1,9 @@
 # Interjeição
 
-<br>
-
-## DEFINIÇÃO
-* Expressa emoções, sentimentos, reações ou comandos de forma breve e intensa.
-* Podem ser acompanhadas de ponto de exclamação (!) para dar mais ênfase.
-* Não variam em gênero, número ou grau.
+## Definição
+- Expressa emoções, sentimentos, reações ou comandos de forma breve e intensa.
+- Podem ser acompanhadas de ponto de exclamação (!) para dar mais ênfase.
+- Não variam em gênero, número ou grau.
 
 Ex: ah...  
 Ex: Bom dia!  

@@ -1,7 +1,7 @@
 # Instrumentos de Política Monetária
 
 ## Objetivos da política monetária
-- **Expansionista:**
+- Expansionista:
   - Aumenta a oferta monetária.
   - Estimula o consumo, o PIB e o emprego.
   - Pode gerar inflação.
@@ -14,7 +14,7 @@
 | **R**ealização de quantitative easing (instrumento não convencional). | Aumenta a inflação.             |
 | **Q**ueda da taxa Selic.                                              |                                 |
 
-- **Restricionista:**
+- Restricionista:
   - Reduz a oferta monetária.
   - Desacelera o consumo, o PIB e o emprego.
   - Controla a inflação.
@@ -34,26 +34,26 @@
 #### Depósito compulsório
 - Parte dos depósitos bancários que os bancos são obrigados a manter no Banco Central.
 - Efeitos:
-  - **Aumento do compulsório:** Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
-  - **Redução do compulsório:** Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
+  - Aumento do compulsório: Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
+  - Redução do compulsório: Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
 
 #### Redesconto
 - Empréstimos do Banco Central aos bancos comerciais para garantir liquidez.
 - Efeitos:
-  - **Aumento da taxa de redesconto:** Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
-  - **Redução da taxa de redesconto:** Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
+  - Aumento da taxa de redesconto: Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
+  - Redução da taxa de redesconto: Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
 
 #### Operações de mercado aberto (Open Market)
 - Compra e venda de títulos públicos pelo Banco Central para regular a oferta de moeda.
 - Efeitos:
-  - **Venda de títulos:** Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
-  - **Compra de títulos:** Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
+  - Venda de títulos: Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
+  - Compra de títulos: Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
 
 #### Taxa Selic
 - Taxa básica de juros da economia, definida pelo Copom.
 - Efeitos:
-  - **Aumento da Selic:** Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
-  - **Redução da Selic:** Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
+  - Aumento da Selic: Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
+  - Redução da Selic: Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
 
 > ### Instrumentos não convencionais
 
@@ -67,8 +67,8 @@
 #### Depósitos remunerados
 - Depósitos voluntários de instituições financeiras no Banco Central, remunerados por uma taxa de juros.
 - Efeitos:
-  - **Aumento dos depósitos remunerados:** Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
-  - **Redução dos depósitos remunerados:** Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
+  - Aumento dos depósitos remunerados: Reduz a oferta de moeda, aumenta os juros e diminui o consumo.
+  - Redução dos depósitos remunerados: Aumenta a oferta de moeda, reduz os juros e estimula o consumo.
 
 > ### Resumo dos efeitos dos instrumentos
 

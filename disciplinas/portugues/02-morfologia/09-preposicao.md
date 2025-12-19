@@ -1,12 +1,10 @@
 # Preposição
 
-<br>
-
-## DEFINIÇÃO
-* A preposição é uma palavra que liga dois termos da oração, estabelecendo uma relação de subordinação entre eles. Ela indica a circunstância em que a ação ou o estado ocorre, como tempo, lugar, modo, causa, finalidade, entre outros. 
-* A preposição é usada antes de um substantivo, pronome ou verbo para conectar esses elementos a outras partes da oração.
-* Preposições podem sofrer fusões com artigos ou pronomes, formando novas preposições.
-* A preposição é uma classe de palavras invariável.
+## Definição
+- A preposição é uma palavra que liga dois termos da oração, estabelecendo uma relação de subordinação entre eles. Ela indica a circunstância em que a ação ou o estado ocorre, como tempo, lugar, modo, causa, finalidade, entre outros. 
+- A preposição é usada antes de um substantivo, pronome ou verbo para conectar esses elementos a outras partes da oração.
+- Preposições podem sofrer fusões com artigos ou pronomes, formando novas preposições.
+- A preposição é uma classe de palavras invariável.
 
 Ex: Carro de mão.
 1. carro = 1ª palavra
@@ -41,16 +39,16 @@ Ex: por + a = pela
 | Trás       | "Ela ficou **atrás** da porta."            | Indica **posição posterior**.                |
 
 > ### Funções da preposição
-* Indicar tempo: "Farei isso **em** breve."
-* Indicar lugar: "Ele está **na** escola."
-* Indicar modo: "Ela falou **com** cuidado."
-* Indicar causa: "Ele chorou **por** causa do filme."
-* Indicar finalidade: "Este livro é **para** estudo."
-* Indicar meio ou instrumento: "Vou enviar o pacote **por** correio."
+- Indicar tempo: "Farei isso **em** breve."
+- Indicar lugar: "Ele está **na** escola."
+- Indicar modo: "Ela falou **com** cuidado."
+- Indicar causa: "Ele chorou **por** causa do filme."
+- Indicar finalidade: "Este livro é **para** estudo."
+- Indicar meio ou instrumento: "Vou enviar o pacote **por** correio."
 
 > ### Observações sobre preposições
-* Algumas preposições são impessoais (não variam de acordo com o gênero ou número do substantivo): "em", "de", "para", etc.
-* Algumas expressões exigem preposição, como "à medida que", "por causa de", "a fim de", entre outras.
+- Algumas preposições são impessoais (não variam de acordo com o gênero ou número do substantivo): "em", "de", "para", etc.
+- Algumas expressões exigem preposição, como "à medida que", "por causa de", "a fim de", entre outras.
 
 ### Diferenciando artigos, pronomes e preposições
 
@@ -61,10 +59,10 @@ Ex: por + a = pela
 | A     | Preposição | NÃO VARIA.                                                      | A prefeitura entregou a todos./A diretora informou aos alunos. |
 
 > ### Contrações
-* As contrações entre preposição e outros termos (como artigos, pronomes, demonstrativos, etc.) são muito comuns em português. Elas acontecem quando uma preposição se funde com esses outros elementos, formando uma palavra única. Aqui estão as principais contrações:
+- As contrações entre preposição e outros termos (como artigos, pronomes, demonstrativos, etc.) são muito comuns em português. Elas acontecem quando uma preposição se funde com esses outros elementos, formando uma palavra única. Aqui estão as principais contrações:
 
 #### Contrações de preposição com artigos
-* As preposições podem se contrair com os artigos definidos **o**, **a**, **os** e **as**, formando uma palavra só.
+- As preposições podem se contrair com os artigos definidos **o**, **a**, **os** e **as**, formando uma palavra só.
 
 | PREPOSIÇÃO + ARTIGO | CONTRAÇÃO | EXEMPLO                            |
 |---------------------|-----------|------------------------------------|
@@ -82,7 +80,7 @@ Ex: por + a = pela
 | em + as             | nas       | "Ela trabalha **nas** fábricas."   |
 
 #### Contrações de preposição com pronomes demonstrativos
-* Preposições também podem se contrair com pronomes demonstrativos como **este**, **esta**, **esses**, **essas**, **aquele**, **aquela**, etc.
+- Preposições também podem se contrair com pronomes demonstrativos como **este**, **esta**, **esses**, **essas**, **aquele**, **aquela**, etc.
 
 | PREPOSIÇÃO + PRONOME DEMONSTRATIVO | CONTRAÇÃO   | EXEMPLO                              |
 |------------------------------------|-------------|--------------------------------------|

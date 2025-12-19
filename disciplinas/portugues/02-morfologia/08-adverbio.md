@@ -1,12 +1,10 @@
 # Advérbio
 
-<br>
-
-## DEFINIÇÃO
-* Os advérbios são palavras que modificam verbos, adjetivos ou outros advérbios, indicando circunstâncias como tempo, lugar, modo, intensidade, entre outros.
-* Os advérbios são invariáveis, ou seja, não sofrem flexões de gênero, número ou pessoa.
-* Normalmente, os advérbios aparecem após o verbo, o adjetivo ou o outro advérbio, mas sua posição pode variar dependendo da ênfase que se deseja dar à frase.
-* Expressões formadas por mais de uma palavra que exercem a função adverbial, são chamadas de locução adverbial.
+## Definição
+- Os advérbios são palavras que modificam verbos, adjetivos ou outros advérbios, indicando circunstâncias como tempo, lugar, modo, intensidade, entre outros.
+- Os advérbios são invariáveis, ou seja, não sofrem flexões de gênero, número ou pessoa.
+- Normalmente, os advérbios aparecem após o verbo, o adjetivo ou o outro advérbio, mas sua posição pode variar dependendo da ênfase que se deseja dar à frase.
+- Expressões formadas por mais de uma palavra que exercem a função adverbial, são chamadas de locução adverbial.
 
 Ex: O rapaz correu muito.
 1. correu = verbo
@@ -20,8 +18,8 @@ Ex: Não é permitido de jeito nenhum.
 3. não = advérbio
 4. de jeito nenhum = locução adverbial
 
-***DICA:*** Para diferenciar adjetivos e advérbios, basta verificar se a palavra sofre flexão, se não tiver flexão será um advérbio, se tiver a palavra é um adjetivo.  
-***DICA:*** O sufixo **-mente** é formador de advérbios.
+**DICA:** Para diferenciar adjetivos e advérbios, basta verificar se a palavra sofre flexão, se não tiver flexão será um advérbio, se tiver a palavra é um adjetivo.  
+**DICA:** O sufixo **-mente** é formador de advérbios.
 
 Ex: recente + mente = recentemente
 

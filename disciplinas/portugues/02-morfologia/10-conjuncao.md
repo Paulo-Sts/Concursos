@@ -1,11 +1,9 @@
 # Conjunção
 
-<br>
-
-## DEFINIÇÃO
-* As conjunções são palavras que servem para ligar orações ou termos dentro de uma mesma oração, indicando relações de sentido entre eles. 
-* Elas podem estabelecer relações como adversidade, causa, condição, oposição, entre outras.
-* A conjunção é uma classe de palavras invariável.
+## Definição
+- As conjunções são palavras que servem para ligar orações ou termos dentro de uma mesma oração, indicando relações de sentido entre eles. 
+- Elas podem estabelecer relações como adversidade, causa, condição, oposição, entre outras.
+- A conjunção é uma classe de palavras invariável.
 
 Ex: Os meninos comem e brincam.
 1. comem = verbo 1
@@ -25,7 +23,7 @@ Ex: Jovens e adultos enfrentam o mercado de trabalho.
 ## TIPOS DE CONJUNÇÃO
 
 > ### Conjunções coordenativas
-* As conjunções coordenativas ligam orações ou termos que têm o mesmo valor sintático, ou seja, são orações independentes entre si.
+- As conjunções coordenativas ligam orações ou termos que têm o mesmo valor sintático, ou seja, são orações independentes entre si.
 
 | TIPO DE CONJUNÇÃO | FUNÇÃO                      | EXEMPLO                                        | CONJUNÇÕES                                                                |
 |-------------------|-----------------------------|------------------------------------------------|---------------------------------------------------------------------------|
@@ -36,17 +34,17 @@ Ex: Jovens e adultos enfrentam o mercado de trabalho.
 | Explicativas      | Explicação ou justificativa | "Estava cansado, **porque** trabalhou demais." | Pois, que, porque, porquanto                                              |
 
 > ### Conjunções subordinativas
-* As conjunções subordinativas ligam orações dependentes (subordinadas) a orações principais, indicando que uma oração depende da outra para ter sentido completo.
+- As conjunções subordinativas ligam orações dependentes (subordinadas) a orações principais, indicando que uma oração depende da outra para ter sentido completo.
 
-| TIPO DE CONJUNÇÃO | FUNÇÃO                                  | EXEMPLO                                         | CONJUNÇÕES                                                          |
-|-------------------|-----------------------------------------|-------------------------------------------------|---------------------------------------------------------------------|
-| Causais           | Indicação de causa ou motivo            | "Ele chorou **porque** não passou."             | Pois, Porque, visto que, como, na medida em que, porquanto          |
-| Condicionais      | Condição necessária para a ação         | "**Se** chover, não sairemos."                  | Se, caso, sem que, se não, a não ser que, exceto se, contanto que   |
-| Concessivas       | Concessão (contrário à ideia principal) | "**Embora** estivesse cansado, ele trabalhou."  | Embora, conquanto, não obstante, ainda que, mesmo que, se bem que   |
-| Comparativas      | Comparação entre ideias                 | "Ela é mais inteligente **do que** eu."         | Como, mais...(do) que, tão...como, tão...quanto, assim como         |
-| Temporais         | Indicação de tempo                      | "**Quando** ele chegou, todos já estavam lá."   | Quando, enquanto, assim que, logo que, desde que, até que, mal      |
-| Finalísticas      | Finalidade ou intenção                  | "Estudei **para** passar."                      | Para, a fim de que, de modo que, de forma que, de sorte que, porque |
-| Proporcionais     | Proporção entre duas ideias             | "**Quanto mais** trabalha, mais ganha."         | À proporção que, à medida que, quanto mais, ao passo que            |
-| Integrantes       | Introduz oração subordinada substantiva | "Ele não sabe **se** vai voltar."               |                                                                     |
-| Consecutivas      | Indicação de consequência               | "Ele não estudou, **logo** não passou."         | Tão (tamanho, tanto, tal)...que, de modo que, de maneira que        |
-| Conformativas     | Indicação de conformidade               | "Ela agiu **como se** nada tivesse acontecido." | Conforme, consoante, como, segundo                                  |
+| TIPO | FUNÇÃO                                    | EXEMPLO                                         | CONJUNÇÕES                                                          |
+|------|-------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------|
+| Causais       | Indicação de causa ou motivo     | "Ele chorou **porque** não passou."             | Pois, Porque, visto que, como, na medida em que, porquanto          |
+| Condicionais  | Condição necessária para a ação  | "**Se** chover, não sairemos."                  | Se, caso, sem que, se não, a não ser que, exceto se, contanto que   |
+| Concessivas   | Concessão (contrário a ideia P.) | "**Embora** estivesse cansado, ele trabalhou."  | Embora, conquanto, não obstante, ainda que, mesmo que, se bem que   |
+| Comparativas  | Comparação entre ideias          | "Ela é mais inteligente **do que** eu."         | Como, mais...(do) que, tão...como, tão...quanto, assim como         |
+| Temporais     | Indicação de tempo               | "**Quando** ele chegou, todos já estavam lá."   | Quando, enquanto, assim que, logo que, desde que, até que, mal      |
+| Finalísticas  | Finalidade ou intenção           | "Estudei **para** passar."                      | Para, a fim de que, de modo que, de forma que, de sorte que, porque |
+| Proporcionais | Proporção entre duas ideias      | "**Quanto mais** trabalha, mais ganha."         | À proporção que, à medida que, quanto mais, ao passo que            |
+| Integrantes   | Introduz oração sub. substantiva | "Ele não sabe **se** vai voltar."               |                                                                     |
+| Consecutivas  | Indicação de consequência        | "Ele não estudou, **logo** não passou."         | Tão (tamanho, tanto, tal)...que, de modo que, de maneira que        |
+| Conformativas | Indicação de conformidade        | "Ela agiu **como se** nada tivesse acontecido." | Conforme, consoante, como, segundo                                  |

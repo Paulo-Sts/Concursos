@@ -1,4 +1,4 @@
-# Resumo: Windows 11 – Ferramentas Administrativas e Acessórios
+# Windows 11 – Ferramentas Administrativas e Acessórios
 
 ## 1. WordPad
 - Editor de texto com formatação básica, nativo do Windows.
@@ -35,7 +35,7 @@
 
 ## 5. Ferramentas Administrativas
 
-### 5.1. Gerenciamento do Computador
+#### 5.1 Gerenciamento do Computador
 - Utilitário que centraliza ferramentas administrativas.
 - Acesso: Menu Link Rápido (Win + X) ou Iniciar → Ferramentas Administrativas.
 - Funcionalidades:
@@ -47,32 +47,28 @@
   - Gerenciamento de Discos
   - Serviços
 
-### 5.2. Gerenciador de Tarefas
+#### 5.2 Gerenciador de Tarefas
 - Acesso:
   - `Ctrl + Shift + Esc` (abre diretamente)
   - `Ctrl + Alt + Del` → selecionar "Gerenciador de Tarefas"
 - Guias principais:
-  - **Processos**: lista apps e processos em execução; permite finalizar tarefas.
-  - **Desempenho**: monitoramento em tempo real de CPU, RAM, disco, rede, GPU.
-  - **Histórico de aplicativos**: desempenho histórico dos apps.
-  - **Aplicativos de inicialização**: gerencia programas que iniciam com o Windows.
-  - **Usuários**: usuários conectados ao sistema.
-  - **Serviços**: serviços em segundo plano; permite iniciar/parar.
+  - Processos: lista apps e processos em execução; permite finalizar tarefas.
+  - Desempenho: monitoramento em tempo real de CPU, RAM, disco, rede, GPU.
+  - Histórico de aplicativos: desempenho histórico dos apps.
+  - Aplicativos de inicialização: gerencia programas que iniciam com o Windows.
+  - Usuários: usuários conectados ao sistema.
+  - Serviços: serviços em segundo plano; permite iniciar/parar.
 
-### 5.3. Serviços
+#### 5.3 Serviços
 - Processos em segundo plano (background).
 - Acesso independente via Gerenciador de Tarefas ou "services.msc".
 - Permite gerenciar status (executar/parar) e tipo de inicialização (automática, manual, desativado).
 
-### 5.4. Agendador de Tarefas
+#### 5.4 Agendador de Tarefas
 - Agenda execução de programas, exibição de mensagens, envio de e-mails.
 - Tarefas podem ser criadas por apps durante a instalação.
 - Configurações: usuário, condições, ações, histórico.
 
 ## 6. Utilitários vs. Acessórios
-- **Utilitários**: ferramentas de manutenção e configuração do sistema (ex.: Gerenciador de Tarefas, Serviços).
-- **Acessórios**: aplicativos para uso geral (ex.: WordPad, Paint, Calculadora).
-
----
-
-*Material com base na aula do Prof. Mauricio Franceschini (Gran Cursos Online).*
+- Utilitários: ferramentas de manutenção e configuração do sistema (ex.: Gerenciador de Tarefas, Serviços).
+- Acessórios: aplicativos para uso geral (ex.: WordPad, Paint, Calculadora).

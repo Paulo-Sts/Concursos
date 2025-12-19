@@ -21,7 +21,7 @@
 - Estimular a geração de renda e o melhor uso da mão de obra na agricultura familiar.
 
 ## Tipos de crédito rural
-- A oferta de crédito rural, se da a partir de dois grupos de recursos: **os recursos controlados** e os **recursos não controlados**.
+- A oferta de crédito rural, se da a partir de dois grupos de recursos: os recursos controlados e os recursos não controlados.
 
 #### Recursos controlados
 - São recursos obrigatórios, ou seja, já tem destinação específica para o crédito rural.
@@ -116,7 +116,7 @@ seguintes atividades:
 - Cédula de Crédito Rural Bancário (CCB) – Com ou sem Garantia real ou fidejussória
 e Contrato.
 
-***DICA:*** Para que se conceda crédito rural para financiamento de atividades agropecuárias é necessário a apresentação da inscrição no CAR (Cadastro Ambiental Rural).
+**DICA:** Para que se conceda crédito rural para financiamento de atividades agropecuárias é necessário a apresentação da inscrição no CAR (Cadastro Ambiental Rural).
 
 > ### Obtenção e pagamento do crédito rural
 - A liberação do crédito rural pode ser feita em uma única parcela, ou em várias parcelas. Seu recebimento pode ser em caixa ou conta de depósitos, sendo sua diponibilização de acordo com as necessidades e seguindo o cronograma estabelecido.
@@ -186,5 +186,5 @@ e vincula a venda ao empréstimo realizado.
 > ### Pronaf
 - É o programa nacional de fortalecimento da agricultura familiar. Atua estimulando a geração de renda e melhora do uso da mão de obra familiar, por meio de financiamento de atividades e serviços rurais agropecuários e não agropecuários realizados em área rural ou em áreas comunitárias próprias.
 - Os beneficiários são divididos em dois grupos: 
-  -  O **Grupo A** é formado por agricultores familiares assentados pela Programa Nacional de Reforma Agrária (PNRA) ou beneficiários do Programa Nacional de Crédito Fundiário (PNCF) que não contrataram operação de investimento sob a égide do Programa de Crédito Especial para a Reforma Agrária (Procera) ou que ainda não contrataram o limite de operações ou de valor de crédito de investimento para estruturação no âmbito do Pronaf.
-  - O **Grupo B** é formado por beneficiários que possuam renda bruta familiar nos últimos 12 meses de produção normal, que antecedem a solicitação da DAP, não superior a vinte mil reais e que não contratem trabalho assalariado permanente.
+  -  O Grupo A é formado por agricultores familiares assentados pela Programa Nacional de Reforma Agrária (PNRA) ou beneficiários do Programa Nacional de Crédito Fundiário (PNCF) que não contrataram operação de investimento sob a égide do Programa de Crédito Especial para a Reforma Agrária (Procera) ou que ainda não contrataram o limite de operações ou de valor de crédito de investimento para estruturação no âmbito do Pronaf.
+  - O Grupo B é formado por beneficiários que possuam renda bruta familiar nos últimos 12 meses de produção normal, que antecedem a solicitação da DAP, não superior a vinte mil reais e que não contratem trabalho assalariado permanente.

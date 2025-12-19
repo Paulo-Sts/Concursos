@@ -1,27 +1,25 @@
 # Outros atos oficiais
 
-<br>
-
-## ATESTADO
-* Documento que confirma ou nega uma situação de direito, fato ou situação, com responsabilidade de quem o assina.
+## Atestado
+- Documento que confirma ou nega uma situação de direito, fato ou situação, com responsabilidade de quem o assina.
 
 > ### Como fazer
-* Emitido por alguém de cargo superior ou igual ao solicitante.
-* Deve conter carimbo ou timbre da entidade.
-* Estrutura:
+- Emitido por alguém de cargo superior ou igual ao solicitante.
+- Deve conter carimbo ou timbre da entidade.
+- Estrutura:
   - Título: "ATESTADO" em maiúsculas;
   - Nome e identificação de quem emite e de quem solicita;
   - Texto claro e resumido, confirmando ou negando o fato;
   - Assinatura, nome e cargo de quem atesta.
 
-## ATA
-* Relato de reunião, assembleia ou convenção.
+## Ata
+- Relato de reunião, assembleia ou convenção.
 
 > ### Normas
-* Lavrada em livro próprio ou folhas soltas, sem possibilidade de modificações.
-* Texto claro, sem rasuras, compacto e sem parágrafos ou alíneas.
-* Erros corrigidos com "digo" no momento ou "em tempo" após a redação.
-* Números escritos por extenso.
+- Lavrada em livro próprio ou folhas soltas, sem possibilidade de modificações.
+- Texto claro, sem rasuras, compacto e sem parágrafos ou alíneas.
+- Erros corrigidos com "digo" no momento ou "em tempo" após a redação.
+- Números escritos por extenso.
 
 #### Elementos básicos
 1. Data, hora e local da reunião.
@@ -42,8 +40,8 @@ Aos .... dias do mês de........de 20..., na................, na Rua......, reun
 presentes e declara encerrada a reunião, da qual eu, Secretário em exercício, lavrei a presente ata, que vai assinada pelo Sr. Presidente e por mim.
 ```
 
-## CONVOCAÇÃO
-* Convite formal para comparecer a um evento.
+## Convocação
+- Convite formal para comparecer a um evento.
 
 #### Exemplo
 ```
@@ -69,8 +67,8 @@ Brasília, [dia] de [mês] de [ano]
 [Cargo do Signatário]
 ```
 
-## CARTA CONVITE
-* Substituto para reserva de hospedagem ou convite formal.
+## Carta Convite
+- Substituto para reserva de hospedagem ou convite formal.
 
 #### Exemplo
 ```
@@ -96,8 +94,8 @@ Atenciosamente,
 (assinatura do anfitrião)
 ```
 
-## COMUNICADO
-* Declaração ou nota que informa algo ao público.
+## Comunicado
+- Declaração ou nota que informa algo ao público.
 
 #### Exemplo
 ```

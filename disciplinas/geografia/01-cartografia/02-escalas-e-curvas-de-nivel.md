@@ -13,8 +13,8 @@ Exemplo:
 - 8 cm no mapa = 8 km na realidade
 
 #### Tipos de escala
-- **Numérica:** Ex: 1:50.000 → 1 cm no mapa = 50.000 cm na realidade.
-- **Gráfica:** Representada por uma barra graduada. Ex:
+- Numérica: Ex: 1:50.000 → 1 cm no mapa = 50.000 cm na realidade.
+- Gráfica: Representada por uma barra graduada. Ex:
 
 #### Conversão de unidades
 - 1 km = 100.000 cm

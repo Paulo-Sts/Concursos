@@ -1,54 +1,52 @@
 # Sílaba
 
-<br>
-
-## DEFINIÇÃO
-* Sílaba é uma unidade fonética (de som) que forma a palavra, ou seja, se trata de cada parte da palavra que é expressa junta entre si ao se falar a palavra.
-* Existem vários tipos de sílabas, assim como a quantidade de sílabas varia de palavra para palavra.
-* A separação silábica consiste na divisão das palavras a partir das sílabas que as formam.
+## Definição
+- Sílaba é uma unidade fonética (de som) que forma a palavra, ou seja, se trata de cada parte da palavra que é expressa junta entre si ao se falar a palavra.
+- Existem vários tipos de sílabas, assim como a quantidade de sílabas varia de palavra para palavra.
+- A separação silábica consiste na divisão das palavras a partir das sílabas que as formam.
 
 #### Regras para a separação de sílabas
-* Sílabas podem ser formadas por vogais e por vogais e consoantes.
-* Não existem sílabas formadas só por consoantes.
-* Vogais isoladas podem formar uma sílaba.
-* Palavras com consoantes juntas (rr, ss, sc, sç, xc) se separam em diferentes sílabas.
-* Palavras com repetição de vogais idênticas se separam em diferentes sílabas.
-* Na ocorrência de hiatos a vogal forma uma sílaba separada.
-* Na ocorrência de ditongos e tritongos forma-se uma única sílaba.
-* Na ocorrência de encontros consonantais perfeitos não ocorre a separação em diferentes sílabas.
-* Palavras com consoantes juntas (ch, lh, sc, nh) formam uma única sílaba.
-* Toda sílaba tem apenas uma vogal (embora no caso de ditongos e tritongos ela possua mais de uma, apenas uma é vogal e as demais são semivogais).
+- Sílabas podem ser formadas por vogais e por vogais e consoantes.
+- Não existem sílabas formadas só por consoantes.
+- Vogais isoladas podem formar uma sílaba.
+- Palavras com consoantes juntas (rr, ss, sc, sç, xc) se separam em diferentes sílabas.
+- Palavras com repetição de vogais idênticas se separam em diferentes sílabas.
+- Na ocorrência de hiatos a vogal forma uma sílaba separada.
+- Na ocorrência de ditongos e tritongos forma-se uma única sílaba.
+- Na ocorrência de encontros consonantais perfeitos não ocorre a separação em diferentes sílabas.
+- Palavras com consoantes juntas (ch, lh, sc, nh) formam uma única sílaba.
+- Toda sílaba tem apenas uma vogal (embora no caso de ditongos e tritongos ela possua mais de uma, apenas uma é vogal e as demais são semivogais).
 
 > ### Tipos de sílabas
 
 #### Sílabas tônicas
-* É a sílaba que na palavra possui a pronúncia mais forte.
+- É a sílaba que na palavra possui a pronúncia mais forte.
 
 Ex: porta => **por**-ta  
 Ex: cachorro => ca-**chor**-ro
 
 #### Sílabas átonas
-* São as sílabas em que a pronúncia tem menor força na palavra.
+- São as sílabas em que a pronúncia tem menor força na palavra.
 
 Ex: porta => por-**ta**  
 Ex: cachorro => **ca**-chor-**ro**
 
-**Observação:** A sílaba mais forte também define a classificação das palavras em oxítonas, paroxítonas e proparoxítonas a partir da posição em que ela se encontra na palavra.
+**OBSERVAÇÃO:** A sílaba mais forte também define a classificação das palavras em oxítonas, paroxítonas e proparoxítonas a partir da posição em que ela se encontra na palavra.
 
 #### Sílabas abertas
-* São as sílabas terminadas em vogal.
+- São as sílabas terminadas em vogal.
 
 Ex: porta => por-**ta**  
 Ex: cachorro => **ca**-chor-**ro**
 
 #### Sílabas fechadas
-* São as sílabas que terminam em consoantes.
+- São as sílabas que terminam em consoantes.
 
 Ex: porta => **por**-ta  
 Ex: cachorro => ca-**chor**-ro
 
 > ### Classificação das sílabas
-* As sílabas podem ser classificadas de acordo com a forma de sua separação, assim como pela quantidade de sílabas que formam a palavra e também pela posição que as sílabas tônicas se encontram na palavra.
+- As sílabas podem ser classificadas de acordo com a forma de sua separação, assim como pela quantidade de sílabas que formam a palavra e também pela posição que as sílabas tônicas se encontram na palavra.
 
 #### De acordo com a forma de separação
 

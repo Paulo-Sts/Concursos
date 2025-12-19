@@ -15,8 +15,8 @@
 #### Subscrição tipo melhor esforço (best effort)
 - A instituição financeira se compromete a fazer o melhor esforço para vender as ações.
 - Não assume o risco de venda total, as ações não vendidas são devolvidas à empresa.
-- **Vantagem:** Custo menor para a empresa.
-- **Desvantagem:** Não há garantia de captação total de recursos.
+- Vantagem: Custo menor para a empresa.
+- Desvantagem: Não há garantia de captação total de recursos.
 
 #### Subscrição tipo residual (stand by)
 - A instituição financeira vende as ações no mercado e subscreve (compra) as que não forem vendidas.

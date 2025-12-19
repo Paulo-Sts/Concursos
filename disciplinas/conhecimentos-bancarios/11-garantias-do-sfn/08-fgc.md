@@ -9,7 +9,7 @@
 - Bancos comerciais, múltiplos, de investimento e desenvolvimento.  
 - Sociedades de crédito, financiamento e investimento.  
 - Caixa Econômica Federal.  
-- Cooperativas de crédito (protegidas pelo **FGCoop**, com mesmos limites do FGC).  
+- Cooperativas de crédito (protegidas pelo FGCoop, com mesmos limites do FGC).  
 - Exceções: Instituições de pagamento (não associadas ao FGC).  
 
 > ### Operações garantidas

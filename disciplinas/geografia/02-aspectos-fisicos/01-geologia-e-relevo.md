@@ -3,18 +3,18 @@
 ## Estrutura geológica da Terra
 
 #### Teorias de formação
-- **Big Bang:** Expansão a partir de partícula primordial com alta energia/densidade
-- **Deriva Continental (Wegener, 1912):** Baseada em evidências paleontológicas, climatológicas e litológicas
-- **Tectônica de Placas:** Movimento de placas sobre a astenosfera
+- Big Bang: Expansão a partir de partícula primordial com alta energia/densidade
+- Deriva Continental (Wegener, 1912): Baseada em evidências paleontológicas, climatológicas e litológicas
+- Tectônica de Placas: Movimento de placas sobre a astenosfera
 
 #### Estrutura interna
-- **Crosta:** 5-40 km (Sial - continental; Sima - oceânica)
-- **Manto:** 50-2.900 km (correntes de convecção movimentam placas)
-- **Núcleo:** Externo (líquido) e Interno (sólido) - gera campo magnético
+- Crosta: 5-40 km (Sial - continental; Sima - oceânica)
+- Manto: 50-2.900 km (correntes de convecção movimentam placas)
+- Núcleo: Externo (líquido) e Interno (sólido) - gera campo magnético
 
 #### Descontinuidades
-- **Mohorovicic:** Entre crosta e manto
-- **Gutenberg:** Entre manto e núcleo
+- Mohorovicic: Entre crosta e manto
+- Gutenberg: Entre manto e núcleo
 
 ## Agentes de formação do relevo
 
@@ -31,9 +31,9 @@
 ## Placas tectônicas
 
 #### Tipos de movimento
-- **Convergentes:** Destrutivas (subducção, formação de montanhas/cordilheiras)
-- **Divergentes:** Construtivas (expansão do assoalho oceânico)
-- **Transformantes:** Conservativas (deslizamento horizontal - Falha de San Andreas)
+- Convergentes: Destrutivas (subducção, formação de montanhas/cordilheiras)
+- Divergentes: Construtivas (expansão do assoalho oceânico)
+- Transformantes: Conservativas (deslizamento horizontal - Falha de San Andreas)
 
 #### Brasil tectônico
 - Localizado no centro da Placa Sul-Americana
@@ -43,10 +43,10 @@
 ## Geologia Brasileira
 
 #### Composição
-- **Crátons (36%):** Formações antigas (Pré-Cambriano)
+- Crátons (36%): Formações antigas (Pré-Cambriano)
   - Rochas magmáticas (granito, basalto) e metamórficas (mármore)
   - Grande variabilidade mineral (Quadrilátero Ferrífero, Serra dos Carajás)
-- **Bacias Sedimentares (64%):** Formações mais recentes (Paleozoico ao Cenozoico)
+- Bacias Sedimentares (64%): Formações mais recentes (Paleozoico ao Cenozoico)
   - Rochas sedimentares (arenito, argila)
   - Reservas de petróleo e carvão mineral
 
@@ -86,10 +86,10 @@
 - Tipos: interplanálticas, periféricas, marginais
 
 #### Formas Especiais
-- **Chapadas:** Planaltos com topo plano e vertentes íngremes
-- **Cuestas:** Planaltos assimétricos com um lado íngreme e outro suave
-- **Inselbergs:** Planaltos de formas angulosas em regiões áridas
-- **Mares de Morros:** Conjuntos de morros arredondados (Serra do Mar)
+- Chapadas: Planaltos com topo plano e vertentes íngremes
+- Cuestas: Planaltos assimétricos com um lado íngreme e outro suave
+- Inselbergs: Planaltos de formas angulosas em regiões áridas
+- Mares de Morros: Conjuntos de morros arredondados (Serra do Mar)
 
 ## Características Gerais do Relevo Brasileiro
 - Predomínio de planaltos antigos e desgastados

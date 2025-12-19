@@ -63,14 +63,14 @@
 - Maior amplitude térmica em regiões secas (ex.: Brasília: 13°C).
 
 ## 4. Hidrografia
-- **Rede hidrográfica:** rio principal + afluentes + subafluentes.
-- **Bacia hidrográfica:** rios + terras banhadas por eles.
-- **Nascente:** onde o rio nasce.
-- **Foz:** onde o rio deságua (tipos: estuário e delta).
-- **Jusante:** sentido da correnteza.
-- **Montante:** contra a correnteza.
-- **Talvegue:** ponto mais profundo do rio.
-- **Meandros:** curvas sinuosas do rio.
+- Rede hidrográfica: rio principal + afluentes + subafluentes.
+- Bacia hidrográfica: rios + terras banhadas por eles.
+- Nascente: onde o rio nasce.
+- Foz: onde o rio deságua (tipos: estuário e delta).
+- Jusante: sentido da correnteza.
+- Montante: contra a correnteza.
+- Talvegue: ponto mais profundo do rio.
+- Meandros: curvas sinuosas do rio.
 
 > ### Principais Bacias Hidrográficas do Brasil
 

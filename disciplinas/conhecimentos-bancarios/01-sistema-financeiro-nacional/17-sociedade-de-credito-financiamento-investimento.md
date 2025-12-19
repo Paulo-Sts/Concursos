@@ -6,9 +6,9 @@
 - Objetivo principal: conceder financiamentos para aquisição de bens e serviços a pessoas físicas e jurídicas (consumidores finais) e fornecer capital de giro.
 
 #### Operações permitidas
-- **Financiamento de bens e serviços**: Para consumidores finais, com possibilidade de alienação fiduciária do bem como garantia.
-- **Capital de giro**: Para pessoas jurídicas.
-- **Produtos principais**: Crédito Direto ao Consumidor (CDC) e financiamento de capital de giro.
+- Financiamento de bens e serviços: Para consumidores finais, com possibilidade de alienação fiduciária do bem como garantia.
+- Capital de giro: Para pessoas jurídicas.
+- Produtos principais: Crédito Direto ao Consumidor (CDC) e financiamento de capital de giro.
 
 #### Fontes de recursos
 - Captação por meio de:

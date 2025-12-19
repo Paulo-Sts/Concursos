@@ -10,7 +10,7 @@
 > ### Investimento financeiro
 - É o investimento em aplicações financeiras (aporte de recursos) realizadas por pessoas ou empresas com recursos disponíveis, com o objetivo de obter lucro a partir do recebimento de juros sobre o valor aplicado. 
 - Esse tipo de investimento é remunerado de acordo com o seu risco, sendo o juros pagos maior conforme o grau de risco do investimento.
-- Investimentos financeiros podem ser realizados na modalidade de **renda fixa** e **renda variável**. 
+- Investimentos financeiros podem ser realizados na modalidade de renda fixa e renda variável. 
 - Na renda fixa o valor aplicado rende a partir de uma taxa de juros, já na renda variável o agente superavitário torna-se sócio da empresa, sendo a sua remuneração proporcional ao desempenho da empresa em lucrar ou não.
 - Aplicações em renda fixa, são mais seguras que aplicações em renda variável, pois são remuneradas por taxas de juros ou índices de referências, enquanto aplicações em renda variável podem apresentar grandes oscilações de preços de ativos, o que pode gerar grandes possibilidades de lucro ou prejuízo.
 

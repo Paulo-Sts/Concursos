@@ -7,7 +7,7 @@
 > ### 🎯 Objetivo do BB com ASG
 - Estimular investimentos responsáveis para o cliente e o planeta.
 - Aumentar o volume aplicado em empresas com práticas sustentáveis:
-  - Meta: **R$ 20 bilhões até 2025** em fundos ASG.
+  - Meta: R$ 20 bilhões até 2025 em fundos ASG.
 - Avaliar 100% dos ativos sob gestão da BB DTVM com critérios ASG.
 
 > ### 🏦 Fundos ASG do BB
@@ -78,8 +78,8 @@ Fundos que aplicam em empresas que seguem práticas ambientais, sociais e de gov
   - Busca melhoria contínua na gestão ambiental e social.
 
 > ### 🐱‍👤 Pulo do Gato para a Prova
-- ASG envolve: **crédito + fundos + gestão** com base em responsabilidade.
-- Saber os **princípios (integração, engajamento, transparência)**.
-- Conhecer a **lista de fundos** é diferencial.
-- Relacionar ASG com **valores da governança corporativa e sustentabilidade**.
+- ASG envolve: crédito + fundos + gestão com base em responsabilidade.
+- Saber os princípios (integração, engajamento, transparência).
+- Conhecer a lista de fundos é diferencial.
+- Relacionar ASG com valores da governança corporativa e sustentabilidade.
 

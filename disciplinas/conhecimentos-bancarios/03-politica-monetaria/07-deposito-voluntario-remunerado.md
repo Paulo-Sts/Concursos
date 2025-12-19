@@ -25,15 +25,15 @@
 
 > ### Comparação com outros instrumentos
 
-| INSTRUMENTO               | DEPÓSITO VOLUNTÁRIO REMUNERADO                                       | OPERAÇÕES COMPROMISSADAS                                                         |
-|---------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Base legal                | Lei n. 14.185/2021.                                                  | Lei n. 10.179/2001 e Decreto n. 3.088/1999.                                      |
-| Funcionamento             | IFs depositam recursos no BC voluntariamente, recebendo remuneração. | BACEN vende títulos públicos com compromisso de recompra, enxugando a liquidez.  |
-| Impacto na dívida pública | Não aumenta a dívida pública.                                        | Aumenta a dívida pública, pois envolve a emissão de títulos do Tesouro Nacional. |
-| Efeito na liquidez        | Reduz a liquidez do mercado, controlando a oferta de moeda.          | Reduz a liquidez do mercado, mas depende da emissão de títulos públicos.         |
+| INSTRUMENTO               | DEPÓSITO VOLUNTÁRIO REMUNERADO                                       | OPERAÇÕES COMPROMISSADAS                                                   |
+|---------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Base legal                | Lei n. 14.185/2021.                                                  | Lei n. 10.179/2001 e Decreto n. 3.088/1999.                                |
+| Funcionamento             | IFs depositam recursos no BC voluntariamente, com remuneração.       | BACEN vende T.P. com compromisso de recompra, enxugando a liquidez.        |
+| Impacto na dívida pública | Não aumenta a dívida pública.                                        | Aumenta a dívida pública, pois envolve a emissão de títulos do T. Nacional |
+| Efeito na liquidez        | Reduz a liquidez do mercado, controlando a oferta de moeda.          | Reduz a liquidez do mercado, mas depende da emissão de títulos públicos.   |
 
 > ### Críticas ao depósito voluntário remunerado
-- **Uso de recursos públicos:** O BACEN utiliza dinheiro público para remunerar bancos, o que pode ser visto como um benefício aos banqueiros.
-- **Ineficácia no controle da inflação:** A inflação no Brasil é influenciada por fatores como preços administrados (energia, combustíveis) e problemas na produção de alimentos, não apenas pela oferta de moeda.
-- **Impacto social:** A redução da liquidez pode limitar o acesso ao crédito para pessoas e empresas, especialmente em momentos de crise.
-- **Autonomia do BACEN:** A autonomia do BC para realizar depósitos voluntários sem interferência do governo pode gerar controvérsias sobre o uso de recursos públicos.
+- Uso de recursos públicos: O BACEN utiliza dinheiro público para remunerar bancos, o que pode ser visto como um benefício aos banqueiros.
+- Ineficácia no controle da inflação: A inflação no Brasil é influenciada por fatores como preços administrados (energia, combustíveis) e problemas na produção de alimentos, não apenas pela oferta de moeda.
+- Impacto social: A redução da liquidez pode limitar o acesso ao crédito para pessoas e empresas, especialmente em momentos de crise.
+- Autonomia do BACEN: A autonomia do BC para realizar depósitos voluntários sem interferência do governo pode gerar controvérsias sobre o uso de recursos públicos.

@@ -9,13 +9,13 @@
 
 > ### Título pré-fixado
 - É o título cuja taxa de remuneração (taxa de juros) é definida no momento da sua compra. Dessa forma já é possível saber o rendimento no momento em que se adquire o título.
-- Títulos pré-fixados são indicados para momentos em que há **queda na taxa de juros e/ou na inflação**.
+- Títulos pré-fixados são indicados para momentos em que há queda na taxa de juros e/ou na inflação.
 - Isso se da porque a remuneração permanece alta em relação a outros títulos futuros (que terão taxa menor), assim como o ganho real aumenta, visto que a desvalorização do dinheiro aplicado é menor com a queda da inflação.
 
 > ### Título pós-fixado
 - São títulos em que a remuneração dependerá do desempenho de um indexador definido como correção de valor e/ou taxa de remuneração do título. 
 - Dessa forma quanto maior for o indexador, maior será a remuneração, assim como o inverso.
-- Títulos pós-fixados são indicados para cenários de **elevação das taxas de juros ou da inflação**.
+- Títulos pós-fixados são indicados para cenários de elevação das taxas de juros ou da inflação.
 - Por exemplo, títulos pós-fixados que utilizam a SELIC como referência, mais uma taxa fixa em um cenário de tendência de aumento da taxa SELIC darão maior remuneração, do que um pré-fixado na atual taxa SELIC.
 
 > ### Tírulo flutuante

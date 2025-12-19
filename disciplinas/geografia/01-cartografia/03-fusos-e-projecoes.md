@@ -79,7 +79,7 @@
 - Valoriza as distâncias
 
 > ### Outras projeções
-- **Robinson:** pseudo-cilíndrica, afilática
-- **Mollweide:** formato oval
-- **Lambert:** projeção cônica
-- **Anamorfose:** distorção para valorizar características específicas (ex: população, PIB)
+- Robinson: pseudo-cilíndrica, afilática
+- Mollweide: formato oval
+- Lambert: projeção cônica
+- Anamorfose: distorção para valorizar características específicas (ex: população, PIB)

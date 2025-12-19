@@ -1,7 +1,7 @@
 # Sinais de Pontuação
 
 ## Definição
-* Sinais de pontuação são marcas gráficas que indicam pausas, entonações e inflexões da voz. 
+- Sinais de pontuação são marcas gráficas que indicam pausas, entonações e inflexões da voz. 
 
 #### Etapas na análise da pontuação
 1. Encontrar o verbo.
@@ -11,7 +11,7 @@
 ## Tipos de sinais
 
 > ### Vírgula 
-* A vírgula é usada para separar elementos dentro de uma frase. Sua principal função é indicar uma pausa curta, facilitando o entendimento da estrutura da oração.
+- A vírgula é usada para separar elementos dentro de uma frase. Sua principal função é indicar uma pausa curta, facilitando o entendimento da estrutura da oração.
 
 #### Uso correto da vírgula  
 
@@ -40,25 +40,25 @@
 | Em separações desnecessárias dentro da oração.                    | Fui ao mercado e comprei frutas. ✅/Fui ao mercado, e comprei frutas. ❌                                |
 
 #### Ponto e Vírgula
-* O ponto e vírgula é usado para separar orações dentro de um período composto que já possui vírgulas ou quando a separação entre os elementos for mais forte que a vírgula, mas não tão definitiva quanto o ponto final.
-* Exemplo:
+- O ponto e vírgula é usado para separar orações dentro de um período composto que já possui vírgulas ou quando a separação entre os elementos for mais forte que a vírgula, mas não tão definitiva quanto o ponto final.
+- Exemplo:
   - Ele não queria sair; estava cansado.
   - Fui à padaria, comprei pão; depois, fui ao banco.
 
 #### Dois-pontos
-* Os dois-pontos são usados para indicar explicação, citação ou enumerar itens.
-* Principais usos:
+- Os dois-pontos são usados para indicar explicação, citação ou enumerar itens.
+- Principais usos:
   - Antes de uma explicação ou enumeração. (Exemplo: Ele trouxe várias frutas: maçãs, bananas e uvas.)
   - Antes de uma citação direta. (Exemplo: Ele disse: "Vou ao mercado.")
 
 #### Travessão
-* O travessão é utilizado para indicar uma mudança abrupta de pensamento, para isolar um aposto explicativo ou para marcar a fala de um personagem (em diálogos).
-* Exemplo:
+- O travessão é utilizado para indicar uma mudança abrupta de pensamento, para isolar um aposto explicativo ou para marcar a fala de um personagem (em diálogos).
+- Exemplo:
   - Eu estava indo para o trabalho — mas esqueci a chave.
   - Ela entrou na sala — "Vou fazer a tarefa", disse.
 
 #### Parênteses
-* Os parênteses são usados para inserir informações adicionais, explicações ou detalhes que não são essenciais para o entendimento da oração principal.
-* Exemplo:
+- Os parênteses são usados para inserir informações adicionais, explicações ou detalhes que não são essenciais para o entendimento da oração principal.
+- Exemplo:
   - O João (meu amigo de infância) foi ao evento.
   - Ela comprou um carro novo (um modelo vermelho).

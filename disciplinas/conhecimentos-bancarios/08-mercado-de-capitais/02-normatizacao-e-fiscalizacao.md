@@ -1,8 +1,8 @@
 # Normatização e Fiscalização
 
 ## Atuação do CMN no mercado de capitais
-- **Art. 3º da Lei 6.385/1976:** Define políticas, regula crédito e coordena ações com a CVM e o Banco Central.
-- **Art. 4º da Lei 6.385/1976:** Objetivos incluem proteger investidores, evitar fraudes e assegurar transparência no mercado.
+- Art. 3º da Lei 6.385/1976: Define políticas, regula crédito e coordena ações com a CVM e o Banco Central.
+- Art. 4º da Lei 6.385/1976: Objetivos incluem proteger investidores, evitar fraudes e assegurar transparência no mercado.
 
 #### Principais atribuições do CMN e CVM
 - Estimular a poupança e aplicação em valores mobiliários.

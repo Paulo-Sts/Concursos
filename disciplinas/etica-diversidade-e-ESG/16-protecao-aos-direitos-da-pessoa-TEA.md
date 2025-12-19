@@ -4,7 +4,7 @@
 - Base legal:  
   - Lei nº 12.764/2012: Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista (TEA).  
   - Decreto nº 6.949/2009: Promulga a Convenção Internacional sobre os Direitos da Pessoa com Deficiência.  
-  - Art. 1º da Lei nº 12.764/2012: A pessoa com TEA é considerada **pessoa com deficiência** para todos os efeitos legais.
+  - Art. 1º da Lei nº 12.764/2012: A pessoa com TEA é considerada pessoa com deficiência para todos os efeitos legais.
 - O Decreto nº 8.368/2014 regulamenta a Lei nº 12.764/2012, garantindo direitos fundamentais às pessoas com TEA, como acesso à saúde, educação, proteção social e inclusão no mercado de trabalho. Além disso, estabelece mecanismos de fiscalização e punição para casos de discriminação ou recusa de matrícula.
 
 ## Principais disposições

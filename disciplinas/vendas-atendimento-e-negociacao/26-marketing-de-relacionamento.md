@@ -63,7 +63,7 @@
   - Comunicação eficaz: Manter o cliente informado e engajado.
 
 ## Valor percebido pelo cliente
-- É a avaliação subjetiva que o cliente faz sobre um produto ou serviço, baseada na relação entre **custos** e **benefícios**.
+- É a avaliação subjetiva que o cliente faz sobre um produto ou serviço, baseada na relação entre custos e benefícios.
 - O valor percebido pode ser maior ou menor, dependendo da perspectiva de cada cliente.
 
 #### Fórmula do valor percebido

@@ -50,10 +50,10 @@
 | NÍVEL     | REQUISITO                                 |
 |-----------|-------------------------------------------|
 | Nível I   | Associadas à FEBRABAN                     |
-| Nível II  | Aderem a **pelo menos um** eixo normativo |
-| Nível III | Aderem a **todos os** eixos normativos    |
+| Nível II  | Aderem a pelo menos um eixo normativo     |
+| Nível III | Aderem a todos os eixos normativos        |
 
-**OBSERVAÇÃO:** Níveis II e III podem receber **Selos de Autorregulação**.
+**OBSERVAÇÃO:** Níveis II e III podem receber Selos de Autorregulação.
 
 > ### ⚙️ Organização interna do sistema
 
@@ -65,11 +65,11 @@
 | Diretoria de Autorregulação | Órgão executivo, subordinado ao Conselho.                                                    |
 
 > ### ⚠️ Sanções e procedimento disciplinar
-- Adesão ao sistema é **voluntária**, mas **descumprimento gera sanções**:
-  - **1ª infração:** Carta reservada com recomendação de ajuste.
-  - **2ª infração:** Carta pública + multa de **1 a 10x** a menor anuidade da FEBRABAN.
-  - **3ª infração:** Suspensão + multa de **5 a 15x** a menor anuidade.
-  - **4ª infração:** Exclusão do sistema (decisão referendada pelo Conselho das Signatárias).
+- Adesão ao sistema é voluntária, mas descumprimento gera sanções:
+  - 1ª infração: Carta reservada com recomendação de ajuste.
+  - 2ª infração: Carta pública + multa de 1 a 10x a menor anuidade da FEBRABAN.
+  - 3ª infração: Suspensão + multa de 5 a 15x a menor anuidade.
+  - 4ª infração: Exclusão do sistema (decisão referendada pelo Conselho das Signatárias).
 
 **OBSERVAÇÃO:** Regido pelo Normativo SARB nº 006.
 

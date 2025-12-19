@@ -1,4 +1,4 @@
-# Resumo: Windows 11 – Área de Trabalho e Barra de Tarefas
+# Windows 11 – Área de Trabalho e Barra de Tarefas
 
 ## 1. Área de Trabalho (Desktop)
 - Tela principal do sistema após o login.
@@ -33,10 +33,10 @@
 - Acesso pelo botão "Iniciar" ou tecla Win.
 - Menu Link Rápido: Win + X ou botão direito no "Iniciar".
 - Opções de energia no botão "Iniciar":
-  - **Suspender**: reduz consumo de energia mantendo estado na RAM; retorno instantâneo.
-  - **Hibernar**: salva estado no disco e desliga completamente; reinício necessário.
-  - **Desligar**: encerra sessão e desliga o computador.
-  - **Reiniciar**: encerra e reinicia o sistema.
+  - Suspender: reduz consumo de energia mantendo estado na RAM; retorno instantâneo.
+  - Hibernar: salva estado no disco e desliga completamente; reinício necessário.
+  - Desligar: encerra sessão e desliga o computador.
+  - Reiniciar: encerra e reinicia o sistema.
 - A opção "Hibernar" pode ser habilitada em:
   - Painel de Controle > Hardware e Sons > Opções de Energia > Configurações do sistema.
 
@@ -46,7 +46,3 @@
   - Trocar de usuário (logoff sem desligar).
   - Encerrar sessão (logoff).
 - Cada usuário mantém configurações e área de trabalho independentes.
-
----
-
-*Material com base na aula do Prof. Mauricio Franceschini (Gran Cursos Online).*

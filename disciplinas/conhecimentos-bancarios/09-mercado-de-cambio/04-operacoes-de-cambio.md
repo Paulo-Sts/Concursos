@@ -1,7 +1,7 @@
 # Operações no mercado de câmbio 
 
 ## Resolução CMN nº 5.042, de 25 de novembro de 2022  
-- Instituições financeiras e autorizadas precisam de **autorização prévia do Banco Central (BC)** para operar no mercado de câmbio.  
+- Instituições financeiras e autorizadas precisam de autorização prévia do Banco Central (BC) para operar no mercado de câmbio.  
 
 > ### Tipos de operações do mercado de câmbio  
 
@@ -15,7 +15,7 @@
 
 #### Câmbio manual  
 - Compra e venda de moedas estrangeiras em espécie.  
-- Limite de **US$ 1.000,00**.  
+- Limite de US$ 1.000,00.  
 
 #### Câmbio sacado  
 - Operações com títulos representativos, sem troca física de moedas.  
@@ -37,22 +37,22 @@
 > ### Resolução BCB nº 277, de 31 de dezembro de 2022
 
 #### Registro e conservação de informações  
-- Instituições autorizadas devem manter registros por **10 anos**, incluindo:  
+- Instituições autorizadas devem manter registros por 10 anos, incluindo:  
   - Consentimento do cliente;  
   - Informações e documentos comprobatórios das operações.  
 
 #### Ingresso e saída de moeda  
-- Valores acima de **US$ 10.000,00** (ou equivalente) devem ser movimentados por instituições autorizadas.  
+- Valores acima de US$ 10.000,00 (ou equivalente) devem ser movimentados por instituições autorizadas.  
 - Instituições de pagamento não podem realizar essas operações.  
 
 #### Valor efetivo total (VET)  
 - Deve ser informado ao cliente antes da operação, incluindo taxa de câmbio, tributos e tarifas.  
 
 #### Liquidação de operações  
-- **Pronta:** Até 2 dias úteis.  
-- **Futura:** Até 1.500 dias.  
-- **A termo:** Para operações interbancárias, até 1.500 dias.  
+- Pronta: Até 2 dias úteis.  
+- Futura: Até 1.500 dias.  
+- A termo: Para operações interbancárias, até 1.500 dias.  
 
 #### Serviço de pagamento ou transferência internacional (eFX)  
-- Viabiliza pagamentos e transferências internacionais, limitados a **US$ 10.000,00**.  
+- Viabiliza pagamentos e transferências internacionais, limitados a US$ 10.000,00.  
 - Inclui aquisição de bens e serviços no exterior e transferências unilaterais.  

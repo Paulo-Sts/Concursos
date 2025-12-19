@@ -21,23 +21,23 @@
 > ### Classificação quanto à forma
 
 #### Ações ao portador x nominativas
-- **Ao portador:** Não identificam o titular (proibidas no Brasil).
-- **Nominativas:** Identificam o titular (obrigatórias no Brasil).
+- Ao portador: Não identificam o titular (proibidas no Brasil).
+- Nominativas: Identificam o titular (obrigatórias no Brasil).
 
 #### Ações físicas x escriturais
-- **Físicas:** Suporte em papel (raras atualmente).
-- **Escriturais:** Formato eletrônico (predominante).
+- Físicas: Suporte em papel (raras atualmente).
+- Escriturais: Formato eletrônico (predominante).
 
 > ### Direitos dos acionistas
-- **Dividendos:** Participação mínima de 25% do lucro líquido do exercício.
-- **Voto plural:** Ações ordinárias podem ter direito a mais de um voto por ação (até 10 votos), conforme a Lei n. 14.195/2021.
-  - **Condições:**
+- Dividendos: Participação mínima de 25% do lucro líquido do exercício.
+- Voto plural: Ações ordinárias podem ter direito a mais de um voto por ação (até 10 votos), conforme a Lei n. 14.195/2021.
+  - Condições:
     - Aprovação em assembleia especial.
     - Aplicável apenas a novas emissões de ações.
 
 #### Observações importantes
-- **Ações preferenciais e voto:** Se a empresa não distribuir dividendos por três exercícios consecutivos, as ações preferenciais ganham direito a voto sobre a distribuição de lucros.
-- **Voto plural:** Visa equalizar a legislação brasileira com a internacional, incentivando investimentos no mercado local.
+- Ações preferenciais e voto: Se a empresa não distribuir dividendos por três exercícios consecutivos, as ações preferenciais ganham direito a voto sobre a distribuição de lucros.
+- Voto plural: Visa equalizar a legislação brasileira com a internacional, incentivando investimentos no mercado local.
 
 > ### Resumo das diferenças entre ações ordinárias e preferenciais
 

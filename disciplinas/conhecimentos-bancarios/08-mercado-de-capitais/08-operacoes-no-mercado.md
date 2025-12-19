@@ -10,9 +10,9 @@
 - Período do dia em que são realizadas as negociações na bolsa.
 
 ## Líquidação
-- **Liquidação física:** Entrega dos títulos ao comprador.
-- **Liquidação financeira:** Transferência de recursos do comprador para o vendedor.
-- Ambas ocorrem em **D+2** (dois dias após a negociação).
+- Liquidação física: Entrega dos títulos ao comprador.
+- Liquidação financeira: Transferência de recursos do comprador para o vendedor.
+- Ambas ocorrem em D+2 (dois dias após a negociação).
 
 ## Block Trade
 - Oferta de grande lote de ações antigas, negociadas em bolsa ou mercado de balcão.
@@ -28,8 +28,8 @@
 ## Circuit Breaker
 - Mecanismo que interrompe o pregão em caso de queda acentuada do Ibovespa.
 - Níveis:
-  - **Queda de 10%:** Paralisação de 30 minutos.
-  - **Queda de 15%:** Paralisação de 1 hora.
+  - Queda de 10%: Paralisação de 30 minutos.
+  - Queda de 15%: Paralisação de 1 hora.
 
 ## After Market
 - Período de negociação após o fechamento do pregão regular.

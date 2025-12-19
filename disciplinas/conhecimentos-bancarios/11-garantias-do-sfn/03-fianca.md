@@ -4,15 +4,15 @@
 - Garantia pessoal que recai sobre contratos (Ex.: aluguel, empréstimos).
 
 #### Características
-- **Subsidiariedade:** O fiador só é cobrado após esgotar as tentativas de receber do devedor principal (salvo cláusula de solidariedade).
-- **Formalização:** Contrato por escrito, sem interpretação extensiva.
-- **Responsabilidade:** O fiador se responsabiliza pela dívida principal e pelos acessórios (Ex.: juros, custas judiciais).
-- **Fiança integral:** O fiador responde por toda a dívida, a menos que seja limitada (parcial).
-- **Fiança solidária:** O fiador renuncia ao benefício de ordem e pode ser cobrado diretamente.
-- **Subfiança:** Fiança que garante outra fiança.
-- **Insolvência do fiador:** O credor pode exigir substituição do fiador.
-- **Fiança conjunta:** Vários fiadores podem ser solidários entre si, respondendo cada um por toda a dívida.
-- **Autorização do cônjuge:** Necessária, exceto em caso de separação total de bens.
+- Subsidiariedade: O fiador só é cobrado após esgotar as tentativas de receber do devedor principal (salvo cláusula de solidariedade).
+- Formalização: Contrato por escrito, sem interpretação extensiva.
+- Responsabilidade: O fiador se responsabiliza pela dívida principal e pelos acessórios (Ex.: juros, custas judiciais).
+- Fiança integral: O fiador responde por toda a dívida, a menos que seja limitada (parcial).
+- Fiança solidária: O fiador renuncia ao benefício de ordem e pode ser cobrado diretamente.
+- Subfiança: Fiança que garante outra fiança.
+- Insolvência do fiador: O credor pode exigir substituição do fiador.
+- Fiança conjunta: Vários fiadores podem ser solidários entre si, respondendo cada um por toda a dívida.
+- Autorização do cônjuge: Necessária, exceto em caso de separação total de bens.
 
 > ### Tabela comparativa entre Aval e Fiança
 

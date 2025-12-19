@@ -7,8 +7,8 @@
 - Dependem de autorização do Banco Central do Brasil (BACEN) para funcionar.
 
 #### Tipos de leasing
-- **Leasing financeiro:** Focado na compra futura do bem arrendado.
-- **Leasing operacional:** Focado no uso temporário do bem, sem intenção de compra.
+- Leasing financeiro: Focado na compra futura do bem arrendado.
+- Leasing operacional: Focado no uso temporário do bem, sem intenção de compra.
 
 #### Operações permitidas
 - Arrendamento de bens móveis (nacionais ou estrangeiros) e imóveis.

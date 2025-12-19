@@ -7,7 +7,7 @@
 - Capital mínimo: R$ 7.000.000,00.
 
 #### Operações ativas
-- Financiamento para construção, aquisição, reforma ou ampliação de imóveis **residenciais**.
+- Financiamento para construção, aquisição, reforma ou ampliação de imóveis residenciais.
 - Repasses de recursos para programas habitacionais (ex.: Minha Casa Minha Vida).
 - Prestação de garantias.
 - Atuação como agente fiduciário em operações de crédito imobiliário.
@@ -22,13 +22,13 @@
 - Empréstimos e financiamentos no exterior.
 
 ## Companhia hipotecária (CH)
-- Instituição financeira que concede financiamentos imobiliários **residenciais e comerciais**.
+- Instituição financeira que concede financiamentos imobiliários residenciais e comerciais.
 - Constituída como sociedade anônima.
 - Denominação social obrigatória: "Companhia Hipotecária".
 - Capital mínimo: R$ 3.000.000,00.
 
 #### Operações ativas
-- Financiamento para aquisição, construção, reforma ou comercialização de imóveis **residenciais e comerciais**.
+- Financiamento para aquisição, construção, reforma ou comercialização de imóveis residenciais e comerciais.
 - Empréstimos garantidos por hipoteca ou alienação fiduciária.
 - Administração de fundos de investimento imobiliário (autorizados pela CVM).
 - Repasses de recursos para programas imobiliários.
@@ -42,13 +42,13 @@
 - Empréstimos e financiamentos no país e no exterior.
 
 ## Associação de poupança e empréstimo (APE)
-- Instituição financeira sem fins lucrativos, voltada ao financiamento imobiliário **residencial**.
+- Instituição financeira sem fins lucrativos, voltada ao financiamento imobiliário residencial.
 - Constituída como sociedade civil.
 - Denominação social obrigatória: "Associação de Poupança e Empréstimo".
 - Capital mínimo: R$ 7.000.000,00.
 
 #### Operações ativas
-- Financiamento para aquisição, construção, reforma ou ampliação de imóveis **residenciais**.
+- Financiamento para aquisição, construção, reforma ou ampliação de imóveis residenciais.
 - Empréstimos vinculados a operações imobiliárias.
 - Aplicações no mercado financeiro (com restrições).
 
@@ -71,6 +71,6 @@
 | Foco principal        | Financiamento residencial | Financiamento residencial e comercial | Financiamento residencial |
 
 > ### Pontos importantes
-- **SCI:** Foco em financiamento residencial, com captação via depósitos de poupança e emissão de títulos imobiliários.
-- **CH:** Atua tanto no mercado residencial quanto comercial, sem captação de poupança.
-- **APE:** Sem fins lucrativos, voltada ao financiamento residencial, com captação de poupança e emissão de títulos.
+- SCI: Foco em financiamento residencial, com captação via depósitos de poupança e emissão de títulos imobiliários.
+- CH: Atua tanto no mercado residencial quanto comercial, sem captação de poupança.
+- APE: Sem fins lucrativos, voltada ao financiamento residencial, com captação de poupança e emissão de títulos.

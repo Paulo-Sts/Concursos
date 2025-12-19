@@ -1,11 +1,9 @@
 # Adjetivo
 
-<br>
-
-## DEFINIÇÃO
-* Qualifica ou caracteriza o substantivo, atribuindo-lhe uma qualidade, estado ou modo de ser.
-* A flexão do adjetivo concorda em gênero (masculino/feminino) e número (singular/plural) com o substantivo.
-* Expressões com mais de uma palavra que caracterizam o substantivo, ou seja, possuem valor de um adjetivo são chamadas de locução adjetiva.
+## Definição
+- Qualifica ou caracteriza o substantivo, atribuindo-lhe uma qualidade, estado ou modo de ser.
+- A flexão do adjetivo concorda em gênero (masculino/feminino) e número (singular/plural) com o substantivo.
+- Expressões com mais de uma palavra que caracterizam o substantivo, ou seja, possuem valor de um adjetivo são chamadas de locução adjetiva.
 
 Ex: Os nefastos perigos radioativos.
 1. perigos = substantivo
@@ -29,4 +27,4 @@ Ex: Você tem olhos de águia.
 | Grau comparativo  | mais alto           | Compara duas coisas ou pessoas.                         | João é **mais alto** que Pedro.                           |
 | Grau superlativo  | altíssimo           | Intensifica uma qualidade.                              | A montanha é **altíssima**.                               |
 
-***DICA:*** Geralmente, o adjetivo vem após o substantivo, mas pode vir antes para dar ênfase. (Ex.: Uma **grande** ideia. / Uma ideia **grande**.)
+**DICA:** Geralmente, o adjetivo vem após o substantivo, mas pode vir antes para dar ênfase. (Ex.: Uma **grande** ideia. / Uma ideia **grande**.)

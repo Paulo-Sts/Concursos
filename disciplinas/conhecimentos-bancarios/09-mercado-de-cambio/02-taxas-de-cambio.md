@@ -17,7 +17,7 @@
 - Serve como referência para negociações no mercado.  
 
 ## Spread cambial  
-- Diferença entre a **taxa de compra** e a **taxa de venda** da moeda estrangeira;  
+- Diferença entre a taxa de compra e a taxa de venda da moeda estrangeira;  
 - Para o banco:  
   - Vende moeda estrangeira por um valor maior;  
   - Compra por um valor menor.  
@@ -74,36 +74,36 @@ câmbio real = 7,50
 
 ## Variação da taxa de câmbio  
 - Influenciada pela oferta e demanda de moeda estrangeira;  
-- **Oferta alta e demanda baixa:** Valorização da moeda nacional;  
-- **Oferta baixa e demanda alta:** Desvalorização da moeda nacional.  
+- Oferta alta e demanda baixa: Valorização da moeda nacional;  
+- Oferta baixa e demanda alta: Desvalorização da moeda nacional.  
 
 ## Fatores que afetam a oferta e demanda de moeda estrangeira  
 
 #### Balança comercial  
-- **Superávit** (exportações > importações):  
+- Superávit (exportações > importações):  
   - Aumenta a oferta de moeda estrangeira;  
   - Reduz a cotação da moeda estrangeira.  
-- **Déficit** (importações > exportações):  
+- Déficit (importações > exportações):  
    - Aumenta a demanda por moeda estrangeira;  
    - Eleva a cotação da moeda estrangeira.  
 
 #### Turismo  
-- **Turismo internacional forte:**  
+- Turismo internacional forte:
   - Aumenta a demanda por moeda estrangeira (ex.: dólar).  
-- **Turismo internacional fraco:**  
-   - Reduz a demanda por moeda estrangeira.  
-- **Turismo para o Brasil:** 
-   - Forte: aumenta a entrada de dólares no país.  
+- Turismo internacional fraco:  
+  - Reduz a demanda por moeda estrangeira.  
+- Turismo para o Brasil: 
+  - Forte: aumenta a entrada de dólares no país.  
 
 ## Valorização e desvalorização da moeda  
 
 #### Valorização do real  
-- São necessários **menos reais** para comprar uma unidade de moeda estrangeira;  
-- **Estimula as importações** (produtos estrangeiros ficam mais baratos).  
+- São necessários menos reais para comprar uma unidade de moeda estrangeira;  
+- Estimula as importações (produtos estrangeiros ficam mais baratos).  
 
 #### Desvalorização do real  
-- São necessários **mais reais** para comprar uma unidade de moeda estrangeira;  
-- **Estimula as exportações** (produtos nacionais ficam mais baratos no exterior).  
+- São necessários mais reais para comprar uma unidade de moeda estrangeira;  
+- Estimula as exportações (produtos nacionais ficam mais baratos no exterior).  
 
 ## Produtores e cedentes de divisas  
 
@@ -146,22 +146,22 @@ câmbio real = 7,50
 - Aumenta a cotação da moeda estrangeira.  
 
 #### Influência das taxas de juros  
-- **Elevação dos juros domésticos:**  
+- Elevação dos juros domésticos:  
   - Atrai capital estrangeiro;  
   - Reduz as taxas de câmbio.  
-- **Redução dos juros domésticos:**  
+- Redução dos juros domésticos:  
   - Desestimula capital estrangeiro;  
   - Eleva as taxas de câmbio.  
 
 ## Impactos das taxas de câmbio sobre exportações e importações  
 
 #### Valorização do real  
-- **Estimula importações** (produtos estrangeiros ficam mais baratos);  
-- **Desestimula exportações** (produtos nacionais ficam mais caros no exterior).  
+- Estimula importações (produtos estrangeiros ficam mais baratos);  
+- Desestimula exportações (produtos nacionais ficam mais caros no exterior).  
 
 #### Desvalorização do real  
-- **Estimula exportações** (produtos nacionais ficam mais baratos no exterior);  
-- **Desestimula importações** (produtos estrangeiros ficam mais caros).  
+- Estimula exportações (produtos nacionais ficam mais baratos no exterior);  
+- Desestimula importações (produtos estrangeiros ficam mais caros).  
 
 | TAXA DE CÂMBIO                     | EXPORTAÇÕES                   | IMPORTAÇÕES                                                         |
 |------------------------------------|-------------------------------|---------------------------------------------------------------------|

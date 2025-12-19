@@ -1,10 +1,10 @@
 # Ambientes de Negociação
 
 ## Definição
-- Ambientes de negociação são locais onde são realizadas as transações de títulos e valores mobiliários, como **bolsas de valores** e **mercado de balcão** (organizado e não organizado).
+- Ambientes de negociação são locais onde são realizadas as transações de títulos e valores mobiliários, como bolsas de valores e mercado de balcão (organizado e não organizado).
 
 > ### Bolsa de valores
-- Espaço físico ou eletrônico onde são negociados valores mobiliários no **mercado secundário** (ações, debêntures, commercial papers, etc.).
+- Espaço físico ou eletrônico onde são negociados valores mobiliários no mercado secundário (ações, debêntures, commercial papers, etc.).
 - Sua função é proporcionar liquidez e transparência às operações.
 - Características:
   - Pode ter ou não fins lucrativos.
@@ -37,6 +37,6 @@
 | Registro de operações | Sim (CBLC).                | Sim.                         | Não.                                         |
 
 #### Observações importantes
-- **Primeira negociação:** Ocorre no mercado primário (venda direta da empresa para o investidor).
-- **Revenda:** Ocorre no mercado secundário (bolsa de valores ou mercado de balcão organizado).
-- **Restrição:** Uma empresa não pode ter ações negociadas simultaneamente na bolsa de valores e no mercado de balcão organizado.
+- Primeira negociação: Ocorre no mercado primário (venda direta da empresa para o investidor).
+- Revenda: Ocorre no mercado secundário (bolsa de valores ou mercado de balcão organizado).
+- Restrição: Uma empresa não pode ter ações negociadas simultaneamente na bolsa de valores e no mercado de balcão organizado.

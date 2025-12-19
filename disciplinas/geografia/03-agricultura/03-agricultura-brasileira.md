@@ -2,13 +2,13 @@
 
 ## Fatores da agricultura
 - A agricultura envolve três fatores principais:
-  - **Físico:** solo, clima, disponibilidade de água.
-  - **Humano:** mão de obra (qualificada ou não).
-  - **Econômico:** capital para compra de terras e investimento em tecnologia.
+  - Físico: solo, clima, disponibilidade de água.
+  - Humano: mão de obra (qualificada ou não).
+  - Econômico: capital para compra de terras e investimento em tecnologia.
 
 ## Sistemas agrícolas
-- **Extensivo:** latifúndios, monocultura, alta produção, baixa produtividade.
-- **Intensivo:** minifúndios, alta tecnologia, alta produtividade.
+- Extensivo: latifúndios, monocultura, alta produção, baixa produtividade.
+- Intensivo: minifúndios, alta tecnologia, alta produtividade.
 
 ## Formas de produção agrícola
 
@@ -41,9 +41,9 @@
 - Exemplos: cooperativas (Brasil), ejidos (México), kolkhozes (Rússia), kibutzim (Israel), comunas (China).
 
 ## Conceitos importantes
-- **Produção**: quantidade total produzida.
-- **Produtividade**: relação entre produção e área cultivada.
-- **Commodities**: produtos primários ou semi-industrializados com comercialização global (ex.: soja, café).
+- Produção: quantidade total produzida.
+- Produtividade: relação entre produção e área cultivada.
+- Commodities: produtos primários ou semi-industrializados com comercialização global (ex.: soja, café).
 
 ## Revolução verde
 - Introdução de insumos industriais (fertilizantes, pesticidas, máquinas).
@@ -60,8 +60,8 @@
 - Soja (principal exportação), café, cana-de-açúcar, milho, feijão, arroz, algodão, mandioca, frutas (manga, banana, caju, cacau).
 
 ## Setores da economia
-- **Primário:** agricultura, pecuária, extrativismo.
-- **Terciário:** comércio e serviços (maior empregabilidade).
+- Primário: agricultura, pecuária, extrativismo.
+- Terciário: comércio e serviços (maior empregabilidade).
 
 ## Expansão agrícola e impactos
 - Fronteiras agrícolas: expansão da soja para Norte, Nordeste, Centro-Oeste.
@@ -69,6 +69,6 @@
 - Devastação do Cerrado e Amazônia.
 
 ## Técnicas agrícolas
-- **Terraceamento:** degraus em terrenos inclinados para reduzir erosão e aumentar absorção de água.
-- **Rotação de culturas:** alternância de espécies para preservar fertilidade do solo.
-- **Rotação de terras:** divisão da área em partes, com uma em pousio a cada ciclo.
+- Terraceamento: degraus em terrenos inclinados para reduzir erosão e aumentar absorção de água.
+- Rotação de culturas: alternância de espécies para preservar fertilidade do solo.
+- Rotação de terras: divisão da área em partes, com uma em pousio a cada ciclo.

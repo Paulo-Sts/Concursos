@@ -4,12 +4,12 @@
 - Condomínios que reúnem recursos de vários investidores para aplicação em títulos e valores mobiliários, visando ganhos financeiros.
 
 #### Características
-- **Patrimônio:** Dividido em cotas, que representam frações ideais do fundo.
-- **Regulamento:** Define regras de funcionamento, taxas, estratégias de investimento e riscos.
-- **Taxas:**
-  - **Administração:** Remunera o gestor e administrador do fundo.
-  - **Performance:** Cobrada sobre os ganhos acima de um benchmark.
-  - **Ingresso/saída:** Cobrada em alguns fundos ao entrar ou sair.
+- Patrimônio: Dividido em cotas, que representam frações ideais do fundo.
+- Regulamento: Define regras de funcionamento, taxas, estratégias de investimento e riscos.
+- Taxas:
+  - Administração: Remunera o gestor e administrador do fundo.
+  - Performance: Cobrada sobre os ganhos acima de um benchmark.
+  - Ingresso/saída: Cobrada em alguns fundos ao entrar ou sair.
 
 > ### Tipos de fundos
 
@@ -33,8 +33,8 @@
 
 #### Come-cotas
 - Antecipação semestral do Imposto de Renda (IR).
-- **Fundos de curto prazo (até 365 dias):** 20% sobre os rendimentos.
-- **Fundos de longo prazo (acima de 365 dias):** 15% sobre os rendimentos.
+- Fundos de curto prazo (até 365 dias): 20% sobre os rendimentos.
+- Fundos de longo prazo (acima de 365 dias): 15% sobre os rendimentos.
 
 #### Fundos de ações
 - IR de 15% sobre os rendimentos, cobrado apenas no resgate.
@@ -43,16 +43,16 @@
 - Grupos de 3 a 50 pessoas que investem coletivamente em ativos financeiros, com foco em aprendizado e diversificação.
 
 #### Características
-- **Participantes:** 3 a 50 pessoas físicas.
-- **Cotas:** Frações ideais do patrimônio, com direitos iguais para todos os cotistas.
-- **Investimentos:** Decididos coletivamente, com assessoria de um administrador.
-- **Vantagens:**
+- Participantes: 3 a 50 pessoas físicas.
+- Cotas: Frações ideais do patrimônio, com direitos iguais para todos os cotistas.
+- Investimentos: Decididos coletivamente, com assessoria de um administrador.
+- Vantagens:
   - Diversificação de investimentos.
   - Aprendizado e troca de experiências.
   - Gestão profissional do patrimônio.
 
 #### Regras
-- **Limite de cotas:** Nenhum cotista pode ter mais de 40% do total.
-- **Negociação:** Cotas não podem ser negociadas em mercados regulamentados.
-- **Registro:** Distribuição de cotas não requer registro na CVM.
+- Limite de cotas: Nenhum cotista pode ter mais de 40% do total.
+- Negociação: Cotas não podem ser negociadas em mercados regulamentados.
+- Registro: Distribuição de cotas não requer registro na CVM.
 

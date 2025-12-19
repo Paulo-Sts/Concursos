@@ -1,14 +1,14 @@
 # Regência Nominal
 
 ## Definição
-* Regência nominal é a maneira de um nome (substantivo, adjetivo e advérbio) relacionar-se com seus complementos.
-* Em geral, a relação entre o nome e o seu complemento é estabelecida por preposição. Portanto, é justamente o conhecimento da preposição o que há de mais importante na regência nominal.
-* Alguns substantivos, adjetivos e advérbios também exigem preposição para que o complemento faça sentido.
+- Regência nominal é a maneira de um nome (substantivo, adjetivo e advérbio) relacionar-se com seus complementos.
+- Em geral, a relação entre o nome e o seu complemento é estabelecida por preposição. Portanto, é justamente o conhecimento da preposição o que há de mais importante na regência nominal.
+- Alguns substantivos, adjetivos e advérbios também exigem preposição para que o complemento faça sentido.
 
 #### Regras de regência nominal
-* A regência nominal é a exigência de preposição por nomes (substantivos, adjetivos, pronomes).
-* A preposição necessária não varia com o contexto da frase, sendo sempre a mesma para o mesmo nome.
-* A preposição é usada para conectar o nome a outro termo que completa seu sentido.
+- A regência nominal é a exigência de preposição por nomes (substantivos, adjetivos, pronomes).
+- A preposição necessária não varia com o contexto da frase, sendo sempre a mesma para o mesmo nome.
+- A preposição é usada para conectar o nome a outro termo que completa seu sentido.
 
 #### Substantivos e suas preposições
 

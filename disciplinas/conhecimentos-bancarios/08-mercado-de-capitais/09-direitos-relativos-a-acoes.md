@@ -9,7 +9,7 @@
 ## Dividendos
 - É a distribuição de lucros proporcionais ao número e tipo de ações possuídas.
 - Empresas conhecidas como *Cash Cows* são boas pagadoras de dividendos.
-- **Record Date:** Data limite para o acionista possuir ações e ter direito aos dividendos (após essa data, as ações são consideradas **ex-dividendo**).
+- Record Date: Data limite para o acionista possuir ações e ter direito aos dividendos (após essa data, as ações são consideradas ex-dividendo).
 
 ## Valores das ações
 
@@ -19,7 +19,7 @@
 
 > ### Valor patrimonial
 - Representa a parcela do patrimônio líquido da empresa correspondente a cada ação.
-- Calculado como: **Patrimônio Líquido / Número de Ações Emitidas**.
+- Calculado como: Patrimônio Líquido / Número de Ações Emitidas.
 
 > ### Valor de mercado
 - Preço de negociação da ação no mercado.

@@ -25,7 +25,7 @@
 - Operações com ouro-instrumento cambial.  
 
 > ### Contas em moeda estrangeira  
-- Pessoas físicas ou jurídicas residentes no exterior podem ter contas em reais no Brasil (**Contas de Domiciliados no Exterior**).  
+- Pessoas físicas ou jurídicas residentes no exterior podem ter contas em reais no Brasil (Contas de Domiciliados no Exterior).  
 - Contas em moeda estrangeira são restritas a segmentos específicos, como agentes autorizados e emissores de cartões internacionais.  
 
 > ### Taxas de câmbio  
@@ -33,11 +33,11 @@
 - Atualmente, a taxa é livremente pactuada entre agentes autorizados.  
 
 #### Regimes cambiais  
-1. **Câmbio fixo:** taxa definida pelo Banco Central.  
-2. **Câmbio flutuante:** taxa definida pelo mercado.  
+1. Câmbio fixo: taxa definida pelo Banco Central.  
+2. Câmbio flutuante: taxa definida pelo mercado.  
    - Flutuação limpa: sem intervenção do BC;  
    - Flutuação suja: com intervenção do BC para evitar oscilações excessivas.  
-3. **Banda cambial:** taxa fixa com oscilações dentro de limites definidos pelo BC.  
+3. Banda cambial: taxa fixa com oscilações dentro de limites definidos pelo BC.  
 
 #### Currency board  
 - Sistema que vincula a emissão de moeda nacional às reservas internacionais.  

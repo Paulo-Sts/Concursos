@@ -50,13 +50,13 @@
 
 > ### Comércio eletrônico e seus modelos
 - O comércio eletrônico (e-commerce) foi impulsionado pela Internet e suas diversas formas, incluindo:
-  - **B2C (Business to Consumer)**: Empresas vendendo diretamente para consumidores, geralmente em lojas virtuais.
-  - **B2B (Business to Business)**: Transações entre empresas, como fabricantes vendendo para atacadistas.
-  - **B2G (Business to Government)**: Transações comerciais entre empresas e governos.
-  - **B2I (Business to Institutions)**: Negócios eletrônicos entre empresas e instituições educacionais ou associações.
-  - **B2E (Business to Employee)**: Venda de produtos ou serviços para os próprios funcionários da empresa.
-  - **CtoC (Consumer to Consumer)**: Transações entre consumidores, como em sites de venda de produtos usados (Mercado Livre, OLX).
-  - **BtoN (Business to Network)**: Refere-se à ideia de que uma transação deve ser considerada não apenas com o consumidor individual, mas com a rede social à qual ele pertence, levando em consideração o impacto do feedback e a influência das redes sociais.
+  - B2C (Business to Consumer): Empresas vendendo diretamente para consumidores, geralmente em lojas virtuais.
+  - B2B (Business to Business): Transações entre empresas, como fabricantes vendendo para atacadistas.
+  - B2G (Business to Government): Transações comerciais entre empresas e governos.
+  - B2I (Business to Institutions): Negócios eletrônicos entre empresas e instituições educacionais ou associações.
+  - B2E (Business to Employee): Venda de produtos ou serviços para os próprios funcionários da empresa.
+  - CtoC (Consumer to Consumer): Transações entre consumidores, como em sites de venda de produtos usados (Mercado Livre, OLX).
+  - BtoN (Business to Network): Refere-se à ideia de que uma transação deve ser considerada não apenas com o consumidor individual, mas com a rede social à qual ele pertence, levando em consideração o impacto do feedback e a influência das redes sociais.
 
 > ### M-commerce, T-commerce e Social Commerce
 - São variações de e-commerce que utilizam dispositivos móveis, televisão e redes sociais, respectivamente.

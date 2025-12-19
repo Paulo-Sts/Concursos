@@ -1,15 +1,13 @@
 # Verbo 
 
-<br>
-
-## DEFINIÇÃO
-* Os verbos são palavras que indicam ação, estado ou fenômeno da natureza. O verbo, é a classe de palavras mais importante do português. Sendo o ponto de partida da análise textual. 
-* A morfologia do verbo é a flexão verbal. A flexão verbal tem relação com a conjugação do verbo, ou seja, o verbo tem sua forma alterada de acordo com o que é conjugado. A flexão verbal faz parte da perspectiva morfológica.
-* Os verbos, flexionam em modo, tempo, número e pessoa.
-* Na perspectiva sintática, o verbo funciona como o organizador da oração. Na língua portuguesa, quando temos uma sentença organizada, ela é chamada de frase. 
-* Quando a frase possui um verbo, ela é chamada de oração. E cada verbo representa uma oração, ou seja, frases com mais de um verbo possuem mais de uma oração. 
-* O verbo é responsável por indicar o sujeito e o complemento de uma oração.
-* É por meio da perspectiva sintática que temos a ideia da concordância verbal, da regência verbal e da ligação verbal.
+## Definição
+- Os verbos são palavras que indicam ação, estado ou fenômeno da natureza. O verbo, é a classe de palavras mais importante do português. Sendo o ponto de partida da análise textual. 
+- A morfologia do verbo é a flexão verbal. A flexão verbal tem relação com a conjugação do verbo, ou seja, o verbo tem sua forma alterada de acordo com o que é conjugado. A flexão verbal faz parte da perspectiva morfológica.
+- Os verbos, flexionam em modo, tempo, número e pessoa.
+- Na perspectiva sintática, o verbo funciona como o organizador da oração. Na língua portuguesa, quando temos uma sentença organizada, ela é chamada de frase. 
+- Quando a frase possui um verbo, ela é chamada de oração. E cada verbo representa uma oração, ou seja, frases com mais de um verbo possuem mais de uma oração. 
+- O verbo é responsável por indicar o sujeito e o complemento de uma oração.
+- É por meio da perspectiva sintática que temos a ideia da concordância verbal, da regência verbal e da ligação verbal.
 
 #### Ordem de análise na classificação morfológica de uma sentença
 1. Verbo.
@@ -25,8 +23,8 @@ Ex: O rapaz correu.
 ## CLASSIFICAÇÃO DOS VERBOS
 
 > ### Quanto à conjugação
-* A conjugação diz respeito às variações que o verbo sofre de acordo com a pessoa, número, tempo, modo e aspecto. A conjugação também define a classe verbal em que o verbo se enquadra, dependendo da terminação de sua forma infinitiva.
-* Exemplo: 
+- A conjugação diz respeito às variações que o verbo sofre de acordo com a pessoa, número, tempo, modo e aspecto. A conjugação também define a classe verbal em que o verbo se enquadra, dependendo da terminação de sua forma infinitiva.
+- Exemplo: 
   - O verbo **falar** (terminação **-ar**) é conjugado de acordo com as diferentes pessoas e tempos, como "eu falo", "tu falas", "ele falou".
 
 | CONJUGAÇÃO    | TERMINAÇÃO | EXEMPLO               |
@@ -36,7 +34,7 @@ Ex: O rapaz correu.
 | 3ª conjugação | -ir        | partir, abrir, fugir  |
 
 > ### Quanto à predicação
-* A predicação verbal diz respeito ao tipo de relação que o verbo estabelece com seus complementos (se houver). Ou seja, define o tipo de complemento que o verbo exige para completar o sentido da frase.
+- A predicação verbal diz respeito ao tipo de relação que o verbo estabelece com seus complementos (se houver). Ou seja, define o tipo de complemento que o verbo exige para completar o sentido da frase.
 
 | TIPO                               | DESCRIÇÃO                                       | EXEMPLO                              |
 |------------------------------------|-------------------------------------------------|--------------------------------------|
@@ -47,7 +45,7 @@ Ex: O rapaz correu.
 | Verbo de ligação                   | Indica estado, ligando o sujeito ao predicativo | "Ela **é** inteligente."             |
 
 > ### Quanto à flexão
-* As flexões verbais são as variações que os verbos sofrem para expressar pessoa, número, tempo, modo, e aspecto.
+- As flexões verbais são as variações que os verbos sofrem para expressar pessoa, número, tempo, modo, e aspecto.
 
 | TIPO    | DESCRIÇÃO                                                           | EXEMPLO                                                                     |
 |---------|---------------------------------------------------------------------|-----------------------------------------------------------------------------|
@@ -58,7 +56,7 @@ Ex: O rapaz correu.
 | Aspecto | Indica a duração da ação: perfeito, imperfeito, contínuo.           | "Eu falei" (ação concluída, perfeito), "Eu falava" (ação habitual, imperfeito), "Eu estou falando" (ação contínua, contínuo). |
 
 > ### Modos verbais
-* Os modos verbais indicam a atitude do falante em relação à ação, ou seja, como ele percebe ou deseja que a ação aconteça.
+- Os modos verbais indicam a atitude do falante em relação à ação, ou seja, como ele percebe ou deseja que a ação aconteça.
 
 | MODO       | USO                      | EXEMPLO                        |
 |------------|--------------------------|--------------------------------|
@@ -67,7 +65,7 @@ Ex: O rapaz correu.
 | Imperativo | Expressa ordem/pedido    | "**Estude** mais!"             |
 
 > ### Tempos verbais
-* Os tempos verbais indicam quando a ação acontece (presente, passado ou futuro) e a duração dessa ação. Eles podem ser divididos em tempos simples e compostos.
+- Os tempos verbais indicam quando a ação acontece (presente, passado ou futuro) e a duração dessa ação. Eles podem ser divididos em tempos simples e compostos.
 
 | TEMPO VERBAL                | DESCRIÇÃO                                                  | EXEMPLO                                  |
 |-----------------------------|------------------------------------------------------------|------------------------------------------|
@@ -79,7 +77,7 @@ Ex: O rapaz correu.
 | Futuro do Pretérito         | Ação que ocorreria no passado, mas não ocorreu (hipótese). | "Eu **estudaria** se tivesse tempo."     |
 
 > ### Formas nominais
-* As formas nominais são as formas do verbo que não estão conjugadas e desempenham um papel de substantivo, adjetivo ou advérbio dentro da frase.
+- As formas nominais são as formas do verbo que não estão conjugadas e desempenham um papel de substantivo, adjetivo ou advérbio dentro da frase.
 
 | FORMA      | DESCRIÇÃO                                             | EXEMPLO                       |
 |------------|-------------------------------------------------------|-------------------------------|
@@ -88,9 +86,9 @@ Ex: O rapaz correu.
 | Particípio | Geralmente indica uma ação já concluída ou um estado. | estudado, vendido, partido    |
 
 > ### Locuções verbais
-* Uma locução verbal é uma expressão composta por dois ou mais verbos, onde um verbo é auxiliar e o outro é principal. O verbo auxiliar ajuda a indicar tempo, modo, voz, etc.
-* São formadas por um verbo auxiliar + verbo principal no infinitivo, gerúndio ou particípio.  
-* Exemplo:
+- Uma locução verbal é uma expressão composta por dois ou mais verbos, onde um verbo é auxiliar e o outro é principal. O verbo auxiliar ajuda a indicar tempo, modo, voz, etc.
+- São formadas por um verbo auxiliar + verbo principal no infinitivo, gerúndio ou particípio.  
+- Exemplo:
   - "Ele **vai viajar** amanhã" (vai = auxiliar; viajar = principal).
 
 > ### Verbos irregulares e defectivos

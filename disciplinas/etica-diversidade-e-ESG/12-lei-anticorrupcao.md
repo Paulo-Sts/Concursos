@@ -71,11 +71,11 @@
 ## Decreto nº 11.129/2022 – Regulamentação da Lei Anticorrupção
 
 > ### 📌 Finalidade
-- Regulamenta a **Lei nº 12.846/2013** (Lei Anticorrupção).
-- Trata da **responsabilização objetiva administrativa e civil** de pessoas jurídicas por **atos lesivos contra a administração pública nacional ou estrangeira**.
+- Regulamenta a Lei nº 12.846/2013 (Lei Anticorrupção).
+- Trata da responsabilização objetiva administrativa e civil de pessoas jurídicas por atos lesivos contra a administração pública nacional ou estrangeira.
 
 > ### 🧍‍♂️ Abrangência
-- Aplica-se a **todas as pessoas jurídicas**, com ou sem fins lucrativos, inclusive:
+- Aplica-se a todas as pessoas jurídicas, com ou sem fins lucrativos, inclusive:
   - Sociedades empresárias e simples;
   - Fundações, associações, entidades e filiais estrangeiras no Brasil.
 - Alcança atos lesivos:
@@ -94,22 +94,22 @@
   - Obter vantagens indevidas em aditivos.
 
 > ### 📝 Sanções Administrativas (Art. 6º)
-1. **Multa de 0,1% a 20% do faturamento bruto** do último exercício (mínimo: valor da vantagem indevida).
-2. **Publicação extraordinária** da decisão condenatória.
-3. Aplicadas **isolada ou cumulativamente**, conforme gravidade.
+1. Multa de 0,1% a 20% do faturamento bruto do último exercício (mínimo: valor da vantagem indevida).
+2. Publicação extraordinária da decisão condenatória.
+3. Aplicadas isolada ou cumulativamente, conforme gravidade.
 
 > ### 🏛️ Sanções Judiciais (Art. 19)
 - Perdimento de bens.
 - Suspensão/interdição de atividades.
-- **Dissolução compulsória**.
+- Dissolução compulsória.
 - Proibição de receber incentivos e subsídios (1 a 5 anos).
 
 > ### 🧑‍⚖️ Responsabilidade Objetiva
-- **Sem necessidade de culpa ou dolo**.
-- Basta que haja **autoria + materialidade**.
+- Sem necessidade de culpa ou dolo.
+- Basta que haja autoria + materialidade.
 
 > ### 🔍 Investigação Preliminar
-- Duração: até **180 dias**, prorrogável.
+- Duração: até 180 dias, prorrogável.
 - Avalia indícios de autoria/materialidade.
 - Pode resultar em:
   - Abertura do PAR;
@@ -117,17 +117,17 @@
 
 > ### ⚖️ PAR – Processo Administrativo de Responsabilização
 - Instauração: pela autoridade máxima do órgão.
-- Comissão com **mínimo 2 servidores estáveis**.
+- Comissão com mínimo 2 servidores estáveis.
 - Fases:
   1. Instauração;
   2. Defesa e relatório;
   3. Julgamento.
-- Prazo: **180 dias prorrogáveis**.
-- Garante **contraditório e ampla defesa**.
+- Prazo: 180 dias prorrogáveis.
+- Garante contraditório e ampla defesa.
 
 > ### 🧾 Acordo de Leniência (Art. 32 a 55)
 - "Delação premiada da empresa".
-- Celebrado com a **CGU**, pode envolver a **AGU**.
+- Celebrado com a CGU, pode envolver a AGU.
 - Requisitos:
   - Confissão do ato;
   - Colaboração efetiva;
@@ -138,15 +138,15 @@
 
 #### Benefícios
 - Redução ou isenção de sanções.
-- Multa com desconto (até **2/3**).
+- Multa com desconto (até 2/3).
 - Suspensão de processos.
 - Possibilidade de ajuste do acordo (Art. 54).
 
 > ### 🛡️ Programa de Integridade (Art. 56-57)
 - Conjunto de políticas, auditoria, código de conduta e denúncia.
 - Visa prevenir, detectar e sanar irregularidades.
-- Gera **redução da multa** (até 5%).
-- Deve ser **estruturado, aplicado e atualizado**.
+- Gera redução da multa (até 5%).
+- Deve ser estruturado, aplicado e atualizado.
 
 > ### 📑 Cadastros de Empresas
 

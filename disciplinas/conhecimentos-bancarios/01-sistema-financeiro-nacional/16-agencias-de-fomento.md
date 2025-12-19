@@ -35,6 +35,6 @@
 - Foco exclusivo em projetos de desenvolvimento regional, sem atuação no mercado de capitais.
 
 #### Pontos importantes
-- **Funding:** Captação de recursos por meio de programas governamentais e depósitos interfinanceiros.
-- **Projetos:** Empreendimentos que ampliam ou mantêm a capacidade produtiva de bens e serviços.
-- **Não podem abrir agências:** Atuam por meio de convênios com outras instituições financeiras.
+- Funding: Captação de recursos por meio de programas governamentais e depósitos interfinanceiros.
+- Projetos: Empreendimentos que ampliam ou mantêm a capacidade produtiva de bens e serviços.
+- Não podem abrir agências: Atuam por meio de convênios com outras instituições financeiras.

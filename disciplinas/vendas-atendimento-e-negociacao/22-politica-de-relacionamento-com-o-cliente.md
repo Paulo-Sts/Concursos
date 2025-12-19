@@ -1,7 +1,7 @@
 # 📜 Resolução CMN nº 4.949/2021 – Relacionamento com Clientes e Usuários
 
 ## 📌 Aplicabilidade (Art. 1º)
-- Aplica-se a instituições financeiras e demais autorizadas a funcionar pelo **BACEN**.
+- Aplica-se a instituições financeiras e demais autorizadas a funcionar pelo BACEN.
 - Não se aplica:
   - Administradoras de consórcios;
   - Instituições de pagamento.
@@ -17,28 +17,28 @@
   - **É**tica;  
   - **D**iligência.  
 - Devem promover:
-  - **Convergência de interesses** com clientes
-  - Imagem de **Credibilidade, Segurança e Competência (CSC)**
+  - Convergência de interesses com clientes
+  - Imagem de Credibilidade, Segurança e Competência (CSC)
 - Ações exigidas:
   - Cultura organizacional cooperativa e equilibrada
   - Tratamento justo e equitativo, conforme perfil e vulnerabilidade dos clientes
 
 ## 🧾 Procedimentos – contratação e prestação de serviços (Art. 4º)
 - Assegurar:
-  - **Adequação** dos produtos às necessidades do cliente  
-  - **Integridade, Conformidade, Confiabilidade, Segurança, Sigilo e Legitimidade**  
+  - Adequação dos produtos às necessidades do cliente  
+  - Integridade, Conformidade, Confiabilidade, Segurança, Sigilo e Legitimidade  
   - Informações claras e completas sobre: Direitos, deveres, custos, riscos, penalidades etc.
   - Redação objetiva e compatível com a complexidade do contrato
   - Identificação de beneficiários finais nas transações
   - Envio de instrumento de pagamento apenas mediante solicitação
-  - **Sem barreiras ou critérios desarrazoados** para:
+  - Sem barreiras ou critérios desarrazoados para:
     - Obter documentos;
     - Encerrar contratos;
     - Fazer portabilidade.
 
 ## 🏦 Atendimento presencial (Art. 5º)
 - Deve ser garantido mesmo com canais digitais disponíveis.
-- É proibido **impedir, recusar, dificultar ou impor restrições** ao atendimento presencial.
+- É proibido impedir, recusar, dificultar ou impor restrições ao atendimento presencial.
 - Exceções:
   - Serviços de arrecadação sem contrato com o banco;  
   - Boletos fora do padrão do Bacen;  
@@ -49,10 +49,10 @@
 - Outras obrigações:
   - Não impor limites de valor ou número de transações;
   - Informar claramente as exceções (ex: boletos fora do padrão);
-  - Atender também **não clientes** (exceto cooperativas de crédito).
+  - Atender também não clientes (exceto cooperativas de crédito).
 
 ## 🧩 Política institucional de relacionamento (Art. 6º a 9º)
-- As instituições devem ter uma **política formalizada**, com:
+- As instituições devem ter uma política formalizada, com:
   - Aprovação pela alta administração;
   - Avaliação periódica;
   - Definição de papéis e responsabilidades;
@@ -85,4 +85,4 @@
 - Diretor responsável deve ser indicado ao Bacen
 - Bacen pode adotar medidas complementares
 - Revogações: Resoluções 3.694/2009, 4.283/2013, 4.479/2016, 4.539/2016, 4.746/2019 (entre outras)
-- Vigência: **1º de março de 2022**
+- Vigência: 1º de março de 2022

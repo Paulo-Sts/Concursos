@@ -5,7 +5,7 @@
 - Aplicação: Instituições financeiras autorizadas pelo Banco Central do Brasil (exceto instituições de pagamento).
 
 ## Política de Segurança Cibernética
-- Objetivo: Garantir a **confidencialidade, integridade e disponibilidade** dos dados e sistemas de informação.
+- Objetivo: Garantir a confidencialidade, integridade e disponibilidade dos dados e sistemas de informação.
 - Conteúdo mínimo:
   - Objetivos: Prevenir, detectar e reduzir vulnerabilidades.
   - Controles: Autenticação, criptografia, prevenção de vazamentos, testes de vulnerabilidade, backups, etc.

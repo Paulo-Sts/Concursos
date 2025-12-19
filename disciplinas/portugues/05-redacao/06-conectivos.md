@@ -13,12 +13,12 @@
 | Comparar                               | Como, conforme, também, tanto... Quanto, tal como, assim como, pela mesma razão                                   |
 | Indicar uma consequência               | Por tudo isto, de modo que, de tal forma que, tanto...que, é por isso que, pela mesma razão, do mesmo modo que... |
 
-| IDEIAS EXPRESSA                          | CONECTOR                                                                                                                                   |
-|:-----------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| Exprimir uma dúvida                      | Talvez, provavelmente, é provável que, possivelmente, porventura                                                                           |
-| Esclarecer/Explicar uma ideia            | Que isto dizer, isto (não) significa que, por outras palavras, isto é...                                                                   |
-| Organizar as ideias por ordem sequencial | Em primeiro lugar, num primeiro momento, antes de, em seguida, seguidamente, depois de, após, até, simultaneamente, por fim, finalmente... |
-| Ideia de causa                           | Pois, pois que, visto que, já que, porque, dado que, uma vez que, por causa de...                                                          |
+| IDEIAS EXPRESSA                          | CONECTOR                                                                                                                  |
+|:-----------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
+| Exprimir uma dúvida                      | Talvez, provavelmente, é provável que, possivelmente, porventura                                                          |
+| Esclarecer/Explicar uma ideia            | Que isto dizer, isto (não) significa que, por outras palavras, isto é...                                                  |
+| Organizar as ideias por ordem sequencial | Em primeiro lugar, num primeiro momento, antes de, em seguida, seguidamente, depois de, após, até, por fim, finalmente... |
+| Ideia de causa                           | Pois, pois que, visto que, já que, porque, dado que, uma vez que, por causa de...                                         |
 
 > ### Conectivos para a Introdução
 

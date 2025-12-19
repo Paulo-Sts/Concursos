@@ -1,8 +1,8 @@
 # Emprego dos Pronomes Oblíquios
 
 ## Definição
-* Os pronomes oblíquios são pronomes pessoais que desempenham a função de objeto direto ou indireto nas orações. Eles substituem o nome (substantivo) e se referem ao sujeito ou ao objeto da oração.
-* Tipos:
+- Os pronomes oblíquios são pronomes pessoais que desempenham a função de objeto direto ou indireto nas orações. Eles substituem o nome (substantivo) e se referem ao sujeito ou ao objeto da oração.
+- Tipos:
   - Pronomes oblíquios átonos (sem preposição, que se ligam diretamente ao verbo);
   - Pronomes oblíquios tônicos (com preposição, quando usados com verbos que exigem preposição).
 
