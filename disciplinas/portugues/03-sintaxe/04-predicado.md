@@ -26,8 +26,8 @@
 
 ### Tabela Comparativa
 
-| TIPO DE PREDICADO | DEFINIÇÃO                                                                                           | EXEMPLO                   | NÚCLEO DO PREDICADO |
-|-------------------|-----------------------------------------------------------------------------------------------------|---------------------------|---------------------|
-| Verbal            | O núcleo do predicado é um verbo de **ação** e não há verbo de ligação.                             | Ele estudou para a prova. | estudou             |
-| Nominal           | O núcleo do predicado é um verbo de **ligação**, e o sujeito recebe uma característica              | O céu está azul.          | está                |
-| Verbo-nominal     | O núcleo do predicado é **um verbo de ação** e há um predicativo, que descreve o sujeito ou objeto. | Ela chegou cansada.       | chegou              |
+| TIPO DE PREDICADO | DEFINIÇÃO                                                                                       | EXEMPLO                   | NÚCLEO DO PREDICADO |
+|-------------------|-------------------------------------------------------------------------------------------------|---------------------------|---------------------|
+| Verbal            | O núcleo do predicado é um verbo de ação e não há verbo de ligação.                             | Ele estudou para a prova. | estudou             |
+| Nominal           | O núcleo do predicado é um verbo de ligação, e o sujeito recebe uma característica              | O céu está azul.          | está                |
+| Verbo-nominal     | O núcleo do predicado é um verbo de ação e há um predicativo, que descreve o sujeito ou objeto. | Ela chegou cansada.       | chegou              |
