@@ -30,7 +30,6 @@
 | Vir      | VI (vir a)                      | A               | Adjunto adverbial (destino)  | Ela veio ao meu encontro.                                    |
 | Preferir | VTDI (preferir algo a outro)    | A               | OD (algo) e OD (outro)       | Prefiro séries a filmes.                                     |
 
-
 **DICA:** Para saber se o verbo é transitivo direto (VTD) pergunta-se a ele **O que?** ou **A quem?**, se a resposta for um objeto direto (algo que não precisa de preposição para fazer sentido), o verbo é transitivo direto.
 - Exemplo: 
   - Verbo: "Amar"
