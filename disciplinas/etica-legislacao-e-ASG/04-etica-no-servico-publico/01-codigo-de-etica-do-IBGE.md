@@ -41,7 +41,7 @@
 #### Condutas proibidas  
 - Alterar documentos ou iludir usuários.  
 - Desviar servidores para interesses particulares.  
-- Acesso indevido a informações sigilosas** (dados pessoais ou resultados não divulgados).  
+- Acesso indevido a informações sigilosas (dados pessoais ou resultados não divulgados).  
 
 #### Outras proibições  
 - Embriaguez no serviço.  
