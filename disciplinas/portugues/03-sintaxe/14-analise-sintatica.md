@@ -9,7 +9,7 @@
 ## 2. Identificação do Sujeito
 - Passo 1: Localize o verbo.
 - Passo 2: Pergunte "quem?" ou "o quê?" + verbo.
-- Passo 3: Classifique o sujeito:
+- Passo 3: Classifique o sujeito.
 
 #### Tipos de Sujeito
 - Simples: um único núcleo.
