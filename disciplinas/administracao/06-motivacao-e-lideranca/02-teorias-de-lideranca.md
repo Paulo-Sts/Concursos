@@ -1,4 +1,4 @@
-# Resumo: Teorias de Liderança
+# Teorias de Liderança
 
 ## 1. Evolução das Teorias de Liderança
 - Teoria dos Traços → Teoria dos Estilos → Abordagem Comportamental → Abordagem Situacional → Teorias Modernas
