@@ -14,7 +14,7 @@ Exemplo:
 
 #### Tipos de escala
 - Numérica: Ex: 1:50.000 → 1 cm no mapa = 50.000 cm na realidade.
-- Gráfica: Representada por uma barra graduada. Ex:
+- Gráfica: Representada por uma barra graduada.
 
 #### Conversão de unidades
 - 1 km = 100.000 cm

@@ -20,6 +20,7 @@
   - Trópico de Câncer: 23°27′ N
   - Trópico de Capricórnio: 23°27′ S
   - Círculos Polares: 66°33′ N e S
+  - Varia de 0° a 90° Norte ou Sul.
 - Meridianos: Linhas que unem os polos. Medem a longitude.
   - Meridiano de Greenwich: 0°
   - Varia de 0° a 180° Leste ou Oeste.
