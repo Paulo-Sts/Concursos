@@ -60,7 +60,7 @@ Ex: **Quais** são os seus livros? (plural)
 - Funcionam como objeto.
 - Os pronomes oblíquos átonos são aqueles que não têm autonomia fonética, ou seja, são mais fracos e sempre se ligam ao verbo. 
 - Eles não podem aparecer sozinhos na frase e geralmente vêm antes do verbo (próclise) ou depois do verbo (ênclise). 
-- São usados como objetos diretos** ou **indiretos.
+- São usados como objetos diretos ou indiretos.
 - Exemplo: 
   - Ele **me** viu.
   - Eles **nos** chamaram.
