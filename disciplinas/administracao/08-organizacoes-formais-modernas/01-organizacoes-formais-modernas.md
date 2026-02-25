@@ -8,32 +8,32 @@
 ## 2. Elementos do Processo de Organização
 - Segundo Sobral e Peci (2013), a organização envolve decisões sobre seis elementos principais:
 
-#### Especialização do Trabalho (Divisão do Trabalho)
+#### 2.1 Especialização do Trabalho (Divisão do Trabalho)
 - Grau em que as tarefas são divididas e padronizadas.
 - Especialização Horizontal: Número de diferentes atividades desempenhadas por um indivíduo.
 - Especialização Vertical: Medida em que a concepção, execução e administração são feitas pela mesma pessoa.
 - Vantagem: Aumento da produtividade. Desvantagem: Pode gerar monotonia e alienação.
 
-#### Cadeia de Comando
+#### 2.2 Cadeia de Comando
 - Linha de autoridade formal que define a hierarquia.
 - Unidade de Comando: Cada subordinado deve se reportar a apenas um superior.
 - Autoridade: Direito de tomar decisões. 
 - Responsabilidade: Dever de executar tarefas.
 
-#### Amplitude de Controle (Amplitude Administrativa)
+#### 2.3 Amplitude de Controle (Amplitude Administrativa)
 - Refere-se ao número de subordinados pelos quais um gestor é responsável.
 - Amplitude Estreita (Aguda): Poucos subordinados por chefe; gera muitos níveis hierárquicos e estrutura vertical.
 - Amplitude Larga (Achatada): Muitos subordinados por chefe; gera poucos níveis hierárquicos e estrutura horizontal.
 
-#### Departamentalização
+#### 2.4 Departamentalização
 - Critério utilizado para agrupar tarefas e pessoas em unidades organizacionais (departamentos).
 
-#### Centralização e Descentralização
+#### 2.5 Centralização e Descentralização
 - Centralização: Autoridade concentrada no topo da organização. Vantagem: Decisões consistentes com os objetivos globais e economia de escala.
 - Descentralização: Autoridade distribuída pelos níveis inferiores. Vantagem: Agilidade e decisões próximas aos fatos locais.
 - Delegação: Transferência de autoridade e responsabilidade para níveis mais baixos.
 
-#### Formalização
+#### 2.6 Formalização
 - Grau em que as funções e tarefas são documentadas por normas, regras e procedimentos escritos.
 
 ## 3. Níveis da Organização
