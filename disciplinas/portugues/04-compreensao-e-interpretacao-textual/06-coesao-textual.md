@@ -21,7 +21,7 @@
   - Hipônimo: termo de sentido mais específico que está contido no original. Exemplo: "Adoro flores, principalmente rosas." ("Rosas" é hipônimo de "flores").
   - Perífrase: expressão mais longa que substitui o termo. Exemplo: "O gigante dos mares encalhou." (Substitui "a baleia").
   - Nominalização: transformação de um verbo em um substantivo. Exemplo: "O professor explicou. A explicação foi clara." ("Explicação" nominaliza "explicou").
-- Verbos Vicários: verbos que substituem uma ação anterior. Exemplo: "Ele estudou muito e eu também fiz." ("Fiz" substitui "estudei").
+  - Verbos Vicários: verbos que substituem uma ação anterior. Exemplo: "Ele estudou muito e eu também fiz." ("Fiz" substitui "estudei").
 - Repetição (total ou parcial) do termo.
 
 ### 2.3 Coesão Sequencial
