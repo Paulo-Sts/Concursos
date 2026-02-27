@@ -45,7 +45,7 @@ Ex: viu a tia. => vio o cachorro (sem crase)
 Ex: fiel à técnica de sempre. => fiel ao cachorro de sempre (tem crase).  
 
 #### Crase proibida
-- Não se usa crase antes de palavras masculinas. (Exemplo: Vou a pé **a**quele lugar (não há crase, pois "aquele" é masculino).)
+- Não se usa crase antes de palavras masculinas. (Exemplo: Vou **a** pé àquele lugar (não há crase, pois "pé" é masculino).)
 - Não se usa crase antes de verbos. (Exemplo: Vou **a** correr (não há crase, pois "correr" é verbo).)
 - Não se usa crase antes de pronomes pessoais. (Exemplo: Ela foi **a** me ver (não há crase antes de "me").)
 - Não se usa crase entre palavras repetidas.

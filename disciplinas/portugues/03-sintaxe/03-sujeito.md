@@ -79,9 +79,9 @@ Ex: "O carro bateu na parede."
   - "Falaram sobre você."/"Vive-se bem aqui."
   - Núcleo: (não definido)
 - A indeterminação do sujeito pode ocorrer, tradicionalmente, de três maneiras:
-  - 1) Com verbo na 3ª pessoa do plural sem referente textual anterior. Ex: "Quebraram a vidraça do prédio."
-  - 2) Com partícula "se" como índice de indeterminação do sujeito. Ex: "Necessita-se da sua ajuda."
-  - 3) Com verbo no infinitivo, dito impessoal. Ex: "É muito importante vender aquela casa."
+  - Com verbo na 3ª pessoa do plural sem referente textual anterior. Ex: "Quebraram a vidraça do prédio."
+  - Com partícula "se" como índice de indeterminação do sujeito. Ex: "Necessita-se da sua ajuda."
+  - Com verbo no infinitivo, dito impessoal. Ex: "É muito importante vender aquela casa."
 
 #### Sujeito Oracional
 - Ocorre quando uma oração inteira exerce a função de sujeito, sendo o nucleo do sujeito o verbo.
