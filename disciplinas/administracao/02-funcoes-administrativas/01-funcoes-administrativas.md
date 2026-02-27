@@ -75,5 +75,5 @@
 | PLANEJAR     | ORGANIZAR                                           | DIRIGIR               | CONTROLAR   | HABILIDADES   |
 |--------------|-----------------------------------------------------|-----------------------|-------------|---------------|
 | Estratégico  | Institucional (Desenho da estrutura organizacional) | Direção               | Estratégio  | Conceituais   |
-| Tático       | Departamental (Desenho departamental)              | Gerência              | Tático      | Interpessoais |
+| Tático       | Departamental (Desenho departamental)               | Gerência              | Tático      | Interpessoais |
 | Operacionarl | Operacional (Desenho de cargos e tarefas)           | Supervisão (1º linha) | Operacional | Técnicas      |
