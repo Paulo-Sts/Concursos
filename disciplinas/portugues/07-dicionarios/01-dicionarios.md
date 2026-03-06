@@ -1,6 +1,6 @@
 # Dicionários - Tipos e Organização de Verbetes
 
-## 1. Tipos de Dicionários
+> ## 1. Tipos de Dicionários
 
 #### 1.1 Dicionário de Sinônimos
 - Apresenta palavras com significados semelhantes.
@@ -38,7 +38,7 @@
 - Focados em áreas específicas do conhecimento.
 - Exemplos: dicionário de medicina, informática, filosofia, linguística, gramática.
 
-## 2. Organização dos Verbetes
+> ## 2. Organização dos Verbetes
 
 #### 2.1 Estrutura de um Verbete
 - Entrada: palavra buscada (lema).
@@ -62,7 +62,7 @@
 - Os verbetes são organizados em ordem alfabética para facilitar a consulta.
 - A busca segue a sequência das letras do alfabeto.
 
-## 3. Exemplo Prático de Verbete
+> ## 3. Exemplo Prático de Verbete
 até  
 prep  
 1 Indica um limite no tempo: O relatório ficará pronto até 30 de março.  
@@ -71,7 +71,7 @@ adv
 1 Indica inclusão; também: Ela fala até grego.  
 ETIMOLOGIA alt da der de a1 + trunc de intra.  
 
-## 4. Observações para Provas
+> ## 4. Observações para Provas
 - Reconhecer a função de cada tipo de dicionário.
 - Identificar os elementos que compõem um verbete (classe gramatical, significado, exemplo, etimologia).
 - Compreender que a etimologia informa a origem da palavra, não seu significado atual.

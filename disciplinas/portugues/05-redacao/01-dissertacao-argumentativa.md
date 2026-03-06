@@ -1,6 +1,6 @@
 # Dissertação Argumentativa
 
-## Definição
+## 1. Definição
 - Texto em prosa, dissertativo, que defende uma tese (opinião) com base em argumentos.
 - Seu objetivo é convencer o leitor sobre um ponto de vista com clareza, lógica e fundamentação.
 - Ela exige uma posição clara, argumentação estruturada e domínio da norma-padrão.
@@ -32,7 +32,7 @@
   - Oposição: porém, entretanto, no entanto
   - Conclusão: portanto, logo, assim
 
-## Estrutura da Dissertação
+## 2. Estrutura da Dissertação
 
 > ### Introdução
 

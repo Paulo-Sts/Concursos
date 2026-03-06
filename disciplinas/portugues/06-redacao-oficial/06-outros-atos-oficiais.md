@@ -1,6 +1,6 @@
 # Outros atos oficiais
 
-## Atestado
+> ## 1. Atestado
 - Documento que confirma ou nega uma situação de direito, fato ou situação, com responsabilidade de quem o assina.
 
 > ### Como fazer
@@ -12,7 +12,7 @@
   - Texto claro e resumido, confirmando ou negando o fato;
   - Assinatura, nome e cargo de quem atesta.
 
-## Ata
+> ## 2. Ata
 - Relato de reunião, assembleia ou convenção.
 
 > ### Normas
@@ -40,7 +40,7 @@ Aos .... dias do mês de........de 20..., na................, na Rua......, reun
 presentes e declara encerrada a reunião, da qual eu, Secretário em exercício, lavrei a presente ata, que vai assinada pelo Sr. Presidente e por mim.
 ```
 
-## Convocação
+> ## 3. Convocação
 - Convite formal para comparecer a um evento.
 
 #### Exemplo
@@ -67,7 +67,7 @@ Brasília, [dia] de [mês] de [ano]
 [Cargo do Signatário]
 ```
 
-## Carta Convite
+> ## 4. Carta Convite
 - Substituto para reserva de hospedagem ou convite formal.
 
 #### Exemplo
@@ -94,7 +94,7 @@ Atenciosamente,
 (assinatura do anfitrião)
 ```
 
-## Comunicado
+> ## 5. Comunicado
 - Declaração ou nota que informa algo ao público.
 
 #### Exemplo

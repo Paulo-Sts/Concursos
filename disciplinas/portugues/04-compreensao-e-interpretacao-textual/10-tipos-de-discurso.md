@@ -37,22 +37,22 @@
 
 ## 3. Transposição de Discurso (Conversão)
 
-#### 3.1 Discurso Direto -> Discurso Indireto
+#### 3.1 Discurso Direto ⟶ Discurso Indireto
 - Principais mudanças:
-  - Pronomes: 1ª pessoa (eu, meu) -> 3ª pessoa (ele, seu).
+  - Pronomes: 1ª pessoa (eu, meu) ⟶ 3ª pessoa (ele, seu).
   - Tempos Verbais:
-    - Presente -> Pretérito Imperfeito
-    - Pretérito Perfeito -> Pretérito Mais-que-Perfeito
-    - Futuro do Presente -> Futuro do Pretérito
-    - Imperativo -> Pretérito Imperfeito do Subjuntivo
+    - Presente ⟶ Pretérito Imperfeito
+    - Pretérito Perfeito ⟶ Pretérito Mais-que-Perfeito
+    - Futuro do Presente ⟶ Futuro do Pretérito
+    - Imperativo ⟶ Pretérito Imperfeito do Subjuntivo
 - Advérbios de Tempo/Lugar:
-  - hoje -> naquele dia
-  - amanhã -> no dia seguinte
-  - ontem -> no dia anterior
-  - aqui -> ali/lá
-  - este -> aquele
+  - hoje ⟶ naquele dia
+  - amanhã ⟶ no dia seguinte
+  - ontem ⟶ no dia anterior
+  - aqui ⟶ ali/lá
+  - este ⟶ aquele
 
-#### 3.2 Discurso Indireto -> Discurso Direto
+#### 3.2 Discurso Indireto ⟶ Discurso Direto
 - É o processo inverso. Reconstroem-se as palavras literais, reinstalam-se aspas/travessão, e ajustam-se pronomes, tempos verbais e advérbios para o contexto original da fala.
 
 ## 4. Dicas para Identificação em Provas

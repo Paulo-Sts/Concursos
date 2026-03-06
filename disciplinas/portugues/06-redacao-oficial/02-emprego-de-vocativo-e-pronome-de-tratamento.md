@@ -51,7 +51,7 @@
 | Senador da República             | A Sua Excelência o Senhor | Senhor Senador                | Vossa Excelência    | V – Exa.    |
 | Deputado Federal                 | A Sua Excelência o Senhor | Senhor Deputado               | Vossa Excelência    | V – Exa.    |
 
-### Observações
+#### Observações
 - "Vossa" é usado para falar diretamente com a pessoa; "Sua" para falar sobre alguém.
 - Não se usa abreviatura para chefes dos três poderes.
 - Pronomes de tratamento concordam com verbos e pronomes de terceira pessoa (ex.: "Vossa Excelência deve convocar seus secretários").

@@ -40,10 +40,10 @@
 ## 3. Pontos-Chave para Concursos
 - Intencionalidade: Uma mensagem pode ter várias funções, mas sempre haverá uma predominante conforme o objetivo do emissor.
 - Relação Elemento-Função:
-  - Emissor -> Emotiva
-  - Receptor -> Conativa
-  - Mensagem -> Poética
-  - Contexto -> Referencial
-  - Canal -> Fática
-  - Código -> Metalinguística
+  - Emissor ⟶ Emotiva
+  - Receptor ⟶ Conativa
+  - Mensagem ⟶ Poética
+  - Contexto ⟶ Referencial
+  - Canal ⟶ Fática
+  - Código ⟶ Metalinguística
 - Pegadinha Comum: Não confunda Função Poética (estética da mensagem) com Função Emotiva (sentimentos do emissor).

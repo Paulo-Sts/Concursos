@@ -1,6 +1,6 @@
 # Conectivos
 
-## Definição
+## 1. Definição
 - São palavras ou expressões que ligam frases, orações e parágrafos, permitindo a conexão de ideias e uma sequência coerente to texto.
 
 | IDEIAS EXPRESSA                        | CONECTOR                                                                                                          |
@@ -20,7 +20,7 @@
 | Organizar as ideias por ordem sequencial | Em primeiro lugar, num primeiro momento, antes de, em seguida, seguidamente, depois de, após, até, por fim, finalmente... |
 | Ideia de causa                           | Pois, pois que, visto que, já que, porque, dado que, uma vez que, por causa de...                                         |
 
-> ### Conectivos para a Introdução
+> ### 1.1 Conectivos para a Introdução
 
 1. Para começar.
 2. Primeiramente.
@@ -58,7 +58,7 @@
 34. Exceto.
 35. Com o fim de.
 
-> ### Conectivos para o Desenvolvimento
+> ### 1.2 Conectivos para o Desenvolvimento
 
 1. Em primeiro lugar.
 2. Por exemplo.
@@ -95,7 +95,7 @@
 33. Outrossim.
 34. Por outro lado.
 
-> ### Conectivos para a Conclusão
+> ### 1.3 Conectivos para a Conclusão
 
 1. Conclui-se.
 2. Desse modo.

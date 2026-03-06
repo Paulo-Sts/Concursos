@@ -1,6 +1,6 @@
 # Tonicidade
 
-## Definição
+> ## 1. Definição
 - É o estudo da sílaba tônica. A maior parte das palavras em português possui uma sílaba tônica.
 - A sílaba tônica é definida a partir de sua posição na palavra.
 - Classificação:
@@ -8,8 +8,9 @@
   - Paroxítona (tônica é a penúltima sílaba);
   - Proparoxítona (tônica é a antepenúltima sílaba);
 
-Ex: monitor => oxítona  
-Ex: garrafa => paroxítona  
-Ex: exército => proparoxítona
+Ex: monitor ⟶ oxítona  
+Ex: garrafa ⟶ paroxítona  
+Ex: exército ⟶ proparoxítona
 
-**OBSERVAÇÃO:** Não existe relação direta entre acentuação gráfica e sílaba tônica, a não ser no caso de palavras proparoxítonas em que todas são acentuadas.
+> [!CAUTION] OBSERVAÇÃO:
+> - Não existe relação direta entre acentuação gráfica e sílaba tônica, a não ser no caso de palavras proparoxítonas em que todas são acentuadas.

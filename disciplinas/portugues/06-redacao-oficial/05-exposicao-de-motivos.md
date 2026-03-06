@@ -1,6 +1,6 @@
 # Exposição de Motivos, Mensagem e Correio Eletrônico
 
-## Exposição de Motivos
+> ## 1. Exposição de Motivos
 - Exposição de motivos é o expediente dirigido ao Presidente da República ou ao Vice-Presidente.
 - São utilizados para:
   - Propor alguma medida;
@@ -23,10 +23,10 @@
   - Evitar a devolução a proposta de ato normativo para complementação ou reformulação da proposta.
 - A exposição de motivos é a principal modalidade de comunicação dirigida ao Presidente da República pelos ministros. Além disso, pode, em certos casos, ser encaminhada cópia ao Congresso Nacional ou ao Poder Judiciário.
 
-## Mensagem
+> ## 2. Mensagem
 - A mensagem é o instrumento de comunicação oficial entre os Chefes dos Poderes Públicos, notadamente as mensagens enviadas pelo Chefe do Poder Executivo ao Poder Legislativo para informar sobre fato da administração pública; para expor o plano de governo por ocasião da abertura de sessão legislativa; para submeter ao Congresso Nacional matérias que dependem de deliberação de suas Casas; para apresentar veto; enfim; fazer comunicações do que seja de interesse dos Poderes Públicos e da Nação.
 
-## Correio Eletrônico
+> ## 3. Correio Eletrônico
 - A utilização do e-mail para a comunicação tornou-se prática comum, não só em âmbito privado, mas também na administração pública. O termo e-mail pode ser empregado com três sentidos. 
 - Dependendo do contexto, pode significar gênero textual, endereço eletrônico ou sistema de transmissão de mensagem eletrônica.
 - Como gênero textual, o e-mail pode ser considerado um documento oficial, assim como o ofício. Portanto, deve-se evitar o uso de linguagem incompatível com a comunicação oficial.

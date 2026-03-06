@@ -1,6 +1,6 @@
 # Discurso
 
-## Definição
+> ## 1. Definição
 - O discurso está associado ao universo em que os textos circulam.
 - Principais universos:
   - Científico;

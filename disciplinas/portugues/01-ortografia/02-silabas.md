@@ -1,11 +1,11 @@
 # Sílaba
 
-## Definição
+> ## 1. Definição
 - Sílaba é uma unidade fonética (de som) que forma a palavra, ou seja, se trata de cada parte da palavra que é expressa junta entre si ao se falar a palavra.
 - Existem vários tipos de sílabas, assim como a quantidade de sílabas varia de palavra para palavra.
 - A separação silábica consiste na divisão das palavras a partir das sílabas que as formam.
 
-#### Regras para a separação de sílabas
+> #### Regras para a separação de sílabas
 - Sílabas podem ser formadas por vogais e por vogais e consoantes.
 - Não existem sílabas formadas só por consoantes.
 - Vogais isoladas podem formar uma sílaba.
@@ -17,38 +17,39 @@
 - Palavras com consoantes juntas (ch, lh, sc, nh) formam uma única sílaba.
 - Toda sílaba tem apenas uma vogal (embora no caso de ditongos e tritongos ela possua mais de uma, apenas uma é vogal e as demais são semivogais).
 
-> ### Tipos de sílabas
+> ### 1.1 Tipos de Sílabas
 
-#### Sílabas tônicas
+> #### Sílabas Tônicas
 - É a sílaba que na palavra possui a pronúncia mais forte.
 
-Ex: porta => **por**-ta  
-Ex: cachorro => ca-**chor**-ro
+Ex: porta ⟶ **por**-ta  
+Ex: cachorro ⟶ ca-**chor**-ro
 
-#### Sílabas átonas
+> #### Sílabas Átonas
 - São as sílabas em que a pronúncia tem menor força na palavra.
 
-Ex: porta => por-**ta**  
-Ex: cachorro => **ca**-chor-**ro**
+Ex: porta ⟶ por-**ta**  
+Ex: cachorro ⟶ **ca**-chor-**ro**
 
-**OBSERVAÇÃO:** A sílaba mais forte também define a classificação das palavras em oxítonas, paroxítonas e proparoxítonas a partir da posição em que ela se encontra na palavra.
+> [!CAUTION] OBSERVAÇÃO:
+> - A sílaba mais forte também define a classificação das palavras em oxítonas, paroxítonas e proparoxítonas a partir da posição em que ela se encontra na palavra.
 
-#### Sílabas abertas
+> #### Sílabas Abertas
 - São as sílabas terminadas em vogal.
 
-Ex: porta => por-**ta**  
-Ex: cachorro => **ca**-chor-**ro**
+Ex: porta ⟶ por-**ta**  
+Ex: cachorro ⟶ **ca**-chor-**ro**
 
-#### Sílabas fechadas
+> #### Sílabas Fechadas
 - São as sílabas que terminam em consoantes.
 
-Ex: porta => **por**-ta  
-Ex: cachorro => ca-**chor**-ro
+Ex: porta ⟶ **por**-ta  
+Ex: cachorro ⟶ ca-**chor**-ro
 
-> ### Classificação das sílabas
+> ### 1.2 Classificação das Sílabas
 - As sílabas podem ser classificadas de acordo com a forma de sua separação, assim como pela quantidade de sílabas que formam a palavra e também pela posição que as sílabas tônicas se encontram na palavra.
 
-#### De acordo com a forma de separação
+> #### De Acordo com a Forma de Separação
 
 | TIPO     | DEFINIÇÃO                                      | EXEMPLO         |
 | -------- | ---------------------------------------------- | --------------- |
@@ -56,7 +57,7 @@ Ex: cachorro => ca-**chor**-ro
 | Tritongo | Sequência de três vogais em uma mesma sílaba   | i-g**uai**s     |
 | Hiato    | Sequência de duas vogais em sílabas diferentes | p**o**-**e**-ta |
 
-#### De acordo com a quantidade de sílabas
+> #### De Acordo com a Quantidade de Sílabas
 
 | TIPO         | DEFINIÇÃO                             | EXEMPLO     |
 | ------------ | ------------------------------------- | ----------- |
@@ -65,7 +66,7 @@ Ex: cachorro => ca-**chor**-ro
 | Trissílabas  | Palavra formada por 3 sílabas         | ten-ta-ção  |
 | Polissílabas | Palavra formada por 4 sílabas ou mais | gra-vi-o-la |
 
-#### De acordo com a posição da sílaba tônica
+> #### De Acordo com a Posição da Sílaba Tônica
 
 | TIPO          | DEFINIÇÃO                              | EXEMPLO      |
 | ------------- | -------------------------------------- | ------------ |

@@ -1,9 +1,9 @@
 # Recursos Argumentativos
 
-## Definição
+> ## 1. Definição
 - São formas de fundamentação da elaboração de um posicionamento no texto.
 
-> ### Citações
+> ### 1.1 Citações
 
 1. "Se a educação sozinha não transforma a sociedade, sem ela tampouco a sociedade muda." (Paulo Freire - Educador)
 2. "Educação nunca foi despesa. Sempre foi investimento com retorno garantido." (William Arthur Lewis - Economista)
@@ -36,7 +36,7 @@
 29. "Tornou-se chocantemente óbvio que a nossa tecnologia excedeu a nossa humanidade." (Albert Einstein - Físico)
 30. "Se você não for cuidadoso, os jornais vão acabar te fazendo odiar as pessoas que estão sendo oprimidas e adorar os opressores." (Malcolm X - Ativista)
 
-> ### Dados
+> ### 1.2 Dados
 - Tipos de dados:
   - Alusões históricas;
   - Relação entre fatos, situações ou épocas/lugares diferentes;
@@ -63,7 +63,7 @@ Exemplos:
 14. 10% mais ricos ganharam 31 vezes o salário dos mais pobres na regiões metropolitanas do país, segundo a 12ª edição do boletim desigualdade nas metrópolis de 2023.
 15. MST é o maior produtor de arroz orgânico do Brasil, segundo a CUT.
 
-> ### Argumentos
+> ### 1.3 Argumentos
 - Tipos de argumentos:
   - Exemplificação;
   - Enumeração;

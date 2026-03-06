@@ -1,6 +1,6 @@
 # Conclusão
 
-## Definição
+## 1. Definição
 - A conclusão é a última parte texto, e sua função é finalizar o argumento apresentado durante todo o texto. 
 - Existem dois tipos de conclusão, o qual será determinado pelo tema, que pode exigir uma conclusão síntese ou uma conclusão solução.
 

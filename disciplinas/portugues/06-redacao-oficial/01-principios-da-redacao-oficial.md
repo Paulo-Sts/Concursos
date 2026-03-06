@@ -1,13 +1,13 @@
 # Princípios da Redação Oficial
 
-## Definição
+> ## 1. Definição
 - Redação oficial é a maneira pela qual o poder público redige atos normativos e comunicações.
 - Três princípios norteiam a elaboração de expedientes oficiais:
   - Impessoalidade: O texto não pode conter marcas subjetivas, expressar opiniões, uma vez que provém sempre de um mesmo comunicador: a Administração Pública.
   - Publicidade: Relacionada à clareza do texto, ou seja, não se pode ter duplicidade de interpretações, a fim de que todos que tenham acesso ao texto o interpretem da mesma forma.
   - Eficiência: A redação oficial precisa ser eficiente. Segundo o manual, não existem assuntos urgentes, mas assuntos atrasados.
 
-## Teoria do Ato Comunicativo
+> ## 2. Teoria do Ato Comunicativo
 - Para que o emissor transmita sua mensagem ao receptor, ele precisa ter um código e um canal.
 - Por exemplo, um indivíduo está em sua casa assistindo o programa da Ana Maria Braga na televisão. 
 - Nesse cenário, o emissor é Ana Maria Braga. A mensagem que está sendo transmitida é a receita de um bolo. O receptor é o indivíduo que está assistindo o programa.
@@ -20,7 +20,7 @@ a televisão.
   - Canal: é o próprio documento, o expediente oficial (um ofício, uma mensagem, uma exposição de motivos, um e-mail, entre outros);
   - Código: norma culta da Língua Portuguesa, clareza, impessoalidade, concisão (economia de palavras), formalidade, padronização ou uniformidade. 
 
-## Coesão e Coerência
+> ## 3. Coesão e Coerência
 - A coesão é uma ligação entre as estruturas frasais. A palavra coesão tem origem no latim "coser", que significa costurar. É necessário conhecer e dominar os principais recursos
 coesivos, que são as conjunções, as preposições e os pronomes.
 - A coerência é a lógica, a harmonia entre as ideias do texto. Um texto coerente é um texto lógico, que faz sentido.
