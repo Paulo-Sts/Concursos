@@ -1,6 +1,6 @@
 # Tonicidade
 
-> ## 1. Definição
+## Definição
 - É o estudo da sílaba tônica. A maior parte das palavras em português possui uma sílaba tônica.
 - A sílaba tônica é definida a partir de sua posição na palavra.
 - Classificação:
