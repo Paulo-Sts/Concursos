@@ -1,11 +1,11 @@
 # Elementos dos Atos de Comunicação
 
-> ## 1. Conceito Geral
+## 1. Conceito Geral
 - A comunicação é a transmissão eficaz de uma mensagem entre partes.
 - Para ser eficiente, todos os elementos devem funcionar de maneira harmônica.
 - O ato de comunicação está diretamente vinculado às funções da linguagem.
 
-> ## 2. Os Seis Elementos da Comunicação
+## 2. Os Seis Elementos da Comunicação
 
 #### 2.1 Emissor (ou Remetente)
 - É quem inicia o processo de comunicação por vontade ou necessidade.

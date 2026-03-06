@@ -37,15 +37,15 @@
 > 2. Narração > descrição (Contendo os dois tem maior predominância)
 > 3. Descrição (menor predominância)
 
-> ## 4. Gêneros Textuais
+## 4. Gêneros Textuais
 - São as diferentes formas de comunicação, utilizadas para expressar conhecimento e as ideias de cada indivíduo nos mais variados contextos.
 - Os gêneros textuais não apresentam estrutura, pois se modificam com o passar do tempo e a partir das mudanças na sociedade.
 - Podem ser elaborados com variados tipos textuais, porém sempre com um tipo predominante de acordo com a intenção do autor ao produzi-lo.
 - Um exemplo de gênero textual que mudou foi a carta, usada para se comunicar no dia a dia, papel hoje exercido por aplicativos de mensagem como o whatsapp.
 
-> ## 5. Relações entre Tipos e Gêneros
+## 5. Relações entre Tipos e Gêneros
 
-> ### 5.1 Tipo Narrativo
+> ### Tipo Narrativo
 - São textos que tem como objetivo contar histórias e relatar fatos. O tipo narrativo se baseia na evolução dos acontecimentos, mesmo que não exista linearidade com o tempo real.
 - São caracterizados por verbos de ação e conectores temporais, tendo no tempo e nas ações desenvolvidas ao longo dele um elemento marcante.
 - São objetivos quando na 3.ª pessoa (narrador observador) e subjetivos quando na 1.ª pessoa (narrador personagem).
@@ -66,20 +66,20 @@
   - Como? (o modo/o meio utilizado)
   - Por quê? (as motivações)
 
-> ### 5.2 Tipo Descritivo
+> ### Tipo Descritivo
 - Esse tipo textual se trata da caracterização das coisas (pessoas, objetos, ambientes e situações). É utilizado para detalhar as propriedades e os aspectos dos elementos que são retratados em um estado definido (como se fosse uma foto).
 - Em descrições podem aparecer verbos de ação ou movimento, mas os movimentos são simultâneos ao momento que se descreve, ou seja, não indicam uma mudança de estado.
 - A **descrição objetiva** mostra uma visão coletiva do objeto, usando linguagem denotativa e destaque para aspectos físicos.
 - A **descrição subjetiva** mostra a percepção do sujeito sobre o que é descrito, podendo utilizar conotações e destacando o aspecto psicológico.
 
-> ### 5.3 Tipo Dissertativo Expositivo
+> ### Tipo Dissertativo Expositivo
 - Tipo de texto que tem como finalidade transmitir conhecimento devidamente legitimado. 
 - O autor busca explanar sobre um assunto para informar o leitor, sem emitir opinião ou juízo de valor sobre a questão discutida.
 - Em geral segue a estrutura de introdução, desenvolvimento e conclusão, porém o mais importante é apresentar as informações de maneira clara, correta, organizada e coerente.
 - Gêneros com predominância da dissertação expositiva:
   - Artigo.
 
-> ### 5.4 Tipo Dissertativo Argumentativo
+> ### Tipo Dissertativo Argumentativo
 - Esse tipo textual tem como objetivo convencer o leitor sobre um ponto de vista a respeito de um determinado assunto. O texto tenta influenciar o leitor, por meio de um raciocínio consistente, apresentando evidências que dão embasamento para a conclusão que se chega.
 - A contrução do texto pelo autor, se da com o recolhimento, avaliação e interpreção de informações e dados da realidade e elaboração de reflexões, a partir das quais ele expressa sua opinião e posicionamento (sustentado por argumentos fundamentados) crítico sobre o tema.
 - Estrutura padrão do texto dissertativo argumentativo:
@@ -95,7 +95,7 @@
   - O que o autor pensa sobre esse assunto? (tese)
   - Por que ele pensa assim? (argumentos)
 
-> ### 5.5 Tipo Injutivo
+> ### Tipo Injutivo
 - É o tipo textual que tem como objetivo dar ordens, avisos, conselhos, instruções e indicações para a realização de um trabalho ou para utilização de instrumentos. Também visa fazer advertências, prescrever normas e procedimentos.
 - Classificações dos textos injuntivos:
   - Prescritivo;
