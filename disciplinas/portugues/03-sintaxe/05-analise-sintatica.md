@@ -11,7 +11,7 @@
 - Passo 2: Pergunte "quem?" ou "o quê?" + verbo.
 - Passo 3: Classifique o sujeito.
 
-#### Tipos de Sujeito
+> ### Tipos de Sujeito
 - Simples: um único núcleo.
   - Ex.: A proteção à criança é importante. → núcleo: "proteção".
 - Composto: dois ou mais núcleos.
@@ -27,7 +27,7 @@
   - Verbo "fazer" indicando tempo: Faz dois anos.
   - Verbo "ser" indicando tempo/hora: É meio-dia.
 
-#### Casos Especiais (Concordância)
+> ### Casos Especiais (Concordância)
 - Sujeito Partitivo (maioria, metade, 50%): concordância pode ser com o numeral ou com o termo preposicionado.
   - Ex.: A maioria dos alunos faltou / faltaram.
 - Expressões como "mais de", "menos de": verbo concorda com o numeral seguinte.
@@ -38,7 +38,7 @@
 ## 3. Identificação do Predicado
 - É tudo o que se declara sobre o sujeito. O núcleo é sempre o verbo.
 
-#### Tipos de Predicado
+> ### Tipos de Predicado
 - Verbo-Nominal: verbo de ligação + predicativo do sujeito.
   - Ex.: Maria está feliz. ("está" = verbo de ligação; "feliz" = predicativo)
 - Verbal: verbo transitivo ou intransitivo + complementos.
@@ -49,7 +49,7 @@
 ## 4. Classificação do Verbo
 - Depende da necessidade de complemento.
 
-#### Como descobrir a classificação do verbo
+> ### Como descobrir a classificação do verbo
 1. O verbo indica ação? (se sim, vá para 2)
 2. Posso perguntar "o quê?" depois dele? (se sim → VTD)
 3. Se não, posso perguntar "de quê?" ou "a quem?" (se sim → VTI)
@@ -57,14 +57,14 @@
 5. Se não aceitar nenhuma → VI
 6. Se o verbo só indica estado/ligação → VL
 
-##### Exemplo  
+#### Exemplo  
 1. Frase: "O professor explicou a matéria aos alunos."
 2. Verbo: "explicou" (ação)
 3. Pergunto: "Explicou o quê?" → "a matéria" (faz sentido) → tem OD
 4. Pergunto: "Explicou a quem?" → "aos alunos" (faz sentido) → tem OI
 5. Conclusão: VTDI (transitivo direto e indireto)
 
-#### Tipos de verbo
+> ### Tipos de verbo
 - Intransitivo (VI): não precisa de complemento.
   - Ex.: O menino correu.
 - Transitivo Direto (VTD): exige complemento sem preposição (objeto direto).
@@ -134,7 +134,7 @@
 - Complemento nominal completa um nome e tem relação passiva.
 - "Haver" no sentido de existir é impessoal (sujeito inexistente).
 
-## Exemplo prático completo
+## 11. Exemplo prático completo
 - Frase: "O professor explicou a matéria com paciência aos alunos."
 1. Verbo: explicou  
 2. Sujeito: O professor (pergunte: quem explicou?) → simples  

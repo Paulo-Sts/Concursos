@@ -1,4 +1,4 @@
-# Verbo "Haver" – Regras e Uso
+# Verbo Haver
 
 ## 1. No sentido de "existir", "ocorrer", "acontecer"
 - É impessoal (não tem sujeito).
@@ -47,8 +47,8 @@
 - "haver" significa "existir" → impessoal → singular.
 
 ## 7. Truque de substituição
-Substitua mentalmente por "existir":
-- Se puder trocar por "existem/existiam" → então "haver" fica no singular.
+- Substitua mentalmente por "existir":
+  - Se puder trocar por "existem/existiam" → então "haver" fica no singular.
 
 #### Exemplo
 - "Existiam muitos livros" (correto).

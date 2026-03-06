@@ -35,4 +35,5 @@ Ex: **As músicas** clássica e popular são manifestações artísticas.
   - **A destruição** de biomas e **a redução** da biodiversidade **aceleradas** resultam em um perigo irreversível para o planeta. ✅ (Ambos femininos)
   - **A destruição** de biomas e **a redução** da biodiversidade **acelerada** resultam em um perigo irreversível para o planeta. ✅ (mais próximo feminino)
 
-**OBSERVAÇÃO:** De acordo com a gramática da língua portuguesa, o plural masculino é uma forma neutra, para quando um substantivo for masculino e o outro feminino.
+> [!CAUTION] OBSERVAÇÃO:
+> - De acordo com a gramática da língua portuguesa, o plural masculino é uma forma neutra, para quando um substantivo for masculino e o outro feminino.

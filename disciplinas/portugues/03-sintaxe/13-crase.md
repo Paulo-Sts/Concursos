@@ -32,17 +32,19 @@ Ex: Vou à casa dos meus pais.
 Ex: Retornarei à terra onde nasci.  
 Ex: Nos vimos tudo à distância de 100 metros.
 
-**DICA:** Para descobri se há crase após um verbo de destino, coloca-se a palavra após a crase na seguinte frase e verifica qual mantém o sentido: 
-1. vai a ... , volta da ... (tem crase)
-2. vai a ... , volta de ... (não tem crase).
-
-Ex: Fui à rua => vai à rua, volta da rua.  
-Ex: Foi a Roma => vai a Roma, volta de Roma.  
-
-**DICA:** Para descobrir se há crase antes de uma palavra feminina, troca-se ela pela palavra **cachorro**, se a flexão ficar **ao** então tem crase, se ficar **o** não tem crase.  
-
-Ex: viu a tia. => vio o cachorro (sem crase)  
-Ex: fiel à técnica de sempre. => fiel ao cachorro de sempre (tem crase).  
+> [!TIP] DICA:
+> - Para descobri se há crase após um verbo de destino, coloca-se a palavra após a crase na seguinte frase e verifica qual mantém o sentido: 
+>    - vai a ... , volta da ... (tem crase)
+>    - vai a ... , volta de ... (não tem crase).
+> 
+> Ex: Fui à rua ⟶ vai à rua, volta da rua.  
+> Ex: Foi a Roma ⟶ vai a Roma, volta de Roma.  
+ 
+> [!TIP] DICA:
+> - Para descobrir se há crase antes de uma palavra feminina, troca-se ela pela palavra **cachorro**, se a flexão ficar **ao** então tem crase, se ficar **o** não tem crase.  
+> 
+> Ex: viu a tia. => vio o cachorro (sem crase)  
+> Ex: fiel à técnica de sempre. => fiel ao cachorro de sempre (tem crase).  
 
 #### Crase proibida
 - Não se usa crase antes de palavras masculinas. (Exemplo: Vou **a** pé àquele lugar (não há crase, pois "pé" é masculino).)

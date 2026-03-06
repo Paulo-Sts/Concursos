@@ -25,7 +25,8 @@
 | Separar orações coordenadas sindéticas aditivas (com sujeitos diferentes). | O professor explicou a matéria, e os alunos tiraram dúvidas.                   |
 | Isolar adjuntos adverbiais deslocados.                                     | No fim do dia, todos estavam cansados./Todos estavam, no fim do dia, cansados. |
 
-**DICA:** Adjunto advérbial pode estar em qualquer posição da oração. Para adjuntos com até duas palavras no início ou no meio da oração, as vírgulas são facultativas. A partir de três palavras as vírgulas são obrigatórias.
+> [!TIP] DICA:
+> - Adjunto advérbial pode estar em qualquer posição da oração. Para adjuntos com até duas palavras no início ou no meio da oração, as vírgulas são facultativas. A partir de três palavras as vírgulas são obrigatórias.
 
 #### Uso proibído da vírgula  
 

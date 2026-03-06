@@ -13,7 +13,8 @@
   - O **aluno estuda** bastante. (Sujeito no singular = verbo no singular)
   - Os **alunos estudam** bastante. (Sujeito no plural = verbo no plural)
 
-**DICA:** O núcleo do sujeito inicia sem preposição. É substantivo ou pronome.
+> [!TIP] DICA:
+> - O núcleo do sujeito inicia sem preposição. É substantivo ou pronome.
 
 #### Sujeito simples com sujeito após o verbo (posposto)
 - O núcleo do sujeito conjuga o verbo.
@@ -43,7 +44,8 @@
   - Hoje, **1,5%** da população não **sabe** ler. ✅
   - Hoje, 1,5% da **população** não **sabem** ler. ❌ 
 
-**OBSERVAÇÃO:** Qualquer valor abaixo de 2 é sempre no singular.
+> [!CAUTION] OBSERVAÇÃO:
+> - Qualquer valor abaixo de 2 é sempre no singular.
 
 #### Sujeito composto com oração em ordem direta
 - O verbo fica no plural.

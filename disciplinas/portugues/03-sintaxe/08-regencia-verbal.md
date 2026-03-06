@@ -30,19 +30,22 @@
 | Vir      | VI (vir a)                      | A               | Adjunto adverbial (destino)  | Ela veio ao meu encontro.                                    |
 | Preferir | VTDI (preferir algo a outro)    | A               | OD (algo) e OD (outro)       | Prefiro séries a filmes.                                     |
 
-**DICA:** Para saber se o verbo é transitivo direto (VTD) pergunta-se a ele **O que?** ou **A quem?**, se a resposta for um objeto direto (algo que não precisa de preposição para fazer sentido), o verbo é transitivo direto.
-- Exemplo: 
-  - Verbo: "Amar"
-  - Pergunta: **"Amar o quê?"**
-  - Resposta: "Amar a vida" => "Vida" é o objeto direto, pois não há preposição.
+> [!TIP] DICA:
+> - Para saber se o verbo é transitivo direto (VTD) pergunta-se a ele **O que?** ou **A quem?**, se a resposta for um objeto direto (algo que não precisa de preposição para fazer sentido), o verbo é transitivo direto.
+> - Exemplo: 
+>   - Verbo: "Amar"
+>   - Pergunta: **"Amar o quê?"**
+>   - Resposta: "Amar a vida" => "Vida" é o objeto direto, pois não há preposição.
 
-**DICA:** Para saber se o verbo é transitivo indireto (VTI) pergunta-se **O quê?** ou **A quem?**, se a resposta for um objeto indireto (algo que exige preposição), o verbo é transitivo indireto.
-- Exemplo:
-  - Verbo: "Gostar"
-  - Pergunta: **"Gostar de quem?"** ou **"Gostar de o quê?"**
-  - Resposta: "Gostar de música" => "Música" é o objeto indireto, pois precisa da preposição "de".
-
-**OBSERVAÇÃO:** Saber a transitividade do verbo ajuda no entendimento do uso correto da regência, da concordância, da crase e também do emprego de pronomes nas orações.
+> [!TIP] DICA: 
+> - Para saber se o verbo é transitivo indireto (VTI) pergunta-se **O quê?** ou **A quem?**, se a resposta for um objeto indireto (algo que exige preposição), o verbo é transitivo indireto.
+> - Exemplo:
+>   - Verbo: "Gostar"
+>   - Pergunta: **"Gostar de quem?"** ou **"Gostar de o quê?"**
+>   - Resposta: "Gostar de música" => "Música" é o objeto indireto, pois precisa da preposição "de".
+ 
+> [!CAUTION] OBSERVAÇÃO:
+> - Saber a transitividade do verbo ajuda no entendimento do uso correto da regência, da concordância, da crase e também do emprego de pronomes nas orações.
 
 > ### Regência de pronomes relativos
 - Trata do uso da preposição correta quando os pronomes relativos são empregados para estabelecer uma relação entre a oração principal e a oração subordinada.
@@ -84,8 +87,11 @@
 - Frase combinada: Conheço o médico **em cuja** atuação a comunidade confia.
 - Explicação: A relação de posse é entre o médico e sua atuação. O pronome **cuja** indica que a atuação pertence ao médico.
 
-**OBSERVAÇÃO:** Quando um verbo exige uma preposição (como **referir-se a**, **gostar de**, **confiar em**), ela será transmitida ao pronome relativo.  
+> [!CAUTION] OBSERVAÇÃO:
+> - Quando um verbo exige uma preposição (como **referir-se a**, **gostar de**, **confiar em**), ela será transmitida ao pronome relativo.  
 
-**OBSERVAÇÃO:** No uso de "a", "de" e "em"** dependendo da preposição exigida pelo verbo, o pronome relativo será adaptado conforme o contexto, utilizando "a que", "de que", "em que", ou "ao qual", "do qual", "em quem", etc.  
-
-**OBSERVAÇÃO:** O pronome relativo **cujo** é usado para indicar posse e não pode ser seguido de artigo. Por exemplo, **"cujo o"** ou **"cujas as"** são formas incorretas.
+> [!CAUTION] OBSERVAÇÃO:
+> - No uso de "a", "de" e "em"** dependendo da preposição exigida pelo verbo, o pronome relativo será adaptado conforme o contexto, utilizando "a que", "de que", "em que", ou "ao qual", "do qual", "em quem", etc.  
+ 
+> [!CAUTION] OBSERVAÇÃO:
+> - O pronome relativo **cujo** é usado para indicar posse e não pode ser seguido de artigo. Por exemplo, **"cujo o"** ou **"cujas as"** são formas incorretas.
