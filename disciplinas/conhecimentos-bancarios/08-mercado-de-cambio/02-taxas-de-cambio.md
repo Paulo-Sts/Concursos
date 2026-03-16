@@ -174,6 +174,8 @@ câmbio real = 7,50
 |-----------------------------|----------------|------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Inflação sobe no Brasil     | desvaloriza    | sobe             | P. do Brasil ficam caros(exportações caem, menos dólares entram, importações sobem, mais dólares saem, dólar mais caro)  |
 | Inflação desce no Brasil    | valoriza       | desce            | Produtos brasileiros ficam competitivos, exportações sobem (mais dólares entram)                                         |
+| Inflação alta + câmbio fixo | valoriza       | desce            | É necessário mais dólares para comprar produtos em moeda local, pois o preço das coisas subiu, mas o valor da moeda não  |
+| Inflação baixa/câmbio fixo  | desvaloriza    | sobe             | Preços internos sobem menos que lá fora, produtos nacionais ficam baratos em dólar, moeda real desvaloriza               |
 | Juros sobem no Brasil       | valoriza       | desce            | Atrai capital estrangeiro, estrangeiro traz dólares e compra reais, aumenta oferta de dólar                              |
 | Juros descem no Brasil      | desvaloriza    | sobe             | Desestimula investimento estrangeiro, saem dólares (ou entram menos)                                                     |
 | Juros sobem nos EUA         | desvaloriza    | sobe             | Atrai investidores para os EUA, tiram dólares do Brasil, dólar fica mais caro aqui                                       |
