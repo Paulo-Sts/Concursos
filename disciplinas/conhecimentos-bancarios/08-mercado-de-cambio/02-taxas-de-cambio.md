@@ -168,3 +168,26 @@ câmbio real = 7,50
 | Elevação da taxa (real depreciado) | Favorece as exportações       | Torna importados mais caros (gera pressão de alta sobre inflação)   |
 | Redução da taxa (real apreciado)   | Não é bom para exportações    | Torna os produtos importados mais baratos (pode reduzir a inflação) |
 
+## Fatores que Afetam o Câmbio
+
+| SITUAÇÃO                    | EFEITO NO REAL | COTAÇÃO (R$/US$) | POR QUÊ?                                                                                                                 |
+|-----------------------------|----------------|------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Inflação sobe no Brasil     | desvaloriza    | sobe             | P. do Brasil ficam caros(exportações caem, menos dólares entram, importações sobem, mais dólares saem, dólar mais caro)  |
+| Inflação desce no Brasil    | valoriza       | desce            | Produtos brasileiros ficam competitivos, exportações sobem (mais dólares entram)                                         |
+| Juros sobem no Brasil       | valoriza       | desce            | Atrai capital estrangeiro, estrangeiro traz dólares e compra reais, aumenta oferta de dólar                              |
+| Juros descem no Brasil      | desvaloriza    | sobe             | Desestimula investimento estrangeiro, saem dólares (ou entram menos)                                                     |
+| Juros sobem nos EUA         | desvaloriza    | sobe             | Atrai investidores para os EUA, tiram dólares do Brasil, dólar fica mais caro aqui                                       |
+| Juros descem nos EUA        | valoriza       | desce            | Investidores buscam outros países (como Brasil), entram dólares                                                          |
+| Inflação sobe nos EUA       | valoriza       | desce            | Dólar se desvaloriza globalmente, real se fortalece frente a ele                                                         |
+| Exportações sobem           | valoriza       | desce            | Vender mais para fora = receber mais dólares, aumenta oferta da moeda                                                    |
+| Exportações descem          | desvaloriza    | sobe             | Menos dólares entrando no país                                                                                           |
+| Importações sobem           | desvaloriza    | sobe             | Comprar mais de fora = pagar mais dólares, aumenta demanda                                                               |
+| Importações descem          | valoriza       | desce            | Menos dólares saindo do país                                                                                             |
+| Invest. estrangeiro sobe    | valoriza       | desce            | Estrangeiro traz dólares para investir em fábricas, bolsa, etc.                                                          |
+| Insta. política no Brasil   | desvaloriza    | sobe             | Incerteza afugenta investidores, vendem reais e compram dólares                                                          |
+| BC vende dólar              | valoriza       | desce            | BC coloca dólar no mercado, aumenta oferta, preço cai                                                                    |
+| BC compra dólar             | desvaloriza    | sobe             | BC retira dólar do mercado, oferta diminui, preço sobe                                                                   |
+| B. comercial superavitária  | valoriza       | desce            | Entram mais dólares do que saem                                                                                          |
+| B. comercial deficitária    | desvaloriza    | sobe             | Saem mais dólares do que entram                                                                                          |
+| Preço das commodities sobe  | valoriza       | desce            | Exportações valem mais, entram mais dólares                                                                              |
+| Preço das commodities desce | desvaloriza    | sobe             | Brasil exporta commodities, recebe menos dólares                                                                         |
