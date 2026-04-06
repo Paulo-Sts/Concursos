@@ -32,4 +32,5 @@
   - Arrematação ou adjudicação: Venda do bem em leilão.
   - Cancelamento do registro: Averbação no Registro de Imóveis.
 
-**OBSERVAÇÃO:** Em crimes como corrupção, lavagem de dinheiro ou tráfico de drogas, os bens são bloqueados ou sequestrados, não hipotecados.
+> [!CAUTION] OBSERVAÇÃO:
+> - Em crimes como corrupção, lavagem de dinheiro ou tráfico de drogas, os bens são bloqueados ou sequestrados, não hipotecados.

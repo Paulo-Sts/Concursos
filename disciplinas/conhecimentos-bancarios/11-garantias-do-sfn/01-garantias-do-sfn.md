@@ -27,6 +27,7 @@
   - LCA (Letra de Crédito do Agronegócio).
   - LC (Letra de Câmbio).
   - LH (Letra Hipotecária).
+  - LCD (Letra de Crédito de Desenvolvimento).
 
 #### Bem de família
 - O banco não pode: Tomar o bem de família como garantia, exceto se o devedor renunciar à proteção constitucional.

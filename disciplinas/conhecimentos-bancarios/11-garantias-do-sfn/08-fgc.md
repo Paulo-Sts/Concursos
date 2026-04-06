@@ -2,7 +2,7 @@
 
 ## Definição
 - Entidade civil privada, sem fins lucrativos, que protege correntistas, poupadores e investidores em caso de falência, liquidação ou intervenção em instituições financeiras associadas.  
-- Seu objetivo garantir créditos (até limites estabelecidos) mantidos em bancos associados.  
+- Seu objetivo é garantir créditos (até limites estabelecidos) mantidos em bancos associados.  
 - Natureza Jurídica: Associação civil de direito privado, não vinculada ao governo.  
 
 > ### Instituições associadas   
@@ -16,7 +16,7 @@
   
 #### Garantia ordinária (Limite: R$ 250 mil por CPF/CNPJ por instituição ou conglomerado)  
 - Depósitos à vista, poupança, CDB/RDB, conta-salário.  
-- Letras de crédito: LCI, LCA, LC, LH.  
+- Letras de crédito: LCI, LCA, LC, LH e LCD.  
 - Operações compromissadas (após março/2012).  
 
 #### Garantia especial (DPGE – Depósito a Prazo com Garantia Especial)  

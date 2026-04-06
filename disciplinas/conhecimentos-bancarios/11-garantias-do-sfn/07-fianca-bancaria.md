@@ -10,12 +10,6 @@
 
 #### Funcionamento
 - Garantia: O banco assegura a confiabilidade do afiançado com base em suas informações bancárias.
-- Aplicações:
-  - Licitações: Substitui o depósito de garantia em concorrências públicas.
-  - Locação: Garantia para contratos de aluguel.
-  - Financiamentos: Garantia para empréstimos e financiamentos.
-  - Exportação: Garantia em operações de comércio exterior.
-  - B3: Garantia em operações na Bolsa de Valores.
 - Prazos: Definidos conforme a natureza da obrigação garantida.
 
 #### Vantagens
