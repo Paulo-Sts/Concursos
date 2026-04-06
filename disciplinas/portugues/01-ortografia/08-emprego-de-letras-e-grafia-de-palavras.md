@@ -52,37 +52,22 @@
 | enxer               | encher          | Derivado de "cheio" (com CH)                  |
 | enxarcar            | encharcar       | Derivado de "charco" (com CH)                 |
 | mecher              | mexer           | Verbo "mexer" é com X                         |
-| xícara              | xícara          | Escreve-se com X                              |
-| chícara             | ❌              | Não existe                                    |
+| chícara             | xícara          | Escreve-se com X                              |
 | beneficiente        | beneficente     | Quem faz o bem                                |
-| beneficiente        | ❌              | Não existe                                    |
 | previlégio          | privilégio      | Vantagem exclusiva                            |
-| previlégio          | ❌              | Não existe                                    |
 | prazeiroso          | prazeroso       | Que dá prazer                                 |
-| prazeiroso          | ❌              | Não existe                                    |
-| paralisar           | paralisar       | Parar (com S, porque vem de paralisia)        |
-| paralizar           | ❌              | Não existe                                    |
+| paralizar           | paralisar       | Parar (com S, porque vem de paralisia)        |
 | analizar            | analisar        | Com S (vem de análise)                        |
-| pesquisa            | pesquisa        | Com S                                         |
-| pesquiza            | ❌              | Não existe                                    |
+| pesquiza            | pesquisa        | Com S                                         |
 | atravez             | através         | Com S no final                                |
 | atráves             | através         | Sem acento!                                   |
 | traz (verbo)        | trás (advérbio) | "Trás" = parte de trás; "Traz" = verbo trazer |
 | cidadões            | cidadãos        | Plural de cidadão é cidadãos                  |
-| cidadões            | ❌              | Não existe                                    |
-| tabelião            | tabelião        | Pessoa que tabela                             |
-| tabelião            | ❌              | Não existe                                    |
-| entretido           | entretido       | Distraído (com T)                             |
-| entretido           | ❌              | Não existe                                    |
+| entertido           | entretido       | Distraído (com T)                             |
 | esteriótipo         | estereótipo     | Modelo fixo                                   |
-| esteorótipo         | ❌              | Não existe                                    |
-| idêntico            | idêntico        | Com acento no "e"                             |
-| indentico           | ❌              | Não existe                                    |
+| indentico           | idêntico        | Com acento no "e"                             |
 | dignatário          | dignitário      | Quem ocupa alta posição                       |
-| dignitário          | ✅              | Correto                                       |
-| dignatário          | ❌              | Não existe                                    |
 | mortandela          | mortadela       | Com T                                         |
-| mortadela           | ✅              | Correto                                       |
 
 ## 3. Dicas
 

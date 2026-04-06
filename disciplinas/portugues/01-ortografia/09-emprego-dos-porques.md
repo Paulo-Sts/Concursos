@@ -10,7 +10,7 @@
 | Quando equivale a "pelo qual" e variações  | O motivo **por que** lutei era justo. |
 
 > [!TIP] DICA:
-> - Se dá para trocar por "pelo qual", "pela qual", "pelos quais", é **por que** separado.
+> - Se dá para trocar por "pelo qual", "pela qual", "pelos quais", é **por que** separado e sem acento.
 
 ## 2. Porque (junto e sem acento)
 - Usado em respostas e explicações.
@@ -21,7 +21,7 @@
 | Em respostas diretas           | — Por que está atrasado? — **Porque** perdi o ônibus. |
 
 > [!TIP] DICA:
-> - Se dá para trocar por "pois" ou "uma vez que", é **porque** junto.
+> - Se dá para trocar por "pois" ou "uma vez que", é **porque** junto e sem acento.
 
 ## 3. Por quê (separado e com acento)
 - Usado no final de frases.
@@ -32,7 +32,7 @@
 | No final de frases, mesmo sem ponto de interrogação | Ele está triste, não sei **por quê**. |
 
 > [!TIP] DICA:
-> - Se vier **antes de pontuação final** (ponto final, interrogação, exclamação), é **por quê** com acento.
+> - Se vier **antes de pontuação final** (ponto final, interrogação, exclamação), é **por quê** separado e com acento.
 
 ## 4. Porquê (junto e com acento)
 - Usado como substantivo (sinônimo de "motivo", "razão").
@@ -43,7 +43,7 @@
 | Acompanhado de pronome (meu, esse, etc.) | Esse **porquê** não me convence.            |
 
 > [!TIP] DICA:
-> - Se vem depois de **o, os, um, uns, esse, meu**, é **porquê** com acento.
+> - Se vem depois de **o, os, um, uns, esse, meu**, é **porquê** junto e com acento.
 
 ## 5. Resumo
 
