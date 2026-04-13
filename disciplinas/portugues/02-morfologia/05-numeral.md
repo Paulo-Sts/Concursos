@@ -32,6 +32,7 @@ Ex: O três saiu.
 - Ele comeu **um terço** da pizza. (um terço = fracionário).
 - Ela bebeu **metade** do suco. (metade = fracionário).
 
-**DICA:** Os numerais cardinais a partir de "dois" variam em gênero (Exemplo: **dois** carros (masculino) /**duas** casas (feminino).)  
-**DICA:** São usados para indicar posição ou ordem, como em classificações, datas, etc.(Exemplo: **primeiro** lugar, **vigésimo** aniversário.)  
-**DICA:** São usados para expressar proporções ou divisões. (Exemplo: o **dobro** do valor, **um quarto** do bolo.)
+> [!TIP] DICA:
+> - Os numerais cardinais a partir de "dois" variam em gênero (Exemplo: **dois** carros (masculino) /**duas** casas (feminino).)  
+> - São usados para indicar posição ou ordem, como em classificações, datas, etc.(Exemplo: **primeiro** lugar, **vigésimo** aniversário.)  
+> - São usados para expressar proporções ou divisões. (Exemplo: o **dobro** do valor, **um quarto** do bolo.)

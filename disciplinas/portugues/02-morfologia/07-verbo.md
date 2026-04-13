@@ -20,7 +20,7 @@ Ex: O rapaz correu.
 2. rapaz = substantivo
 3. o = artigo
 
-## CLASSIFICAÇÃO DOS VERBOS
+## Classificação dos Verbos
 
 > ### Quanto à conjugação
 - A conjugação diz respeito às variações que o verbo sofre de acordo com a pessoa, número, tempo, modo e aspecto. A conjugação também define a classe verbal em que o verbo se enquadra, dependendo da terminação de sua forma infinitiva.

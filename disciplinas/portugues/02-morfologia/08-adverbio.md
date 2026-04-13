@@ -18,10 +18,11 @@ Ex: Não é permitido de jeito nenhum.
 3. não = advérbio
 4. de jeito nenhum = locução adverbial
 
-**DICA:** Para diferenciar adjetivos e advérbios, basta verificar se a palavra sofre flexão, se não tiver flexão será um advérbio, se tiver a palavra é um adjetivo.  
-**DICA:** O sufixo **-mente** é formador de advérbios.
-
-Ex: recente + mente = recentemente
+> [!TIP] DICA:
+> - Para diferenciar adjetivos e advérbios, basta verificar se a palavra sofre flexão, se não tiver flexão será um advérbio, se tiver a palavra é um adjetivo.  
+> - O sufixo **-mente** é formador de advérbios.
+>
+> Ex: recente + mente = recentemente
 
 > ### Formas de formação dos advérbios
 

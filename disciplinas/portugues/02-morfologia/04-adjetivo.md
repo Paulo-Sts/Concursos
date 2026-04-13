@@ -27,4 +27,5 @@ Ex: Você tem olhos de águia.
 | Grau comparativo  | mais alto           | Compara duas coisas ou pessoas.                         | João é **mais alto** que Pedro.                           |
 | Grau superlativo  | altíssimo           | Intensifica uma qualidade.                              | A montanha é **altíssima**.                               |
 
-**DICA:** Geralmente, o adjetivo vem após o substantivo, mas pode vir antes para dar ênfase. (Ex.: Uma **grande** ideia. / Uma ideia **grande**.)
+> [!TIP] DICA:
+> - Geralmente, o adjetivo vem após o substantivo, mas pode vir antes para dar ênfase. (Ex.: Uma **grande** ideia. / Uma ideia **grande**.)

@@ -193,6 +193,7 @@ Ex: **Quais** são os seus livros? (plural)
 - **Qual** é o seu nome? (qual = interrogativo).
 - **Vossa Excelência** **está** convidado. (3ª pessoa, não "estás").
 
-**DICA:** Use pronomes para substituir substantivos e evitar repetições. (Exemplo: Maria comprou um livro. **Ela** adorou a leitura. (ela = pronome pessoal).)  
-**DICA:** Pronomes possessivos e demonstrativos concordam em gênero e número com o substantivo. (Exemplo: **Este** livro (masculino singular)/**Estes** livros (masculino plural).)  
-**DICA:** O pronome "seu" pode gerar ambiguidade, pois pode se referir à 2ª ou 3ª pessoa. (Exemplo: João disse a Pedro que **seu** carro quebrou. (de quem é o carro?).)  
+> [!TIP] DICA:
+> - Use pronomes para substituir substantivos e evitar repetições. (Exemplo: Maria comprou um livro. **Ela** adorou a leitura. (ela = pronome pessoal).)  
+> - Pronomes possessivos e demonstrativos concordam em gênero e número com o substantivo. (Exemplo: **Este** livro (masculino singular)/**Estes** livros (masculino plural).)  
+> - O pronome "seu" pode gerar ambiguidade, pois pode se referir à 2ª ou 3ª pessoa. (Exemplo: João disse a Pedro que **seu** carro quebrou. (de quem é o carro?).)  

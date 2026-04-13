@@ -7,7 +7,8 @@
   - Gênero (masculino/feminino);
   - Número (singular/plural).
 
-**OBSERVAÇÃO:** O grau (aumentativo/diminutivo) não faz parte da estruturação do grupo dos nomes.
+> [!CAUTION] OBSERVAÇÃO:
+> - O grau (aumentativo/diminutivo) não faz parte da estruturação do grupo dos nomes.
 
 Ex: O carro velho.
 1. carro = substantivo
@@ -31,6 +32,7 @@ Ex: O carro velho.
 Ex: O amor (abstrato) move o mundo.   
 Ex: O cachorro (concreto) late.  
 
-**DICA:** O que determina a classe de uma palavra é o seu contexto, pois por exemplo, uma mesma palavra pode ser um pronome ou conjunção e também pode ser um substantivo.
+> [!TIP] DICA:
+> - O que determina a classe de uma palavra é o seu contexto, pois por exemplo, uma mesma palavra pode ser um pronome ou conjunção e também pode ser um substantivo.
 
 

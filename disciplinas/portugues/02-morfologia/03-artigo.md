@@ -28,6 +28,7 @@ Ex: Os outros acordos.
   - **Uns** garotos estavam jogando futebol na rua. (Refere-se a alguns garotos, não especificados).
   - **Umas** crianças estavam brincando no parque. (Refere-se a algumas crianças, não especificadas).
 
-**DICA:** Substantivos próprios geralmente não levam artigo, exceto em casos específicos (ex.: **O** Brasil, **A** Maria).  
-**DICA:** Substantivos abstratos podem levar artigo para especificar (ex.: **A** felicidade é contagiante).  
-**DICA:** Substantivos no plural o artigo também deve estar no plural (ex.: **As** casas são bonitas).  
+> [!TIP] DICA:
+> - Substantivos próprios geralmente não levam artigo, exceto em casos específicos (ex.: **O** Brasil, **A** Maria).  
+> - Substantivos abstratos podem levar artigo para especificar (ex.: **A** felicidade é contagiante).  
+> - Substantivos no plural o artigo também deve estar no plural (ex.: **As** casas são bonitas).  
