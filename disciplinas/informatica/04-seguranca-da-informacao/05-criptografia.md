@@ -16,7 +16,7 @@
 - Utiliza um par de chaves distintas: uma Chave Pública e uma Chave Privada.
 - Chave Pública: Pode ser divulgada livremente para qualquer pessoa.
 - Chave Privada: Deve ser mantida em segredo absoluto pelo dono.
-- Funcionamento: O que uma chave codifica, apenas a outra do mesmo par pode decodificar.
+- Funcionamento: Uma chave pública (compartilhada com todos) para criptografar dados e uma chave privada (secreta) para descriptografá-los. O que uma chave codifica, apenas a outra do mesmo par pode decodificar.
 - Objetivos: Além da confidencialidade, garante autenticidade, integridade e o não repúdio.
 
 ## 3. Assinatura Digital e Hash
