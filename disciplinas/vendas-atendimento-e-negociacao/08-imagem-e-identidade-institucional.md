@@ -24,7 +24,7 @@
 - A identidade organizacional, por sua vez, refere-se à percepção interna, ou seja, como a organização se vê e quais são os valores, atributos e características que ela escolhe para se representar. 
 - Esses elementos ajudam a identificar e a representar a organização, criando um sentimento de pertencimento nos seus funcionários. 
 - Quando os colaboradores se identificam com esses valores, eles tendem a se mostrar mais comprometidos e alinhados com os objetivos da empresa. 
-- A identidade** influencia diretamente a imagem da organização. Ao ser projetada externamente, a identidade contribui para formar uma imagem positiva ou negativa perante o público.
+- A identidade influencia diretamente a imagem da organização. Ao ser projetada externamente, a identidade contribui para formar uma imagem positiva ou negativa perante o público.
 - A identidade é mais objetiva e é formada dentro da organização, refletindo sua verdadeira natureza. 
 - Ela pode ser diferente da imagem externa, uma vez que a imagem é uma percepção subjetiva dos stakeholders.
 
