@@ -28,12 +28,16 @@
 - A identidade é mais objetiva e é formada dentro da organização, refletindo sua verdadeira natureza. 
 - Ela pode ser diferente da imagem externa, uma vez que a imagem é uma percepção subjetiva dos stakeholders.
 
-#### 2.1 Características
+#### 2.2. Diferença entre Identidade Corporativa e Identidade Organizacional
+- Identidade Corporativa refere-se à manifestação visual e comunicacional da organização, incluindo logo, cores corporativas e mensagens de marketing.
+- Identidade Organizacional é mais abrangente, incluindo os valores, crenças, cultura e comportamentos que definem a organização internamente.
+
+#### 2.2 Características
 - Consistência: Para uma identidade organizacional ser forte, deve haver coerência entre os valores, a cultura, a comunicação e o comportamento da organização. Quanto mais consistente for essa integração, mais sólida será a identidade.
 - Flexibilidade: A identidade precisa ser flexível, permitindo que a organização se adapte às mudanças internas e externas, sem perder sua essência. Isso é importante para que a organização evolua e se mantenha relevante ao longo do tempo.
 - Unicidade: A identidade deve diferenciar a organização de outras no mercado ou setor, tornando-a única e destacando-a na mente do público. Isso envolve a criação de uma cultura organizacional distinta e a promoção de valores e crenças que sejam exclusivos da organização.
 
-#### 2.2 Gestão da Identidade
+#### 2.3 Gestão da Identidade
 - A gestão da identidade envolve o alinhamento contínuo entre a identidade da organização e suas ações, garantindo que seus valores e cultura sejam refletidos em todas as suas atividades. 
 - Esse processo inclui:
   - Comunicação interna (Garantir que todos os membros da organização estejam alinhados e cientes dos valores e da cultura);
