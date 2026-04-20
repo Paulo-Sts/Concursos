@@ -1,13 +1,13 @@
 # Ameaças, Ataques e Pragas Virtuais
 
-## Conceitos Fundamentais
+## 1. Conceitos Fundamentais
 
 > ### 🛑 Ameaça
-- Fator externo que **coloca em risco a segurança** da informação.
+- Fator externo que coloca em risco a segurança da informação.
 - Pode afetar: confidencialidade, integridade, disponibilidade, autenticidade.
 
 > ### ⚠️ Vulnerabilidade
-- **Fragilidade interna** explorável por ameaças.
+- Fragilidade interna explorável por ameaças.
 - Exemplos:
   - Sistema desatualizado
   - Senhas fracas
@@ -26,7 +26,7 @@
 > ### 💥 Dano
 - Resultado negativo de um incidente (ex: perda de dados).
 
-## Tipos de ameaças e atacantes
+## 2. Tipos de ameaças e atacantes
 
 > ### 👨‍💻 Hacker
 - Expert em segurança digital.
@@ -60,7 +60,7 @@
 | Persistente  | Salvo no disco. Gera sugestões personalizadas.         |
 | Risco        | **Cookies de terceiros** podem violar sua privacidade. |
 
-## Principais ataques
+## 3. Principais ataques
 
 > ### 🔁 DoS / DDoS
 - Negação de serviço: sobrecarrega servidor com requisições.
@@ -91,7 +91,7 @@
 - Invasor altera visual de um site (vandalismo).
 - Viola a integridade.
 
-## 💀 Pragas virtuais (Malwares)
+## 4. 💀 Pragas virtuais (Malwares)
 
 > ### 🦠 Vírus
 - Se espalha por outros arquivos.
@@ -137,7 +137,7 @@
   - Adware (exibe anúncios indesejados, pode se comportar como spyware).
   - Backdoor (cria uma porta de entrada oculta para o invasor retornar).
 
-## 🧠 Comparações importantes
+## 5. 🧠 Comparações importantes
 
 | TERMO      | CARACTERÍSTICA PRINCIPAL                       |
 |------------|------------------------------------------------|
