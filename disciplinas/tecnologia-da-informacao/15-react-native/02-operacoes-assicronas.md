@@ -1,11 +1,8 @@
-# Anotações
-
-# REACT NATIVE – OPERAÇÕES ASSÍNCRONAS E ARMAZENAMENTO LOCAL
+# Operações Assíncronas e Armazenamento Local
 
 ## 1. Manipulação de Dados Assíncronos (Promises e Async/Await)
 
-### 1.1 Promises
-
+> ### 1.1 Promises
 - **Definição:** Objeto que representa a **eventual conclusão** (sucesso) ou **falha** (erro) de uma operação assíncrona.
 - **Estados de uma *Promise*:**
     1.  **Pendente (*Pending*):** Estado inicial, ainda não resolvida nem rejeitada.
@@ -21,8 +18,7 @@
 | `.then(resultado => {...})` | Executa uma função quando a *Promise* é **resolvida** (sucesso). |
 | `.catch(erro => {...})` | Executa uma função quando a *Promise* é **rejeitada** (falha). |
 
-### 1.2 Async/Await (Açúcar Sintático)
-
+> ### 1.2 Async/Await (Açúcar Sintático)
 - **Definição:** Construções de linguagem que simplificam o trabalho com *Promises*, permitindo escrever código assíncrono com **comportamento visual síncrono** (sequencial).
 - **Facilidade:** Melhora a **leitura e escrita** do código, evitando encadeamentos longos de `.then()`.
 
@@ -34,7 +30,7 @@
 | **`await`** | Pausa a execução da função `async` até que uma *Promise* seja resolvida ou rejeitada. **Só pode ser usada dentro de funções `async`.** |
 | **`try...catch`** | Bloco utilizado **dentro da função `async`** para tratar erros. O `try` tenta executar o `await`; se falhar, o `catch` captura o erro. |
 
-> ### 1.2.2 Exemplo Prático com Fetch API (FGV/2023)
+#### 1.2.2 Exemplo Prático com Fetch API
 - **Contexto:** Interação com *Web Service*.
 - **Código Padrão:**
     ```javascript
@@ -51,17 +47,15 @@
         }
     }
     ```
-- **Observação da Banca:** A API especializada na transferência de recursos mediante **Promises** é a **Fetch API**.
 
 ## 2. Armazenamento Local Persistente (AsyncStorage)
 
-### 2.1 Definição e Características
-
+> ### 2.1 Definição e Características
 - **Definição:** Interface para **armazenar dados localmente** no dispositivo móvel de forma **persistente**.
 - **Persistência:** Os dados **não são perdidos** quando o aplicativo é fechado ou o dispositivo é reiniciado.
 - **Modelo de Dados:** Baseado em **Chave-Valor** (similar ao *LocalStorage* da Web).
 
-### 2.2 Características Técnicas (Atenção para Provas)
+> ### 2.2 Características Técnicas
 
 | CARACTERÍSTICA | DESCRIÇÃO |
 | :--- | :--- |
@@ -69,7 +63,7 @@
 | **Não Encriptado** | Os dados **NÃO** são criptografados por padrão. Para dados sensíveis (ex: token), é necessário implementar criptografia manualmente ou usar soluções mais seguras (ex: *Keystore*). |
 | **Baseado em Chave-Valor** | Cada dado é salvo associado a uma **chave única** (string). |
 
-### 2.3 Principais Métodos da API (AsyncStorage)
+> ### 2.3 Principais Métodos da API (AsyncStorage)
 
 | MÉTODO | FUNÇÃO | EXEMPLO |
 | :--- | :--- | :--- |
@@ -78,13 +72,7 @@
 | **`removeItem()`** | **Remove** um item específico. | `await AsyncStorage.removeItem('chave');` |
 | **`clear()`** | **Apaga todos** os dados do armazenamento. | `await AsyncStorage.clear();` |
 
-> ### 2.3.1 Questão IBFC/2024 (TRF 5ª Região)
-- **Afirmativa:** Como deve ser usado o AsyncStorage para armazenar dados localmente.
-- **Resposta Correta:** `AsyncStorage.setItem('chave', 'valor')`.
-- **Análise:** O método para salvar/atualizar um dado é o `setItem`.
-
-### 2.4 Fluxo de Implementação (Exemplo Didático)
-
+> ### 2.4 Fluxo de Implementação (Exemplo Didático)
 1.  **Importação:** `import AsyncStorage from '@react-native-async-storage/async-storage';`
 2.  **Salvar Dados:**
     - Envolver `await AsyncStorage.setItem('@app_key', inputValue)` em um bloco `try...catch`.
@@ -94,10 +82,3 @@
 4.  **Integração com UI:**
     - Utilizar `useEffect` com array de dependências vazio (`[]`) para carregar os dados salvos **apenas uma vez**, na inicialização da tela.
     - Utilizar `useState` para refletir os valores salvos na interface (`TextInput`, `Text`).
-
-## 3. Gabarito das Questões
-
-| Questão | Gabarito | Observação Relevante |
-| :--- | :--- | :--- |
-| **1** (IBFC/2024) | **B** | Método correto para salvar no AsyncStorage é `setItem()`. |
-| **2** (FGV/2023) | **B** | **Fetch API** é a interface baseada em *Promises* embutida no React Native. |
