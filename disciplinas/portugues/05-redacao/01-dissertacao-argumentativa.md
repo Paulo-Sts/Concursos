@@ -32,6 +32,16 @@
   - Oposição: porém, entretanto, no entanto
   - Conclusão: portanto, logo, assim
 
+#### Roteiro para a Criação e a Organização das Ideias
+- Introdução:
+  - Sobre qual assunto devo escrever?
+  - O que penso a respeito desse assunto?
+- Desenvolvimento de cada parágrafo da argumentação:
+  -  Por que penso dessa maneira?
+  -  De onde obtive as informações que reforçam essa minha forma de pensar?
+- Conclusão (Proposta de intervenção):
+  - O que seria possível fazer para reverter essa situação ou melhorar esse estado de coisas?
+
 ## 2. Estrutura da Dissertação
 
 > ### Introdução
@@ -112,7 +122,7 @@
 - Esse resultado é uma possível solução para o problema e uma retomada da citação apresentada na introdução.
 
 Resumo:
-1. Introdução = Citação => Apresentar o problema => Apresentar posição sobre o problema com 2 argumentos
-2. Desenvolvimento 1 = Tópico frasal => Citação => Aprofundamento do argumento 1 da tese
-3. Desenvolvimento 2 = Tópico frasal => Citação => Aprofundamento do argumento 2 da tese
-4. Conclusão = Anúncio da proposta de intervenção => Proposta de intervenção do argumento 1 => Proposta de intervenção do argumento 2 => Fechamento com possibilidade de solução e retomada da citação da introdução
+1. Introdução = Citação ⟶ Apresentar o problema ⟶ Apresentar posição sobre o problema com 2 argumentos
+2. Desenvolvimento 1 = Tópico frasal ⟶ Citação ⟶ Aprofundamento do argumento 1 da tese
+3. Desenvolvimento 2 = Tópico frasal ⟶ Citação ⟶ Aprofundamento do argumento 2 da tese
+4. Conclusão = Anúncio da proposta de intervenção ⟶ Proposta de intervenção do argumento 1 ⟶ Proposta de intervenção do argumento 2 ⟶ Fechamento com possibilidade de solução e retomada da citação da introdução
