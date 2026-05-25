@@ -4,7 +4,7 @@
 - A crase é representada pelo acento grave **à** e ocorre quando há a fusão da preposição **a** (que pode vir de verbos, nomes ou adjetivos) com o artigo definido feminino **a** (ou **as**) ou pronomes demonstrativos que comecem com **a**.
 - Representação:
   - a + a = à
-- A fusão da preposição **a** pode ocorrer em com os elementos:
+- A fusão da preposição **a** pode ocorrer com os elementos:
   - Artigo (A, as);
   - Pronomes demonstrativos (aquela, aquelas, aqueles, aquilo);
   - Pronomes relativos (a qual, as quais).
@@ -43,8 +43,8 @@ Ex: Nos vimos tudo à distância de 100 metros.
 > [!TIP] DICA:
 > - Para descobrir se há crase antes de uma palavra feminina, troca-se ela pela palavra **cachorro**, se a flexão ficar **ao** então tem crase, se ficar **o** não tem crase.  
 > 
-> Ex: viu a tia. => vio o cachorro (sem crase)  
-> Ex: fiel à técnica de sempre. => fiel ao cachorro de sempre (tem crase).  
+> Ex: viu a tia. ⟶ vio o cachorro (sem crase)  
+> Ex: fiel à técnica de sempre. ⟶ fiel ao cachorro de sempre (tem crase).  
 
 #### Crase proibida
 - Não se usa crase antes de palavras masculinas. (Exemplo: Vou **a** pé àquele lugar (não há crase, pois "pé" é masculino).)
@@ -65,7 +65,7 @@ Ex: Era a isso que nos referíamos.
 - A crase é facultativa antes de pronomes possessivos (no plural a crase se torna obrigatória).
 
 Ex: Fui até à praça.  
-Ex: Fui até à praça.  
+Ex: Fui até a praça.  
 Ex: Entrega à Ana por favor.  
 Ex: Entrega a Ana por favor.    
 Ex: Mandou para à sua família.  

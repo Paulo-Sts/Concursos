@@ -20,7 +20,7 @@ Ex: "O carro bateu na parede."
 2. O que bateu na parede? => o carro
 3. sujeito = carro
 
-> ### Posiçao do Sujeito
+> ### Posição do Sujeito
 
 #### Ordem direta
 - É quando a frase segue a estrutura padrão: Sujeito + verbo + complemento.
@@ -84,7 +84,7 @@ Ex: "O carro bateu na parede."
   - Com verbo no infinitivo, dito impessoal. Ex: "É muito importante vender aquela casa."
 
 #### Sujeito Oracional
-- Ocorre quando uma oração inteira exerce a função de sujeito, sendo o nucleo do sujeito o verbo.
+- Ocorre quando uma oração inteira exerce a função de sujeito, sendo o núcleo do sujeito o verbo.
 - Como o sujeito é um termo de natureza substantiva a oração que exerce a função de sujeito é uma oração substantiva. 
 - Nesses casos, os verbos dos quais as orações são o sujeito ficarão no singular.
 - Exemplo:
