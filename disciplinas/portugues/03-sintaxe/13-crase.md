@@ -70,3 +70,9 @@ Ex: Entrega à Ana por favor.
 Ex: Entrega a Ana por favor.    
 Ex: Mandou para à sua família.  
 Ex: Mandou para a sua família.  
+
+> [!TIP] DICA:
+> - Para identificar se há ou não crase:
+>   - 1º) Identificar a palavra que vem após o "a" para ver se ela pede o artigo "a" ou é um pronome demonstrativo que começa com "a".
+>   - 2º) Identificar se o verbo, adjetivo ou substantivo que vem antes do "a", pede preposição.
+>   - 3º) Se for sim para ambos então existe crase.
