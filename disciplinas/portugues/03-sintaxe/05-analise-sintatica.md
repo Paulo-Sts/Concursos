@@ -11,12 +11,18 @@
 - Passo 2: Pergunte "quem?" ou "o quê?" + verbo.
 - Passo 3: Classifique o sujeito.
 
-## 3. Classificação do Verbo (Parte do Predicado)
+## 3. Identificação do Predicado
+- Passo 1: Localizar o verbo.
+- Passo 2: Identificar o papel do verbo (Verbo de ação: Indica que algo aconteceu. Verbo de ligação: usado para ligar uma característica ao sujeito.)
+- Passo 3: Procurar se no predicado há alguma caracterização do sujeito, como uma qualidade ou estado.
+- Passo 4: Classificar o predicado. (Predicado verbal: apenas verbo de ação. Predicado nominal: verbo de ligação + característica. Predicado verbo-nominal: verbo de ação + característica).
+
+## 4. Classificação do Verbo (Parte do Predicado)
 
 #### Passo a passo
 1. O verbo indica ação? (se sim, vá para 2)
-2. Posso perguntar "o quê?" depois dele? (se sim → VTD)
-3. Se não, posso perguntar "de quê?" ou "a quem?" (se sim → VTI)
+2. Perguntar "o quê?" depois dele? (se sim → VTD)
+3. Se não, perguntar "de quê?" ou "a quem?" (se sim → VTI)
 4. Se aceitar as duas perguntas → VTDI
 5. Se não aceitar nenhuma → VI
 6. Se o verbo só indica estado/ligação → VL
@@ -29,7 +35,7 @@ Exemplo:
 4. Pergunto: "Explicou a quem?" → "aos alunos" (faz sentido) → tem OI
 5. Conclusão: VTDI (transitivo direto e indireto)
 
-## 4. Identificação dos Termos Integrantes (Parte do Predicado)
+## 5. Identificação dos Termos Integrantes (Parte do Predicado)
 
 #### Complemento Verbal
 - Objeto Direto (OD): Complementa VTD, sem preposição. (Ex.: Vi o filme.).
@@ -43,7 +49,7 @@ Exemplo:
 - Pratica a ação na voz passiva, precedido por "por" ou "de".
 - Ex.: O livro foi lido pelo aluno.
 
-## 5. Identificação dos Termos Acessórios (Parte do Predicado)
+## 6. Identificação dos Termos Acessórios (Parte do Predicado)
 
 #### Adjunto Adnominal
 - Modifica um substantivo, geralmente com artigo, pronome, adjetivo ou locução adjetiva.
@@ -61,7 +67,7 @@ Exemplo:
 - Chama ou invoca alguém 
 - Ex.: "**Maria**, venha aqui!".  
 
-## 6. Vozes Verbais
+## 7. Vozes Verbais
 
 #### Ativa
 - Sujeito pratica a ação.
@@ -75,7 +81,7 @@ Exemplo:
 - Verbo + "se" (partícula apassivadora), com sujeito paciente.
 - Ex.: Vendem-se livros. (os livros são vendidos)
 
-## 7. Funções do "SE"
+## 8. Funções do "SE"
 
 #### Partícula Apassivadora
 - Com VTD, indica voz passiva sintética.
@@ -97,7 +103,7 @@ Exemplo:
 - Não exerce função sintática, apenas ênfase.
 - Ex.: Eu é que fiz.
 
-## 8. Exemplo Prático Completo
+## 9. Exemplo Prático Completo
 - Frase: "O professor explicou a matéria com paciência aos alunos."
 1. Verbo: explicou  
 2. Sujeito: O professor (pergunte: quem explicou?) → simples  
