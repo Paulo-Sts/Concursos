@@ -6,13 +6,13 @@
   - Função sintática;
   - Análise sintática.
 
-#### Função sintática
+#### Função Sintática
 - É o papel que cada um dos termos da oração desempenha em relação aos outros. 
 
-#### Análise sintática
+#### Análise Sintática
 - A análise sintática é o estudo da função de cada termo de uma oração.
 
-## Conceitos fundamentais
+## Conceitos Fundamentais
 
 > ### Frase
 - Frase é todo o enunciado que tem sentido completo e termina com uma pausa pontuada.

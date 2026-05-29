@@ -5,7 +5,7 @@
 - Na formação de orações o verbo é a palavra mais importante, pois organiza toda a oração, indica o sujeito da oração ou se a oração possui sujeito, quais os complementos (se houver) e os adjuntos adverbiais (se houverem).
 - Períodos com uma oração na sintaxe são chamados de período simples. Períodos com mais de uma oração são conhecidos como período composto. Cada uma apresenta uma forma de análise sintática.
 
-#### Estrutura básica da oração
+#### Estrutura Básica da Oração
 - Toda oração é formada por um sujeito e por um predicado.
 - O sujeito é quem pratica ou sofre a ação expressa pelo verbo da oração, ou seja, é o termo com qual o verbo concorda.
 - Predicado é tudo que se afirma sobre o sujeito, inclusive o verbo.
@@ -14,7 +14,7 @@
 
 ## Termos da oração
 
-> ### Termos essenciais da oração  
+> ### Termos Essenciais da Oração  
 - Sujeito:  
   - Simples: Apenas um núcleo (ex.: "O **cachorro** late.").  
   - Composto: Dois ou mais núcleos (ex.: "O **cachorro** e o **gato** brincam.").  
@@ -26,22 +26,24 @@
   - Nominal: O foco é o nome (ex.: "O aluno **está cansado**.").  
   - Verbo-nominal: Combina os dois (ex.: "O aluno **chegou cansado**.").  
 
-> ### Termos integrantes da oração  
-- Objeto direto: Completa o verbo sem preposição (ex.: "Ela comprou **um livro**.").  
-- Objeto indireto: Completa o verbo com preposição (ex.: "Ela gosta **de música**.").  
+> ### Termos Integrantes da Oração  
+- Complemento verbal:
+  - Objeto direto: Completa o verbo sem preposição (ex.: "Ela comprou **um livro**.").  
+  - Objeto indireto: Completa o verbo com preposição (ex.: "Ela gosta **de música**.").  
 - Complemento nominal: Completa um nome (ex.: "O respeito **aos professores** é importante.").  
+- Agente da passiva: O agente da passiva é o termo utilizado para determinar o praticante da ação na voz verbal passiva. Geralmente vem acompanhado pela preposição por e, algumas vezes, pela preposição **de** (ex.: A casa foi arrumada **pelo filho**.).
 
-> ### Termos acessórios da oração  
+> ### Termos Acessórios da Oração  
 - Adjunto adnominal: Caracteriza o substantivo (ex.: "O **belo** jardim floresceu.").  
 - Adjunto adverbial: Indica circunstância (ex.: "Ele chegou **cedo**.").  
 - Aposto: Explica ou detalha um termo (ex.: "João, **meu amigo**, viajou.").  
 - Vocativo: Chama ou invoca alguém (ex.: "**Maria**, venha aqui!").  
 
-> ### Vozes verbais  
+> ### Vozes Verbais  
 - Voz ativa: O sujeito pratica a ação (ex.: "O aluno fez a prova.").  
 - Voz passiva: O sujeito sofre a ação (ex.: "A prova foi feita pelo aluno.").  
 - Voz reflexiva: O sujeito pratica e sofre a ação (ex.: "Ele machucou-se.").  
 
-> ### Orações coordenadas e subordinadas  
+> ### Orações Coordenadas e Subordinadas  
 - Coordenadas: São independentes (ex.: "Estudei muito, **mas não passei**.").  
 - Subordinadas: Dependem de outra oração (ex.: "Espero **que você passe**.").  

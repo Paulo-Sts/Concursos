@@ -7,7 +7,7 @@
 
 > ### Tipos de Predicado
 
-#### Predicado verbal 
+#### Predicado Verbal 
 - O verbo principal (núcleo) é um verbo de ação e não tem verbo de ligação.
 - Um verbo de ação indica algo que o sujeito faz.
 - Exemplo: 
@@ -19,7 +19,7 @@
 - Exemplo: 
   - O céu **está** claro. (O verbo "está" é o núcleo do predicado e faz a ligação entre o sujeito "o céu" e o predicativo "claro".)
 
-#### Predicado verbo-nominal
+#### Predicado Verbo-nominal
 - Combina um verbo de ação e um predicativo. O predicativo pode caracterizar o sujeito ou o objeto.
 - Exemplo: 
   - O professor **chegou** cansado. (O verbo "chegou" é o núcleo verbal, e o predicativo "cansado" caracteriza o sujeito "o professor".)
