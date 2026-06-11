@@ -10,12 +10,12 @@
 
 | PRONOME              | FUNÇÃO                          | EXEMPLO                                                     |
 |----------------------|---------------------------------|-------------------------------------------------------------|
-| O, a, os, as         | Objeto direto (sem preposição)  | Visitei os amigos. => Visitei-os.                           |
-|                      |                                 | Visitamos os amigos. => Visitamo-los.                       |
-|                      |                                 | Reformaram a casa. => Reformaram-na.                        |
-| Lhe, lhes            | Objeto indireto (com preposição)| Informe aos clientes o prazo. => Informe-lhes o prazo.      |
-|                      |                                 | Deram mais atenção a essa causa. => Deram-lhe mais atenção. |
-|                      |                                 | Informe aos clientes o prazo. => Informe-o aos clientes.    |
+| O, a, os, as         | Objeto direto (sem preposição)  | Visitei os amigos. → Visitei-os.                            |
+|                      |                                 | Visitamos os amigos. → Visitamo-los.                        |
+|                      |                                 | Reformaram a casa. → Reformaram-na.                         |
+| Lhe, lhes            | Objeto indireto (com preposição)| Informe aos clientes o prazo. → Informe-lhes o prazo.       |
+|                      |                                 | Deram mais atenção a essa causa. → Deram-lhe mais atenção.  |
+|                      |                                 | Informe aos clientes o prazo. → Informe-o aos clientes.     |
 | Me, te, se, nos, vos | Objeto direto ou indireto       | Os amigos me visitaram.                                     |
 |                      |                                 | O professor nos informou o prazo.                           |
 |                      |                                 | Deram-me mais atenção.                                      |
