@@ -144,7 +144,7 @@
 | Moreover     | Além disso         |
 | Furthermore  | Além disso/Ademais |
 | Nevertheless | Mesmo assim        |
-| Otherwise    | Senão              |
+| Otherwise    | Se não             |
 | Meanwhile    | Enquanto isso      |
 | Similarly    | Da mesma forma     |
 | Likewise     | Igualmente         |
@@ -163,7 +163,7 @@
 | Nor    | Nem (sozinho)           | usado após frase negativa         |
 | But    | Mas                     | contraste                         |
 | Or     | Ou                      | escolha/alternativa               |
-| Yet    | Mas ainda assim/contudo | contraste forte (similar a *but*) |
+| Yet    | Mas/ainda assim/contudo | contraste forte (similar a *but*) |
 | So     | Então/portanto          | consequência/resultado            |
 
 - Exemplos:

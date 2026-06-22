@@ -4,11 +4,6 @@
 - São palavras em inglês que se parecem com palavras do português, mas têm significados diferentes.  
 - Parecem "amigas", mas enganam (por isso: "false friends").
 
-## 🎯 Por que caem em prova?
-- Aparecem em textos para confundir o candidato.
-- São comuns em interpretação de texto.
-- Podem levar à tradução errada → perda de ponto.
-
 ## 🧠 Exemplos Mais Cobrados
 
 | INGLÊS     | FALSO SIGNIFICADO (PARECE) | VERDADEIRO SIGNIFICADO         |
