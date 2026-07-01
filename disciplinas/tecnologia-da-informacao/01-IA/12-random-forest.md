@@ -1,0 +1,169 @@
+# Anotações – Random Forest (Floresta Aleatória)
+
+## 1. Conceito de Random Forest
+
+- **Random Forest** é um algoritmo de aprendizado de máquina **supervisionado** que combina **múltiplas árvores de decisão** para formar um modelo mais robusto e preciso.
+- É um **ensemble** (conjunto) de árvores de decisão treinadas de forma ligeiramente diferente.
+- Pode ser usado tanto para **classificação** (votação) quanto para **regressão** (média).
+
+> ### 1.1 Ensemble
+> - Técnica em que diversos modelos de IA são utilizados para realizar tarefas.
+> - Exemplo: 6 modelos indicam classe A, 4 indicam classe B → classe A vence.
+> - O termo **ensemble** pode aparecer em provas – é importante reconhecê-lo.
+
+## 2. Funcionamento
+
+1. **Amostragem com reposição (bootstrap):** para cada árvore, um subconjunto do conjunto de treinamento é sorteado aleatoriamente **com reposição**.
+2. Cada árvore é treinada com um subconjunto diferente.
+3. Para classificação: cada árvore "vota" em uma classe; a classe **majoritária** é escolhida.
+4. Para regressão: a **média** dos valores previstos pelas árvores é calculada.
+
+> ### 2.1 Exemplo prático
+> - 517 árvores indicam classe A, 316 indicam classe B → classe A vence.
+> - Para regressão: 500 árvores preveem valores; a média é a previsão final.
+
+## 3. Vantagens e Desvantagens
+
+| VANTAGENS | DESVANTAGENS |
+| --- | --- |
+| **Reduz o overfitting** – múltiplas árvores evitam a especialização excessiva. | **Não é interpretável** – diferente de uma única árvore de decisão. |
+| **Alta precisão** – combina o poder de várias árvores. | **Maior custo computacional** – centenas/milhares de árvores. |
+| **Robusto a outliers** – menos sensível a dados atípicos. | **Menor velocidade** de treinamento e predição. |
+| **Lida bem com dados de alta dimensionalidade** | – |
+
+> ### 3.1 Comparação com Árvore de Decisão
+> - **Árvore de decisão:** interpretável, mas propensa a overfitting.
+> - **Random Forest:** não interpretável, mas mais robusta e com menor overfitting.
+
+## 4. Características Técnicas
+
+| CARACTERÍSTICA | DESCRIÇÃO |
+| --- | --- |
+| **Tipo** | Supervisionado (classificação e regressão). |
+| **Amostragem** | Com reposição (*bootstrap sampling*). |
+| **Redução de variância** | Principal benefício – árvores individuais têm alta variância; o ensemble reduz a variância. |
+| **Importância das variáveis** | O algoritmo pode calcular a importância relativa de cada atributo. |
+| **Overfitting** | Menos propenso a overfitting do que uma única árvore. |
+
+> ### 4.1 Random Forest e variância
+> - Árvores de decisão têm **alta variância** (pequenas mudanças nos dados geram árvores muito diferentes).
+> - A Random Forest **reduz a variância** ao combinar múltiplas árvores.
+
+## 5. Síntese – Random Forest em Tópicos
+
+- **É um ensemble de árvores de decisão.**
+- **Cada árvore é treinada com uma amostra com reposição.**
+- **Para classificação:** votação majoritária.
+- **Para regressão:** média das previsões.
+- **Menos overfitting** do que uma única árvore.
+- **Não é interpretável** (ao contrário da árvore de decisão).
+- **Maior custo computacional** e menor velocidade.
+
+## 6. Questões de Concurso Comentadas
+
+### 6.1 (FGV/EPE/2024)
+
+**Item:** "Prever fluxo de água em um rio com base em dados históricos de precipitação e outros fatores climáticos, capturando relações complexas."
+
+**Gabarito: c) Random Forest, porque combina múltiplas árvores de decisão para melhorar a precisão e capturar relações complexas.**
+
+### 6.2 (CESPE/CEBRASPE/EMBRAPA/2025)
+
+**Item:** "Random forest é um método de aprendizado de conjunto que combina várias árvores de decisão para formar um modelo mais robusto e preciso. Tal método pode ser usado tanto para resolver problemas de regressão quanto para realizar classificação."
+
+**Gabarito: Certo (C).**
+
+### 6.3 (CESPE/CEBRASPE/CTI/2024)
+
+**Item:** "Random forests fornecem pontuações de distância euclidiana entre os recursos que podem ser usadas para compreender a importância relativa de cada recurso na previsão."
+
+**Gabarito: Errado (E).**
+
+**Comentário:** Random Forest não usa distância euclidiana – essa é uma característica de algoritmos baseados em distância (ex.: KNN). A importância das variáveis é calculada por outros métodos (ex.: redução de impureza).
+
+### 6.4 (CESPE/CEBRASPE/EMBRAPA/2025)
+
+**Item:** "O algoritmo de aprendizagem supervisionada random forest é baseado na criação de múltiplas árvores de decisão; cada árvore é construída a partir de uma amostra aleatória com reposição dos dados de treinamento."
+
+**Gabarito: Certo (C).**
+
+### 6.5 (CESPE/CEBRASPE/EMBRAPA/2025 – Agricultura Digital)
+
+**Item:** "Random forest cria um pequeno conjunto de árvores de decisão geradas de forma independente e aleatória."
+
+**Gabarito: Errado (E).**
+
+**Comentário:** Random Forest cria **centenas/milhares** de árvores – não um "pequeno conjunto".
+
+### 6.6 (CESGRANRIO/IPEA/2024)
+
+**Item:** "Construção de um modelo preditivo usando árvores aleatórias (Random Forests)."
+
+**Gabarito: a) apresentaria uma redução de variância.**
+
+**Comentário:** A principal vantagem da Random Forest é a **redução da variância** em relação a uma única árvore de decisão.
+
+### 6.7 (CESPE/CEBRASPE/TRF-6/2025)
+
+**Item:** "Em aprendizado supervisionado, o algoritmo random forest utiliza múltiplas árvores de decisão para melhorar a precisão das previsões e reduzir o risco de overfitting."
+
+**Gabarito: Certo (C).**
+
+### 6.8 (CESPE/CEBRASPE/ANATEL/2024)
+
+**Item:** "Random forest utiliza uma única árvore de decisão para a classificação dos dados."
+
+**Gabarito: Errado (E).**
+
+**Comentário:** Random forest utiliza **múltiplas** árvores de decisão – é exatamente essa a sua definição.
+
+### 6.9 (CESPE/CEBRASPE/ANATEL/2024)
+
+**Item:** "Em árvores de decisão e em random forest, são utilizadas técnicas estatísticas para produzir predição de valores em função de variáveis independentes contínuas e/ou binárias."
+
+**Gabarito: Errado (E).**
+
+**Comentário:** Árvores de decisão e Random Forest **não** requerem que as variáveis sejam contínuas ou binárias – podem lidar com variáveis categóricas e numéricas.
+
+### 6.10 (CESPE/CEBRASPE/ANA/2024)
+
+**Item:** "O algoritmo random forest atribui a mesma importância para todas as variáveis ao fazer as predições."
+
+**Gabarito: Errado (E).**
+
+**Comentário:** Random Forest pode calcular a **importância relativa** de cada variável – algumas são mais importantes que outras.
+
+---
+
+## GABARITO DAS QUESTÕES
+
+| QUESTÃO | GABARITO |
+| --- | --- |
+| 01 (FGV/EPE/2024) | c |
+| 02 (CESPE/EMBRAPA/2025) | C |
+| 03 (CESPE/CTI/2024) | E |
+| 04 (CESPE/EMBRAPA/2025) | C |
+| 05 (CESPE/EMBRAPA/2025 – Agricultura) | E |
+| 06 (CESGRANRIO/IPEA/2024) | a |
+| 07 (CESPE/TRF-6/2025) | C |
+| 08 (CESPE/ANATEL/2024) | E |
+| 09 (CESPE/ANATEL/2024) | E |
+| 10 (CESPE/ANA/2024) | E |
+
+---
+
+## Síntese para Revisão Rápida
+
+| CONCEITO | DEFINIÇÃO |
+| --- | --- |
+| **Random Forest** | Ensemble de múltiplas árvores de decisão. |
+| **Amostragem** | Com reposição (bootstrap) para cada árvore. |
+| **Classificação** | Votação majoritária das árvores. |
+| **Regressão** | Média das previsões das árvores. |
+| **Principal vantagem** | Reduz overfitting e variância. |
+| **Principal desvantagem** | Não é interpretável, maior custo computacional. |
+| **Comparação com árvore** | Árvore: interpretável, overfitting. RF: não interpretável, robusta. |
+
+---
+
+*Material complementar à aula "Random Forest" (professor Vitor Kessler/Gran Concursos).*
