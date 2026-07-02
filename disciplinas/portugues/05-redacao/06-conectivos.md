@@ -3,7 +3,7 @@
 ## 1. Definição
 - São palavras ou expressões que ligam frases, orações e parágrafos, permitindo a conexão de ideias e uma sequência coerente to texto.
 
-| IDEIAS EXPRESSA                        | CONECTOR                                                                                                          |
+| IDEIA EXPRESSA                         | CONECTOR                                                                                                          |
 |:---------------------------------------|:------------------------------------------------------------------------------------------------------------------|
 | Ideias de contraste ou oposição        | Mas, porém, todavia, contudo, no entanto, apesar de, ainda que, embora, mesmo que, por mais que, se bem que...    |
 | Adicionar e agrupar elementos e ideias | E, além disso, e ainda, não só... Mas também/como ainda, por um lado... Por outro lado, nem...nem...              |
@@ -13,7 +13,7 @@
 | Comparar                               | Como, conforme, também, tanto... Quanto, tal como, assim como, pela mesma razão                                   |
 | Indicar uma consequência               | Por tudo isto, de modo que, de tal forma que, tanto...que, é por isso que, pela mesma razão, do mesmo modo que... |
 
-| IDEIAS EXPRESSA                          | CONECTOR                                                                                                                  |
+| IDEIA EXPRESSA                           | CONECTOR                                                                                                                  |
 |:-----------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
 | Exprimir uma dúvida                      | Talvez, provavelmente, é provável que, possivelmente, porventura                                                          |
 | Esclarecer/Explicar uma ideia            | Que isto dizer, isto (não) significa que, por outras palavras, isto é...                                                  |
