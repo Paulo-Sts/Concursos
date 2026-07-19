@@ -2,12 +2,12 @@
 
 ## 1. Tipos de Usuários em Banco de Dados
 
-#### 1.1 Projetista de Banco de Dados
+### 1.1 Projetista de Banco de Dados
 - Responsabilidade: identificar os dados a serem armazenados e escolher a estrutura apropriada para representá-los.
 - Atua principalmente na modelagem conceitual (nível mais alto de abstração).
 - Define quais dados serão armazenados e como se relacionam.
 
-#### 1.2 Administrador de Banco de Dados (DBA – Database Administrator)
+### 1.2 Administrador de Banco de Dados (DBA – Database Administrator)
 - Responsável pela administração do banco de dados e do SGBD.
 - O DBA cuida de questões como monitoramento, segurança, desempenho e disponibilidade do SGBD.
 
@@ -18,13 +18,13 @@
 | Estruturas de armazenamento | Define estruturas de armazenamento e métodos de acesso (ex.: índices). |
 | Backup e recuperação | Define procedimentos de cópia (backup), recuperação (restore), etc. |
 
-#### 1.3 Programador de Aplicações
+### 1.3 Programador de Aplicações
 - Escreve os programas de aplicação que acessam o banco de dados.
 - Realiza requisições ao SGBD por meio de:
   - Comandos SQL (SELECT, INSERT, DELETE, UPDATE).
   - Ferramentas RAD (Rapid Application Development).
 
-#### 1.4 Usuário Final
+### 1.4 Usuário Final
 - Manipula o banco de dados por meio de linguagens de consulta e programas de aplicação.
 
 | TIPO DE USUÁRIO FINAL | CARACTERÍSTICA |
@@ -33,7 +33,7 @@
 | Casuais | Acessam o BD eventualmente; podem solicitar informações diferentes a cada vez. Nível hierárquico médio ou elevado. |
 | Avançados | Interagem diretamente com o BD submetendo requisições em linguagem de consulta (ex.: SQL). |
 
-#### 1.5 Administrador de Dados (AD – Data Administrator)
+### 1.5 Administrador de Dados (AD – Data Administrator)
 - Não deve ser confundido com o DBA (são funções distintas).
 - É importante quando há necessidade de uma visão única dos dados (bases corporativas).
 - Opera uma variedade de bancos de dados, atendendo a diversas áreas de negócio.
@@ -46,7 +46,7 @@
 | Levantamento de requisitos | Faz o levantamento dos requisitos funcionais do banco de dados. |
 | Modelagem conceitual | Cria o modelo conceitual do banco de dados. |
 
-#### 1.6 DBA vs. Administrador de Dados
+### 1.6 DBA vs. Administrador de Dados
 
 | FUNÇÃO | DBA | ADMINISTRADOR DE DADOS |
 |---|---|---|
@@ -64,7 +64,7 @@
 | Linguagem de Definição de Armazenamento | SDL (*Storage Definition Language*) | Especificar o esquema interno (como os dados são armazenados fisicamente). | Na maioria dos SGBDs, a DDL é usada para definir tanto o esquema externo, conceitual quanto o interno. |
 | Linguagem de Manipulação de Dados | DML (*Data Manipulation Language*) | Recuperar, inserir, excluir e modificar dados (CRUD). | SELECT, INSERT, DELETE, UPDATE. |
 
-#### 2.1 Exemplo de DDL – CREATE TABLE
+### 2.1 Exemplo de DDL – CREATE TABLE
 
 ```sql
 CREATE TABLE AUTOMOVEL (
@@ -84,7 +84,7 @@ O que é definido:
   - Todos os registros tenham a mesma estrutura.
   - Não haja inconsistências nos dados.
 
-#### 2.2 Exemplo de DML – SELECT
+### 2.2 Exemplo de DML – SELECT
 
 ```sql
 SELECT * FROM AUTOMOVEL WHERE ANO = 2016;
@@ -92,7 +92,7 @@ SELECT * FROM AUTOMOVEL WHERE ANO = 2016;
 
 - Recupera todos os veículos do ano de 2016.
 
-#### 2.3 DML Procedural vs. Não Procedural
+### 2.3 DML Procedural vs. Não Procedural
 - DML Não Procedural: O usuário diz o que quer, o SGBD decide como buscar.
 - DML Procedural: O usuário diz o que e como buscar (passo a passo).
 
@@ -103,7 +103,7 @@ SELECT * FROM AUTOMOVEL WHERE ANO = 2016;
 
 ## 3. Módulos e Componentes do SGBD
 
-#### 3.1 Propriedades ACID (base para todos os módulos)
+### 3.1 Propriedades ACID (base para todos os módulos)
 
 | PROPRIEDADE | DESCRIÇÃO |
 |---|---|
@@ -112,7 +112,7 @@ SELECT * FROM AUTOMOVEL WHERE ANO = 2016;
 | Isolamento (Independência) | Transações concorrentes não interferem umas nas outras (como se fossem executadas em sequência). |
 | Durabilidade | Após a confirmação (commit), as alterações são permanentes, mesmo em caso de falha. |
 
-#### 3.2 Principais Componentes do SGBD
+### 3.2 Principais Componentes do SGBD
 
 | COMPONENTE | FUNÇÃO |
 |---|---|
@@ -123,43 +123,6 @@ SELECT * FROM AUTOMOVEL WHERE ANO = 2016;
 | Pré-compilador | Extrai comandos DML de um programa de aplicação escrito em linguagem hospedeira (ex.: C, Java) e envia ao compilador DML. |
 | Compilador da DML | Recebe e compila os comandos DML extraídos pelo pré-compilador, gerando código objeto para acesso ao banco de dados. |
 
-#### 3.3 Catálogo do SGBD
+### 3.3 Catálogo do SGBD
 - O catálogo (ou dicionário de dados) armazena os metadados (estrutura do banco de dados, tipos de dados, restrições, etc.).
 - É consultado sempre que o SGBD precisa entender a estrutura dos dados.
-
-## 4. Questões de Concurso Comentadas
-
-#### 4.1 (ESPP/2010/MPE-PR – Técnico Científico)
-
-**Item:** "Uma característica fundamental da abordagem de banco de dados é que seu sistema contém não apenas o próprio banco de dados, mas também uma definição ou descrição completa de sua estrutura e restrições. Essa definição é armazenada no catálogo do sistema gerenciador de banco de dados (...). A informação armazenada no catálogo é chamada \_\_\_\_\_, e descreve a estrutura do banco de dados."
-
-**Alternativa correta:** **d) metadado**.
-
-**Comentário:**
-- **Metadados** são "dados sobre os dados".
-- Descrevem a estrutura, tipos, restrições – tudo o que está no catálogo.
-- **Cursor:** mecanismo para navegar pelos resultados de uma consulta.
-- **Construtor:** método especial em programação orientada a objetos.
-- **Instância:** os dados efetivamente armazenados em um dado momento.
-- **Heap:** estrutura de dados ou área de memória.
-
-#### 4.2 (CESPE/2016/FUB – Técnico de TI)
-
-**Item:** "Em um projeto de banco de dados, a modelagem conceitual define quais dados vão aparecer no banco de dados, mas sem considerar a sua implementação."
-
-**Gabarito:** **Certo (C)**.
-
-**Comentário:**
-- A **modelagem conceitual** (ex.: Diagrama Entidade-Relacionamento – DER) preocupa-se com **o que** será armazenado e seus relacionamentos.
-- Não considera aspectos de implementação como:
-  - Qual SGBD será usado.
-  - Tipos de dados específicos da linguagem.
-  - Índices, particionamento, etc.
-- Esses aspectos são tratados nas fases de **modelagem lógica** (adequada ao modelo relacional) e **modelagem física** (implementação).
-
-#### Gabarito das Questões
-
-| QUESTÃO | GABARITO |
-| --- | --- |
-| 01 (ESPP/2010/MPE-PR) | d |
-| 02 (CESPE/2016/FUB) | C |

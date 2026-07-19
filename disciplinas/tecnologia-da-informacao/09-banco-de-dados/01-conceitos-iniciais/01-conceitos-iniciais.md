@@ -13,7 +13,7 @@
   - Compras em supermercados.
   - Declaração do Imposto de Renda.
 
-#### 1.1 Definição Ampla
+### 1.1 Definição Ampla
 - De forma geral, tudo o que guarda informações pode ser chamado de banco de dados.
 - No contexto da computação, a definição é mais restrita e técnica.
 
@@ -21,7 +21,7 @@
 - Antes do surgimento dos Sistemas Gerenciadores de Banco de Dados (SGBDs), os dados eram armazenados em arquivos isolados.
 - Cada programa de aplicação fazia seu próprio gerenciamento de dados – sistema altamente acoplado (dados e programas fortemente dependentes).
 
-#### 2.1 Limitações dos Sistemas Tradicionais de Arquivos
+### 2.1 Limitações dos Sistemas Tradicionais de Arquivos
 
 | LIMITAÇÃO | DESCRIÇÃO |
 |-----|-----|
@@ -51,13 +51,13 @@
 - É um software de propósito geral que possibilita a definição, construção e manipulação de bancos de dados.
 - O SGBD é dependente de tecnologia (evolui conforme a tecnologia disponível).
 
-#### 5.1 Principais Funções do SGBD
+### 5.1 Principais Funções do SGBD
 - Especificar os tipos de dados, estruturas e restrições para os dados armazenados. 
 - Armazenar os dados em algum meio de armazenamento controlado pelo SGBD. 
 - Recuperar e atualizar dados (consultas, inserções, exclusões, alterações). 
 - A definição de estruturas e restrições busca resolver o problema da inconsistência presente nos sistemas tradicionais de arquivos.
 
-#### 5.2 Exemplos de SGBDs
+### 5.2 Exemplos de SGBDs
 
 | SGBD | CARACTERÍSTICA |
 |-----|-----|
@@ -67,7 +67,7 @@
 | MariaDB | Versão modificada (fork) do MySQL, também open-source. |
 | Oracle | SGBD comercial de grande porte, muito usado em empresas. |
 
-#### 5.3 Metadados
+### 5.3 Metadados
 - Metadados são "dados sobre os dados".
 - Informações que descrevem outros dados, permitindo que sejam:
   - Identificados;
@@ -75,7 +75,7 @@
   - Localizados;
   - Usados de forma mais eficiente.
 
-#### 5.4 Exemplos de Metadados
+### 5.4 Exemplos de Metadados
 
 | METADADO | DESCRIÇÃO |
 |---|---|
@@ -85,11 +85,11 @@
 | Restrições (ex.: NOT NULL, PRIMARY KEY) | Define regras de integridade dos dados. |
 | Índices | Acelera a localização de dados. |
 
-#### 5.5 Esquema vs. Instância
+### 5.5 Esquema vs. Instância
 - Esquema: a descrição estrutural do banco de dados (conjunto de metadados) – é relativamente estável.
 - Instância: o conteúdo efetivo do banco de dados em um dado momento (os dados propriamente ditos) – muda frequentemente.
 
-#### 5.6 Atomicidade
+### 5.6 Atomicidade
 - Atomicidade é uma propriedade das transações em bancos de dados.
 - Garante que todas as etapas de uma transação sejam concluídas ou revertidas integralmente (tudo ou nada).
 - Exemplo: transferência bancária – o débito em uma conta e o crédito em outra devem ocorrer juntos ou nenhum deve ocorrer.
