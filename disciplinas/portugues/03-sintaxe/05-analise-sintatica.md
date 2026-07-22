@@ -49,6 +49,14 @@ Exemplo:
 - Pratica a ação na voz passiva, precedido por "por" ou "de".
 - Ex.: O livro foi lido pelo aluno.
 
+> [!TIP] DICA: 
+> - Complemento Nominal vs. Adjunto Adnominal:
+>   - Ligado a Adjetivo ou Advérbio: Sempre é Complemento Nominal.
+>   - Ligado a Substantivo Concreto: Sempre é Adjunto Adnominal.
+>   - Ligado a Substantivo Abstrato + Preposição "DE":
+>     - Se for Agente (pratica a ação) é Adjunto Adnominal (Ex: A resposta do aluno / o aluno respondeu).
+>     - Se for Paciente (sofre a ação) é Complemento Nominal (Ex: A resposta ao aluno / o aluno foi respondido).
+
 ## 6. Identificação dos Termos Acessórios (Parte do Predicado)
 
 #### Adjunto Adnominal
@@ -66,6 +74,11 @@ Exemplo:
 #### Vocativo
 - Chama ou invoca alguém 
 - Ex.: "**Maria**, venha aqui!".  
+
+> [!CAUTION] OBSERVAÇÃO: 
+> - Adjunto Adnominal vs. Predicativo do Objeto:
+>   - Adjunto Adnominal: Característica permanente/própria do nome. (Ex: O professor avaliou o aluno inteligente — ele já é inteligente).
+>   - Predicativo do Objeto: Estado transitório/julgado pelo verbo. (Ex: O professor considerou o aluno inteligente — foi julgado assim no contexto).
 
 ## 7. Vozes Verbais
 
@@ -100,8 +113,12 @@ Exemplo:
 - Ex.: Eles se cumprimentaram.
 
 #### Partícula de Realce (Expletivo)
-- Não exerce função sintática, apenas ênfase.
-- Ex.: Eu é que fiz.
+- Pode ser retirada da frase sem prejuízo sintático ou semântico. 
+- Ex: Foi-se a última esperança ⟶ Foi a última esperança.
+
+#### Sujeito Acusativo
+- Aparece com verbos causativos/sensitivos (fazer, deixar, mandar, ver, ouvir, sentir) + infinitivo. 
+- Ex: Deixou-se ficar ali.
 
 ## 9. Exemplo Prático Completo
 - Frase: "O professor explicou a matéria com paciência aos alunos."
@@ -118,7 +135,12 @@ Exemplo:
 
 > [!TIP] DICA:
 > - Sujeito nunca começa com preposição.
-> - Objeto direto nunca tem preposição (exceto em casos de pronome oblíquo átono).
+> - Objeto direto normalmente não tem preposição (exceto em casos de pronome oblíquo átono).
+> - Existe a objeto direto preposicionado quanto se quer dar ênfase ou por estética. (ex: "Amar a Deus", "Cumpriu com o dever.)
 > - Adjunto adnominal sempre se refere a um substantivo.
 > - Complemento nominal completa um nome e tem relação passiva.
 > - "Haver" no sentido de existir é impessoal (sujeito inexistente).
+> - Nunca se separa Sujeito do Verbo ou Verbo do seu Complemento por vírgula (mesmo com orações extensas).
+> - Verbos Impessoais (Haver e Fazer): O verbo haver (sentido de existir/ocorrer) e fazer (tempo decorrido) não possuem sujeito. O termo que os acompanha é Objeto Direto e o verbo fica sempre no singular. (Ex: Havia muitos problemas na sala).
+> - Pronomes Oblíquos Átonos e Funções Sintáticas: O, A, OS, AS: Exercem apenas a função de Objeto Direto.
+> - LHE, LHES: Exercem apenas a função de Objeto Indireto (ou Adjunto Adnominal com sentido de posse: "Ressaltou-lhe as qualidades").
