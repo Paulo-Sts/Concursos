@@ -19,7 +19,7 @@
 - Exemplo: AJAX (*Asynchronous JavaScript and XML*). Partes de uma página na internet são carregadas sem que seja necessário recarregá-la por inteiro, permitindo que o usuário continue realizando outras ações.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> Na comunicação síncrona, o cliente aguarda a resposta do servidor e fica bloqueado. Na comunicação assíncrona, o cliente continua suas operações enquanto aguarda a resposta.
+> - Na comunicação síncrona, o cliente aguarda a resposta do servidor e fica bloqueado. Na comunicação assíncrona, o cliente continua suas operações enquanto aguarda a resposta.
 
 ## 2 Arquitetura Multicamadas (*N-Tier*)
 
@@ -60,10 +60,10 @@
 | IV | Lógica/Negócios | Servidor de Aplicações |
 
 > [!TIP] DICAS: 
-> Na arquitetura 4-Tier, a ordem correta é: Cliente ⟶ Servidor Web (apresentação) ⟶ Servidor de Aplicações (lógica) ⟶ Servidor de Banco de Dados (dados).
+> - Na arquitetura 4-Tier, a ordem correta é: Cliente ⟶ Servidor Web (apresentação) ⟶ Servidor de Aplicações (lógica) ⟶ Servidor de Banco de Dados (dados).
 
 > [!CAUTION] OBSERVAÇÃO: 
-> Na arquitetura C/S multicamada, a mesma aplicação pode atuar simultaneamente como servidor e como cliente para outras aplicações. Exemplo: a Camada de Lógica de Negócios atua como servidor para o cliente, mas como cliente para a Camada de Dados.
+> - Na arquitetura C/S multicamada, a mesma aplicação pode atuar simultaneamente como servidor e como cliente para outras aplicações. Exemplo: a Camada de Lógica de Negócios atua como servidor para o cliente, mas como cliente para a Camada de Dados.
 
 ## 3. Redes *Peer-to-Peer* (P2P)
 
@@ -84,7 +84,7 @@
 | Independência | Cada nó pode operar de forma independente |
 
 > [!CAUTION] OBSERVAÇÃO: 
-> Enquanto na arquitetura cliente-servidor a dependência do servidor central é uma desvantagem (se o servidor cai, o sistema para), nas redes P2P não existe esse risco, pois todos os nós podem atuar como servidores.
+> - Enquanto na arquitetura cliente-servidor a dependência do servidor central é uma desvantagem (se o servidor cai, o sistema para), nas redes P2P não existe esse risco, pois todos os nós podem atuar como servidores.
 
 ### 3.3 Tipos de Rede P2P
 
@@ -110,66 +110,3 @@
 | Dependência | Alta (se o servidor cai, o sistema para) | Baixa (redundância) |
 | Centralização | Centralizada | Descentralizada |
 | Exemplo | Aplicações *web*, bancos de dados | Torrent, redes de compartilhamento |
-
-## 4. Questões de Fixação
-
-### Questão 04
-(2021/SELECON/EMGEPRON/ANALISTA TÉCNICO-SEGURANÇA DA INFORMAÇÃO) A arquitetura cliente/servidor é aquela na qual o processamento da informação é dividido em módulos ou processos distintos. Um processo é responsável pela manutenção da informação (servidor), enquanto outro é responsável pela obtenção dos dados (cliente). Neste contexto, a figura abaixo ilustra a arquitetura em 4 camadas, por meio da qual o cliente informa a URL por meio do *browser* e o servidor de aplicações analisa a requisição do usuário, determina de que forma os dados serão utilizados, acessa os serviços e devolve uma resposta.
-
-As aplicações são:
-I – Acesso – navegação por meio de *browsers*.
-II – Dados – com todas as informações necessárias.
-III – Apresentação – onde serão feitas as alterações de interface.
-IV – Lógica – onde serão feitas as alterações nas regras do negócio, quando necessárias.
-
-Se a aplicação em I corresponde a Clientes, as demais em II, III e IV correspondem, respectivamente, aos servidores:
-
-a) de Banco de Dados, Web e de Aplicações
-b) de Banco de Dados, de Aplicações e Web
-c) de Aplicações, de Banco de Dados e Web
-d) de Aplicações, Web e de Banco de Dados
-
-Gabarito: A.
-- II (Dados) ⟶ Servidor de Banco de Dados.
-- III (Apresentação) ⟶ Servidor Web.
-- IV (Lógica) ⟶ Servidor de Aplicações.
-
-### Questão 05
-(2021/CESPE-CEBRASPE/PG-DF/TÉCNICO JURÍDICO - TECNOLOGIA E INFORMAÇÃO) A respeito da arquitetura cliente/servidor (C/S) em multicamadas, julgue o item subsequente. Na arquitetura C/S multicamada, a mesma aplicação pode atuar simultaneamente como servidor e como cliente para outras aplicações.
-
-Gabarito: Certo (C). A Camada de Lógica de Negócios atua como servidor para o cliente, mas como cliente para a Camada de Dados.
-
-### Questão 06
-(2022/IESES/SAP-SC/INSTRUTOR DE INFORMÁTICA) Sobre os Conceitos da arquitetura cliente-servidor, assinale a alternativa correta.
-
-I – A arquitetura cliente servidor é uma arquitetura de aplicação distribuída, ou seja, na rede existem os fornecedores de recursos ou serviços a rede, que são chamados de servidores, e existem os requerentes dos recursos ou serviços, denominados clientes.
-II – O cliente não compartilha nenhum de seus recursos com o servidor, mas, no entanto, ele solicita alguma função do servidor, sendo ele, o cliente, responsável por iniciar a comunicação com o servidor, enquanto o mesmo aguarda requisições de entrada.
-III – A sobrecarga de servidores é um problema real, apesar de a capacidade dos servidores ter aumentado consideravelmente na última década.
-IV – As redes P2P surgem como uma proposta de descentralização do monopólio de processamento funcional, fazendo com que sistemas sirvam a outros sistemas, dando a cada estação as mesmas responsabilidades e capacidades dentro da rede.
-
-a) Apenas as assertivas I, II e III são corretas.
-b) Apenas as assertivas I, III e IV são corretas.
-c) Apenas as assertivas I e III são corretas.
-d) Apenas as assertivas II e IV são corretas.
-e) As assertivas I, II, III e IV são corretas.
-
-Gabarito: E. Todas as assertivas estão corretas.
-- I: define corretamente o papel do cliente e do servidor.
-- II: define como funciona a solicitação do cliente para o servidor.
-- III: sobrecarga de servidores é um problema real, mesmo com o aumento da capacidade.
-- IV: as redes P2P servem para descentralizar o processamento, dando a cada nó as mesmas responsabilidades e capacidades.
-
-### GABARITO OFICIAL
-
-| QUESTÃO | GABARITO |
-|---------|----------|
-| 04 | A |
-| 05 | C |
-| 06 | E |
-
-> [!TIP] DICAS: 
-> - Comunicação síncrona: cliente aguarda resposta (bloqueado).
-> - Comunicação assíncrona: cliente não aguarda resposta (não bloqueado).
-> - 3-Tier: Apresentação - Negócios - Dados.
-> - 4-Tier: Cliente ⟶ Web (apresentação) ⟶ Aplicação (lógica) ⟶ Banco de Dados.
-> - P2P: cada nó é cliente e servidor simultaneamente; descentralizado; redundante.

@@ -9,7 +9,7 @@
 - Visão conceitual: o sistema é formado por várias "peças" independentes que colaboram.
 
 > [!TIP] DICAS: 
-> Lembre-se: baixo acoplamento + alta coesão são os pilares de uma boa arquitetura de microserviços.
+> - Lembre-se: baixo acoplamento + alta coesão são os pilares de uma boa arquitetura de microserviços.
 
 ### 1.2 Independência Estrutural
 - Cada microsserviço possui código próprio, sem compartilhamento de base de código.
@@ -18,7 +18,7 @@
 - Essa autonomia reduz dependências e facilita evolução contínua.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> O isolamento de dados é uma diferença crucial entre microserviços e SOA. Em SOA, o compartilhamento de banco é comum; em microserviços, cada serviço tem seu próprio banco.
+> - O isolamento de dados é uma diferença crucial entre microserviços e SOA. Em SOA, o compartilhamento de banco é comum; em microserviços, cada serviço tem seu próprio banco.
 
 ## 2. Comunicação entre Serviços
 
@@ -60,7 +60,7 @@
 - Permite infraestrutura elástica: serviços sob demanda, escalando horizontalmente conforme necessidade.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> Kubernetes é o orquestrador de containers mais cobrado em concursos. Docker é o container mais comum, mas não faz orquestração sozinho.
+> - Kubernetes é o orquestrador de containers mais cobrado em concursos. Docker é o container mais comum, mas não faz orquestração sozinho.
 
 ## 4. Modelos de Implementação
 
@@ -80,15 +80,3 @@
 > [!TIP] DICAS: 
 > - *Serverless* não significa "sem servidor", mas sim que a infraestrutura é gerenciada automaticamente pelo provedor.
 > - *Service Mesh* é uma camada de infraestrutura dedicada a gerenciar a comunicação entre serviços, sem alterar o código da aplicação.
-
-## 5. Resumo Geral das Características
-
-| CARACTERÍSTICA | DESCRIÇÃO |
-|----------------|-----------|
-| Baixo acoplamento | Mudanças em um serviço não afetam os demais |
-| Alta coesão | Cada serviço tem responsabilidade única e bem definida |
-| Independência estrutural | Código, banco e ciclo de vida próprios |
-| Comunicação leve | APIs REST, gRPC ou mensageria assíncrona |
-| Containers | Empacotamento portável e consistente |
-| Orquestração | Kubernetes gerencia *deploy* e escalabilidade |
-| *Service Mesh* | Controle de tráfego e segurança sem alterar código |

@@ -22,7 +22,7 @@
 - Escalabilidade: facilita a extensão do código com novas funcionalidades.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> Ao contrário da arquitetura monolítica, em que todos os elementos eram interdependentes, na arquitetura orientada a objetos, cada objeto funciona de forma independente.
+> - Ao contrário da arquitetura monolítica, em que todos os elementos eram interdependentes, na arquitetura orientada a objetos, cada objeto funciona de forma independente.
 
 ## 2. Classes
 
@@ -78,7 +78,7 @@
 - Métodos: simulam ações que podem ser realizadas.
 
 > [!TIP] DICAS: 
-> Encapsular = esconder os dados por questões de segurança e para facilitar a manipulação das informações.
+> - Encapsular = esconder os dados por questões de segurança e para facilitar a manipulação das informações.
 
 ## 5. Abstração
 
@@ -101,7 +101,7 @@
   - Implementação específica para devolver uma revista: imprimir "Revista devolvida: Edição " + edição.
 
 > [!TIP] DICAS: 
-> A abstração permite que diferentes tipos de itens de biblioteca sejam manipulados de maneira consistente, utilizando a mesma interface, mas com a flexibilidade de cada tipo de item ter suas próprias particularidades.
+> - A abstração permite que diferentes tipos de itens de biblioteca sejam manipulados de maneira consistente, utilizando a mesma interface, mas com a flexibilidade de cada tipo de item ter suas próprias particularidades.
 
 ## 6. Herança
 
@@ -130,7 +130,7 @@
   - Classe Anfíbio (extende Terrestre, Aquático): herda caminhar e nadar.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> A herança múltipla pode introduzir desafios, como o problema do diamante, em que uma subclasse herda os mesmos métodos de várias classes base, causando possíveis ambiguidades.
+> - A herança múltipla pode introduzir desafios, como o problema do diamante, em que uma subclasse herda os mesmos métodos de várias classes base, causando possíveis ambiguidades.
 
 ### 6.5 Comparação entre os Tipos de Herança
 
@@ -140,34 +140,4 @@
 | Herança múltipla | Subclasse herda de mais de uma classe base | Anfíbio herda de Terrestre e Aquático |
 
 > [!TIP] DICAS: 
-> Os quatro pilares da arquitetura orientada a objetos são: encapsulamento, abstração, herança e polimorfismo. O polimorfismo foi citado no início do material como um dos princípios, mas não foi detalhado no conteúdo do PDF.
-
-> [!CAUTION] OBSERVAÇÃO: 
-> Este material foi elaborado pela equipe pedagógica do Gran Concursos, de acordo com a aula preparada e ministrada pela professora. A presente degravação tem como objetivo auxiliar no acompanhamento e na revisão do conteúdo ministrado em videoaula. Não se recomenda a substituição do estudo em vídeo pela leitura exclusiva deste material.
-
-## Questões de Fixação
-
-### Questão 01
-(CESPE/CEBRASPE/2024/CNPQ/ANALISTA EM CIÊNCIA E TECNOLOGIA PLENO I - ESPECIALIDADE: DESENVOLVIMENTO E ARQUITETURA DE SOFTWARE) Julgue o próximo item, no que se refere à arquitetura de sistemas.
-
-Na arquitetura orientada a objeto, os dados e as operações são encapsulados para facilitar a manipulação das informações.
-
-Vale lembrar que "encapsular" é o ato de "esconder" os dados por questões de segurança e para facilitar a manipulação das informações.
-
-Gabarito: Certo (C)
-
-### Questão 02
-(CESPE/CEBRASPE/2024/CNPQ/ANALISTA EM CIÊNCIA E TECNOLOGIA PLENO I/ ESPECIALIDADE: DESENVOLVIMENTO E ARQUITETURA DE SOFTWARE) Julgue o item subsecutivo, com relação a requisitos e componentes de software.
-
-O design de software pode ser aplicado como produto, em uma abstração do mundo real, ou como processo, orientado aos objetivos do software.
-
-A afirmação trazida pela banca é verdadeira ao afirmar que o design de software pode ser visto tanto como um produto, que é uma representação concreta de algo do mundo real, quanto como um processo, que orienta as práticas de desenvolvimento em direção aos objetivos do software.
-
-Gabarito: Certo (C)
-
-### GABARITO OFICIAL
-
-| QUESTÃO | GABARITO |
-|---------|----------|
-| 01 | C |
-| 02 | C |
+> - Os quatro pilares da arquitetura orientada a objetos são: encapsulamento, abstração, herança e polimorfismo. 

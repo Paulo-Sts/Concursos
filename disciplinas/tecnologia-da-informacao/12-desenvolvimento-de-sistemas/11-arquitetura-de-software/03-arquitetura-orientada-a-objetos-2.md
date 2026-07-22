@@ -23,7 +23,7 @@
 - Exemplo: função somar(a: Inteiro, b: Inteiro) e função somar(a: Real, b: Real) - ambas com o mesmo nome, mas com tipos de parâmetros diferentes.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> O polimorfismo de inclusão é o mais comum e o mais cobrado em provas.
+> - O polimorfismo de inclusão é o mais comum e o mais cobrado em provas.
 
 ## 2. Princípios de Projeto (Design Principles)
 
@@ -62,7 +62,7 @@
 - Se todos os elementos fossem interligados, a alteração em uma parte do código implicaria outras partes do sistema.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> O princípio da segregação de interface NÃO define que uma classe deve possuir somente uma operação para ser executada. Ele defende que muitas interfaces específicas são melhores que uma interface única.
+> - O princípio da segregação de interface NÃO define que uma classe deve possuir somente uma operação para ser executada. Ele defende que muitas interfaces específicas são melhores que uma interface única.
 
 ### 3.5 D - *Dependency Inversion Principle* (Princípio da Inversão de Dependência)
 - Dependa de abstrações, não de implementações concretas.
@@ -95,7 +95,7 @@
 - Exemplo: comando "desfazer" em editores de texto.
 
 > [!TIP] DICAS: 
-> Os padrões comportamentais mais cobrados são: *iterator*, *memento* e *observer*.
+> - Os padrões comportamentais mais cobrados são: *iterator*, *memento* e *observer*.
 
 ## 5. Padrões GRASP (*General Responsibility Assignment Software Patterns*)
 
@@ -119,7 +119,7 @@
 - Encoraja o design de classes com responsabilidades bem definidas e focadas, melhorando a compreensibilidade e reduzindo erros.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> Entre os padrões GRASP, destacam-se baixo acoplamento e alta coesão. A banca pode tentar confundir com "baixa coesão e alto acoplamento" - fique atento!
+> - Entre os padrões GRASP, destacam-se baixo acoplamento e alta coesão. A banca pode tentar confundir com "baixa coesão e alto acoplamento" - fique atento!
 
 ### 5.7 Polimorfismo como Princípio GRASP
 - O polimorfismo é um princípio orientador para atribuir responsabilidades a classes abstratas que representem o comportamento de classes concretas para permitir ao sistema lidar com vários tipos de maneira homogênea.
@@ -148,94 +148,4 @@
 - Ilustra o fluxo de operações.
 
 > [!TIP] DICAS: 
-> O diagrama de sequência é comumente usado para representar a interação entre objetos durante a execução de um cenário específico.
-
-## 7. Questões de Fixação
-
-### Questão 03
-(CESPE-CEBRASPE/2022/BANRISUL/DESENVOLVIMENTO DE SISTEMAS) Acerca dos padrões de projeto em arquitetura de software, julgue o próximo item.
-
-Em um projeto orientado a objetos, a decomposição do sistema em objetos é influenciada por fatores como encapsulamento, granularidade e desempenho.
-
-Gabarito: Certo (C)
-
-### Questão 04
-(CESPE-CEBRASPE/2022/BANRISUL/DESENVOLVIMENTO DE SISTEMAS) Acerca dos padrões de projeto em arquitetura de software, julgue o próximo item.
-
-O princípio da segregação de interface dos padrões SOLID define que uma classe deve possuir somente uma operação para ser executada.
-
-Gabarito: Errado (E) - muitas interfaces específicas são melhores que uma interface única.
-
-### Questão 05
-(FGV/2024/CGM DE BELO HORIZONTE/MG/AUDITOR INTERNO/CIÊNCIA DA COMPUTAÇÃO/MANHÃ) Padrões de projeto são soluções consagradas que se baseiam nas estruturas da orientação a objetos para solucionar problemas comuns em projetos de software. Os padrões são agrupados em tipos.
-
-Assinale a opção que indica apenas padrões do tipo comportamental.
-
-a) Decorator, bridge e adapter.
-b) Singleton, prototype e builder.
-c) Iterator, memento e observer.
-d) Command, mediator e facade.
-
-Gabarito: C - os padrões de projeto comportamentais são: *iterator*, *memento* e *observer*.
-
-### Questão 06
-(CESPE-CEBRASPE/2022/BANRISUL/QUALITY ASSURANCE (QA) E ANALISTAS DE TESTE) Julgue o item a seguir, a respeito dos padrões GRASP (*general responsibility assignment software patterns*). Entre os padrões definidos pelo GRASP, destacam-se baixa coesão e alto acoplamento.
-
-Gabarito: Errado (E) - entre os padrões definidos pelo GRASP, destacam-se baixo acoplamento e alta coesão.
-
-### Questão 07
-(CESPE-CEBRASPE/2022/DPE-RO/ANALISTA DA DEFENSORIA PÚBLICA/PROGRAMAÇÃO) O GRASP (*general responsibility assignment software patterns*) define princípios básicos padrões de projetos orientados a objetos. Considere os seguintes questionamentos, feitos no âmbito de um sistema escolar onde se conhece a média total do resultado de um aluno.
-
-- Para se conhecer a média total do resultado de um aluno, qual princípio vai se direcionar para encontrar a classe de objetos adequada para receber essa responsabilidade?
-- Nesse caso, qual princípio GRASP procura identificar a classe de objetos que tem a informação necessária para a determinação da média?
-
-Assinale a opção que apresenta o princípio GRASP presente nos referidos questionamentos.
-
-a) especialista na informação (*information expert*)
-b) acoplamento baixo (*low coupling*)
-c) coesão alta (*high cohesion*)
-d) controlador (*controller*)
-e) criador (*creator*)
-
-Gabarito: A - o especialista na informação analisa as informações necessárias para se fazer o direcionamento dessa classe para o recebimento da responsabilidade.
-
-### Questão 08
-(FGV/2022/SEFAZ-AM/ANALISTA DE TECNOLOGIA DA INFORMAÇÃO DA FAZENDA ESTADUAL/TARDE) Os padrões GRASP descrevem princípios fundamentais de atribuição de responsabilidades em projetos de software orientado a objeto.
-
-De acordo com esses padrões, o polimorfismo é um princípio orientador para atribuir responsabilidades
-
-a) a classes artificiais que não representem nada no domínio do problema de maneira a obter uma coesão alta.
-b) a classes abstratas que representem o comportamento de classes concretas para permitir ao sistema lidar com vários tipos de maneira homogênea.
-c) a uma classe controladora global para centralizar o tratamento de todas as mensagens e eventos do sistema.
-d) a classes que têm a informação necessária para satisfazer à responsabilidade e colaborar para que o acoplamento permaneça alto.
-e) a classes estáticas, altamente coesas e que são utilizadas no sistema sem a necessidade de instanciar objetos.
-
-Gabarito: B - o polimorfismo atribui responsabilidades a classes abstratas que representem o comportamento de classes concretas para permitir ao sistema lidar com vários tipos de maneira homogênea.
-
-### Questão 09
-(UFV/2024/UFV-MG/TÉCNICO DE TECNOLOGIA DA INFORMAÇÃO) Em projetos de sistemas, a UML (*Unified Modeling Language*) é amplamente utilizada para visualizar e documentar a estrutura e o comportamento do sistema. Considerando a UML, o diagrama UML que é comumente usado para representar a interação entre objetos durante a execução de um cenário específico é:
-
-a) Diagrama de Atividades.
-b) Diagrama de Sequência.
-c) Diagrama de Caso de Uso.
-d) Diagrama de Entidade-Relacionamento.
-
-Gabarito: B - o diagrama de sequência é usado para representar a interação entre objetos durante a execução de um cenário específico.
-
-### GABARITO OFICIAL
-
-| QUESTÃO | GABARITO |
-|---------|----------|
-| 03 | C |
-| 04 | E |
-| 05 | C |
-| 06 | E |
-| 07 | A |
-| 08 | B |
-| 09 | B |
-
-> [!TIP] DICAS: 
-> - SOLID: S (Responsabilidade Única), O (Aberto/Fechado), L (Substituição de Liskov), I (Segregação de Interface), D (Inversão de Dependência).
-> - GRASP: Especialista em Informação, Criador, Controlador, Baixo Acoplamento, Alta Coesão.
-> - Padrões Comportamentais: *Observer*, *Strategy*, *Command*, *State*, *Iterator*, *Memento*.
-> - UML: Diagrama de Classes, Casos de Uso, Sequência, Atividades.
+> - O diagrama de sequência é comumente usado para representar a interação entre objetos durante a execução de um cenário específico.

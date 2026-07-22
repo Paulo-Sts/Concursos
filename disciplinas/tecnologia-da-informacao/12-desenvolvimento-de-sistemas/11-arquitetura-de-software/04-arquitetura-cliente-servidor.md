@@ -12,7 +12,7 @@
 - Com objetivos mais claros sobre o que cada parte vai fazer, fica mais fácil realizar alterações no sistema, como adicionar ou retirar funcionalidades.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> A arquitetura cliente-servidor veio para separar as aplicações em duas partes: cliente (solicitações) e servidor (processamento). Não faria sentido que uma camada do servidor pudesse ser tanto do cliente quanto do servidor.
+> - A arquitetura cliente-servidor veio para separar as aplicações em duas partes: cliente (solicitações) e servidor (processamento). Não faria sentido que uma camada do servidor pudesse ser tanto do cliente quanto do servidor.
 
 ### 1.2 Sistemas Distribuídos na Arquitetura Cliente-Servidor
 - Na arquitetura cliente-servidor, faz-se uso de sistemas distribuídos.
@@ -22,7 +22,7 @@
 - Sistemas distribuídos aproveitam a arquitetura cliente-servidor para organizar a comunicação e a distribuição de tarefas, mas expandem além disso para incluir maior flexibilidade, resiliência e escalabilidade.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> Caso caia alguma questão afirmando que não é possível ter um sistema com arquitetura cliente-servidor em mais de um computador, isso é falso. Os sistemas distribuídos podem sim ter cliente e servidor em máquinas diferentes.
+> - Caso caia alguma questão afirmando que não é possível ter um sistema com arquitetura cliente-servidor em mais de um computador, isso é falso. Os sistemas distribuídos podem sim ter cliente e servidor em máquinas diferentes.
 
 ### 1.3 Vantagens da Arquitetura Cliente-Servidor
 - Centralização de recursos: concentração de dados em um servidor ou outros servidores centralizados.
@@ -86,10 +86,10 @@
 - Servidores de Mensageria (RabbitMQ, ActiveMQ).
 
 > [!CAUTION] OBSERVAÇÃO: 
-> Os servidores de aplicação podem ser executados nos lados do cliente ou do servidor de uma aplicação cliente/servidor? Não. O servidor de aplicação fica no lado do servidor. Essa arquitetura veio para fazer a separação dessas duas partes.
+> - Os servidores de aplicação podem ser executados nos lados do cliente ou do servidor de uma aplicação cliente/servidor? Não. O servidor de aplicação fica no lado do servidor. Essa arquitetura veio para fazer a separação dessas duas partes.
 
 > [!TIP] DICAS: 
-> O papel do servidor é fornecer serviços e recursos. O cliente é quem inicia a comunicação e solicita os serviços.
+> - O papel do servidor é fornecer serviços e recursos. O cliente é quem inicia a comunicação e solicita os serviços.
 
 ## 4. Quadro Comparativo: Cliente x Servidor
 
@@ -100,56 +100,3 @@
 | Processa lógica de negócios | Geralmente não | Sim (centraliza a lógica) |
 | Gerencia dados | Não | Sim |
 | Exemplos | Navegadores, apps móveis, apps *desktop* | Apache, Tomcat, MySQL, RabbitMQ |
-
-## 5. Questões de Fixação
-
-### Questão 01
-(CESPE-CEBRASPE/2024/CAPES/ANALISTA EM CIÊNCIA E TECNOLOGIA/ESPECIALIDADE: INFORMÁTICA) Acerca de servidores de aplicação, julgue o próximo item.
-
-Os servidores de aplicação podem ser executados nos lados do cliente ou do servidor de uma aplicação do tipo cliente/servidor.
-
-Gabarito: Errado (E). O servidor de aplicação fica no lado do servidor. Essa arquitetura veio para fazer a separação dessas duas partes. Não faria sentido que uma camada do servidor pudesse ser tanto do cliente quanto do servidor.
-
-### Questão 02
-(FUNCERN/2024/PREFEITURA DE CARNAÚBA DOS DANTAS/RN/ANALISTA LEGISLATIVO/ESPECIALIDADE TECNOLOGIA DA INFORMAÇÃO) Em redes de computadores, na arquitetura cliente-servidor, o papel que, geralmente, o servidor desempenha é
-
-a) iniciar a comunicação.
-b) fornecer serviços e recursos.
-c) solicitar serviços e recursos.
-d) facilitar a comunicação entre clientes.
-
-Gabarito: B. O servidor é responsável por pegar as solicitações do cliente, fazer o processamento da lógica de negócios e gerenciamento de dados.
-
-- a) Esse é o papel do cliente.
-- c) Essa parte é do cliente.
-- d) O servidor pode facilitar a comunicação entre os clientes, mas esse não é o papel que geralmente desempenha.
-
-### Questão 03
-(CESPE-CEBRASPE/2021/APEX BRASIL/ANALISTA/TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO) Assinale a opção que corresponde a uma característica típica de uma aplicação *web* de grande porte construída como sistema distribuído em uma arquitetura cliente/servidor moderna.
-
-a) eliminação de considerações relacionadas à localização dos dados físicos e às estratégias de sincronização dos dados distribuídos geograficamente
-b) ambiente de execução heterogêneo composto de vários tipos de *hardware*, conexões de rede, sistemas operacionais, servidores e navegadores
-c) autonomia e independência funcional em relação aos componentes que integram a aplicação, como bases de dados, componentes legados e componentes de prateleira
-d) uso estrito da lógica de aplicação do lado do cliente para enriquecer a camada de apresentação com interfaces dinâmicas
-
-Gabarito: B.
-
-- a) Essas partes são muito importantes em um sistema. Podem até ser abstraídas, mas eliminadas não.
-- b) Os sistemas distribuídos fazem uso da arquitetura cliente-servidor, que vai estar sendo aplicada em vários computadores distintos. Isso implica que eles vão ter *hardwares* diferentes, conexões de rede diferentes, sistemas operacionais, servidores e navegadores diferentes.
-- c) Essa descrição se encaixa muito melhor para a arquitetura de microsserviços.
-- d) É o contrário disso.
-
-### GABARITO OFICIAL
-
-| QUESTÃO | GABARITO |
-|---------|----------|
-| 01 | E |
-| 02 | B |
-| 03 | B |
-
-> [!TIP] DICAS: 
-> - Cliente: interage com o usuário, faz solicitações, recebe respostas.
-> - Servidor: fornece serviços, processa solicitações, executa lógica de negócios, gerencia dados.
-> - Sistemas distribuídos permitem que cliente e servidor estejam em máquinas diferentes.
-> - Vantagens: centralização, escalabilidade, manutenção facilitada, segurança.
-> - Desvantagens: dependência do servidor, complexidade de rede, latência.

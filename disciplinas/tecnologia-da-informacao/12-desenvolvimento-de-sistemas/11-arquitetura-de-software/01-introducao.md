@@ -13,12 +13,10 @@
 - À época, tratava-se de uma forma de se projetar um código com uma certa lógica, de modo que fosse mais fácil realizar a sua manutenção.
 
 > [!TIP] DICAS: 
-> A crise do software (década de 1960) é o marco histórico que deu origem à necessidade de organizar melhor o código.
->
+> - A crise do software (década de 1960) é o marco histórico que deu origem à necessidade de organizar melhor o código.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> A consolidação da arquitetura de software como disciplina ocorreu em 1980.
->
+> - A consolidação da arquitetura de software como disciplina ocorreu em 1980.
 
 ## 2. Arquitetura Monolítica
 - Surgiu em 1970 e foi consolidada em 1980.
@@ -29,8 +27,7 @@
 - É usada para ser comparada com outras arquiteturas, especialmente com a de microsserviços.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> A arquitetura monolítica é cobrada em provas principalmente em contraposição à arquitetura de microsserviços.
->
+> - A arquitetura monolítica é cobrada em provas principalmente em contraposição à arquitetura de microsserviços.
 
 ## 3. Arquitetura Cliente-Servidor
 - Criada em 1980.
@@ -76,8 +73,7 @@
 - Funcionamento: objetos residem em diferentes máquinas conectadas por uma rede e interagem entre si através de protocolos de comunicação e *middleware* específico (*CORBA*, *RMI*, *DCOM*).
 
 > [!TIP] DICAS: 
-> *CORBA*, *RMI* e *DCOM* são exemplos de *middleware* para arquitetura de objetos distribuídos.
->
+> - *CORBA*, *RMI* e *DCOM* são exemplos de *middleware* para arquitetura de objetos distribuídos.
 
 ## 8. Padrões de Comunicação - SOAP
 - Os padrões de comunicação não são uma arquitetura, mas uma forma de se fazer uma transferência de dados.
@@ -85,8 +81,7 @@
 - Objetivo: permitir comunicação entre aplicações distribuídas em diferentes plataformas, através de *XML*.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> SOAP e REST são padrões de comunicação, não arquiteturas de software.
->
+> - SOAP e REST são padrões de comunicação, não arquiteturas de software.
 
 ## 9. Arquitetura *Peer-to-Peer* (P2P)
 - Surgiu em 1990, consolidando-se em 2000.
@@ -104,8 +99,7 @@
 - Funcionamento: opera com requisições *HTTP* (*GET*, *POST*, *PUT*, *DELETE*).
 
 > [!TIP] DICAS: 
-> REST utiliza os verbos *HTTP*: *GET* (consultar), *POST* (criar), *PUT* (atualizar) e *DELETE* (excluir).
->
+> - REST utiliza os verbos *HTTP*: *GET* (consultar), *POST* (criar), *PUT* (atualizar) e *DELETE* (excluir).
 
 ## 12. Arquitetura *Event-Driven* (Orientada a Eventos)
 - Surgiu no ano 2000.
@@ -127,8 +121,7 @@
 - Costuma ser bastante cobrada em contraposição com a arquitetura monolítica.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> A comparação entre arquitetura monolítica e microsserviços é um dos tópicos mais cobrados em concursos.
->
+> - A comparação entre arquitetura monolítica e microsserviços é um dos tópicos mais cobrados em concursos.
 
 ## 15. Arquitetura *Serverless*
 - Surgiu em 2010.
@@ -155,4 +148,4 @@
 | *Serverless* | 2010 | - |
 
 > [!TIP] DICAS: 
-> Decore os marcos temporais: 1960 (crise do software) ⟶ 1980 (consolidação da arquitetura de software como disciplina) ⟶ arquiteturas mais antigas (1970-1980) ⟶ arquiteturas intermediárias (1990) ⟶ arquiteturas modernas (2000-2010).
+> - Decore os marcos temporais: 1960 (crise do software) ⟶ 1980 (consolidação da arquitetura de software como disciplina) ⟶ arquiteturas mais antigas (1970-1980) ⟶ arquiteturas intermediárias (1990) ⟶ arquiteturas modernas (2000-2010).

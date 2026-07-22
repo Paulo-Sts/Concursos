@@ -7,7 +7,7 @@
 - Diferentemente da arquitetura monolítica, os microserviços são desenvolvidos, implantados e escalados de forma autônoma.
 
 > [!TIP] DICAS: 
-> Pense em microserviços como "pequenos sistemas" que conversam entre si para formar uma aplicação completa.
+> - Pense em microserviços como "pequenos sistemas" que conversam entre si para formar uma aplicação completa.
 
 ## 2. Características Principais dos Microserviços
 
@@ -18,7 +18,7 @@
 - Conceito central: autonomia como mecanismo de agilidade.
 
 > [!TIP] DICAS: 
-> A independência operacional é o que permite times diferentes trabalharem em serviços distintos sem conflitos.
+> - A independência operacional é o que permite times diferentes trabalharem em serviços distintos sem conflitos.
 
 ### 2.2 Escalabilidade Granular
 - A arquitetura permite escalar apenas o serviço que demanda mais recursos, evitando desperdício.
@@ -27,7 +27,7 @@
 - Resultado: eficiência operacional e melhor uso da infraestrutura.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> Na arquitetura monolítica, escala-se a aplicação inteira. Em microserviços, escala-se apenas o serviço necessário.
+> - Na arquitetura monolítica, escala-se a aplicação inteira. Em microserviços, escala-se apenas o serviço necessário.
 
 ### 2.3 Resiliência e Robustez
 - Falhas ficam isoladas: um serviço com problema não compromete todo o sistema.
@@ -36,7 +36,7 @@
 - Conceito-chave: tolerância a falhas como propriedade estrutural.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> Se um microsserviço cair, os demais continuam funcionando. Isso é uma das grandes vantagens sobre o monolito.
+> - Se um microsserviço cair, os demais continuam funcionando. Isso é uma das grandes vantagens sobre o monolito.
 
 ### 2.4 Automação e Observabilidade
 - Forte dependência de CI/CD, *containers* e orquestração (como Kubernetes).
@@ -45,7 +45,7 @@
 - Essencial para operar ambientes distribuídos com segurança e previsibilidade.
 
 > [!TIP] DICAS: 
-> *Tracing* distribuído é uma técnica para rastrear requisições que passam por múltiplos microsserviços.
+> - *Tracing* distribuído é uma técnica para rastrear requisições que passam por múltiplos microsserviços.
 
 ## 3. Comparação: Microserviços x SOA
 
@@ -58,13 +58,4 @@
 | Implantação | Independente por serviço | Geralmente integrada |
 
 > [!CAUTION] OBSERVAÇÃO: 
-> SOA e microserviços não são a mesma coisa. O principal diferencial é que microserviços têm independência total e comunicação mais leve, enquanto SOA costuma depender de um barramento (*ESB*).
-
-## 4. Quadro-resumo das Características
-
-| CARACTERÍSTICA | DESCRIÇÃO |
-|----------------|-----------|
-| Independência operacional | Serviços atualizados sem afetar os demais |
-| Escalabilidade granular | Escala apenas o serviço necessário |
-| Resiliência e robustez | Falhas ficam isoladas e não derrubam o todo |
-| Automação e observabilidade | CI/CD, containers, *logs*, métricas e *tracing* |
+> - SOA e microserviços não são a mesma coisa. O principal diferencial é que microserviços têm independência total e comunicação mais leve, enquanto SOA costuma depender de um barramento (*ESB*).
