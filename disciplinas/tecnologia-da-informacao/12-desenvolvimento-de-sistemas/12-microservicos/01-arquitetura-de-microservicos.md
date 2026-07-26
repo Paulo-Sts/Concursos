@@ -13,7 +13,7 @@
 
 ### 2.1 Independência Operacional
 - Cada microserviço pode ser atualizado, corrigido ou substituído sem interromper o restante do sistema.
-- Essa independência reduz riscos de *deploy* e facilita entregas contínuas.
+- Essa independência reduz riscos de deploy e facilita entregas contínuas.
 - A arquitetura favorece evolução incremental e rápida adaptação a mudanças.
 - Conceito central: autonomia como mecanismo de agilidade.
 
@@ -31,7 +31,7 @@
 
 ### 2.3 Resiliência e Robustez
 - Falhas ficam isoladas: um serviço com problema não compromete todo o sistema.
-- Estratégias como *timeouts*, *retries* e *circuit breakers* reforçam a resiliência.
+- Estratégias como timeouts, retries e circuit breakers reforçam a resiliência.
 - A arquitetura distribui riscos e aumenta a disponibilidade geral.
 - Conceito-chave: tolerância a falhas como propriedade estrutural.
 
@@ -39,13 +39,13 @@
 > - Se um microsserviço cair, os demais continuam funcionando. Isso é uma das grandes vantagens sobre o monolito.
 
 ### 2.4 Automação e Observabilidade
-- Forte dependência de CI/CD, *containers* e orquestração (como Kubernetes).
+- Forte dependência de CI/CD, containers e orquestração (como Kubernetes).
 - Automação garante consistência, velocidade e repetibilidade nas entregas.
-- Observabilidade integrada: *logs*, métricas e *tracing* distribuído permitem entender o comportamento do sistema.
+- Observabilidade integrada: logs, métricas e tracing distribuído permitem entender o comportamento do sistema.
 - Essencial para operar ambientes distribuídos com segurança e previsibilidade.
 
 > [!TIP] DICAS: 
-> - *Tracing* distribuído é uma técnica para rastrear requisições que passam por múltiplos microsserviços.
+> - Tracing distribuído é uma técnica para rastrear requisições que passam por múltiplos microsserviços.
 
 ## 3. Comparação: Microserviços x SOA
 
@@ -53,9 +53,9 @@
 |----------------|----------------|-----|
 | Tamanho dos serviços | Pequenos e focados em uma função específica | Grandes e orientados a processos de negócio |
 | Compartilhamento | Evita compartilhamento de código e banco | Compartilha banco e componentes via ESB |
-| Comunicação | Leve (HTTP/REST, mensageria) | Frequentemente usa ESB (*Enterprise Service Bus*) |
+| Comunicação | Leve (HTTP/REST, mensageria) | Frequentemente usa ESB (Enterprise Service Bus) |
 | Governança | Descentralizada (cada time decide) | Centralizada |
 | Implantação | Independente por serviço | Geralmente integrada |
 
 > [!CAUTION] OBSERVAÇÃO: 
-> - SOA e microserviços não são a mesma coisa. O principal diferencial é que microserviços têm independência total e comunicação mais leve, enquanto SOA costuma depender de um barramento (*ESB*).
+> - SOA e microserviços não são a mesma coisa. O principal diferencial é que microserviços têm independência total e comunicação mais leve, enquanto SOA costuma depender de um barramento (ESB).

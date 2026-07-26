@@ -11,17 +11,17 @@
 - O cliente envia uma solicitação ao servidor e aguarda uma resposta antes de continuar outras operações.
 - O usuário fica com as ações bloqueadas até que a próxima etapa seja desbloqueada.
 - A comunicação síncrona depende de uma resposta para prosseguir.
-- Exemplo: requisição *HTTP GET* para carregar uma página na internet. Não é possível interagir com o site até que a interface do usuário seja carregada.
+- Exemplo: requisição HTTP GET para carregar uma página na internet. Não é possível interagir com o site até que a interface do usuário seja carregada.
 
 ### 1.3 Comunicação Assíncrona
 - O usuário envia uma solicitação para o servidor, que pode demorar para devolver uma resposta, mas o usuário não fica impossibilitado de realizar outras operações no sistema.
 - Solicitações assíncronas são ideais para operações que podem levar algum tempo para serem processadas ou cuja resposta não seja necessária de forma imediata.
-- Exemplo: AJAX (*Asynchronous JavaScript and XML*). Partes de uma página na internet são carregadas sem que seja necessário recarregá-la por inteiro, permitindo que o usuário continue realizando outras ações.
+- Exemplo: AJAX (Asynchronous JavaScript and XML). Partes de uma página na internet são carregadas sem que seja necessário recarregá-la por inteiro, permitindo que o usuário continue realizando outras ações.
 
 > [!CAUTION] OBSERVAÇÃO: 
 > - Na comunicação síncrona, o cliente aguarda a resposta do servidor e fica bloqueado. Na comunicação assíncrona, o cliente continua suas operações enquanto aguarda a resposta.
 
-## 2 Arquitetura Multicamadas (*N-Tier*)
+## 2 Arquitetura Multicamadas (N-Tier)
 
 ### 2.1 Definição
 - Também conhecida como arquitetura em camadas.
@@ -54,7 +54,7 @@
 
 | ORDEM | CAMADA | SERVIDOR CORRESPONDENTE |
 |-------|--------|-------------------------|
-| I | Acesso/navegação | Clientes (*browsers*) |
+| I | Acesso/navegação | Clientes (browsers) |
 | II | Dados | Servidor de Banco de Dados |
 | III | Apresentação | Servidor Web |
 | IV | Lógica/Negócios | Servidor de Aplicações |
@@ -65,7 +65,7 @@
 > [!CAUTION] OBSERVAÇÃO: 
 > - Na arquitetura C/S multicamada, a mesma aplicação pode atuar simultaneamente como servidor e como cliente para outras aplicações. Exemplo: a Camada de Lógica de Negócios atua como servidor para o cliente, mas como cliente para a Camada de Dados.
 
-## 3. Redes *Peer-to-Peer* (P2P)
+## 3. Redes Peer-to-Peer (P2P)
 
 ### 3.1 Definição
 - Redes de computadores em que cada nó atua, simultaneamente, como cliente e servidor.
@@ -89,7 +89,7 @@
 ### 3.3 Tipos de Rede P2P
 
 #### 3.3.1 Estruturadas
-- Possuem uma estrutura de dados bem definida, como o DHT (*Distributed Hash Table*), para organizar e localizar recursos de forma eficiente.
+- Possuem uma estrutura de dados bem definida, como o DHT (Distributed Hash Table), para organizar e localizar recursos de forma eficiente.
 - Cada nó detém uma chave única.
 - A localização e recuperação de informações são fáceis por meio da chave única de cada nó.
 
@@ -109,4 +109,4 @@
 | Papel dos nós | Cliente ou servidor | Ambos (cliente e servidor) |
 | Dependência | Alta (se o servidor cai, o sistema para) | Baixa (redundância) |
 | Centralização | Centralizada | Descentralizada |
-| Exemplo | Aplicações *web*, bancos de dados | Torrent, redes de compartilhamento |
+| Exemplo | Aplicações web, bancos de dados | Torrent, redes de compartilhamento |

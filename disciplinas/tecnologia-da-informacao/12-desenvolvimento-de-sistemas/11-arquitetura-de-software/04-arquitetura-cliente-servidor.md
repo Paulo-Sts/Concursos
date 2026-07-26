@@ -4,7 +4,7 @@
 
 ### 1.1 Definição e Contexto Histórico
 - Surgiu na década de 1980.
-- Foi criada para melhorar a distribuição de processamento e armazenamento de dados, em contraste com os sistemas centralizados de *mainframes*.
+- Foi criada para melhorar a distribuição de processamento e armazenamento de dados, em contraste com os sistemas centralizados de mainframes.
 - Veio para separar as aplicações e os sistemas em duas partes distintas:
   - Cliente: parte que faz as solicitações.
   - Servidor: parte que faz o processamento das solicitações.
@@ -36,15 +36,15 @@
 - Latência: atraso na solicitação por conta da separação entre cliente e servidor.
 
 ### 1.5 Exemplos de Uso
-- Aplicações *Web*.
+- Aplicações Web.
 - Sistemas de Bancos de Dados.
-- Serviços de *e-mail*.
+- Serviços dee-mail.
 
 ## 2. Cliente
 
 ### 2.1 Definição
 - É a parte do sistema que interage diretamente com o usuário final.
-- Exemplo: em uma rede social, a tela de *login* que o usuário vê é a parte do cliente.
+- Exemplo: em uma rede social, a tela de login que o usuário vê é a parte do cliente.
 - O cliente envia solicitações ao servidor, que processa essas solicitações e retorna os resultados ao cliente.
 
 ### 2.2 Responsabilidades do Cliente
@@ -56,10 +56,10 @@
 - Validação de Dados.
 
 ### 2.3 Exemplos de Cliente
-- Navegadores *Web* (Chrome, Firefox, Edge).
+- Navegadores Web (Chrome, Firefox, Edge).
 - Aplicativos Móveis (WhatsApp, Instagram, Uber).
-- Aplicativos *Desktop* (Outlook, Slack, Spotify).
-- Clientes de Linha de Comando (Git, *AWS CLI*).
+- Aplicativos Desktop (Outlook, Slack, Spotify).
+- Clientes de Linha de Comando (Git, AWS CLI).
 
 ## 3. Servidor
 
@@ -80,7 +80,7 @@
 - Manutenção e Atualização.
 
 ### 3.3 Exemplos de Servidores
-- Servidores *Web* (Apache *HTTP Server*, Nginx).
+- Servidores Web (Apache HTTP Server, Nginx).
 - Servidores de Aplicação (WildFly, Apache Tomcat).
 - Servidores de Banco de Dados (MySQL, PostgreSQL).
 - Servidores de Mensageria (RabbitMQ, ActiveMQ).
@@ -99,4 +99,4 @@
 | Inicia a comunicação | Sim | Não (responde às solicitações) |
 | Processa lógica de negócios | Geralmente não | Sim (centraliza a lógica) |
 | Gerencia dados | Não | Sim |
-| Exemplos | Navegadores, apps móveis, apps *desktop* | Apache, Tomcat, MySQL, RabbitMQ |
+| Exemplos | Navegadores, apps móveis, apps desktop | Apache, Tomcat, MySQL, RabbitMQ |

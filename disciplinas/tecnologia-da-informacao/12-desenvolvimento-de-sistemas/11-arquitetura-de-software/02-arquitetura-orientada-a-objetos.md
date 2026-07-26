@@ -73,8 +73,8 @@
 - Exemplo: ao criar um objeto a partir da classe "Pessoa", o construtor pode receber parâmetros como nome, CPF, e-mail e senha, inicializando os atributos do objeto com esses valores.
 
 ### 4.4 Métodos Públicos
-- *Getters*: permitem a leitura dos atributos privados.
-- *Setters*: permitem modificar os valores de atributos privados.
+- Getters: permitem a leitura dos atributos privados.
+- Setters: permitem modificar os valores de atributos privados.
 - Métodos: simulam ações que podem ser realizadas.
 
 > [!TIP] DICAS: 

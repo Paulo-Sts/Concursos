@@ -18,7 +18,7 @@
 - Define funções ou tipos de dados de forma genérica, operando com qualquer tipo de dado.
 - Exemplo: função genérica imprimir<T>(valor: T) que imprime o valor recebido.
 
-#### 1.2.3 Polimorfismo por Sobrecarga (*Ad-Hoc*)
+#### 1.2.3 Polimorfismo por Sobrecarga (Ad-Hoc)
 - Várias funções com o mesmo nome, mas diferentes assinaturas (tipo ou número de parâmetros).
 - Exemplo: função somar(a: Inteiro, b: Inteiro) e função somar(a: Real, b: Real) - ambas com o mesmo nome, mas com tipos de parâmetros diferentes.
 
@@ -33,38 +33,38 @@
 
 ### 2.2 Princípios Gerais
 
-#### 2.2.1 DRY (*Don't Repeat Yourself*)
+#### 2.2.1 DRY (Don't Repeat Yourself)
 - Princípio de não escrever mais de uma vez no código algo que poderia ser replicado.
 - Exemplo: em vez de escrever os mesmos métodos da classe Animal para a classe Cachorro, esses métodos seriam simplesmente herdados, e corrigidos simultaneamente.
 
-#### 2.2.2 YAGNI (*You Ain't Gonna Need It*)
+#### 2.2.2 YAGNI (You Ain't Gonna Need It)
 - Não adicionar elementos no projeto que não são necessários no momento.
 
-#### 2.2.3 KISS (*Keep It Simple, Stupid*)
+#### 2.2.3 KISS (Keep It Simple, Stupid)
 - O sistema deve ser mantido da forma mais simples possível.
 
 ## 3. Princípios SOLID
 - Acrônimo para cinco princípios de design orientado a objeto, específicos da arquitetura orientada a objetos.
 
-### 3.1 S - *Single Responsibility Principle* (Princípio da Responsabilidade Única)
+### 3.1 S - Single Responsibility Principle (Princípio da Responsabilidade Única)
 - Uma classe deve ter apenas uma responsabilidade.
 - Do contrário, a modularidade seria comprometida.
 
-### 3.2 O - *Open/Closed Principle* (Princípio Aberto/Fechado)
+### 3.2 O - Open/Closed Principle (Princípio Aberto/Fechado)
 - Entidades de software devem estar abertas para extensão, mas fechadas para modificação.
 
-### 3.3 L - *Liskov Substitution Principle* (Princípio da Substituição de Liskov)
+### 3.3 L - Liskov Substitution Principle (Princípio da Substituição de Liskov)
 - Objetos de um programa devem ser substituíveis por instâncias de seus subtipos sem alterar a correção do programa.
 - As instâncias dos subtipos não devem alterar a correção de algum programa, no sentido de que eles funcionam de forma modular.
 
-### 3.4 I - *Interface Segregation Principle* (Princípio da Segregação de Interface)
+### 3.4 I - Interface Segregation Principle (Princípio da Segregação de Interface)
 - Muitas interfaces específicas são melhores que uma interface única.
 - Se todos os elementos fossem interligados, a alteração em uma parte do código implicaria outras partes do sistema.
 
 > [!CAUTION] OBSERVAÇÃO: 
 > - O princípio da segregação de interface NÃO define que uma classe deve possuir somente uma operação para ser executada. Ele defende que muitas interfaces específicas são melhores que uma interface única.
 
-### 3.5 D - *Dependency Inversion Principle* (Princípio da Inversão de Dependência)
+### 3.5 D - Dependency Inversion Principle (Princípio da Inversão de Dependência)
 - Dependa de abstrações, não de implementações concretas.
 
 ## 4. Padrões de Projeto Comportamentais
@@ -95,27 +95,27 @@
 - Exemplo: comando "desfazer" em editores de texto.
 
 > [!TIP] DICAS: 
-> - Os padrões comportamentais mais cobrados são: *iterator*, *memento* e *observer*.
+> - Os padrões comportamentais mais cobrados são: iterator, memento e observer.
 
-## 5. Padrões GRASP (*General Responsibility Assignment Software Patterns*)
+## 5. Padrões GRASP (General Responsibility Assignment Software Patterns)
 
 ### 5.1 Definição
 - Conjunto de princípios na programação orientada a objetos que solucionam problemas comuns de atribuição de responsabilidades em modelos de software.
 
-### 5.2 Especialista em Informação (*Information Expert*)
+### 5.2 Especialista em Informação (Information Expert)
 - Atribui responsabilidades à classe que detém as informações necessárias para realizar uma tarefa específica.
 - Exemplo: para calcular a média de um aluno, a classe que possui os dados das notas deve ser a responsável pelo cálculo.
 
-### 5.3 Criador (*Creator*)
+### 5.3 Criador (Creator)
 - Determina que uma classe que contém ou usa frequentemente outra deve ser responsável por criar instâncias dessa outra classe.
 
-### 5.4 Controlador (*Controller*)
+### 5.4 Controlador (Controller)
 - Centraliza o processamento de solicitações, atribuindo a responsabilidade a uma classe que representa um caso de uso específico.
 
-### 5.5 Baixo Acoplamento (*Low Coupling*)
+### 5.5 Baixo Acoplamento (Low Coupling)
 - Promove independência entre classes para aumentar a reutilização e a flexibilidade do código.
 
-### 5.6 Alta Coesão (*High Cohesion*)
+### 5.6 Alta Coesão (High Cohesion)
 - Encoraja o design de classes com responsabilidades bem definidas e focadas, melhorando a compreensibilidade e reduzindo erros.
 
 > [!CAUTION] OBSERVAÇÃO: 
@@ -124,7 +124,7 @@
 ### 5.7 Polimorfismo como Princípio GRASP
 - O polimorfismo é um princípio orientador para atribuir responsabilidades a classes abstratas que representem o comportamento de classes concretas para permitir ao sistema lidar com vários tipos de maneira homogênea.
 
-## 6. UML (*Unified Modeling Language*)
+## 6. UML (Unified Modeling Language)
 
 ### 6.1 Definição
 - Linguagem criada como um modelo padronizado para descrever uma abordagem de programação orientada a objeto.

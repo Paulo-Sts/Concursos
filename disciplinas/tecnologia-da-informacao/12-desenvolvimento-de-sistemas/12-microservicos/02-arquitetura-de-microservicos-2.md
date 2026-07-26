@@ -1,4 +1,4 @@
-# Microserviços – características Arquiteturais e Implementação
+# Microserviços – Características Arquiteturais e Implementação
 
 ## 1. Natureza dos Microserviços
 
@@ -14,7 +14,7 @@
 ### 1.2 Independência Estrutural
 - Cada microsserviço possui código próprio, sem compartilhamento de base de código.
 - Dados isolados: cada serviço gerencia seu próprio banco ou repositório.
-- Ciclo de vida independente: desenvolvimento, testes e *deploy* ocorrem separadamente.
+- Ciclo de vida independente: desenvolvimento, testes e deploy ocorrem separadamente.
 - Essa autonomia reduz dependências e facilita evolução contínua.
 
 > [!CAUTION] OBSERVAÇÃO: 
@@ -38,7 +38,7 @@
 - Feita por filas, tópicos e eventos, usando ferramentas como Kafka ou RabbitMQ.
 - Serviços não precisam responder imediatamente: maior desacoplamento.
 - Aumenta a resiliência, pois mensagens podem ser processadas mesmo com falhas temporárias.
-- Ideal para fluxos *event-driven* e sistemas de alta disponibilidade.
+- Ideal para fluxos event-driven e sistemas de alta disponibilidade.
 
 | CARACTERÍSTICA | SINCRONA | ASSÍNCRONA |
 |----------------|----------|------------|
@@ -55,7 +55,7 @@
 - Imagens imutáveis permitem consistência entre ambientes (desenvolvimento → teste → produção).
 
 ### 3.2 Orquestração com Kubernetes
-- Gerencia *deploy*, escalabilidade, saúde e resiliência dos serviços.
+- Gerencia deploy, escalabilidade, saúde e resiliência dos serviços.
 - Essencial para operar microsserviços em larga escala com automação e confiabilidade.
 - Permite infraestrutura elástica: serviços sob demanda, escalando horizontalmente conforme necessidade.
 
@@ -72,11 +72,11 @@
 
 | MODELO | DESCRIÇÃO |
 |--------|-----------|
-| Containers orquestrados | Kubernetes como padrão de mercado para *deploy*, escalabilidade, *health checks* e resiliência |
-| *Serverless* / FaaS | Execução sob demanda, ideal para serviços pequenos e altamente *event-driven* |
-| *Service Mesh* (Istio, Linkerd) | Adiciona controle de tráfego, segurança e observabilidade sem alterar o código |
-| *Edge* e Micro-VMs (Firecracker) | Isolamento mais forte com inicialização rápida, usado em ambientes de alta segurança |
+| Containers orquestrados | Kubernetes como padrão de mercado para deploy, escalabilidade, health checks e resiliência |
+| Serverless/ FaaS | Execução sob demanda, ideal para serviços pequenos e altamente event-driven |
+| Service Mesh (Istio, Linkerd) | Adiciona controle de tráfego, segurança e observabilidade sem alterar o código |
+| Edge e Micro-VMs (Firecracker) | Isolamento mais forte com inicialização rápida, usado em ambientes de alta segurança |
 
 > [!TIP] DICAS: 
-> - *Serverless* não significa "sem servidor", mas sim que a infraestrutura é gerenciada automaticamente pelo provedor.
-> - *Service Mesh* é uma camada de infraestrutura dedicada a gerenciar a comunicação entre serviços, sem alterar o código da aplicação.
+> - Serverless não significa "sem servidor", mas sim que a infraestrutura é gerenciada automaticamente pelo provedor.
+> - Service Mesh é uma camada de infraestrutura dedicada a gerenciar a comunicação entre serviços, sem alterar o código da aplicação.
