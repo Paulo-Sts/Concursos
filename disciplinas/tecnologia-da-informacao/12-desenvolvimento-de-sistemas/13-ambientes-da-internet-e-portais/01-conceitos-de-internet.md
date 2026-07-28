@@ -1,4 +1,4 @@
-# Conceitos de Internt e Intranet 
+# Conceitos de Internet e Intranet 
 
 ## 1. Conceitos Fundamentais e Pré-requisitos
 - Para compreender internet, intranet e extranet, é necessário ter conhecimentos prévios sobre:

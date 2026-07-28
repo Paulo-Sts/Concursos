@@ -1,4 +1,4 @@
-# Conceitos de Internt e Intranet 2
+# Conceitos de Internet e Intranet 2
 
 ## 1. Tipos de Acesso à Internet
 
