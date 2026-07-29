@@ -17,7 +17,6 @@
 - Deep Learning (Aprendizagem Profunda) ⟶ subconjunto do machine learning que utiliza redes neurais multicamadas para aprender a partir de vastas quantidades de dados.
 
 ### Tabela de Comparação de Abordagens
-
 | CRITÉRIO | SISTEMAS ESPECIALISTAS (IA SIMBÓLICA) | MACHINE LEARNING (APRENDIZADO DE MÁQUINA) |
 |---|---|---|
 | Conceito | Baseado em conhecimento explícito previamente codificado | Baseado em dados históricos e exemplos empíricos |
@@ -52,7 +51,6 @@
 - Robótica ⟶ construção e controle de máquinas capazes de agir fisicamente no ambiente.
 
 ### Tabela de Gatilhos de Prova para Percepção
-
 | ÁREA | O QUE FAZ | GATILHO DE PROVA |
 |---|---|---|
 | Visão computacional | Interpretação de elementos visuais | Imagem, vídeo, pixels e objetos visuais |
@@ -63,7 +61,6 @@
 - Sistemas de Recomendação ⟶ sugerem itens relevantes analisando histórico e compras anteriores para prever interesse.
 
 ### Tabela de Síntese de Áreas e Gatilhos
-
 | ÁREA DA IA | AÇÃO PRINCIPAL | GATILHO DE PROVA |
 |---|---|---|
 | Sistemas especialistas | Aplica lógica codificada | Regras pré-estabelecidas e inferência |

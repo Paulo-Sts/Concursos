@@ -39,7 +39,6 @@
 - Necessidade de supervisão humana para controle ético e definição de objetivos estratégicos.
 
 ### Divisão de Responsabilidades
-
 | ATUAÇÃO DA MÁQUINA | ATUAÇÃO DO SER HUMANO |
 |---|---|
 | Processamento de documentos | Supervisão ética e controle de qualidade |
