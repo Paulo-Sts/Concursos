@@ -1,4 +1,7 @@
-# Análise Sintática (1º Verbo ⟶ 2º Sujeito ⟶ 3º Complemento Verbal ⟶ 4º Adjuntos/Complementos dos Nomes)
+# Análise Sintática 
+
+## Passo a Passo da Análise Sintática
+- 1º Verbo ⟶ 2º Sujeito ⟶ 3º Complemento Verbal ⟶ 4º Adjuntos/Complementos dos Nomes
 
 ### Passo 1: Ache o Verbo
 - O verbo é a lâmpada da frase: ele ilumina quem está ao redor.
