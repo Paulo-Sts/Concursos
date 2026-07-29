@@ -1,4 +1,4 @@
-# Análise Sintática
+# Função Sintática
 
 ## 1. Elementos Básicos da Oração
 - Toda oração é composta por:
@@ -123,13 +123,13 @@ Exemplo:
 ## 9. Exemplo Prático Completo
 - Frase: "O professor explicou a matéria com paciência aos alunos."
 1. Verbo: explicou  
-2. Sujeito: O professor (pergunte: quem explicou?) → simples  
-3. Predicado: explicou a matéria com paciência aos alunos → verbal  
-4. Transitividade: VTD + VTI? Sim: explicou algo (OD) a alguém (OI) → VTDI  
+2. Sujeito: O professor (pergunte: quem explicou?) ⟶ simples  
+3. Predicado: explicou a matéria com paciência aos alunos ⟶ verbal  
+4. Transitividade: VTD + VTI? Sim: explicou algo (OD) a alguém (OI) ⟶ VTDI  
 5. Complementos:  
     - OD: a matéria (explicou o quê?)  
     - OI: aos alunos (explicou a quem?)  
-6. Adjuntos: com paciência → adjunto adverbial de modo  
+6. Adjuntos: com paciência ⟶ adjunto adverbial de modo  
 7. Voz: ativa  
 8. Sem "se".
 

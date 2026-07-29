@@ -9,17 +9,17 @@
 #### Regra de próclise obrigatória
 - A próclise é obrigatória na presença de palavras atrativas.
 
-| PALAVRAS ATRATIVAS                                                          |
-| --------------------------------------------------------------------------- |
-| Pronomes demonstrativos (esse, essa, aqueles, isso, mesmo...)               |
-| Negações (nada, nem, jamais, ninguém, nunca, não, etc.)                     |
-| Advérbios (aqui, agora, muito, bem, sempre...)                              |
-| Pronomes relativos (que, quem, onde...)                                     |
-| Pronomes interrogativos (quem, qual, que, quando...)                        |                                                    
-| Pronomes indefinidos (tudo, todos, algo, qualquer, vários...)               |
-| Conjunções subordinativas (que, se, quando, como...)                        |
-| Frases exclamativas                                                         |
-| Preposição ***em*** + ***verbo no gerúndio***                               |
+| PALAVRAS ATRATIVAS                                            |
+| --------------------------------------------------------------|
+| Pronomes demonstrativos (esse, essa, aqueles, isso, mesmo...) |
+| Negações (nada, nem, jamais, ninguém, nunca, não, etc.)       |
+| Advérbios (aqui, agora, muito, bem, sempre...)                |
+| Pronomes relativos (que, quem, onde...)                       |
+| Pronomes interrogativos (quem, qual, que, quando...)          |                                                    
+| Pronomes indefinidos (tudo, todos, algo, qualquer, vários...) |
+| Conjunções subordinativas (que, se, quando, como...)          |
+| Frases exclamativas                                           |
+| Preposição ***em*** + ***verbo no gerúndio***                 |
 
 Ex: Nada **te** assusta mais.  
 Ex: Sempre **se** quer mais.  

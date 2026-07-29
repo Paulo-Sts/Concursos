@@ -9,9 +9,9 @@
   - Pronomes demonstrativos (aquela, aquelas, aqueles, aquilo);
   - Pronomes relativos (a qual, as quais).
 
-> ### Regras de uso da crase
+## Regras de Uso da Crase
 
-#### Crase obrigatória
+### Crase Obrigatória
 - Antes de palavras femininas. (Exemplo: Eu vou **à** escola.)
 - Antes dos pronomes demonstrativos femininos: aquela, aquele, aquilo. (Exemplo: Vou **à**quela festa.) 
 - Antes da locução **à moda de** mesmo que subentendido.
@@ -46,7 +46,7 @@ Ex: Nos vimos tudo à distância de 100 metros.
 > Ex: viu a tia. ⟶ vio o cachorro (sem crase)  
 > Ex: fiel à técnica de sempre. ⟶ fiel ao cachorro de sempre (tem crase).  
 
-#### Crase proibida
+### Crase Proibida
 - Não se usa crase antes de palavras masculinas. (Exemplo: Vou **a** pé àquele lugar (não há crase, pois "pé" é masculino).)
 - Não se usa crase antes de verbos. (Exemplo: Vou **a** correr (não há crase, pois "correr" é verbo).)
 - Não se usa crase antes de pronomes pessoais. (Exemplo: Ela foi **a** me ver (não há crase antes de "me").)
@@ -59,7 +59,7 @@ Ex: Falamos a ela sobre o ocorrido.
 Ex: Estive face a face com ele.  
 Ex: Era a isso que nos referíamos.
 
-#### Crase facultativa
+### Crase Facultativa
 - A crase é facultativa depois da preposição **até**.
 - A crase é facultativa antes de nomes próprios femininos.
 - A crase é facultativa antes de pronomes possessivos (no plural a crase se torna obrigatória).
