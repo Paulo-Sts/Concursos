@@ -1,4 +1,4 @@
-# Tipos de Aprendizado 3
+# Tipos de Aprendizado de Máquina 3
 
 ## 1. Outros Tipos de Aprendizado
 - Aprendizado semissupervisionado ⟶ ocorre quando o conjunto de dados está parcialmente rotulado, possuindo normalmente poucos dados com rótulos e muitos dados sem rótulos.

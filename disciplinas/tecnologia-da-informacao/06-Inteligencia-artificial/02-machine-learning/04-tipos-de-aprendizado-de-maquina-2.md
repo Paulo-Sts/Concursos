@@ -1,4 +1,4 @@
-# Tipos de Aprendizado 2
+# Tipos de Aprendizado de Máquina 2
 
 ## 1. Aprofundamento do Aprendizado Supervisionado
 - Utiliza uma base de dados previamente classificada ou rotulada para o treinamento do algoritmo.
