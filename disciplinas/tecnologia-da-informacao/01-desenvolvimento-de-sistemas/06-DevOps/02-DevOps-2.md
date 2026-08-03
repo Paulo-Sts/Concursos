@@ -1,4 +1,4 @@
-# DevOps 2: Princípios, Pilares e Práticas
+# DevOps 2
 
 ## 1. Princípios e Pilares do DevOps
 - O DevOps baseia-se em fundamentos específicos para que a cultura se desenvolva e pilares que trazem a sustentação necessária.
@@ -45,6 +45,7 @@
 ### Tabela de Ferramentas e Conceitos
 
 | FERRAMENTA OU CONCEITO | FINALIDADE PRINCIPAL | EXEMPLO DE APLICAÇÃO |
+|---|---|---|
 | DOCKER | Programação de instâncias | Ambientes de contêineres |
 | GITLAB OU OPENSHIFT | Controle de publicação | Publicação da solução na produção |
 | CI/CD | Método de entrega | Integração e implantação contínuas |

@@ -2,7 +2,6 @@
 
 ## 1. Definição
 - CI/CD refere-se a um conjunto de boas práticas empregadas no desenvolvimento de software que promovem a automação e agilidade nas entregas e integração de sistemas;
-- O tema é um tópico recorrente em editais e frequentemente associado às práticas DevOps, embora não se limite a este contexto;
 - Estabelece um ciclo contínuo e repetitivo essencial para garantir a entrega de software de forma concisa e segura ao cliente;
 - O processo permite que os sistemas sejam atualizados frequentemente, garantindo que o cliente receba as atualizações de maneira confiável e organizada.
 

@@ -1,11 +1,10 @@
-# Desenvolvimento Web: DevOps
+# DevOps
 
 ## 1. Contexto e Evolução do DevOps
 - Houve uma preocupação específica com o desenvolvimento ágil entre o final da década de 1980 e o início da de 1990.
 - O Manifesto Ágil elaborado em 2001 e 2002 focou em entregas rápidas e interação com o usuário mas negligenciou a área de infraestrutura.
 - A infraestrutura é componente essencial para a segurança e exige que elementos em produção sejam previamente testados seguindo critérios rigorosos.
 - O DevOps surgiu para integrar as áreas de desenvolvimento e infraestrutura garantindo que as entregas sejam seguras e eficazes.
-- A relevância do tema em provas de concursos aumentou a partir de 2020 em função do trabalho remoto e maior acesso às estruturas de tecnologia da informação.
 
 > [!CAUTION] OBSERVAÇÃO: 
 > - Os editais podem incluir o conteúdo de DevOps mesmo quando mencionam apenas métodos ágeis devido à integração crescente entre as áreas.
@@ -36,14 +35,6 @@
   - Maior resiliência nas entregas com aumento da robustez e estabilidade via testes contínuos;
   - Melhoria do clima organizacional através de uma comunicação mais eficaz e harmoniosa;
   - Redução de riscos e falhas pela minimização da probabilidade de erros humanos através da automação.
-
-## 5. Tabela de Diferenciações em Provas
-| CONCEITO | VERDADEIRO OU FALSO | EXPLICAÇÃO DIDÁTICA |
-|---|---|---|
-| Tecnologia open source | Falso | Pode ser aplicado em softwares de licenciamento aberto ou fechado |
-| Função ou cargo específico | Falso | Trata-se de uma cultura organizacional e não de uma função profissional |
-| Ferramenta de automação | Falso | É um modelo que utiliza ferramentas mas baseia-se em filosofia e práticas |
-| Ciclos longos e lineares | Falso | Promove ciclos curtos e frequentes de lançamento e entrega contínua |
 
 > [!TIP] DICAS: 
 > - O entendimento dos princípios do Manifesto Ágil como sprints e releases é considerado pré-requisito fundamental para a implementação do DevOps.
