@@ -1,4 +1,4 @@
-# Engenharia de Software Kanban
+# Kanban
 
 ## 1. Conceitos de Kanban e Toyotismo
 - O termo kanban possui origem japonesa e significa cartão ou sinalização.
@@ -26,7 +26,7 @@
 - A qualidade é um fator crítico, impedindo que o software seja finalizado sem passar por testes, análise estática e avaliação do cliente.
 
 > [!TIP] DICAS: 
-> - Não confunda retrabalho com refaturação; a refaturação é uma prática positiva feita para manter o código com alta qualidade, enquanto o retrabalho é considerado desperdício.
+> - Não confunda retrabalho com refatoração; a refatoração é uma prática positiva feita para manter o código com alta qualidade, enquanto o retrabalho é considerado desperdício.
 
 ## 4. Comparação entre Sistemas Pull e Push
 - O sistema original da toyota adotou o pull system ⟶ o trabalho é puxado pela demanda real.

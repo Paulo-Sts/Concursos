@@ -1,4 +1,4 @@
-# Engenharia de Software Desenvolvimento Ágil
+# Desenvolvimento Ágil
 
 ## 1. Fundamentos do Desenvolvimento Ágil
 - Os métodos ágeis são concebidos para a produção rápida de softwares úteis.
@@ -30,10 +30,6 @@
 - Software em funcionamento mais que documentação abrangente;
 - Colaboração com o cliente mais que negociação de contratos;
 - Responder a mudanças mais que seguir um plano.
-
-> [!TIP] DICAS: 
-> - Ter conhecimento de métodos ágeis fora da cobrança do edital ajuda a eliminar itens errados em questões.
-> - Embora existam valores nos itens à direita dos valores do manifesto, os itens à esquerda são mais valorizados.
 
 ## 5. Princípios do Manifesto Ágil
 - O manifesto é regido por 12 princípios fundamentais que orientam o desenvolvimento.

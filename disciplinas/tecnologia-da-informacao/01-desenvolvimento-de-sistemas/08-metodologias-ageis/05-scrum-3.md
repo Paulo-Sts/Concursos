@@ -1,4 +1,4 @@
-# Engenharia de Software Scrum e Escalonamento
+# Scrum 3
 
 ## 1. Estimativas e Símbolos
 - Além do planning poker tradicional, o método contempla as técnicas de triangulação e estimativa por afinidade.

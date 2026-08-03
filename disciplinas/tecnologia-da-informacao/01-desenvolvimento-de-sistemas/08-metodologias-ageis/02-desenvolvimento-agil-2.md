@@ -1,4 +1,4 @@
-# Engenharia de Software Desenvolvimento Ágil 2
+# Desenvolvimento Ágil 2
 
 ## 1. Camadas da Engenharia de Software
 - A engenharia de software é definida como a aplicação de uma abordagem sistemática, disciplinada e quantificável no desenvolvimento, na operação e na manutenção de software.

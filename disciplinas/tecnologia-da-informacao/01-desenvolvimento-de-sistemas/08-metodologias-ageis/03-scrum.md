@@ -1,4 +1,4 @@
-# Engenharia de Software Scrum
+# Scrum
 
 ## 1. Introdução ao Método Scrum
 - O Scrum é um dos métodos de desenvolvimento ágil mais utilizados atualmente no mercado e na área pública.

@@ -1,4 +1,4 @@
-# Engenharia de Software Scrum e Métricas
+#  Scrum 2
 
 ## 1. Papel do Scrum Master e Facilitador
 - A equipe possui poderes para tomar decisões, evitando propositalmente o termo gerente de projeto.
