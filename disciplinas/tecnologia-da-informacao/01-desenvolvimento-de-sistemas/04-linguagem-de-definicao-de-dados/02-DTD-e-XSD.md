@@ -1,4 +1,4 @@
-# DTD e XSD
+# Tecnologias XML: DTD e XSD
 
 ## 1. Introdução e Contexto do DTD
 - O propósito principal da tecnologia DTD é validar o arquivo XML, garantindo que o documento esteja em conformidade com as regras estruturais definidas.
