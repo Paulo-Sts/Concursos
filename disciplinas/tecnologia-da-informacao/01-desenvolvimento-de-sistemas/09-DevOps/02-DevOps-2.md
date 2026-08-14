@@ -1,7 +1,7 @@
 # DevOps 2
 
 ## 1. Princípios e Pilares do DevOps
-- O DevOps baseia-se em fundamentos específicos para que a cultura se desenvolva e pilares que trazem a sustentação necessária.
+- O DevOps baseia-se em fundamentos específicos para que a cultura se desenvolva em pilares que trazem a sustentação necessária.
 - Princípios fundamentais incluem a colaboração entre equipes, automação de processos produtivos e implementação contínua.
 - As ações são voltadas ao cliente com foco em gerar valor e criar soluções com o final em mente de forma prospectiva.
 - Diferenciação conceitual:

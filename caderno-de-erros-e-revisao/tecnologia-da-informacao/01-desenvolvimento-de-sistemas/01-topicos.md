@@ -1,27 +1,71 @@
 # Tópicos 
 
-| NOME | SITUAÇÃO | APROVEITAMENTO |
-|---|---|---|
-| Arquitetura de Software |  |  |
-| Ambientes Internet |  |  |
-| Protocolos de Comunicação |  |  |
-| LDD |  |  |
-| Orquestração de Serviços |  |  |
-| Containers |  |  |
-| Metodologias Ágeis |  |  |
-| Engenharia de Software |  |  |
-| DevOps |  |  |
-| Ferramentas de Desenvolvimento |  |  |
-| RPA |  |  |
-| Sistemas de Gestão de Conteúdo |  |  |
-| Javascript |  |  |
-| Front-end Web |  |  |
-| Mobile |  |  |
-| UX e UI |  |  |
-| React Native |  |  |
-| Blockchain |  |  |
-| Infraestrutura como Código |  |  |
-| Java |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+- Arquitetura de Software:
+  - Conceitos
+  - OO
+  - Cliente servidor
+  - SOA e web services
+  - Rest
+  - Mensageria   
+- Ambientes Internet:
+  - Conceitos
+  - Portais  
+- Protocolos de Comunicação:
+  - HTTP/HTTPS
+  - SSL  
+- LDD
+- Orquestração de Serviços:
+  - Arquitetura hexagonal
+  - Api gateway
+  - Microsserviços  
+- Containers:
+  - Docker
+  - Rancher
+  - Kubernetes
+  - Harbor
+  - Segurança  
+- Metodologias Ágeis:
+  - Dev agil
+  - Scrum
+  - Kanban
+  - XP  
+- Engenharia de Software:
+  - Conceitos gerais
+  - RUP
+  - Requisitos
+  - Teste
+  - Qualidade
+  - Pontos de função
+  - Gerenciamento  
+- DevOps ✅
+- Ferramentas de Desenvolvimento:
+  - Low/No code
+  - Git
+  - SonarQube  
+- RPA 
+- Sistemas de Gestão de Conteúdo 
+- Javascript 
+- Front-end Web: 
+  - HTML/CSS
+  - Ajax
+  - Vue
+  - Angular
+  - React
+- Mobile:
+  - Android
+  - Ios
+  - Kotlin  
+- UX e UI:
+  - Inteface
+  - Webstandards
+- React Native 
+- Blockchain ✅
+- Infraestrutura como Código:
+  - IAC
+  - Ansible 
+- Java 
+- Frameworks java:
+  - JPA
+  - JSF
+  - Spring
+- Junit
