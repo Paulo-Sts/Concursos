@@ -60,13 +60,13 @@
 
 ### 4.1 Entradas para a Análise Crítica
 - A análise conduzida pela direção deve considerar obrigatoriamente os seguintes elementos:
-- Situação de ações decorrentes de análises críticas anteriores;
-- Mudanças em questões internas e externas que sejam relevantes para o SGSI;
-- Mudanças nas necessidades e expectativas das partes interessadas;
-- Feedback sobre o desempenho da segurança da informação, incluindo tendências de não conformidades e resultados de monitoramento e auditorias;
-- Grau de cumprimento dos objetivos de segurança estabelecidos;
-- Resultados da avaliação de riscos e o status atual do plano de tratamento de riscos;
-- Oportunidades identificadas para a melhoria contínua.
+  - Situação de ações decorrentes de análises críticas anteriores;
+  - Mudanças em questões internas e externas que sejam relevantes para o SGSI;
+  - Mudanças nas necessidades e expectativas das partes interessadas;
+  - Feedback sobre o desempenho da segurança da informação, incluindo tendências de não conformidades e resultados de monitoramento e auditorias;
+  - Grau de cumprimento dos objetivos de segurança estabelecidos;
+  - Resultados da avaliação de riscos e o status atual do plano de tratamento de riscos;
+  - Oportunidades identificadas para a melhoria contínua.
 
 ### 4.2 Saídas da Análise Crítica
 - Os resultados da análise pela direção devem incluir decisões sobre oportunidades de melhoria e quaisquer necessidades de mudanças no sistema.
@@ -76,11 +76,11 @@
 #### Considerações da Análise Crítica
 | CATEGORIA | ELEMENTOS DE ANÁLISE |
 |---|---|
-| HISTÓRICO | Situação das ações de análises críticas anteriores. |
-| CONTEXTO | Mudanças internas, externas e expectativas de partes interessadas. |
-| DESEMPENHO | Tendências de não conformidades, monitoramento e auditorias. |
-| RISCOS | Resultados da avaliação e situação do plano de tratamento. |
-| MELHORIA | Decisões sobre oportunidades de aprimoramento e mudanças no sistema. |
+| Histórico | Situação das ações de análises críticas anteriores. |
+| Contexto | Mudanças internas, externas e expectativas de partes interessadas. |
+| Desempenho | Tendências de não conformidades, monitoramento e auditorias. |
+| Riscos | Resultados da avaliação e situação do plano de tratamento. |
+| Melhoria | Decisões sobre oportunidades de aprimoramento e mudanças no sistema. |
 
 > [!TIP] DICAS: 
 > - A documentação de cada processo (auditoria, análise de risco e análise crítica) é o que garante a rastreabilidade e comprova a execução efetiva do sistema para os gestores e auditores ⟶ sem evidência documentada, não há comprovação de conformidade.

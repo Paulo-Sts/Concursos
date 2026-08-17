@@ -48,9 +48,6 @@
 - Data Warehouse.
 - Aplicações de Front-end para o usuário final.
 
-> [!CAUTION] OBSERVAÇÃO: 
-> - Os principais componentes da arquitetura de um sistema de BI são: data warehouse, análise de negócio, business process management e interfaces do usuário.
-
 | COMPONENTE | FUNÇÃO |
 |------------|--------|
 | Fontes de dados | Ambientes operacionais com aplicativos de gestão, onde consumidores e fornecedores interagem com sistemas administrativos |
@@ -59,6 +56,7 @@
 | Plataforma de BI | Conjunto de ferramentas que disponibiliza dados para consulta e processamento pelo usuário |
 
 > [!CAUTION] OBSERVAÇÃO: 
+> - Os principais componentes da arquitetura de um sistema de BI são: data warehouse, análise de negócio, business process management e interfaces do usuário.
 > - Em sistemas de BI, a coleção de ferramentas para manipular e analisar dados no DW denomina-se Análise de Negócio, não OLAP, BPM, Dashboard ou Processamento de Transações.
 > - O ETL insere os dados diretamente no DW, não no banco de dados comum.
 > - A estrutura geral do BI demanda que todos os componentes sejam delineados de forma lógica.

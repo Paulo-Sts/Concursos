@@ -31,10 +31,10 @@
 ### 2.1 Categorias de Controles
 | GRUPO DE CONTROLES | DESCRIÇÃO E FOCO |
 |---|---|
-| ORGANIZACIONAIS | Relacionados à governança, gestão de riscos e políticas de segurança da informação. |
-| PESSOAIS | Aspectos de segurança em relação ao pessoal, como recrutamento, treinamento e incidentes. |
-| FÍSICOS | Referem-se à proteção de ativos físicos e ao controle de acesso aos locais da organização. |
-| TECNOLÓGICOS | Incluem aspectos técnicos como controle de acesso a sistemas, criptografia e proteção contra malware. |
+| Organizacionais | Relacionados à governança, gestão de riscos e políticas de segurança da informação. |
+| Pessoais | Aspectos de segurança em relação ao pessoal, como recrutamento, treinamento e incidentes. |
+| Físicos | Referem-se à proteção de ativos físicos e ao controle de acesso aos locais da organização. |
+| Tecnológicos | Incluem aspectos técnicos como controle de acesso a sistemas, criptografia e proteção contra malware. |
 
 > [!TIP] DICAS: 
 > - Para memorizar os grupos de controles do Anexo A para a prova, utilize a classificação: Organizacionais, Pessoais, Físicos e Tecnológicos.

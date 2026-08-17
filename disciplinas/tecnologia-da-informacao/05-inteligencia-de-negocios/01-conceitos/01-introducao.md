@@ -1,6 +1,6 @@
 # Business Intelligence
 
-## 1. Conceito e Definição
+## 1. Conceito
 - Business intelligence é um processo inteligente de coleta, organização, análise, compartilhamento e monitoração de dados que, depois de processados, geram informações para o suporte e para a tomada de decisões no ambiente de negócios.
 - Conjunto de processos, tecnologias e ferramentas que auxiliam as organizações a obter insights significativos a partir de seus dados.
 - Permite a tomada de decisões baseada em informações.
@@ -93,4 +93,3 @@
 
 > [!CAUTION] OBSERVAÇÃO: 
 > - O principal objetivo do BI é possibilitar acesso interativo a dados, não não-interativo (somente leitura).
-> - O BI não é a inteligência da empresa que tem por base os sistemas modernos de informatização.

@@ -93,11 +93,11 @@
   - Ser atualizados conforme a necessidade e mudanças de contexto;
   - Ser disponibilizados como informação documentada.
   - Ao realizar o planejamento para atingir os objetivos, a organização deve determinar elementos específicos:
-  - O que será feito;
-  - Quais recursos serão necessários para a execução;
-  - Quem será a pessoa ou área responsável;
-  - Quando a atividade estará concluída;
-  - Como os resultados serão devidamente avaliados.
+    - O que será feito;
+    - Quais recursos serão necessários para a execução;
+    - Quem será a pessoa ou área responsável;
+    - Quando a atividade estará concluída;
+    - Como os resultados serão devidamente avaliados.
 - A definição prévia dos critérios de avaliação é necessária para verificar se os resultados correspondem aos objetivos e garantir a efetividade do sistema.
 
 ## 6. Mudanças no Sistema de Gestão da Segurança da Informação

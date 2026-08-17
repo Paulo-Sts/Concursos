@@ -82,7 +82,7 @@
   - Aumentar a eficiência e eficácia do processo de decisão;
   - Reduzir a incerteza e o risco envolvidos.
 
-### 3.2 Características dos DSS
+### 3.2 Características dos SSD
 - Combinam dados e modelos analíticos sofisticados.
 - Possuem interface amigável para apoiar a tomada de decisão.
 - Permitem fácil execução de análises de sensibilidade.
@@ -100,7 +100,7 @@
 - Problemas estruturados não necessitam de sistemas de apoio à decisão.
 - Problemas não estruturados exigem julgamento humano, intuição e criatividade.
 - A tomada de decisão não é realizada apenas baseada na intuição humana, mas a partir de um sistema de apoio alimentado por dados.
-- Os DSS auxiliam os tomadores de decisão, não os substituem.
+- Os SSD auxiliam os tomadores de decisão, não os substituem.
 
 ### 3.5 Análise de Sensibilidade
 - É o estudo do impacto que as mudanças em uma ou mais partes de um modelo têm em outras partes ou no resultado.
@@ -108,10 +108,10 @@
 - É extremamente valiosa nos Sistemas de Suporte à Decisão.
 
 ### 3.6 Interatividade
-- O DSS é interativo, permitindo acesso interativo aos dados.
+- O SSD é interativo, permitindo acesso interativo aos dados.
 - Oferece operações OLAP, dashboards e gráficos interativos.
 
-### 3.7 Níveis Organizacionais e DSS
+### 3.7 Níveis Organizacionais e SSD
 - No nível estratégico, os DSS utilizam dados internos da própria empresa, complementados por dados externos do mercado onde a empresa atua.
 - Os sistemas de apoio à decisão podem ser utilizados tanto no nível gerencial quanto no estratégico.
 
@@ -122,15 +122,15 @@
 - Conclui com a tomada de decisão propriamente dita.
 
 > [!TIP] DICAS:
-> - O DSS é voltado para problemas não estruturados, jamais para problemas estruturados.
-> - A análise de sensibilidade é uma ferramenta valiosa nos DSS, permitindo avaliar impactos de mudanças.
-> - Os DSS são interativos, não apenas sistemas de leitura de dados.
-> - No nível estratégico, o DSS utiliza dados internos E externos, complementando as análises.
+> - O SSD é voltado para problemas não estruturados, jamais para problemas estruturados.
+> - A análise de sensibilidade é uma ferramenta valiosa nos SSD, permitindo avaliar impactos de mudanças.
+> - Os SSD são interativos, não apenas sistemas de leitura de dados.
+> - No nível estratégico, o SSD utiliza dados internos E externos, complementando as análises.
 > - A árvore de decisão com abordagem de predição é utilizada em sistemas de suporte à decisão.
 
 > [!CAUTION] OBSERVAÇÃO:
-> - O DSS não substitui o tomador de decisão; apenas o auxilia no processo.
+> - O SSD não substitui o tomador de decisão; apenas o auxilia no processo.
 > - O OLAP não é o mesmo que OLTP: OLAP é analítico, enquanto OLTP é transacional.
 > - O Data Lake com dados não estruturados não pode ser considerado um sistema de suporte à decisão.
-> - Os DSS não automatizam completamente o processo de decisão, pois exigem participação humana.
-> - Aplicações de DSS são encontradas nas mais diversificadas áreas, não apenas no comércio eletrônico.
+> - Os SSD não automatizam completamente o processo de decisão, pois exigem participação humana.
+> - Aplicações de SSD são encontradas nas mais diversificadas áreas, não apenas no comércio eletrônico.

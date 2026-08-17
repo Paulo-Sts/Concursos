@@ -114,14 +114,3 @@
 #### 2.3.7 GOLAP
 - OLAP gráfico.
 - Utiliza gráficos e visualizações para auxiliar na análise e exploração dos dados.
-
-### 2.4 Resumo das Variações OLAP
-| VARIAÇÃO | ARMAZENAMENTO | CARACTERÍSTICA PRINCIPAL |
-|----------|---------------|--------------------------|
-| MOLAP    | Multidimensional | Dados em cubos; consultas rápidas; propenso à explosão de dados |
-| ROLAP    | Relacional     | Trabalha com bancos de dados relacionais; não faz pré-computação |
-| HOLAP    | Híbrido        | Combina MOLAP e ROLAP (partes em cada formato) |
-| WOLAP    | Variado        | Baseado em web |
-| DOLAP    | Local          | Desktop |
-| RTOLAP   | Variado        | Tempo real |
-| GOLAP    | Variado        | Foco em gráficos e visualizações |
