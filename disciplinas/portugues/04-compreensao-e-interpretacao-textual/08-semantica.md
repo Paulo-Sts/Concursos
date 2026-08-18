@@ -68,7 +68,43 @@
 - Substituir termos por outros mais precisos.
 - Reorganizar a ordem dos termos (sujeito + verbo + complementos de forma direta).
 
-## 5. Observação para Provas
-- O foco geralmente está no reconhecimento da ambiguidade ou da linguagem figurada, não na interpretação profunda.
-- É importante distinguir entre sentido literal e figurado.
-- A identificação de relações semânticas (hiperonímia, sinonímia, etc.) é comum em questões de coesão textual.
+## 5. Adequação Vocabular
+
+### 5.1 Onde vs. Aonde
+- Onde (Lugar Fixo): Use com verbos de permanência (estar, morar, ficar), que pedem a preposição "em". Dica: Substitua por "em que".
+- Aonde (Movimento): Use com verbos que pedem a preposição "a" (ir, chegar, levar). Dica: Substitua por "para onde".
+
+### 5.2 Ao encontro de vs. De encontro a
+- Ao encontro de (Concordância/Favorável): Ideia de união, acordo ou harmonia. Dica: "Sua ideia veio ao encontro do meu pensamento" (concordo).
+- De encontro a (Oposição/Colisão): Ideia de choque, conflito ou desacordo. Dica: "O carro foi de encontro à parede" (bateu)/"Essa medida vai de encontro aos meus princípios" (sou contra).
+
+### 5.3 A cerca de vs. Há cerca de vs. Acerca de
+- A cerca de (Distância/Tempo Futuro): Indica aproximação de distância ou tempo que vai chegar. Exemplo: "A prova será daqui a cerca de um mês."
+- Há cerca de (Tempo Passado): Verbo haver indicando tempo decorrido. Exemplo: "Estudo para a Dataprev há cerca de dois meses."
+- Acerca de (Sobre/Assunto): Equivale a "a respeito de". Exemplo: "Conversamos acerca da LGPD."
+
+### 5.4 A fim de vs. Afim
+- A fim de (Finalidade): Separado. Indica objetivo/propósito. Dica: Equivale a "para". ("Estudou a fim de passar.")
+- Afim (Semelhança): Junto. Adjetivo de afinidade ou parentesco. Dica: Pense em "ideias afins" ou "interesses afins".
+
+### 5.5 Senão vs. Se não
+- Senão (Caso contrário/A não ser): Palavra única. Dica: Troque por "do contrário" ou "a não ser". ("Estude, senão não passa.")
+- Se não (Condição): Duas palavras. Dica: Troque por "caso não". ("Se não chover, farei a prova.")
+
+### 5.6 Há vs. A (Tempo)
+- Há (Passado): Verbo haver. Dica: Se puder trocar por "faz", use Há. ("Moro aqui há [faz] 3 anos.")
+- A (Futuro/Distância): Preposição simples. Dica: Tempo futuro. ("A prova será daqui a duas semanas.")
+
+### 5.7 Tampouco vs. Tão pouco
+- Tampouco (Também não): Uma palavra só. Equivale a "nem mesmo". Exemplo: "Não fez o resumo, tampouco resolveu questões."
+- Tão pouco (Muito pouco): Duas palavras. Indica quantidade pequena. Exemplo: "Dormiu tão pouco que ficou cansado."
+
+### 5.8 Em vez de vs. Ao invés de
+- Em vez de (Substituição Geral): Serve para trocar qualquer coisa. Exemplo: "Estudou Python em vez de Java."
+- Ao invés de (Oposição Exata): Só use para antônimos exatos (subir/descer, entrar/sair). Exemplo: "Subiu ao invés de descer."
+
+> [!CAUTION] OBSERVAÇÃO: 
+> - O foco geralmente está no reconhecimento da ambiguidade ou da linguagem figurada, não na interpretação profunda.
+> - É importante distinguir entre sentido literal e figurado.
+> - A identificação de relações semânticas (hiperonímia, sinonímia, etc.) é comum em questões de coesão textual.
+
