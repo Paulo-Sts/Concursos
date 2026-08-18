@@ -71,8 +71,8 @@
 ## 5. Adequação Vocabular
 
 ### 5.1 Onde vs. Aonde
-- Onde (Lugar Fixo): Use com verbos de permanência (estar, morar, ficar), que pedem a preposição "em". Dica: Substitua por "em que".
-- Aonde (Movimento): Use com verbos que pedem a preposição "a" (ir, chegar, levar). Dica: Substitua por "para onde".
+- Onde (Lugar Fixo): Use com verbos de permanência (estar, morar, ficar), ou que pedem a preposição "em". Dica: Substitua por "em que".
+- Aonde (Movimento): Use com verbos que pedem a preposição "a" (ir, chegar, levar). Dica: Substitua por "para onde" se a frase fizer sentido usa-se aonde.
 
 ### 5.2 Ao encontro de vs. De encontro a
 - Ao encontro de (Concordância/Favorável): Ideia de união, acordo ou harmonia. Dica: "Sua ideia veio ao encontro do meu pensamento" (concordo).
