@@ -60,6 +60,8 @@
   - Webstandards
 - React Native 
 - Blockchain ✅
+- BigData
+- Análise de Dados
 - Infraestrutura como Código:
   - IAC
   - Ansible 
