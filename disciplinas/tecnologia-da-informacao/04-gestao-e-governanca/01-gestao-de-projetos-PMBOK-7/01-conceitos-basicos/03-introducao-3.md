@@ -21,8 +21,6 @@
 | Honestidade | Compromisso com a verdade na conduta e comunicações |
 
 ## 3. Os 12 Princípios de Gerenciamento de Projetos
-- Representam guias para a conduta e tomada de decisão no projeto.
-- Não existe hierarquia ou ordem de preferência entre eles.
 - Administração (Intendência) ⟶ atuar como administrador diligente, respeitoso e atencioso.
 - Equipe ⟶ criação de um ambiente colaborativo.
 - Partes Interessadas ⟶ engajamento efetivo com os stakeholders.
@@ -35,6 +33,10 @@
 - Risco ⟶ otimização das respostas aos riscos.
 - Resiliência ⟶ adoção de capacidade de adaptação e resiliência.
 - Mudança ⟶ aceitação da mudança para o estado futuro previsto.
+
+> [!CAUTION] OBSERVAÇÃO: 
+> - Representam guias para a conduta e tomada de decisão no projeto.
+> - Não existe hierarquia ou ordem de preferência entre eles.
 
 ### 3.1 Administração ou Intendência
 - Administradores agem com integridade, cuidado e confiabilidade.
@@ -91,6 +93,6 @@
 > - Análises SWOT são exemplos práticos da aplicação do pensamento sistêmico para antecipação de riscos.
 
 > [!CAUTION] OBSERVAÇÃO: 
-> - Pegadinha de Banca: Responsabilidade e respeito SÃO valores fundamentais para a comunidade de gestão de projetos.
+> - Pegadinha de Banca: Responsabilidade e respeito são valores fundamentais para a comunidade de gestão de projetos.
 > - A administração (intendência) não se limita apenas às responsabilidades internas, envolvendo também o ambiente externo e mercado.
 > - O custo da mudança aumenta progressivamente com o tempo, tornando alterações mais onerosas ao final do projeto.

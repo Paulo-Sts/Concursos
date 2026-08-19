@@ -1,4 +1,4 @@
-# Gestão de Projetos Pmbok 7ª Edição IV
+# Gestão de Projetos Pmbok 7ª Edição 4
 
 ## 1. Princípio da Liderança
 - Demonstração e adaptação de comportamentos para apoiar necessidades individuais e da equipe.
@@ -16,7 +16,7 @@
   - Solidário;
   - Autocrático até o consenso.
 
-### 1.1 Diferenciação Entre Líder e Chefe
+### 1.1 Diferenciação entre Líder e Chefe
 - A liderança baseia-se na capacidade de influenciar um grupo em direção ao alcance de objetivos.
 - O líder utiliza influência provinda de processo informal baseado na confiança das pessoas.
 - A chefia orienta-se pela estrutura organizacional, autoridade formal, disciplina e controle.

@@ -13,7 +13,7 @@
 - Foco direcionado para os resultados pretendidos e valor entregue, superando a visão restrita apenas em entregas;
 - As 10 áreas de conhecimento das edições passadas foram substituídas por 8 domínios de desempenho.
 
-### Comparação de Estrutura Entre Edições
+### Comparação de Estrutura entre Edições
 | CARACTERÍSTICA | PMBOK 6ª EDIÇÃO | PMBOK 7ª EDIÇÃO |
 |---|---|---|
 | Abordagem principal | Orientada por processos | Orientada por princípios |

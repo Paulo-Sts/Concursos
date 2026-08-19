@@ -26,7 +26,7 @@
 - Foca no gerenciamento de processos que transformam entradas em saídas de forma constante.
 - As operações estão formalmente fora do escopo de um projeto, mas integram o sistema global de entrega de valor.
 
-### 2.1 Relação Entre Projetos e Operações
+### 2.1 Relação entre Projetos e Operações
 - O projeto é um esforço temporário que gera resultados únicos.
 - As operações possuem resultados repetitivos e contínuos.
 - Cruzamento de áreas ⟶ projetos e operações podem se cruzar em vários pontos durante o ciclo de vida do produto.

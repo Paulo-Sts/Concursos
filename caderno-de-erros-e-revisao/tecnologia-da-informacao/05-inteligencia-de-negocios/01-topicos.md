@@ -6,8 +6,8 @@
   - Data Warehouse ✅
   - Data mart ✅
   - ETL ✅
-  - ELT ✅ Falta fazer questões
-  - Modelo dimensional ✅ Falta fazer questões
+  - ELT ✅
+  - Modelo dimensional ✅ Falta fazer questões (Não fiz o 9)
   - Operaçoes OLAP ✅ Falta fazer questões
   - BI e SSD ✅ Falta fazer questões
   - BI3 ✅ Falta fazer questões

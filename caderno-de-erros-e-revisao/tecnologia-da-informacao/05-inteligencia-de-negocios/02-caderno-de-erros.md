@@ -103,3 +103,53 @@ e. Verificação de cálculos inválidos.
 
 - Na etapa de transformação, é necessário realizar a avaliação estocástica dos metadados, a discretização de atributos numéricos, a imputação de valores ausentes, a seleção de atributos relevantes e a verificação de cálculos inválidos.
 - Resposta: A
+
+> ##### (FUNDATEC/2023/BRDE/ANALISTA DE SISTEMAS - CIÊNCIA DE DADOS) 
+> ##### 10. Analise as assertivas abaixo, assinalando DW, para as características de Data Warehouse, ou DL, para as características de Data Lakes.
+
+(  ) O esquema é gravado no momento da análise, denominado esquema de leitura.  
+(  ) Quanto à qualidade dos dados, os dados são altamente selecionados e representam a versão central da verdade.  
+(  ) Utilizam dados não relacionais e relacionais oriundos de dispositivos como aplicações móveis, mídia social, IoT (Internet das Coisas), aplicações corporativas, entre outras.  
+(  ) Os resultados das consultas são mais rápidos e as análises são relatórios em lote e visualizações.  
+A ordem correta de preenchimento dos parênteses, de cima para baixo, é:  
+
+a. DW – DL – DL – DW.  
+b. DW – DW – DL – DL.  
+c. DW – DL – DW – DL.  
+d. DL – DW – DL – DW.  
+e. DL – DL – DW – DW.  
+
+- No DW, quanto à qualidade dos dados, os dados são altamente selecionados e representam a versão central da verdade e os resultados das consultas são mais rápidos e as análises são relatórios em lote e visualizações. 
+- No DL, o esquema é gravado no momento da análise, denominado esquema de leitura, e o DL utiliza dados não relacionais e relacionais oriundos de dispositivos como aplicações móveis, mídia social, IoT (Internet das Coisas), aplicações corporativas, entre outras.
+- Resposta: D
+
+> ##### (PROVA: CESPE/CEBRASPE/2025/BDMG/ANALISTA DE DESENVOLVIMENTO/INFRAESTRUTURA E SEGURANÇA CIBERNÉTICA) 
+> ##### 11. Acerca da modelagem de dados, julgue o próximo item. O esquema estrela constitui-se de uma tabela de fatos, várias tabelas de dimensão e chaves estrangeiras da tabela de fatos para as tabelas de dimensão.
+
+- O esquema estrela (Star Scheme) apresenta uma tabela de fatos, diversas tabelas de dimensão e chaves estrangeiras partindo da tabela de fatos em direção às tabelas de
+dimensão, configurando a estrutura básica do modelo dimensional. Na tabela fato, existe chave primária para identificar chave surrogate e, em regra, constam medidas numéricas, como valor da venda e lucro da venda, além de chaves estrangeiras. 
+- Como exemplo, existe chave estrangeira referente ao local em que cada venda ocorreu, a qual referencia a tabela de dimensão local. Na dimensão local, existe código como chave primária e atributos descritivos, como cidade e endereço, e demais informações relacionadas ao local da compra.
+- Resposta: Certo
+
+> ##### (PROVA: FUNCERN/2025/IF-PE/TÉCNÓLOGO/FORMAÇÃO GESTÃO DE TECNOLOGIA DA INFORMAÇÃO) 
+> ##### 12. A planilha a seguir foi resultado da exportação dos dados de um Sistema de Informação: Deseja-se transformar essa planilha de acordo com as boas práticas da Modelagem Dimensional, técnica voltada para construção de sistemas de Business Intelligence, com o objetivo de criar uma tabela de fatos sobre a venda de produtos, além de uma ou mais tabelas de dimensões, conforme seja necessário. O resultado dessa transformação deve criar:
+
+| CLIENTE | PRODUTO | QUANTIDADE_ITENS | TOTAL_VENDA |
+|---|---|---|---|
+| Cliente 1      | Produto A       | 2               | 30,00  |
+| Cliente 2      | Produto B       | 3               | 24,00  |
+| Cliente 3      | Produto A       | 1               | 10,00  |
+| Cliente 1      | Produto C       | 3               | 63,00  |
+
+a) uma tabela de dimensão para clientes e uma outra tabela de dimensão para produtos, mantendo, na tabela de fatos, as chaves estrangeiras para essas tabelas de dimensão e as medidas quantidade_itens e total_venda.  
+b) uma tabela de dimensão para clientes, mantendo, na tabela de fatos, a chave estrangeira para essa tabela de dimensão e as medidas produto, quantidade_itens e total_venda.  
+c) tabelas de dimensão para quantidade_itens e total_venda, mantendo, na tabela de fatos, as medidas cliente e produto, além das chaves estrangeiras para as tabelas de dimensão.  
+d) uma tabela de dimensão para clientes e uma outra tabela de dimensão para quantidade_itens, mantendo, na tabela de fatos, as chaves estrangeiras para essas tabelas e as medidas produto e total_venda.  
+e) uma tabela igual à que se vê na planilha, sendo desnecessária a criação de tabelas de dimensão ou chaves estrangeiras, cujas medidas já estão contidas na tabela.  
+
+- a) Indica que a estrutura apresentada corresponde ao fato, com adição de dimensão cliente com detalhes do cliente e dimensão produto com detalhes do produto, considerando o campo como chave.
+- b) Produto não configura medida; produto configura descrição.
+- c) Cliente e produto não configuram medidas; configuram chaves.
+- d) Quantidade_itens configura medida numérica.
+- e) Sem criação de dimensões, não há modelagem dimensional.
+- Resposta: A
