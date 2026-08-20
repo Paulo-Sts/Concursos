@@ -1,0 +1,130 @@
+# Tópicos Revisão
+
+## 1. Desenvolvimento
+- Arquitetura de Software:
+  - Conceitos
+  - OO
+  - Cliente servidor
+  - SOA e web services
+  - Rest
+  - Mensageria   
+- Ambientes Internet:
+  - Conceitos
+  - Portais  
+- Protocolos de Comunicação:
+  - HTTP/HTTPS
+  - SSL  
+- LDD
+- Orquestração de Serviços: ✅
+  - Arquitetura hexagonal ✅
+  - Api gateway ✅
+  - Microsserviços ✅
+- Containers:
+  - Docker
+  - Rancher
+  - Kubernetes
+  - Harbor
+  - Segurança  
+- Metodologias Ágeis:
+  - Dev agil
+  - Scrum
+  - Kanban
+  - XP  
+- Engenharia de Software:
+  - Conceitos gerais
+  - RUP
+  - Requisitos
+  - Teste
+  - Qualidade
+  - Pontos de função
+  - Gerenciamento  
+- DevOps ✅
+- Ferramentas de Desenvolvimento:
+  - Low/No code
+  - Git
+  - SonarQube  
+- RPA 
+- Sistemas de Gestão de Conteúdo 
+- Javascript 
+- Front-end Web: 
+  - HTML/CSS
+  - Ajax
+  - Vue
+  - Angular
+  - React
+- Mobile:
+  - Android
+  - Ios
+  - Kotlin  
+- UX e UI:
+  - Inteface
+  - Webstandards
+- React Native 
+- Blockchain ✅
+- BigData
+- Análise de Dados
+- Infraestrutura como Código:
+  - IAC
+  - Ansible 
+- Java 
+- Frameworks java:
+  - JPA
+  - JSF
+  - Spring
+- Junit
+
+## 2. Banco de Dados
+- Modelagem
+- Normalização
+- SQL
+- Inteligência de dados
+- Tópicos Avançados:
+  - Segurança
+  - Gerenciamento de transações
+  - Algebra relacional
+  - Banco de dados distribuido
+  - Views
+  - Gatilhos e procedures
+  - Índices
+- Metadados
+- NoSQL
+- Modelos de dados  
+
+## 3. Segurança da Informação
+- NBR ISO IEC 27001 2022 ✅
+- NBR ISO IEC 27002 2022
+- SDL
+- OWASP TOP 10 2025
+- Testes de Seguranca de Aplicações
+  - Sast
+  - Dast
+
+## 4. Gestão e Governança
+- PMBOK
+  - Conceitos básicos ✅
+  - Escritorio de gerenciamento de processos
+  - Dominio das partes interessadas
+  - Domínio da equipe
+  - Domínio de desempenho do planejamento
+  - Domínio de desempenho do trabalho
+  - Domínio de desempenho da medição
+  - Domínio de desempenho da incerteza
+- COBIT
+- ITIL
+- BPMN
+
+## 5. Inteligência de Negócios
+- Conceitos:
+  - Intro ✅
+  - Componentes ✅ 
+  - Data Warehouse ✅
+  - Data mart ✅
+  - ETL ✅
+  - ELT ✅
+  - Modelo dimensional ✅ Falta fazer questões (Não fiz o 9)
+  - Operaçoes OLAP ✅ Falta fazer questões
+  - BI e SSD ✅ Falta fazer questões
+  - BI3 ✅ Falta fazer questões
+- Visualização de dados
+
+## 6. Legislação

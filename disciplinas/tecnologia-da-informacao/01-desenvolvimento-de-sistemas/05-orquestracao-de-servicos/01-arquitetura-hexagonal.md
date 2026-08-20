@@ -39,6 +39,21 @@
 - Adaptadores secundários (outbound adapters): vinculam o núcleo a sistemas de suporte como bancos de dados ou serviços externos.
 - Exemplo ⟶ implementação de repositórios que efetuam a gravação em bases SQL.
 
+## 5. Tabela Comparativa
+| Conceito | Função | Exemplos |
+|---|---|---|
+| Porta Primária | Interface que o mundo externo usa para chamar o sistema. | Interface do Caso de Uso (Service), Contrato REST (Endpoints). |
+| Adaptador Primário | Quem implementa a porta primária e inicia a ação. | Controller REST, Interface Gráfica (UI), Testes Automatizados, CLI. |
+| Porta Secundária | Interface que o sistema usa para chamar o mundo externo. | Interface de Repository, Interface de Client HTTP, Interface de Message Broker. |
+| Adaptador Secundário | Quem implementa a porta secundária (a tecnologia concreta). | RepositoryJPA, Cliente Feign/RestTemplate, Consumidor de Fila (RabbitMQ/Kafka). |
+
+> [!TIP] DICAS: 
+> - Regra do Polegar: 
+>   - Se veio de fora para dentro (entrada) ⟶ Primário. 
+>   - Se veio de dentro para fora (saída) ⟶ Secundário.
+>   - Se é a definição/contrato ⟶ Porta.
+>   - Se é a implementação concreta ⟶ Adaptador.
+
 > [!TIP] DICAS: 
 > - As classes de domínio devem ser totalmente independentes de classes de infraestrutura e sistemas externos.
 > - O núcleo da aplicação nunca deve ser responsável pelo armazenamento físico dos dados ou pela tecnologia usada para esse fim.
