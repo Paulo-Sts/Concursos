@@ -70,7 +70,7 @@
 
 | DÉCADA | TIPO DE ARQUITETURA OU PADRÃO | OBJETIVO PRINCIPAL |
 |---|---|---|
-| 1960 | Crise do software | Organizar código de fonte de maneira sustentável |
+| 1960 | Crise do software | Organizar código fonte de maneira sustentável |
 | 1970 | Monolítica e mvc | Simplificar desenvolvimento e organizar em componentes |
 | 1980 | Cliente-servidor, objetos e camadas | Distribuir carga e facilitar reutilização de código |
 | 1990 | Soap, p2p e objetos distribuídos | Comunicação entre plataformas e descentralização |

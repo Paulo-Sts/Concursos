@@ -1,13 +1,13 @@
 # Tópicos Revisão
 
 ## 1. Desenvolvimento
-- Arquitetura de Software:
-  - Conceitos
-  - OO
-  - Cliente servidor
-  - SOA e web services
-  - Rest
-  - Mensageria   
+- Arquitetura de Software: ✅
+  - Conceitos ✅
+  - OO ✅ 
+  - Cliente servidor ✅
+  - SOA e web services ✅
+  - Rest ✅
+  - Mensageria ✅    
 - Ambientes Internet:
   - Conceitos
   - Portais  

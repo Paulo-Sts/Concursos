@@ -47,10 +47,10 @@
 ## 5. Comparativo de Elementos Arquitetônicos
 | COMPONENTE | FUNÇÃO NO SISTEMA | CARACTERÍSTICA PRINCIPAL |
 |---|---|---|
-| PRODUTOR | Gerar e enviar eventos | Pode haver mais de um para o mesmo tópico |
-| BROKER | Camada de persistência | Armazena os streams de eventos |
-| TÓPICO | Agrupamento lógico | Formado por diversas partições |
-| CONSUMIDOR | Ler e processar eventos | Localizado através do offset na partição |
+| Produtor | Gerar e enviar eventos | Pode haver mais de um para o mesmo tópico |
+| Broker | Camada de persistência | Armazena os streams de eventos |
+| Tópico | Agrupamento lógico | Formado por diversas partições |
+| Consumidor | Ler e processar eventos | Localizado através do offset na partição |
 
 > [!CAUTION] OBSERVAÇÃO: 
 > - Em provas de concurso, destaque que o Apache Kafka provê integração assíncrona onde produtores e consumidores são totalmente desacoplados.

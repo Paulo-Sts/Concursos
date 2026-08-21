@@ -60,11 +60,11 @@
 
 | CONCEITO | FUNÇÃO NO SISTEMA |
 |---|---|
-| CLASSES | Conjunto de instruções ou moldes para construção |
-| OBJETOS | Instâncias reais com dados concretos |
-| ENCAPSULAMENTO | Esconder dados internos por segurança |
-| ABSTRAÇÃO | Reduzir complexidade ocultando detalhes técnicos |
-| HERANÇA | Reutilização de código através de hierarquia |
+| Classes | Conjunto de instruções ou moldes para construção |
+| Objetos | Instâncias reais com dados concretos |
+| Encapsulamento | Esconder dados internos por segurança |
+| Abstração | Reduzir complexidade ocultando detalhes técnicos |
+| Herança | Reutilização de código através de hierarquia |
 
 > [!TIP] DICAS: 
 > - Pense na classe como a planta de uma casa e no objeto como a casa pronta e mobiliada.
