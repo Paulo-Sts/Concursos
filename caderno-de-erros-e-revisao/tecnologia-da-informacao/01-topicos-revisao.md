@@ -73,7 +73,30 @@
   - Spring
 - Junit
 
-## 2. Banco de Dados
+## 2. Segurança da Informação
+- NBR ISO IEC 27001 2022 ✅
+- NBR ISO IEC 27002 2022
+- SDL
+- OWASP TOP 10 2025
+- Testes de Seguranca de Aplicações:
+  - Sast
+  - Dast
+- Nist: ✅
+  - CSF 1 ✅
+  - CSF 2 ✅
+  - CSF 3 ✅
+  - CSF 4 ✅
+  - CSF 5 ✅
+- Gestão de Incidentes: ✅
+  - Introdução ✅
+  - Prevenção de incidentes ✅
+  - Tratamento de incidentes ✅
+  - Gestão de incidentes ✅
+- Transformação Digital: ✅
+  - Transformação digital 1 ✅
+  - Transformação digital 2 ✅ 
+
+## 3. Banco de Dados
 - Modelagem
 - Normalização
 - SQL
@@ -89,15 +112,6 @@
 - Metadados
 - NoSQL
 - Modelos de dados  
-
-## 3. Segurança da Informação
-- NBR ISO IEC 27001 2022 ✅
-- NBR ISO IEC 27002 2022
-- SDL
-- OWASP TOP 10 2025
-- Testes de Seguranca de Aplicações
-  - Sast
-  - Dast
 
 ## 4. Gestão e Governança
 - PMBOK

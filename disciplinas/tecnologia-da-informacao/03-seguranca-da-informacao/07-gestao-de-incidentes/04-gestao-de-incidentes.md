@@ -21,9 +21,6 @@
 - O programa deve ser construído com base nas lições aprendidas dos incidentes de segurança da informação.
 - O treinamento e a educação devem contemplar aspectos gerais, como procedimentos básicos de segurança da informação, incluindo a notificação de incidentes.
 
-> [!CAUTION] OBSERVAÇÃO: 
-> - A atualização do programa de conscientização com base em lições aprendidas é um ponto frequentemente cobrado em provas.
-
 ## 3. Prevenção de Incidentes
 - Deve-se trabalhar com a prevenção de incidentes, pois as ameaças se aproveitam de vulnerabilidades.
 
@@ -39,9 +36,6 @@
 - O alinhamento visa:
   - Comunicar dados sobre vulnerabilidades às funções de resposta a incidentes;
   - Fornecer procedimentos técnicos no caso de ocorrência de um incidente.
-
-> [!TIP] DICAS: 
-> - A questão de concurso apresentada no material (CESPE/CEBRASPE/2022) traz exatamente este conceito, trocando apenas "convém" por "é apropriado". É um conteúdo quase literal da norma.
 
 ## 5. Instalação Não Controlada de Software
 - A instalação de software não controlada em dispositivos computadorizados pode introduzir vulnerabilidades.

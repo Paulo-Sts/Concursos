@@ -6,7 +6,6 @@
 - O processo divide-se em fases proativas (anteriores ao incidente) e reativas (após a detecção).
 
 ### 1.1 Etapas do Processo de Tratamento de Incidentes
-- O material apresenta três processos diferentes, que podem ser vistos como variações ou detalhamentos de um mesmo fluxo.
 
 #### 1.1.1 Processo 1 (Visão Geral)
 - Preparação: organização do processo de tratamento de incidentes, envolvendo recursos, sistemas, ferramentas e pessoal.
@@ -63,7 +62,6 @@
 - A preparação pré-incidente é a fase proativa do processo, envolvendo não apenas a obtenção de ferramentas e desenvolvimento de técnicas, mas também a execução de ações nos sistemas e redes que podem ser examinados em caso de incidentes.
 - A equipe de tratamento de incidentes deve atuar constantemente na melhoria dos controles de segurança.
 - As demais etapas (tratamento em si) ocorrem em reação a um incidente que ultrapassou as barreiras de prevenção.
-- A afirmação de que a preparação é a única fase proativa é verdadeira (questão 01).
 
 > [!CAUTION] OBSERVAÇÃO: 
 > - A preparação pré-incidente não é apenas sobre ferramentas e técnicas, mas também sobre ações preventivas nos sistemas e redes.
@@ -75,7 +73,7 @@
   - A estratégia de resposta deve alinhar-se ao plano de continuidade de negócio.
   - A finalidade do plano de continuidade de negócio é a manutenção da disponibilidade dos serviços.
   - A estratégia de resposta não serve apenas para determinar responsáveis por ação legal, mas também para resolver o incidente.
-- A relação entre tratamento de incidentes e continuidade de negócio é direta e necessária (questões 02 e 03).
+- A relação entre tratamento de incidentes e continuidade de negócio é direta e necessária.
 
 ### 2.3 Evidências e Integridade do Processo
 - Na condução do processo de resposta, é necessário realizar a geração e manutenção sistemática de registros de todo o processo de coleta e manipulação de evidências.

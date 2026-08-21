@@ -59,7 +59,7 @@
 - Se identificados crimes:
   - O CSIRT atua na preservação de evidências.
   - O CSIRT auxilia investigações posteriores.
-- Se o incidente resultar em crime (como em órgãos federais), a Polícia Federal deve ser acionada - essa responsabilidade cabe à equipe de tratamento de incidentes.
+- Se o incidente resultar em crime (como em órgãos federais), a Polícia Federal deve ser acionada, essa responsabilidade cabe à equipe de tratamento de incidentes.
 
 > [!CAUTION] OBSERVAÇÃO: 
 > - O CSIRT NÃO investiga criminalmente e NÃO decide sobre o acionamento da justiça. Essa é uma pegadinha clássica em provas! Quem investiga é a perícia criminal e as autoridades competentes.
@@ -123,7 +123,7 @@
 ## 5. Cenário Prático de Atuação do CSIRT
 
 ### 5.1 Descrição do Incidente
-Um usuário recebe um e-mail com um link malicioso e clica. Ao clicar, um malware é baixado e executado na rede. O malware se conecta a um servidor de comando e controle (C2) e a máquina infectada passa a funcionar como um "bot", participando de um ataque DDoS contra outra rede.
+- Um usuário recebe um e-mail com um link malicioso e clica. Ao clicar, um malware é baixado e executado na rede. O malware se conecta a um servidor de comando e controle (C2) e a máquina infectada passa a funcionar como um "bot", participando de um ataque DDoS contra outra rede.
 
 ### 5.2 Ordem dos Eventos
 1. O malware infecta o dispositivo.

@@ -62,7 +62,4 @@
 > - Um erro comum em provas é confundir as funções Proteger e Identificar. Lembre-se:
 >   - Identificar = entender os riscos e ativos.
 >   - Proteger = implementar salvaguardas para esses riscos e ativos.
-> - A função "Recuperar" é a resposta direta para a restauração após um incidente, sendo a resposta correta para a questão apresentada no material.
-
-> [!CAUTION] OBSERVAÇÃO:
-> - A função "Proteger" (PR) abrange a "resiliência da infraestrutura tecnológica", e não a função "Identificar" (ID). A questão do CESPE/Cebraspe apresentada no material inverte essa informação para testar o conhecimento do candidato.
+> - A função "Proteger" (PR) abrange a "resiliência da infraestrutura tecnológica", e não a função "Identificar" (ID). 

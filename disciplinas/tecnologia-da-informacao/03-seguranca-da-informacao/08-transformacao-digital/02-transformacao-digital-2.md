@@ -32,18 +32,18 @@
   - Eficácia: atingir as metas;
   - Efetividade: prestar o serviço com qualidade.
 - Acesso ampliado aos serviços.
-- Participação cidadã – por meio de consultas públicas, os dados dos cidadãos chegam aos servidores públicos, e a análise desses dados permite melhorias.
+- Participação cidadã: por meio de consultas públicas, os dados dos cidadãos chegam aos servidores públicos, e a análise desses dados permite melhorias.
 - Análise de dados para políticas públicas (educação, saúde, segurança pública etc.).
 
 ## 5. Desafios da Transformação Digital
-- Segurança cibernética – proteção dos dados e serviços na esfera digital.
-- Inclusão digital – falta de acesso à internet de parte da população exige que o governo chegue até esse público, já que o acesso físico não pode ser simplesmente suprimido.
+- Segurança cibernética: proteção dos dados e serviços na esfera digital.
+- Inclusão digital: falta de acesso à internet de parte da população exige que o governo chegue até esse público, já que o acesso físico não pode ser simplesmente suprimido.
 - Privacidade dos dados.
-- Mudança cultural e capacitação – exemplo: auditoria, que antes era marcada por análise de materiais físicos e grandes volumes de papéis, modernizou-se.
+- Mudança cultural e capacitação. Exemplo: auditoria, que antes era marcada por análise de materiais físicos e grandes volumes de papéis, modernizou-se.
 - Interoperabilidade dos sistemas.
-- Custos de implementação – apesar do alto custo inicial, a digitalização gera alto retorno sobre o investimento.
+- Custos de implementação: apesar do alto custo inicial, a digitalização gera alto retorno sobre o investimento.
 - Manutenção e atualização de tecnologia.
-- Desinformação e manipulação digital – grupos de hackers e crackers tentam quebrar a segurança dos sistemas e obter vantagens ilícitas sobre pessoas desinformadas.
+- Desinformação e manipulação digital: grupos de hackers e crackers tentam quebrar a segurança dos sistemas e obter vantagens ilícitas sobre pessoas desinformadas.
 
 > [!CAUTION] OBSERVAÇÃO: 
 > - A inclusão digital é um desafio crítico: o governo não pode eliminar o atendimento físico enquanto parte da população não tiver acesso à internet.
@@ -62,19 +62,18 @@
   - Educação e capacitação;
   - Cultura de inovação.
 - Governança e política:
-  - Regulamentações e leis – exemplo: FalaBr, sistema de ouvidoria instituído por lei que permite denúncias anônimas e sugestões de maneira digital.
+  - Regulamentações e leis. Exemplo: FalaBr, sistema de ouvidoria instituído por lei que permite denúncias anônimas e sugestões de maneira digital.
   - Iniciativas de política pública.
 - Segurança cibernética:
-  - Proteção de dados e de infraestrutura – visa garantir a segurança para o oferecimento do serviço.
+  - Proteção de dados e de infraestrutura, visa garantir a segurança para o oferecimento do serviço.
 - Modelos de negócios inovadores:
   - Adaptação e flexibilidade.
 - Experiência do usuário (UX):
-  - Design centrado no usuário – pensado para facilitar a satisfação das necessidades.
+  - Design centrado no usuário, pensado para facilitar a satisfação das necessidades.
 - Ecossistemas e parcerias:
   - Colaboração entre setores.
 
 ## 7. Compras Públicas de Inovação
-- Distinção entre os conceitos:
 
 ### 7.1 Compras Públicas Inovadoras
 - Refere-se ao modo como as compras são realizadas.
@@ -101,7 +100,7 @@
 - Ausência de visão estratégica sobre a área de compras, contribuindo para falta de capacitação e valorização dos servidores.
 - Falta de consenso sobre como fazer processos de inovação, devido à existência de muitos atores e órgãos envolvidos.
 - Diferentes interpretações sobre a aplicação dos instrumentos de compras e incompatibilidade entre legislações dos três entes (União, estados e municípios).
-- Medo do controle – pensamento: "Ser o primeiro, ser vanguarda, inovar no Brasil é um risco que não compensa".
+- Medo do controle. Exemplo: pensamento como "Ser o primeiro, ser vanguarda, inovar no Brasil é um risco que não compensa".
 - Falta de tempo e dinheiro.
 
 ## 9. Soluções para os Desafios das Compras Públicas de Inovação
@@ -176,21 +175,7 @@
   - % de serviços novos e aposentados;
   - % de novos modelos de prestação de serviço.
 
-## 13. Tabela de Níveis de Maturidade Digital
-| E-GOVERNO | ABERTO | CENTRADO EM DADOS | COMPLETAMENTE DIGITAL | INTELIGENTE |
-|-----------|--------|-------------------|----------------------|-------------|
-| 01 Inicial | 02 Desenvolvimento | 03 Definido | 04 Gerenciado | 05 Otimizado |
-| Foco em valor | Conformidade | Transparência | Valor constituinte | Visão orientada a transformação |
-| Sustentabilidade | Modelos de serviço | Reativo | Intermediado | Proativo |
-| Embutido | Preditivo | Plataforma | Centrado em ti | Centrado no cidadão |
-| Centrado em dados | Centrado na internet das coisas | Centrado no ecossistema | Ecossistema | Centrado no governo |
-| Cocriação de serviço | Consciente | Engajado | Evoluindo | Liderança |
-| Tecnologia | Dados | Negócio | Informação | Inovação |
-| Foco em tecnologia | Arquitetura orientada a serviços | Gerenciamento de api | Dados abertos | Modularidade |
-| Inteligência | Métricas chave | % de serviços online | Número de conjuntos de dados abertos | % de melhora nos resultados kpis |
-| % de serviços novos e aposentados | % de novos modelos de prestação de serviço | | | |
-
-## 14. Govtech
+## 13. Govtech
 - Definição: empresa privada de inovação tecnológica com foco no setor público, oferecendo serviço ao governo.
 - Características:
   - Inovação tecnológica;
@@ -200,11 +185,11 @@
   - Parcerias público-privadas;
   - Agentes de transformação digital.
 
-### 14.1 Meios de Inclusão das Inovações das Govtechs
+### 13.1 Meios de Inclusão das Inovações das Govtechs
 - Mapeamento de necessidades.
 - Colaboração com startups.
 - Programas de aceleração e incubação.
-- Políticas de incentivo / regulamentação.
+- Políticas de incentivo/regulamentação.
 - Projetos piloto.
 - Cultura de inovação.
 

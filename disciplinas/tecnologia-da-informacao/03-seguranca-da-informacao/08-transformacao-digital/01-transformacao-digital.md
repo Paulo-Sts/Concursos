@@ -10,7 +10,6 @@
 - Digitalização da área-fim: Caixa Econômica Federal possui um banco digital, onde o usuário pode fazer tudo pelo celular.
 
 > [!TIP] DICAS:
-> - Este tema é novo e está começando a ser explorado por bancas de concursos, podendo aparecer de maneiras novas ou diferentes.
 > - A transformação digital ocorre por meio da implementação de tecnologias como Big Data, banco de dados, internet, internet das coisas, entre outras.
 > - A maioria das questões cobra algo relacionado a uma tecnologia específica, exigindo conhecimento do contexto e do software (ex.: banco digital, computação em nuvem, inteligência artificial).
 
@@ -55,21 +54,14 @@
 - Inovação: criação de novos produtos.
 - Valor: aumento do valor agregado e da confiabilidade da organização.
 
-> [!TIP] DICAS:
-> - Os domínios da transformação digital já foram cobrados em concursos. É essencial memorizá-los.
-
 ## 7. Tecnologias Utilizadas na Transformação Digital
 - Realidade Virtual Aumentada: criação de sistemas com mundos virtuais interativos.
-- Big Data: grandes bases de dados com ampla variedade de dados (vídeo, áudio etc.) processados rapidamente.
-  - Utilizado por empresas que atingem grande volume de dados, exigindo troca de banco de dados relacional por NoSQL, computação distribuída e contratação de nuvem.
+- Big Data: grandes bases de dados com ampla variedade de dados (vídeo, áudio etc.) processados rapidamente. Utilizado por empresas que atingem grande volume de dados, exigindo troca de banco de dados relacional por NoSQL, computação distribuída e contratação de nuvem.
 - Inteligência Artificial: máquinas que funcionam como seres humanos.
-- Aprendizado de Máquina: máquinas que aprendem como seres humanos.
-  - Exemplo: IA prevê o tipo de cartão de crédito adequado a cada cliente com base em seus dados, substituindo o analista de crédito.
+- Aprendizado de Máquina: máquinas que aprendem como seres humanos. Exemplo: IA prevê o tipo de cartão de crédito adequado a cada cliente com base em seus dados, substituindo o analista de crédito.
 - Automação de Processos Robóticos: indústrias substituem funcionários por robôs na linha de produção.
-- Business Intelligence (BI): construção de data warehouses para extração de conhecimento por analistas de negócios.
-  - Exemplo: empresa com várias filiais centraliza dados para gerar relatórios de vendas por região, tipo de produto, período etc.
-- Computação em Nuvem: dados armazenados em servidores em vários locais do mundo, acessíveis diretamente na nuvem.
-  - A segurança é responsabilidade do provedor. A vantagem é a redução de custos e ganho em produtividade e eficiência.
+- Business Intelligence (BI): construção de data warehouses para extração de conhecimento por analistas de negócios. Exemplo: empresa com várias filiais centraliza dados para gerar relatórios de vendas por região, tipo de produto, período etc.
+- Computação em Nuvem: dados armazenados em servidores em vários locais do mundo, acessíveis diretamente na nuvem. A segurança é responsabilidade do provedor. A vantagem é a redução de custos e ganho em produtividade e eficiência.
 - Internet das Coisas: extração de dados de aparelhos eletrônicos e eletrodomésticos (geladeira, celular, TV etc.).
 - Mídias Sociais: plataformas como Facebook, Instagram, WhatsApp etc.
 - Mobilidade: uso de celulares como tecnologia facilitadora.
@@ -86,9 +78,6 @@
 - Internet do Comportamento: extração de dados a partir do comportamento das pessoas, como nas mídias sociais.
 - Experiência Total: foco na experiência do usuário, fornecedores e toda a cadeia de valor.
 - Data Driven Marketing: marketing orientado por dados para melhor venda de produtos.
-
-> [!CAUTION] OBSERVAÇÃO:
-> - Por serem tendências, esses conceitos podem ser cobrados em provas.
 
 ## 9. Desafios e Considerações na Transformação Digital
 - Criação de uma cultura de inovação: mudança da cultura organizacional para uma cultura digital.
