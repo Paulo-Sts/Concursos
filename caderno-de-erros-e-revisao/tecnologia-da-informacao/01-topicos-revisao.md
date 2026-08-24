@@ -124,7 +124,7 @@
   - Domínio de desempenho da medição
   - Domínio de desempenho da incerteza
 - COBIT
-- ITIL
+- ITIL ✅
 - BPMN
 
 ## 5. Inteligência de Negócios

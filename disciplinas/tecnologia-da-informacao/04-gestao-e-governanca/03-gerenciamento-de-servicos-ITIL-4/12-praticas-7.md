@@ -19,8 +19,8 @@
 
 | CATEGORIA | TIPOS DE TESTES |
 |---|---|
-| TESTES DE UTILIDADE OU FUNCIONAIS | Unitário, sistema, integração e regressão |
-| TESTES DE GARANTIA OU NÃO FUNCIONAIS | Desempenho, capacidade, segurança, conformidade e operacional |
+| Testes de utilidade ou funcionais | Unitário, sistema, integração e regressão |
+| Testes de garantia ou não funcionais | Desempenho, capacidade, segurança, conformidade e operacional |
 
 > [!TIP] DICAS: 
 > - O termo Shift Left refere-se à realização da validação do serviço nos estágios iniciais do ciclo de vida para confirmar se o design atende aos requisitos.

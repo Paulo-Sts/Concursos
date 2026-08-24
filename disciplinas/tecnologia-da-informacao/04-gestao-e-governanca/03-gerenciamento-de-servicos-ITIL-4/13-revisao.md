@@ -8,9 +8,6 @@
 - O sistema é projetado para ser flexível, coordenado e integrado para a governança e gerenciamento eficaz de serviços habilitados por TI.
 - Está diretamente relacionado a tecnologias disruptivas como computação em nuvem, IA e e-learning.
 
-> [!CAUTION] OBSERVAÇÃO: 
-> - O conteúdo desta aula é o mais cobrado nas provas de concursos públicos.
-
 ## 2. Valor e Cocriação de Valor
 - O propósito de uma organização é criar valor para as partes interessadas.
 - Valor é definido como os benefícios percebidos, a utilidade e a importância de algo.
