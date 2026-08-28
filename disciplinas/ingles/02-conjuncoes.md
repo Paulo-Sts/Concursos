@@ -37,7 +37,7 @@
 | INGLÊS            | SIGNIFICADO          |
 |-------------------|----------------------|
 | But               | Mas                  |
-| However           | Contudo / No entanto |
+| However           | Contudo/No entanto   |
 | Although          | Embora               |
 | Even though       | Apesar de            |
 | Nevertheless      | Mesmo assim          |
@@ -52,11 +52,11 @@
 | INGLÊS    | SIGNIFICADO      |
 |-----------|------------------|
 | Because   | Porque (causa)   |
-| Since     | Já que / Porque  |
-| As        | Como / Porque    |
+| Since     | Já que/Porque    |
+| As        | Como/Porque      |
 | Therefore | Portanto         |
 | So        | Então            |
-| Thus      | Assim / Portanto |
+| Thus      | Assim/Portanto   |
 
 - Exemplo:
   - He was late because of the traffic. (Ele se atrasou por causa do trânsito.)
@@ -103,7 +103,7 @@
 
 | INGLÊS            | SIGNIFICADO |
 |-------------------|-------------|
-| As if / as though | Como se     |
+| As if/As though   | Como se     |
 
 - Exemplo:
   - He acts as if he were the boss. (Ele age como se fosse o chefe.)
@@ -174,7 +174,7 @@
 #### 🎯 Dica para Prova
 - Leia o trecho todo e observe a relação entre as ideias.
 - Conjunções mudam totalmente o sentido de uma frase.
-- Palavras como *"but"*, *"although"*, *"however"* são sinais de contraste → sempre importantes!
+- Palavras como *"but"*, *"although"*, *"however"* são sinais de contraste ⟶ sempre importantes!
 
 #### 📚 Atalhos Mentais
 - But, although, however = "opa, tem contraste aí!"

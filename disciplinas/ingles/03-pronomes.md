@@ -35,16 +35,16 @@
 | Them    | Os / as / lhes  | I don’t know **them**.           |
 
 ## 🎯 Dica de Ouro para Prova
-- Antes do verbo → geralmente é subject pronoun  
-- Depois do verbo ou preposição → geralmente é object pronoun
+- Antes do verbo ⟶ geralmente é subject pronoun  
+- Depois do verbo ou preposição ⟶ geralmente é object pronoun
 - Exemplo:
-  - She loves dogs. / Dogs love her.
+  - She loves dogs./Dogs love her.
 
 ## 💡 Atalhos Mentais
-- I → me
-- He → him
-- She → her
-- We → us
-- They → them
-- It → it
-- You → you (mesmo nas duas formas)
+- I ⟶ me
+- He ⟶ him
+- She ⟶ her
+- We ⟶ us
+- They ⟶ them
+- It ⟶ it
+- You ⟶ you (mesmo nas duas formas)

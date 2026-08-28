@@ -3,15 +3,15 @@
 ## 📌 O que é Genitive Case?
 - É a forma de indicar posse em inglês.
 - Também chamado de possessive case.
-- Usado com *’s* (apóstrofo + s) ou com *of*.
+- Usado com *'s* (apóstrofo + s) ou com *of*.
 
 ## 🧱 Formas do Genitive
 
-#### Com ’s (apostrophe + s)
+#### Com 's (apostrophe + s)
 - Usado para:
   - Pessoas
   - Animais
-  - Países / organizações
+  - Países/organizações
   - Nomes próprios
 - Exemplo:
   - John's car = o carro do John  
@@ -19,7 +19,7 @@
   - The cat's tail = o rabo do gato  
   - Brazil's culture = a cultura do Brasil
 
-#### Com apenas apostrophe (’)
+#### Com apenas apostrophe (')
 - Usado quando o substantivo já termina com "s" (plural com "s").
 - Exemplo:
   - The students’ classroom = a sala dos estudantes  
@@ -35,9 +35,9 @@
   - The end **of the movie** = o final do filme  
   - The title **of the book** = o título do livro
 
-## 🧠 Comparativo: ’s vs. of
+## 🧠 Comparativo 's e of
 
-| Expressão com ’s           | Expressão com "of"             |
+| Expressão com 's           | Expressão com "of"             |
 |----------------------------|-------------------------------|
 | The manager's office       | The office **of the manager** |
 | The doctor's car           | The car **of the doctor**     |
@@ -45,17 +45,17 @@
 
 - Ambos corretos, mas o uso com "of" é mais formal.
 
-## 🎯 Regras Rápidas
-- Um único possuidor → **’s**
-  - Ana’s house
-- Plural com “s” → só apóstrofo
-  - The girls’ room
-- Plural irregular → **’s**
-  - The children’s toys  
-  - The men’s clothes
-- Inanimado → geralmente com **"of"**
+#### 🎯 Regras Rápidas
+- Um único possuidor ⟶ **’s**
+  - Ana's house
+- Plural com "s" ⟶ só apóstrofo
+  - The girls' room
+- Plural irregular ⟶ **’s**
+  - The children's toys  
+  - The men's clothes
+- Inanimado ⟶ geralmente com **"of"**
   - The pages of the book
 
-## ❗ Erros comuns
-- ❌ *The car of John’s* → **Errado**
-- ✅ *John’s car* → **Certo**
+#### ❗ Erros comuns
+- *The car of John’s* ⟶ ❌
+- *John’s car* ⟶ ✅
