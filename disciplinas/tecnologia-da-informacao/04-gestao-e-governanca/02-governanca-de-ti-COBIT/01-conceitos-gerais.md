@@ -1,4 +1,4 @@
-# Cobit 2019 – Conceitos Gerais
+# Cobit 2019 - Conceitos Gerais
 
 ## 1. Introdução ao Cobit 2019
 - O Cobit 2019 é a versão mais atual do framework voltado para a governança e gestão de Tecnologia da Informação, sendo desenvolvido pela ISACA.
@@ -20,7 +20,7 @@
 - A governança de Ti é considerada uma parte integrante e essencial da governança corporativa.
 - Em um contexto de transformação digital, a Ti deve ser elevada a um nível estratégico para promover a eficiência, o crescimento e a inovação empresarial.
 
-## 3. Diferença Entre Governança e Gestão
+## 3. Diferença entre Governança e Gestão
 - A distinção clara entre governança e gestão é um dos pontos mais cobrados em questões de concursos públicos.
 - A governança avalia as necessidades e opções das partes interessadas para definir objetivos equilibrados e acordados.
 - A governança define a direção da organização por meio da priorização e da tomada de decisões estratégicas.

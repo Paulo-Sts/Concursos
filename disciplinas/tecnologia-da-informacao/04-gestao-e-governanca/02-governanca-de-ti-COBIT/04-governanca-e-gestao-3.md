@@ -1,24 +1,24 @@
-# Cobit 2019 – Domínios de Governança e Gestão 3
+# Cobit 2019 - Domínios de Governança e Gestão 3
 
 ## 1. Detalhamento do Domínio Apo
 - O domínio Alinhar, Planejar e Organizar ⟶ Apo abrange a organização geral, a estratégia e as atividades de apoio para informação e tecnologia.
 - Este domínio faz parte do nível de gestão e não deve ser confundido com o nível de governança, que é o Edm.
 - O Apo01 é o principal objetivo do domínio e trata especificamente da implementação de uma abordagem de gerenciamento para atender aos requisitos de governança corporativa.
 - A estrutura de processos do domínio Apo inclui:
-  - Apo01 – framework de gestão de ti gerenciado;
-  - Apo02 – estratégia gerenciada;
-  - Apo03 – arquitetura empresarial gerenciada;
-  - Apo04 – inovação gerenciada;
-  - Apo05 – portfólio gerenciado;
-  - Apo06 – orçamento e custos gerenciados;
-  - Apo07 – recursos humanos gerenciados;
-  - Apo08 – relacionamentos gerenciados;
-  - Apo09 – acordos de serviço gerenciados (contratos);
-  - Apo10 – terceiros gerenciados;
-  - Apo11 – qualidade gerenciada;
-  - Apo12 – risco gerenciado;
-  - Apo13 – segurança gerenciada;
-  - Apo14 – dados gerenciado.
+  - Apo01 - framework de gestão de ti gerenciado;
+  - Apo02 - estratégia gerenciada;
+  - Apo03 - arquitetura empresarial gerenciada;
+  - Apo04 - inovação gerenciada;
+  - Apo05 - portfólio gerenciado;
+  - Apo06 - orçamento e custos gerenciados;
+  - Apo07 - recursos humanos gerenciados;
+  - Apo08 - relacionamentos gerenciados;
+  - Apo09 - acordos de serviço gerenciados (contratos);
+  - Apo10 - terceiros gerenciados;
+  - Apo11 - qualidade gerenciada;
+  - Apo12 - risco gerenciado;
+  - Apo13 - segurança gerenciada;
+  - Apo14 - dados gerenciado.
 
 > [!TIP] DICAS: 
 > - Para provas: a gestão da segurança da informação no Cobit é composta pela soma do Apo13 (segurança gerenciada) com o Dss05 (serviços de segurança gerenciados).

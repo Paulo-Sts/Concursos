@@ -1,4 +1,4 @@
-# COBIT 2019: Área de Foco e Fatores de Desenho
+# COBIT 2019 - Área de Foco e Fatores de Desenho
 
 ## 1. Área de Foco
 - Uma área de foco descreve um tópico de governança, domínio ou problema específico que pode ser tratado por uma coleção de objetivos de governança e gestão e seus respectivos componentes.
@@ -39,17 +39,17 @@
 
 | FATOR DE DESENHO | DESCRIÇÃO RESUMIDA |
 |---|---|
-| ESTRATÉGIA EMPRESARIAL | Define se o foco é inovação, custo ou crescimento |
-| OBJETIVOS EMPRESARIAIS | Garante o alinhamento entre negócio e TI |
-| PERFIL DE RISCO | Avalia a exposição a riscos e ameaças de TI |
-| QUESTÕES DE TI | Problemas reais que exigem ajustes no sistema |
-| CENÁRIO DE AMEAÇAS | Contexto de segurança e desafios regulatórios |
-| REQUISITOS DE CONFORMIDADE | Exigências legais conforme a área de atuação |
-| PAPEL DA TI | Define se a TI é suporte ou estratégica |
-| MODELO DE SOURCING | TI interna, externa, nuvem ou híbrida |
-| MÉTODOS DE IMPLEMENTAÇÃO | Uso de práticas ágeis, DevOps ou tradicionais |
-| ADOÇÃO TECNOLÓGICA | Postura perante inovações de mercado |
-| TAMANHO DA EMPRESA | Adequação do sistema ao porte da organização |
+| Estratégia Empresarial | Define se o foco é inovação, custo ou crescimento |
+| Objetivos Empresariais | Garante o alinhamento entre negócio e TI |
+| Perfil de Risco da Empresa | Avalia a exposição a riscos e ameaças de TI |
+| Questões Relacionadas à TI | Problemas reais que exigem ajustes no sistema |
+| Cenário de Ameaças | Contexto de segurança e desafios regulatórios |
+| Requisitos de Conformidade | Exigências legais conforme a área de atuação |
+| Papel da TI | Define se a TI é suporte ou estratégica |
+| Modelo de Sourcing de TI | TI interna, externa, nuvem ou híbrida |
+| Métodos de Implementação de TI | Uso de práticas ágeis, DevOps ou tradicionais |
+| Estratégia de Adoção Tecnológica | Postura perante inovações de mercado |
+| Tamanho da Empresa | Adequação do sistema ao porte da organização |
 
 > [!CAUTION] OBSERVAÇÃO: 
 > - Não confunda Fatores de Desenho com Componentes do Sistema. Enquanto os fatores (ex: perfil de risco, tamanho) servem para personalizar o sistema, os componentes (ex: processos, estruturas organizacionais, cultura) são os elementos que interagem para formar o sistema holístico de governança.

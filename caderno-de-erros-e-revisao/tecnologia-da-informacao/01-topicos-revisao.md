@@ -123,7 +123,7 @@
   - Domínio de desempenho do trabalho
   - Domínio de desempenho da medição
   - Domínio de desempenho da incerteza
-- COBIT
+- COBIT ✅
 - ITIL ✅
 - BPMN
 

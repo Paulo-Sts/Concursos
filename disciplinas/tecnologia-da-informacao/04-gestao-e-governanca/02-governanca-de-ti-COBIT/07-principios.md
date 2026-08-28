@@ -55,11 +55,5 @@
 ### 3.3 Alinhado com Principais Padrões
 - O framework deve estar em conformidade com os principais padrões, estruturas e regulamentos mundiais relacionados à governança.
 
-### 3.4 Comparativo de Quantitativos
-| GRUPO DE PRINCÍPIOS | QUANTIDADE DE ITENS |
-|---|---|
-| Sistema de governança | 6 |
-| Framework de governança | 3 |
-
 > [!CAUTION] OBSERVAÇÃO: 
 > - Diferente de versões anteriores (como o COBIT 5), o COBIT 2019 adicionou formalmente os princípios específicos para o framework de governança.

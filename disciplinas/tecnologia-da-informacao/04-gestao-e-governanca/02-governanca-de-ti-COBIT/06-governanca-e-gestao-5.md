@@ -1,4 +1,4 @@
-# Cobit 2019 – Sistema de Governança e Componentes
+# Cobit 2019 - Sistema de Governança e Componentes
 
 ## 1. Sistema de Governança
 - O Cobit 2019 estabelece um sistema de governança composto por um conjunto de princípios, estruturas, processos e mecanismos que operam de forma sincronizada e ordenada.
@@ -14,7 +14,6 @@
 - Os processos são os componentes mais conhecidos, mas não são os únicos necessários para um sistema eficaz.
 
 ### 2.1 Tabela de Descrição dos Componentes
-
 | COMPONENTE | DEFINIÇÃO E ATUAÇÃO |
 |---|---|
 | Processos | Conjunto organizado de práticas e atividades para alcançar objetivos de ti. |

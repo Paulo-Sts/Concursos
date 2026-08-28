@@ -6,22 +6,22 @@
 - A estrutura do domínio abrange desde a definição de requisitos até a transição para o ambiente operacional.
 
 ### 1.1 Objetivos de Gestão BAI01 a BAI05
-- BAI01 Programas Gerenciados ⟶ visa gerenciar o portfólio de investimentos de forma coordenada para gerar valor e reduzir riscos de atrasos.
-- BAI02 Definição de Requisitos Gerenciada ⟶ foca na identificação e análise de soluções antes da aquisição ou criação para garantir o alinhamento estratégico.
-- BAI03 Identificação e Construção de Soluções Gerenciadas ⟶ assegura que o desenvolvimento das soluções atenda efetivamente às necessidades operacionais e de negócio.
-- BAI04 Capacidade e Disponibilidade Gerenciadas ⟶ busca equilibrar o desempenho atual com as projeções de demandas futuras para evitar a degradação dos serviços.
-- BAI05 Mudanças Organizacionais Gerenciadas ⟶ prepara e compromete as partes interessadas para que as mudanças nos negócios sejam sustentáveis e rápidas.
+- BAI01 - Programas Gerenciados ⟶ Visa gerenciar o portfólio de investimentos de forma coordenada para gerar valor e reduzir riscos de atrasos.
+- BAI02 - Definição de Requisitos Gerenciada ⟶ Foca na identificação e análise de soluções antes da aquisição ou criação para garantir o alinhamento estratégico.
+- BAI03 - Identificação e Construção de Soluções Gerenciadas ⟶ Assegura que o desenvolvimento das soluções atenda efetivamente às necessidades operacionais e de negócio.
+- BAI04 - Capacidade e Disponibilidade Gerenciadas ⟶ Busca equilibrar o desempenho atual com as projeções de demandas futuras para evitar a degradação dos serviços.
+- BAI05 - Mudanças Organizacionais Gerenciadas ⟶ Prepara e compromete as partes interessadas para que as mudanças nos negócios sejam sustentáveis e rápidas.
 
 > [!CAUTION] OBSERVAÇÃO: 
 > - Lembre-se que a gestão de programas (BAI01) envolve uma administração coordenada de múltiplos projetos que, se geridos isoladamente, não alcançariam o mesmo resultado.
 
 ### 1.2 Objetivos de Gestão BAI06 a BAI11
-- BAI06 Mudanças de TI Gerenciadas ⟶ gerencia alterações em processos, aplicações e infraestrutura de forma controlada, incluindo manutenções emergenciais.
-- BAI07 Aceite e Transição de Mudanças de TI Gerenciadas ⟶ envolve o aceite formal, testes de aceitação e a promoção para produção de novas soluções.
-- BAI08 Conhecimento Gerenciado ⟶ mantém informações gerenciais atualizadas e confiáveis para apoiar a tomada de decisão em toda a organização.
-- BAI09 Ativos Gerenciados ⟶ foca na gestão do ciclo de vida dos ativos de TI e licenças de software para otimizar o valor e garantir a proteção física.
-- BAI10 Configuração Gerenciada ⟶ define as relações entre os recursos de TI (Itens de Configuração) para permitir a gestão eficaz do impacto de mudanças.
-- BAI11 Projetos Gerenciados ⟶ planeja e monitora a execução de projetos específicos para garantir entrega no prazo, orçamento e com qualidade.
+- BAI06 - Mudanças de TI Gerenciadas ⟶ Gerencia alterações em processos, aplicações e infraestrutura de forma controlada, incluindo manutenções emergenciais.
+- BAI07 - Aceite e Transição de Mudanças de TI Gerenciadas ⟶ Envolve o aceite formal, testes de aceitação e a promoção para produção de novas soluções.
+- BAI08 - Conhecimento Gerenciado ⟶ Mantém informações gerenciais atualizadas e confiáveis para apoiar a tomada de decisão em toda a organização.
+- BAI09 - Ativos Gerenciados ⟶ Foca na gestão do ciclo de vida dos ativos de TI e licenças de software para otimizar o valor e garantir a proteção física.
+- BAI10 - Configuração Gerenciada ⟶ Define as relações entre os recursos de TI (Itens de Configuração) para permitir a gestão eficaz do impacto de mudanças.
+- BAI11 - Projetos Gerenciados ⟶ Planeja e monitora a execução de projetos específicos para garantir entrega no prazo, orçamento e com qualidade.
 
 > [!TIP] DICAS: 
 > - Para diferenciar BAI09 de BAI10: o foco do BAI09 é o ciclo de vida e a proteção física/contábil do ativo; o foco do BAI10 são as relações e o impacto entre os componentes de serviço.
@@ -31,14 +31,14 @@
 - Existe um alinhamento significativo entre as práticas deste domínio e as operações de TI.
 
 ### 2.1 Gestão de Incidentes e Problemas
-- DSS02 Requisições de Serviço e Incidentes Gerenciados ⟶ foca na resposta rápida para restaurar o serviço normal e minimizar interrupções na produtividade.
-- DSS03 Problemas Gerenciados ⟶ identifica a causa raiz dos incidentes para evitar que eles ocorram novamente.
-- A relação entre os dois é clara: o incidente é a percepção do usuário sobre a falha, enquanto o problema é a causa subjacente que precisa ser resolvida.
+- DSS01 - Operações Gerenciadas ⟶ Coordenar e executar as atividades e procedimentos operacionais necessários para a entrega de serviços de TI internos e terceirizados. Isso inclui a execução de procedimentos operacionais padrão predefinidos e as atividades de monitoramento necessárias. Seu propósito é garantir a entrega dos produtos e serviços operacionais de TI conforme planejado.
+- DSS02 - Requisições de Serviço e Incidentes Gerenciados ⟶ Foca na resposta rápida para restaurar o serviço normal e minimizar interrupções na produtividade.
+- DSS03 - Problemas Gerenciados ⟶ Identifica a causa raiz dos incidentes para evitar que eles ocorram novamente.
 
 ### 2.2 Continuidade, Segurança e Controles
-- DSS04 Continuidade Gerenciada ⟶ estabelece planos para que o negócio se adapte e responda rapidamente a interrupções significativas.
-- DSS05 Serviços de Segurança Gerenciados ⟶ visa manter o nível de risco de segurança da informação dentro dos limites aceitáveis definidos em política.
-- DSS06 Controles de Processos de Negócio Gerenciados ⟶ foca na integridade e segurança das informações processadas, sejam elas internas ou terceirizadas.
+- DSS04 - Continuidade Gerenciada ⟶ Estabelece planos para que o negócio se adapte e responda rapidamente a interrupções significativas.
+- DSS05 - Serviços de Segurança Gerenciados ⟶ Visa manter o nível de risco de segurança da informação dentro dos limites aceitáveis definidos em política.
+- DSS06 - Controles de Processos de Negócio Gerenciados ⟶ Foca na integridade e segurança das informações processadas, sejam elas internas ou terceirizadas.
 
 > [!CAUTION] OBSERVAÇÃO: 
 > - A palavra-chave para o DSS04 é adaptação; a organização deve ser capaz de continuar operando processos críticos mesmo sob falhas significativas.
@@ -48,10 +48,10 @@
 - O domínio MEA é responsável pela medição do desempenho e pela garantia de conformidade com os requisitos internos e externos.
 
 ### 3.1 Objetivos de Gestão MEA
-- MEA01 Monitoração do Desempenho e da Conformidade Gerenciado ⟶ coleta e avalia métricas para proporcionar transparência sobre o alcance dos objetivos.
-- MEA02 Sistema de Controle Interno Gerenciado ⟶ avalia continuamente o ambiente de controle para que a administração identifique e corrija deficiências.
-- MEA03 Monitoramento, Avaliação e Conformidade com Requisitos Externos ⟶ garante que a organização cumpra leis, regulamentos e obrigações contratuais.
-- MEA04 Garantia Gerenciada ⟶ planeja e executa iniciativas de garantia independente para validar a eficácia do sistema de governança.
+- MEA01 - Monitoração do Desempenho e da Conformidade Gerenciado ⟶ Coleta e avalia métricas para proporcionar transparência sobre o alcance dos objetivos.
+- MEA02 - Sistema de Controle Interno Gerenciado ⟶ Avalia continuamente o ambiente de controle para que a administração identifique e corrija deficiências.
+- MEA03 - Monitoramento, Avaliação e Conformidade com Requisitos Externos ⟶ Garante que a organização cumpra leis, regulamentos e obrigações contratuais.
+- MEA04 - Garantia Gerenciada ⟶ Planeja e executa iniciativas de garantia independente para validar a eficácia do sistema de governança.
 
 | OBJETIVO | CARACTERÍSTICA CENTRAL | PROPÓSITO DE REVISÃO |
 |---|---|---|

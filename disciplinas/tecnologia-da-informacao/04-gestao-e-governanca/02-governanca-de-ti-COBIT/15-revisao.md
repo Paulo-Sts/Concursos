@@ -1,4 +1,4 @@
-# Cobit 2019 Revisão
+# Cobit 2019 - Revisão
 
 ## 1. O que é o Cobit 2019
 - O COBIT 2019 (Control Objectives for Information and Related Technologies) é um framework de governança e gestão de TI desenvolvido pela ISACA.
@@ -106,10 +106,10 @@
 - O fluxo de design customizado segue quatro estágios principais.
 
 ### 8.1 Estágios do Fluxo
-- 1. Entender o contexto e a estratégia da organização ⟶ envolve estratégia, objetivos, risco e problemas de TI.
-- 2. Determinar o escopo inicial ⟶ aplica a cascata de objetivos do COBIT.
-- 3. Refinar o escopo ⟶ considera fatores como ameaças, conformidade, papel da TI, sourcing e adoção tecnológica.
-- 4. Concluir o design ⟶ resolve conflitos de prioridade e finaliza o desenho.
+- Entender o contexto e a estratégia da organização ⟶ Envolve estratégia, objetivos, risco e problemas de TI.
+- Determinar o escopo inicial ⟶ Aplica a cascata de objetivos do COBIT.
+- Refinar o escopo ⟶ Considera fatores como ameaças, conformidade, papel da TI, sourcing e adoção tecnológica.
+- Concluir o design ⟶ Resolve conflitos de prioridade e finaliza o desenho.
 
 ## 9. Cascata de Objetivos
 - Transforma necessidades das partes interessadas em estratégia acionável.

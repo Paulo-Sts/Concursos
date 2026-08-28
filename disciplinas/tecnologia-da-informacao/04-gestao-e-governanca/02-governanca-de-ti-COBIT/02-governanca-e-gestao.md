@@ -1,4 +1,4 @@
-# Cobit 2019 – Domínios de Governança e Gestão
+# Cobit 2019 - Domínios de Governança e Gestão
 
 ## 1. Disciplinas de Governança e Gestão
 - O Cobit 2019 pressupõe que governança e gestão são disciplinas distintas que compreendem diferentes tipos de atividades.
@@ -22,7 +22,7 @@
 > [!CAUTION] OBSERVAÇÃO: 
 > - A governança da informação e tecnologia não é exercida pelas gerências de negócio ou de Ti, mas sim pelo Conselho de Administração.
 
-## 2. Diferenciação Entre Frameworks de Mercado
+## 2. Diferenciação entre Frameworks de Mercado
 - O Cobit se concentra em resultados e objetivos de negócio, diferenciando-se de outros guias voltados à operação ou execução.
 - A ITIL ⟶ foca especificamente no gerenciamento e nas operações de serviços de Ti para a entrega de valor ao negócio.
 - O PMBOK ⟶ orienta sobre a gestão de projetos, abrangendo desde métodos tradicionais até princípios de agilidade e entrega de valor.

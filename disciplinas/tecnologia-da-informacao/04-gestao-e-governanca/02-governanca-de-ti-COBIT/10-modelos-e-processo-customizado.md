@@ -48,7 +48,7 @@
 
 ### 3.4 Estágio 4: Concluir o Design do Sistema de Governança
 - Envolve a resolução de conflitos de prioridade inerentes que surgem dos fatores de design.
-- Finaliza o desenho do sistema de governação sob medida.
+- Finaliza o desenho do sistema de governança sob medida.
 
 > [!TIP] DICAS: 
 > - Para memorizar os estágios do design: Contexto ⟶ Escopo Inicial ⟶ Refinamento (Fatores de Design) ⟶ Conclusão (Prioridades).

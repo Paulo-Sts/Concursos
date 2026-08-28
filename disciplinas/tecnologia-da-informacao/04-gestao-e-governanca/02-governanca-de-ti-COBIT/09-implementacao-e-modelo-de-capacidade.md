@@ -1,4 +1,4 @@
-# Cobit 2019: Abordagem de Implementação e Modelo de Capacidade
+# Cobit 2019 - Abordagem de Implementação e Modelo de Capacidade
 
 ## 1. Abordagem de Implementação
 - O COBIT 2019 utiliza um ciclo de vida de implementação composto por sete fases para promover a melhoria contínua da Governança e Gestão de TI (EGIT).
@@ -6,13 +6,13 @@
 - O ciclo visa transformar direcionadores internos e externos em uma dinâmica sustentável de governança.
 
 ### 1.1 Fases do Ciclo de Implementação
-- Fase 1: Quais são os direcionadores?;
-- Fase 2: Onde estamos agora?;
-- Fase 3: Onde queremos estar?;
-- Fase 4: O que precisa ser feito?;
-- Fase 5: Como chegaremos lá?;
-- Fase 6: Já chegamos lá?;
-- Fase 7: Como mantemos essa dinâmica.
+- Fase 1: Quais são os direcionadores?
+- Fase 2: Onde estamos agora?
+- Fase 3: Onde queremos estar?
+- Fase 4: O que precisa ser feito?
+- Fase 5: Como chegaremos lá?
+- Fase 6: Já chegamos lá?
+- Fase 7: Como mantemos essa dinâmica?
 
 ### 1.2 Detalhamento das Fases
 - Fase 1 ⟶ Identifica os motivadores da mudança, como eventos de mercado ou desempenho insuficiente da TI, resultando em um esboço de business case.
