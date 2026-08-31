@@ -1,12 +1,12 @@
 # Concordância Nominal
 
-## Definição
+## 1. Definição
 - A concordância nominal se refere à adequação entre substantivos, adjetivos, artigos, pronomes e outros termos em gênero (masculino/feminino) e número (singular/plural).
 - Para garantir a concordância nominal, precisamos respeitar as relações de gênero e número entre substantivos, adjetivos, artigos, numerais e pronomes.
 
-## Tipos de concordância nominal
+## 2. Tipos de concordância Nominal
 
-> ### Concordância entre substantivo e mais do que um adjetivo
+### 2.1 Concordância entre Substantivo e mais do que um Adjetivo
 - Quando há mais do que um adjetivo para um substantivo, há duas formas de concordar:
   - Colocar o artigo antes do último adjetivo. (Exemplos: **A língua** francesa e **a** italiana são encantadoras.)
   - Colocar o substantivo e o artigo que o acompanha no plural. Exemplos: **As línguas** francesa e italiana são encantadoras.
@@ -14,7 +14,7 @@
 Ex: **A música** clássica e **a** popular são manifestações artísticas.  
 Ex: **As músicas** clássica e popular são manifestações artísticas.  
 
-> ### Concordância entre substantivos e um adjetivo
+### 2.2 Concordância entre Substantivos e um Adjetivo
 - Quando há mais do que um substantivo e apenas um adjetivo, a concordância vai depender da posição do adjetivo.
 
 #### Adjetivo antes dos substantivos

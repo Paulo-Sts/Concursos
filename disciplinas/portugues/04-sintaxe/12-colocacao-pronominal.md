@@ -1,9 +1,9 @@
 # Colocação Pronominal
 
-## Definição
+## 1. Definição
 - A colocação pronominal são um conjunto de regras que determinam a posição adequada do pronome oblíquo átono em relação ao verbo. O Pronome pode estar inserido antes do verbo (próclise), no meio do verbo (mesóclise) o cortando ou após o verbo (ênclise) sendo ligado a ele por hífen.
 
-> ### Próclise
+## 2. Próclise
 - A próclise é a ocorrência do pronome oblíquo antes do verbo. Em geral a justificativa é porque alguma palavra antes do verbo atrai o pronome para perto dela, a condicionando a ficar antes do verbo (palavras atrativas).
 
 #### Regra de próclise obrigatória
@@ -43,13 +43,13 @@ Ex: Convém dar-**me** uma resposta agora.
 > [!CAUTION] OBSERVAÇÃO:
 > - Nas situações em que não existe uma palavra atrativa que obrigue o adiantamento do pronome ou em que não haja a proibição do adiantamento do pronome, o uso da próclise se torna facultativo.
  
-> ### Mesóclise
+## 3. Mesóclise
 - A mesóclise ocorre quando o pronome aparece no meio do verbo, cortando a palavra. O pronome é ligado ao verbo por hífen nesse caso (tanto antes quanto depois, já que está no meio da palavra). A mesóclise é muito rara, sendo uma ocorrência que vem caindo em desuso.
 
 Ex: Combinamos que, na próxima reunião, discutir-**se**-ão os assuntos.  
 Ex: Informar-**nos**-emos a respeito dessa questão para debatermos melhor no futuro.  
 
-> ### Ênclise
+## 4. Ênclise
 - A ênclise ocorre quando o pronome aparece após o verbo, sendo ligado por hífen. Assim como no caso da mesóclise, a ênclise também ocorre quando não houver justificativa para uso da próclise, sendo usada em todas as outras conjugações verbais que não pedem o uso da mesóclise.
 
 #### Regra de ênclise

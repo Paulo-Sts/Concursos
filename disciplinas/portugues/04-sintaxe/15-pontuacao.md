@@ -1,6 +1,6 @@
 # Sinais de Pontuação
 
-## Definição
+## 1. Definição
 - Sinais de pontuação são marcas gráficas que indicam pausas, entonações e inflexões da voz. 
 
 #### Etapas na Análise da Pontuação
@@ -8,9 +8,9 @@
 2. Econtrar o sujeito.
 3. Encontrar o complemento verbal.
 
-## Tipos de Sinais
+## 2. Tipos de Sinais
 
-### Vírgula 
+### 2.1 Vírgula 
 - A vírgula é usada para separar elementos dentro de uma frase. Sua principal função é indicar uma pausa curta, facilitando o entendimento da estrutura da oração.
 
 #### Uso Correto da Vírgula  
@@ -40,25 +40,25 @@
 | Entre termo antecedente e oração subordinada adjetiva restritiva. | As pessoas que chegaram cedo conseguiram lugar. ✅/As pessoas, que chegaram cedo, conseguiram lugar. ❌ |
 | Em separações desnecessárias dentro da oração.                    | Fui ao mercado e comprei frutas. ✅/Fui ao mercado, e comprei frutas. ❌                                |
 
-### Ponto e Vírgula
+### 2.2 Ponto e Vírgula
 - O ponto e vírgula é usado para separar orações dentro de um período composto que já possui vírgulas ou quando a separação entre os elementos for mais forte que a vírgula, mas não tão definitiva quanto o ponto final.
 - Exemplo:
   - Ele não queria sair; estava cansado.
   - Fui à padaria, comprei pão; depois, fui ao banco.
 
-### Dois-pontos
+### 2.3 Dois-pontos
 - Os dois-pontos são usados para indicar explicação, citação ou enumerar itens.
 - Principais usos:
   - Antes de uma explicação ou enumeração. (Exemplo: Ele trouxe várias frutas: maçãs, bananas e uvas.)
   - Antes de uma citação direta. (Exemplo: Ele disse: "Vou ao mercado.")
 
-### Travessão
+### 2.4 Travessão
 - O travessão é utilizado para indicar uma mudança abrupta de pensamento, para isolar um aposto explicativo ou para marcar a fala de um personagem (em diálogos).
 - Exemplo:
   - Eu estava indo para o trabalho — mas esqueci a chave.
   - Ela entrou na sala — "Vou fazer a tarefa", disse.
 
-### Parênteses
+### 2.5 Parênteses
 - Os parênteses são usados para inserir informações adicionais, explicações ou detalhes que não são essenciais para o entendimento da oração principal.
 - Exemplo:
   - O João (meu amigo de infância) foi ao evento.

@@ -41,12 +41,12 @@ Ex: Havia meses que ela viajava.
 > [!TIP] DICA: 
 > - Macete para não errar:
 >   - Pergunte: "O 'haver' aqui significa existir, ocorrer ou acontecer?"
->   - Se SIM → 3ª pessoa do singular, sempre.
->   - Se NÃO (verbo auxiliar) → pode flexionar.
+>   - Se sim ⟶ 3ª pessoa do singular, sempre.
+>   - Se não (verbo auxiliar) ⟶ pode flexionar.
 
 > [!TIP] DICA: 
 > - Substitua mentalmente por "existir":
-> - Se puder trocar por "existem/existiam" → então "haver" fica no singular.
+> - Se puder trocar por "existem/existiam" ⟶ então "haver" fica no singular.
 > - Exemplo:
 >   - Mas havia/haviam muitos livros?
 >   - Mas existiam muitos livros?

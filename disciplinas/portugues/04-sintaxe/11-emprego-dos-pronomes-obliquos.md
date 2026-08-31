@@ -6,7 +6,7 @@
   - Pronomes oblíquios átonos (sem preposição, que se ligam diretamente ao verbo);
   - Pronomes oblíquios tônicos (com preposição, quando usados com verbos que exigem preposição).
 
-> ### Tabela de pronomes mais utilizados e suas funções
+#### Tabela de pronomes mais utilizados e suas funções
 
 | PRONOME              | FUNÇÃO                           | EXEMPLO                                                    |
 |----------------------|----------------------------------|------------------------------------------------------------|

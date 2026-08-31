@@ -1,6 +1,6 @@
 # Crase
 
-## Definição
+## 1. Definição
 - A crase é representada pelo acento grave **à** e ocorre quando há a fusão da preposição **a** (que pode vir de verbos, nomes ou adjetivos) com o artigo definido feminino **a** (ou **as**) ou pronomes demonstrativos que comecem com **a**.
 - Representação:
   - a + a = à
@@ -9,9 +9,9 @@
   - Pronomes demonstrativos (aquela, aquelas, aqueles, aquilo);
   - Pronomes relativos (a qual, as quais).
 
-## Regras de Uso da Crase
+## 2. Regras de Uso da Crase
 
-### Crase Obrigatória
+### 2.1 Crase Obrigatória
 - Antes de palavras femininas. (Exemplo: Eu vou **à** escola.)
 - Antes dos pronomes demonstrativos femininos: aquela, aquele, aquilo. (Exemplo: Vou **à**quela festa.) 
 - Antes da locução **à moda de** mesmo que subentendido.
@@ -46,7 +46,7 @@ Ex: Nos vimos tudo à distância de 100 metros.
 > Ex: viu a tia. ⟶ vio o cachorro (sem crase)  
 > Ex: fiel à técnica de sempre. ⟶ fiel ao cachorro de sempre (tem crase).  
 
-### Crase Proibida
+### 2.2 Crase Proibida
 - Não se usa crase antes de palavras masculinas. (Exemplo: Vou **a** pé àquele lugar (não há crase, pois "pé" é masculino).)
 - Não se usa crase antes de verbos. (Exemplo: Vou **a** correr (não há crase, pois "correr" é verbo).)
 - Não se usa crase antes de pronomes pessoais. (Exemplo: Ela foi **a** me ver (não há crase antes de "me").)
@@ -59,7 +59,7 @@ Ex: Falamos a ela sobre o ocorrido.
 Ex: Estive face a face com ele.  
 Ex: Era a isso que nos referíamos.
 
-### Crase Facultativa
+### 2.3 Crase Facultativa
 - A crase é facultativa depois da preposição **até**.
 - A crase é facultativa antes de nomes próprios femininos.
 - A crase é facultativa antes de pronomes possessivos (no plural a crase se torna obrigatória).

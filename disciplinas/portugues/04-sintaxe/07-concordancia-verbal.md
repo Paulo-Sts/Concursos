@@ -1,11 +1,11 @@
 # Concordância Verbal
 
-## Definição
+## 1. Definição
 - A concordância verbal se refere à adequação do verbo ao sujeito em número (singular/plural) e pessoa (1ª, 2ª ou 3ª pessoa).
 
-> ### Regras de concordância
+## 2. Regras de Concordância
 
-#### Sujeito simples com oração em ordem direta
+### 2.1 Sujeito Simples com Oração em Ordem Direta
 - O núcleo do sujeito conjuga o verbo.
 - Núcleo do sujeito no singular exige verbo no singular.
 - Núcleo do sujeito no plural exige verbo no plural.
@@ -16,7 +16,7 @@
 > [!TIP] DICA:
 > - O núcleo do sujeito inicia sem preposição. É substantivo ou pronome.
 
-#### Sujeito simples com sujeito após o verbo (posposto)
+### 2.2 Sujeito Simples com Sujeito Após o Verbo (Posposto)
 - O núcleo do sujeito conjuga o verbo.
 - Núcleo do sujeito no singular exige verbo no singular.
 - Núcleo do sujeito no plural exige verbo no plural.
@@ -26,7 +26,7 @@
   - **Está** em vigor novas **regras** de acentuação gráfica da Língua Portuguesa. ❌
   - **Estão** em vigor novas **regras** de acentuação gráfica da Língua Portuguesa. ✅
 
-#### Sujeito simples regra especial
+### 2.3 Sujeito Simples Regra Especial
 - Quando o núcleo do sujeito indica parte, coletivo ou percentual o verbo pode concordar com o núcleo ou com o adjunto adnominal.
 - Núcleo do sujeito no singular com o adjunto adnominal no singular exige verbo no singular.
 - Núcleo do sujeito no plural com o adjunto adnominal no singular o verbo pode ficar no plural ou no singular.
@@ -47,13 +47,13 @@
 > [!CAUTION] OBSERVAÇÃO:
 > - Qualquer valor abaixo de 2 é sempre no singular.
 
-#### Sujeito composto com oração em ordem direta
+### 2.4 Sujeito Composto com Oração em Ordem Direta
 - O verbo fica no plural.
 - Exemplo:
   - O **uso** de água potável e o **consumo** de combustível **são prioritários**. ✅
   - O **uso** de água potável e o **consumo** de combustível **é prioritário**. ❌
 
-#### Sujeito composto com sujeitos após o verbo (posposto)
+### 2.5 Sujeito Composto com Sujeitos Após o Verbo (Posposto)
 - O verbo fica no plural ou concorda com o núcleo mais próximo.
 - Exemplo:
   - **São prioritários** o **uso** de água potável e o **consumo** de combustível. ✅
