@@ -1,6 +1,6 @@
 # Funções da Linguagem
 
-## 1. Conceito Inicial
+## 1. Definição
 - As funções da linguagem referem-se à intencionalidade do discurso.
 - Estão diretamente ligadas aos seis elementos da comunicação.
 - Cada função destaca um elemento específico do processo comunicativo.
@@ -36,14 +36,3 @@
 - Foco: Mensagem (forma).
 - Objetivo: Criar um efeito estético ou artístico.
 - Características: Uso de rimas, figuras de linguagem, ritmo e uma seleção cuidadosa das palavras. Comum na literatura, letras de música e publicidade criativa.
-
-## 3. Pontos-Chave para Concursos
-- Intencionalidade: Uma mensagem pode ter várias funções, mas sempre haverá uma predominante conforme o objetivo do emissor.
-- Relação Elemento-Função:
-  - Emissor ⟶ Emotiva
-  - Receptor ⟶ Conativa
-  - Mensagem ⟶ Poética
-  - Contexto ⟶ Referencial
-  - Canal ⟶ Fática
-  - Código ⟶ Metalinguística
-- Pegadinha Comum: Não confunda Função Poética (estética da mensagem) com Função Emotiva (sentimentos do emissor).
