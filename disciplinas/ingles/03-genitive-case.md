@@ -1,13 +1,15 @@
 # Genitive Case (Caso Possessivo)
 
-## 📌 O que é Genitive Case?
+## 1. O que é Genitive Case?
 - É a forma de indicar posse em inglês.
 - Também chamado de possessive case.
 - Usado com *'s* (apóstrofo + s) ou com *of*.
 
-## 🧱 Formas do Genitive
+## 2. Formas do Genitive
 
-#### Com 's (apostrophe + s)
+### 2.1 Com 's (apostrophe + s)
+- Um único possuidor ⟶ **’s**. Exemplo: Ana's house
+- Plural irregular ⟶ **’s**. Exemplo: The children's toys./The men's clothes.
 - Usado para:
   - Pessoas
   - Animais
@@ -19,13 +21,13 @@
   - The cat's tail = o rabo do gato  
   - Brazil's culture = a cultura do Brasil
 
-#### Com apenas apostrophe (')
+### 2.2 Com apenas apostrophe (')
 - Usado quando o substantivo já termina com "s" (plural com "s").
 - Exemplo:
   - The students’ classroom = a sala dos estudantes  
   - My parents’ house = a casa dos meus pais
 
-#### Com "of" (estrutura mais formal)
+### 2.3 Com "of" (estrutura mais formal)
 - Usado para:
   - Coisas inanimadas
   - Títulos longos
@@ -35,7 +37,8 @@
   - The end **of the movie** = o final do filme  
   - The title **of the book** = o título do livro
 
-## 🧠 Comparativo 's e of
+#### Comparativo 's e of
+- Ambos corretos, mas o uso com "of" é mais formal.
 
 | Expressão com 's           | Expressão com "of"             |
 |----------------------------|-------------------------------|
@@ -43,19 +46,7 @@
 | The doctor's car           | The car **of the doctor**     |
 | Peter's idea               | The idea **of Peter**         |
 
-- Ambos corretos, mas o uso com "of" é mais formal.
-
-#### 🎯 Regras Rápidas
-- Um único possuidor ⟶ **’s**
-  - Ana's house
-- Plural com "s" ⟶ só apóstrofo
-  - The girls' room
-- Plural irregular ⟶ **’s**
-  - The children's toys  
-  - The men's clothes
-- Inanimado ⟶ geralmente com **"of"**
-  - The pages of the book
-
-#### ❗ Erros comuns
-- *The car of John’s* ⟶ ❌
-- *John’s car* ⟶ ✅
+> [!CAUTION] OBSERVAÇÃO:
+> Erros comuns:
+>  - *The car of John’s* ⟶ ❌
+>  - *John’s car* ⟶ ✅

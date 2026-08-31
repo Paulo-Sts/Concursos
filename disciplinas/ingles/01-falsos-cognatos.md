@@ -1,10 +1,10 @@
 # Falsos Cognatos (False Friends)
 
-## 📌 O que são Falsos Cognatos?
+## O que são Falsos Cognatos?
 - São palavras em inglês que se parecem com palavras do português, mas têm significados diferentes.  
 - Parecem "amigas", mas enganam (por isso: "false friends").
 
-## 🧠 Exemplos Mais Cobrados
+#### Exemplos Mais Comuns
 
 | INGLÊS         | VERDADEIRO SIGNIFICADO (Certo)          | FALSO SIGNIFICADO (O que parece) |
 |---|---|---|
@@ -32,13 +32,13 @@
 | Parenthesis    | Parênteses                              | Parentes (que é relatives) |
 | Novel          | Romance (literário) ou inovador         | Novo (que é new, mas novel como adjetivo = inédito) |
 
-## 📚 Dica de Interpretação
-- Quando encontrar uma palavra parecida com o português:
-  - Não traduza automaticamente.
-  - Veja o contexto da frase.
-  - Pergunte: "Esse sentido faz sentido aqui?"
+Exemplo: *Actually, we have never visited that place.*  
 
-## ✅ Exemplo prático de prova
-- *Actually, we have never visited that place.*
 - Tradução correta: Na verdade, nós nunca visitamos esse lugar.
 - Errado seria: Atualmente, nós nunca visitamos esse lugar.
+
+> [!TIP] DICAS:
+> - Quando encontrar uma palavra parecida com o português:
+>   - Não traduza automaticamente.
+>   - Veja o contexto da frase.
+>   - Pergunte: "Esse sentido faz sentido aqui?"

@@ -1,14 +1,14 @@
 # Conjunções (Conjunctions)
 
-## 📌 O que são Conjunções?
+## 1. O que são Conjunções?
 - Conjunções são palavras que ligam ideias, frases ou orações.  
 - Muito usadas em textos para:
   - Dar sentido lógico
   - Mostrar contraste, causa, consequência, adição, etc.
 
-## 🧱 Tipos de Conjunções Mais Cobradas
+## 2. Tipos de Conjunções Mais Comuns
 
-#### ➕ 1. Conjunções de Adição
+### 2.1 Conjunções de Adição
 
 | INGLÊS      | SIGNIFICADO |
 |-------------|-------------|
@@ -18,10 +18,9 @@
 | In addition | Além disso  |
 | Besides     | Além de     |
 
-- Exemplo:
-  - She plays the piano and sings beautifully. (Ela toca piano e canta lindamente.)
+- Exemplo: She plays the piano and sings beautifully. (Ela toca piano e canta lindamente.)  
 
-#### 🔁 2. Conjunções de Alternância
+### 2.2 Conjunções de Alternância
 
 | INGLÊS        | SIGNIFICADO |
 |---------------|-------------|
@@ -29,10 +28,9 @@
 | Either...or   | Ou...ou     |
 | Neither...nor | Nem...nem   |
 
-- Exemplo:
-  - You can call me or send a message. (Você pode me ligar ou mandar uma mensagem.)
+- Exemplo: You can call me or send a message. (Você pode me ligar ou mandar uma mensagem.)  
 
-#### ❗ 3. Conjunções de Contraste/Oposição
+### 2.3 Conjunções de Contraste/Oposição
 
 | INGLÊS            | SIGNIFICADO          |
 |-------------------|----------------------|
@@ -44,10 +42,9 @@
 | Whereas           | Enquanto que         |
 | On the other hand | Por outro lado       |
 
-- Exemplo:
-  - I studied a lot, but I didn’t pass. (Eu estudei muito, mas não passei.)
+- Exemplo: I studied a lot, but I didn’t pass. (Eu estudei muito, mas não passei.)
 
-#### 🔗 4. Conjunções de Causa e Efeito
+### 2.4 Conjunções de Causa e Efeito
 
 | INGLÊS    | SIGNIFICADO      |
 |-----------|------------------|
@@ -58,10 +55,9 @@
 | So        | Então            |
 | Thus      | Assim/Portanto   |
 
-- Exemplo:
-  - He was late because of the traffic. (Ele se atrasou por causa do trânsito.)
+- Exemplo: He was late because of the traffic. (Ele se atrasou por causa do trânsito.)
 
-#### ⏱️ 5. Conjunções de Tempo
+### 2.5 Conjunções de Tempo
 
 | INGLÊS     | SIGNIFICADO |
 |------------|-------------|
@@ -72,10 +68,9 @@
 | Until      | Até que     |
 | As soon as | Assim que   |
 
-- Exemplo:
-  - While I was cooking, she was studying. (Enquanto eu cozinhava, ela estudava.)
+- Exemplo: While I was cooking, she was studying. (Enquanto eu cozinhava, ela estudava.)
 
-#### ⚠️ 6. Conjunções de Condição
+### 2.6 Conjunções de Condição
 
 | INGLÊS           | SIGNIFICADO         |
 |------------------|---------------------|
@@ -86,39 +81,35 @@
 | In case          | Caso                |
 | Even if          | Mesmo que           |
 
-- Exemplo:
-  - You will fail unless you study. (Você vai reprovar a menos que estude.)
+- Exemplo: You will fail unless you study. (Você vai reprovar a menos que estude.)
 
-#### 🎯 7. Conjunções de Propósito/Finalidade
+### 2.7 Conjunções de Propósito/Finalidade
 
 | INGLÊS        | SIGNIFICADO     |
 |---------------|-----------------|
 | So that       | Para que        |
 | In order that | A fim de que    |
 
-- Exemplo:
-  - He spoke slowly so that everyone could understand. (Ele falou devagar para que todos pudessem entender.)
+- Exemplo: He spoke slowly so that everyone could understand. (Ele falou devagar para que todos pudessem entender.)
 
-#### 🎭 8. Conjunções de Modo/Comparação
+### 2.8 Conjunções de Modo/Comparação
 
 | INGLÊS            | SIGNIFICADO |
 |-------------------|-------------|
 | As if/As though   | Como se     |
 
-- Exemplo:
-  - He acts as if he were the boss. (Ele age como se fosse o chefe.)
+- Exemplo: He acts as if he were the boss. (Ele age como se fosse o chefe.)
 
-#### 🌍 9. Conjunções de Lugar
+### 2.9 Conjunções de Lugar
 
 | INGLÊS   | SIGNIFICADO   |
 |----------|---------------|
 | Where    | Onde          |
 | Wherever | Onde quer que |
 
-- Exemplo:
-  - Sit wherever you like. (Sente onde quer que você queira.)
+- Exemplo: Sit wherever you like. (Sente onde quer que você queira.)
 
-#### 🔗 10. Conjunções Correlativas (pares)
+### 2.10 Conjunções Correlativas (pares)
 
 | PAR                  | SIGNIFICADO              |
 |----------------------|--------------------------|
@@ -134,7 +125,7 @@
   - Not only is she smart, but also hardworking. (Ela não só é inteligente, mas também esforçada.)
   - No sooner had he arrived than it started to rain. (Mal ele tinha chegado e começou a chover.)
 
-#### 📎 11. Conjuntivos Adverbiais 
+### 2.11 Conjuntivos Adverbiais 
 
 | INGLÊS       | SIGNIFICADO        |
 |--------------|--------------------|
@@ -151,10 +142,9 @@
 | Indeed       | De fato/Na verdade |
 | Thus         | Assim/Portanto     |
 
-- Exemplo:
-  - It was raining; consequently, we stayed home. (Estava chovendo; consequentemente, ficamos em casa.)
+- Exemplo: It was raining; consequently, we stayed home. (Estava chovendo; consequentemente, ficamos em casa.)
 
-#### 🧩 12. Conjunções Coordenativas 
+### 2.12 Conjunções Coordenativas 
 
 | INGLÊS | SIGNIFICADO             | OBSERVAÇÃO                        |
 |--------|-------------------------|-----------------------------------|
@@ -171,16 +161,11 @@
   - He doesn't smoke, nor does he drink. (Ele não fuma, nem bebe.)
   - She is tired, yet she works. (Ela está cansada, mas ainda assim trabalha.)
 
-#### 🎯 Dica para Prova
-- Leia o trecho todo e observe a relação entre as ideias.
-- Conjunções mudam totalmente o sentido de uma frase.
-- Palavras como *"but"*, *"although"*, *"however"* são sinais de contraste ⟶ sempre importantes!
-
-#### 📚 Atalhos Mentais
-- But, although, however = "opa, tem contraste aí!"
-- Because, so, therefore = causa e consequência
-- And, also, in addition = adição, ideias alinhadas
-- Before, after, while = sequência temporal
-- If, unless, provided that = condição
-- So that, in order that = propósito
-- For, nor, yet = atenção (cobrados em FANBOYS completo)
+> [!TIP] DICAS:
+> - But, although, however = "opa, tem contraste aí!"
+> - Because, so, therefore = causa e consequência
+> - And, also, in addition = adição, ideias alinhadas
+> - Before, after, while = sequência temporal
+> - If, unless, provided that = condição
+> - So that, in order that = propósito
+> - For, nor, yet = atenção (cobrados em FANBOYS completo)
