@@ -1,6 +1,6 @@
 # Significação das Palavras
 
-## 1. O jogo dos graus de certeza (modalizadores)
+## 1. Graus de certeza (modalizadores)
 
 | PALAVRA                     | SIGNIFICADO                        |
 |---|---|
