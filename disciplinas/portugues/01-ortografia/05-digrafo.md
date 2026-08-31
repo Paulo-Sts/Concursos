@@ -56,10 +56,28 @@
 > [!TIP] DICA:
 > - Para identificar, "pronuncie a palavra devagar". Se você ouvir claramente duas consoantes, é encontro consonantal. Se ouvir um som só (como "x", "s", "nh"), é dígrafo.
 
-## 4. Exercício de Referência
-1. **quiabo**: "qu" antes de "i" com "u" mudo? Na prática, "qui" tem som de "ki". O "u" não é pronunciado, logo, **"qu" é dígrafo**.  
-2. **escola**: "sc" antes de "o"? Não. O encontro é "sc" + "o" (es-co-la). "sc" antes de "o" não é dígrafo; as letras "s" e "c" são pronunciadas (som de "s" + "c" /k/). É um **encontro consonantal**.  
-3. **igual**: O "u" é pronunciado (i-gual). Portanto, "gu" **não é dígrafo**.  
-4. **guisado**: "gui" com "u" mudo (gi-sa-do)? Na pronúncia comum, "gui" tem som de "gi" (como em "guia"). O "u" não é pronunciado. Logo, **"gu" é dígrafo**.  
-5. **chuvisquinho**: Palavra longa. Temos: **"ch"** (chu) é dígrafo. "vi" não. **"qu"** (quis) antes de "i" com "u" mudo? "quinho" soa "kĩnho". Sim, "qu" é dígrafo. "nh" (nho) é dígrafo. Portanto, vários dígrafos.  
-6. **chuvisco**: "ch" é dígrafo. "sc" antes de "o" (vis-co) não é dígrafo (s + c são pronunciados).  
+## 4. Exercício de Fixação
+
+Ex1: Quiabo  
+
+- "qu" antes de "i" com "u" mudo? Na prática, "qui" tem som de "ki". O "u" não é pronunciado, logo, "qu" é dígrafo.
+  
+Ex2: Escola  
+
+- "sc" antes de "o"? Não. O encontro é "sc" + "o" (es-co-la). "sc" antes de "o" não é dígrafo; as letras "s" e "c" são pronunciadas (som de "s" + "c" /k/). É um encontro consonantal.  
+
+Ex3: Igual  
+
+- O "u" é pronunciado (i-gual). Portanto, "gu" não é dígrafo.  
+
+Ex4: Guisado
+
+- "gui" com "u" mudo (gi-sa-do)? Na pronúncia comum, "gui" tem som de "gi" (como em "guia"). O "u" não é pronunciado. Logo, "gu" é dígrafo.  
+
+Ex5: Chuvisquinho
+
+- Palavra longa. Temos: **"ch"** (chu) é dígrafo. "vi" não. **"qu"** (quis) antes de "i" com "u" mudo? "quinho" soa "kĩnho". Sim, "qu" é dígrafo. "nh" (nho) é dígrafo. Portanto, vários dígrafos.  
+
+Ex5: Chuvisco
+
+- "ch" é dígrafo. "sc" antes de "o" (vis-co) não é dígrafo (s + c são pronunciados).  

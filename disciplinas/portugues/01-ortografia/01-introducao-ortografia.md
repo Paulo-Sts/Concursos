@@ -1,6 +1,6 @@
-# Ortografia
+# Introdução à Ortografia
 
-## Definição
+## 1. Definição
 - A ortografia é a área da gramática que compreende três aspectos fundamentais da lingua: emprego das letras, acentuação gráfica e hífen.
 
 #### Emprego das Letras

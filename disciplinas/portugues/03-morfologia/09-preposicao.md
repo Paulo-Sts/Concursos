@@ -1,12 +1,13 @@
 # Preposição
 
-## Definição
+## 1. Definição
 - A preposição é uma palavra que liga dois termos da oração, estabelecendo uma relação de subordinação entre eles. Ela indica a circunstância em que a ação ou o estado ocorre, como tempo, lugar, modo, causa, finalidade, entre outros. 
 - A preposição é usada antes de um substantivo, pronome ou verbo para conectar esses elementos a outras partes da oração.
 - Preposições podem sofrer fusões com artigos ou pronomes, formando novas preposições.
 - A preposição é uma classe de palavras invariável.
 
-Ex: Carro de mão.
+Ex: Carro de mão.  
+
 1. carro = 1ª palavra
 2. de = preposição
 3. mão = 2ª palavra
@@ -15,7 +16,7 @@ Ex: a + os = aos
 Ex: a + a = à  
 Ex: por + a = pela
 
-> ### Classificação das preposições
+## 2. Classificação das Preposições
 
 | PREPOSIÇÃO | EXEMPLO                                    | EXPLICAÇÃO                                   |
 |------------|--------------------------------------------|----------------------------------------------|
@@ -38,7 +39,7 @@ Ex: por + a = pela
 | Sobre      | "O pássaro voava **sobre** a cidade."      | Indica **posição superior** ou **tema**.     |
 | Trás       | "Ela ficou **atrás** da porta."            | Indica **posição posterior**.                |
 
-> ### Funções da preposição
+## 3. Funções da Preposição
 - Indicar tempo: "Farei isso **em** breve."
 - Indicar lugar: "Ele está **na** escola."
 - Indicar modo: "Ela falou **com** cuidado."
@@ -46,11 +47,11 @@ Ex: por + a = pela
 - Indicar finalidade: "Este livro é **para** estudo."
 - Indicar meio ou instrumento: "Vou enviar o pacote **por** correio."
 
-> ### Observações sobre preposições
+### 3.1 Observações Sobre as Preposições
 - Algumas preposições são impessoais (não variam de acordo com o gênero ou número do substantivo): "em", "de", "para", etc.
 - Algumas expressões exigem preposição, como "à medida que", "por causa de", "a fim de", entre outras.
 
-### Diferenciando artigos, pronomes e preposições
+### 3.2 Diferenciando Artigos, Pronomes e Preposições
 
 | LETRA | CLASSE     | DICA                                                            | EXEMPLOS                                                       |
 |-------|------------|-----------------------------------------------------------------|----------------------------------------------------------------|
@@ -58,7 +59,7 @@ Ex: por + a = pela
 | A     | Pronome    | Fica no lugar de um nome. (varia: o/a/os/as.)                   | A prefeitura reformou a praça e reinaugurou-a.                 |
 | A     | Preposição | NÃO VARIA.                                                      | A prefeitura entregou a todos./A diretora informou aos alunos. |
 
-> ### Contrações
+### 3.3 Contrações
 - As contrações entre preposição e outros termos (como artigos, pronomes, demonstrativos, etc.) são muito comuns em português. Elas acontecem quando uma preposição se funde com esses outros elementos, formando uma palavra única. Aqui estão as principais contrações:
 
 #### Contrações de preposição com artigos

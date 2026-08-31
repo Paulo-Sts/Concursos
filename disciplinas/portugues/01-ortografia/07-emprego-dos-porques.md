@@ -44,12 +44,3 @@
 
 > [!TIP] DICA:
 > - Se vem depois de **o, os, um, uns, esse, meu**, é **porquê** junto e com acento.
-
-## 5. Resumo
-
-| GRAFIA  | QUANDO USAR    | EXEMPLO             | TRADUÇÃO/MACETE             |
-|---------|----------------|---------------------|-----------------------------|
-| Por que | Perguntas      | Por que você foi?   | = pelo qual/por qual motivo |
-| Porque  | Respostas      | Fui porque quis.    | = pois                      |
-| Por quê | Final de frase | Foi embora por quê? | (antes de pontuação)        |
-| Porquê  | Substantivo    | Explique o porquê.  | = o motivo                  |

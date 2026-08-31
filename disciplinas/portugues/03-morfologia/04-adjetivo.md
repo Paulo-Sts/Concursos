@@ -5,13 +5,15 @@
 - A flexão do adjetivo concorda em gênero (masculino/feminino) e número (singular/plural) com o substantivo.
 - Expressões com mais de uma palavra que caracterizam o substantivo, ou seja, possuem valor de um adjetivo são chamadas de locução adjetiva.
 
-Ex: Os nefastos perigos radioativos.
+Ex: Os nefastos perigos radioativos.  
+
 1. perigos = substantivo
 2. os = artigo
 3. nefastos = adjetivo
 4. radioativos = adjetivo
 
-Ex: Você tem olhos de águia.  
+Ex: Você tem olhos de águia. 
+
 1. tem = verbo
 2. olhos = substantivo
 3. você = pronome

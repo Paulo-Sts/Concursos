@@ -1,6 +1,6 @@
 # Hífen
 
-## Definição
+## 1. Definição
 - O hífen é um sinal gráfico, utilizado para unir elementos de palavras compostas. A aplicação do hífen ocorre em duas situações: hífen com prefixos e hífen entre palavras.
 - Prefixos são um tipo de afixo, esses são formas presas da língua e não existem separadamente, ou seja, precisam de uma palavra que os acompanhem. Existem prefixos (antes da palavra) e sufixos (depois da palavra). O hífen só é utilizado com prefixos.
 - O hífen entre palavras tem função de unir palavras que existem de forma separada, mas que ao se juntarem formam uma nova palavra.
@@ -8,7 +8,7 @@
   - prefixo-palavra;
   - palavra-palavra.
 
-> ### Regras de Uso do Hífen com Prefixo
+### 1.1 Regras de Uso do Hífen com Prefixo
 
 #### Prefixo sucedido por palavra iniciada com h possue hífen
 - Prefixos sucedidos por palavra que inicia com a letra **h** sempre se usa o hífen.
@@ -58,7 +58,7 @@ Ex: Pré-história
 Ex: Vice-presidente  
 Ex: ex-namorado  
 
-> ### Regras de uso do hífen entre palavras
+### 1.2 Regras de uso do hífen entre palavras
 
 #### Regra geral
 - Palavras compostas com sílaba tônica própria, significado próprio (diferente do das palavras que o formam) e ausência de preposição tem hífen.

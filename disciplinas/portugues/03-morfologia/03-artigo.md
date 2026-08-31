@@ -6,6 +6,7 @@
 - A flexão do artigo concorda em gênero (masculino/feminino) e número (singular/plural) com o substantivo.
 
 Ex: Os outros acordos.
+
 1. acordos = substantivo
 2. os = artigo
 3. outros = pronome indefinido adjetivo

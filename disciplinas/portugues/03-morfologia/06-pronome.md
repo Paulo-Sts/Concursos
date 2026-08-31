@@ -1,6 +1,6 @@
 # Pronome
 
-## Definição
+## 1. Definição
 - O pronome substitui ou acompanha o substantivo, indicando pessoa, lugar, posse, etc.
 - O pronome que acompanha o substantivo é chamado de pronome adjetivo, ele em geral aparece antes do substantivo.
 - O pronome que substitui o substantivo é chamado de pronome substantivo.
@@ -38,9 +38,9 @@ Ex: **Algumas** flores. (feminino plural)
 Ex: **Qual** é o seu nome? (singular)    
 Ex: **Quais** são os seus livros? (plural)    
 
-## TIPOS DE PRONOMES
+## 2. Tipos de Pronomes
 
-> ### Pronomes pessoais
+### 2.1 Pronomes Pessoais
 - Indicam as pessoas do discurso (quem fala, com quem se fala e de quem se fala).
 - Dividem-se em retos e oblíquos.
 
@@ -93,7 +93,7 @@ Ex: **Quais** são os seus livros? (plural)
 | vós        | 2ª pessoa plural       | Eu fiz isso **por vós**. (após preposição)        |
 | eles, elas | 3ª pessoa plural       | Eu confio **neles**. (após preposição)            |
 
-> ### Pronomes possessivos
+### 2.2 Pronomes Possessivos
 - Indicam posse ou relação de pertencimento.
 - Exemplos:
   - **Meu** livro está aqui. (meu = possessivo).
@@ -105,7 +105,7 @@ Ex: **Quais** são os seus livros? (plural)
 | 2ª     | teu/tua            | vosso/vossa            | **Teu** carro é novo. /**Vossa** opinião é importante.  |
 | 3ª     | seu/sua, dele/dela | seus/suas, deles/delas | **Seu**a ideia é boa. /**Deles** é a responsabilidade.  |
 
-> ### Pronomes demonstrativos
+### 2.3 Pronomes Demonstrativos
 - Indicam a posição no espaço ou no tempo em relação às pessoas do discurso.
 - Exemplos:
   - **Este** livro é interessante. (este = algo próximo de quem fala).
@@ -117,7 +117,7 @@ Ex: **Quais** são os seus livros? (plural)
 | Perto de quem ouve | esse/essa     | esses/essas     | **Esse** carro é rápido. /**Essas** casas são antigas.            |
 | Longe de ambos     | aquele/aquela | aqueles/aquelas | **Aquele** menino é meu amigo. /**Aquelas** montanhas são altas.  |
 
-> ### Pronomes relativos
+### 2.4 Pronomes Relativos
 - Ligam orações, substituindo um termo mencionado anteriormente.
 - Exemplos:
   - O livro **que** comprei é ótimo. (que = relativo).
@@ -132,7 +132,7 @@ Ex: **Quais** são os seus livros? (plural)
 | cuja    | feminino singular  | A mulher **cuja** filha é médica se orgulha.       |
 | onde    | invariável         | A cidade **onde** moro é tranquila.                |
 
-> ### Pronomes indefinidos
+### 2.5 Pronomes Indefinidos
 - Indicam algo de forma vaga ou imprecisa.
 - Exemplos:
   - **Alguém** chamou por você. (alguém = indefinido).
@@ -147,7 +147,7 @@ Ex: **Quais** são os seus livros? (plural)
 | alguém  | invariável     | -                | **Alguém** chamou por você.                                              |
 | ninguém | invariável     | -                | **Ninguém** sabe a resposta.                                             |
 
-> ### Pronomes interrogativos
+### 2.6 Pronomes Interrogativos
 - São usados para fazer perguntas.
 - Exemplos:
   - **Quem** fez isso? (quem = interrogativo).
@@ -159,8 +159,7 @@ Ex: **Quais** são os seus livros? (plural)
 | qual    | qual          | quais           | **Qual** é o seu nome? /**Quais** são os seus livros?  |
 | quanto  | quanto/quanta | quantos/quantas | **Quanto** custa isso? /**Quantas** pessoas vieram?    |
 
-
-> ### Pronomes de tratamento
+### 2.7 Pronomes de Tratamento
 - Os pronomes de tratamento são usados para substituir ou acompanhar o nome de uma pessoa, indicando respeito, hierarquia ou formalidade. 
 - Eles são empregados principalmente em contextos formais, como:
   - Comunicação com autoridades (juízes, presidentes, etc.);

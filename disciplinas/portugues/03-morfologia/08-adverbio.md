@@ -1,18 +1,20 @@
 # Advérbio
 
-## Definição
+## 1. Definição
 - Os advérbios são palavras que modificam verbos, adjetivos ou outros advérbios, indicando circunstâncias como tempo, lugar, modo, intensidade, entre outros.
 - Os advérbios são invariáveis, ou seja, não sofrem flexões de gênero, número ou pessoa.
 - Normalmente, os advérbios aparecem após o verbo, o adjetivo ou o outro advérbio, mas sua posição pode variar dependendo da ênfase que se deseja dar à frase.
 - Expressões formadas por mais de uma palavra que exercem a função adverbial, são chamadas de locução adverbial.
 
-Ex: O rapaz correu muito.
+Ex: O rapaz correu muito.  
+
 1. correu = verbo
 2. rapaz = substantivo
 3. o = artigo
 4. muito = advérbio
 
-Ex: Não é permitido de jeito nenhum.
+Ex: Não é permitido de jeito nenhum.  
+
 1. é = verbo
 2. permitido = verbo
 3. não = advérbio
@@ -24,14 +26,14 @@ Ex: Não é permitido de jeito nenhum.
 >
 > Ex: recente + mente = recentemente
 
-> ### Formas de formação dos advérbios
+### 1.1 Formas de Formação dos Advérbios
 
 | FORMA      | DESCRIÇÃO                         | EXEMPLO                     |
 |------------|-----------------------------------|-----------------------------|
 | Simples    | Advérbios que não têm derivação.  | "Ele fala **bem**."         |
 | Derivados  | Advérbios formados por sufixação. | "Ele fala **rapidamente**." |
 
-> ### Posicionamento dos Advérbios
+### 1.2 Posicionamento dos Advérbios
 
 | POSIÇÃO                       | EXEMPLO                        |
 |-------------------------------|--------------------------------|
@@ -39,7 +41,7 @@ Ex: Não é permitido de jeito nenhum.
 | Depois do verbo               | "Ele corre **rapidamente**."   |
 | Antes do adjetivo ou advérbio | "Ele é **muito** inteligente." |
 
-> ### Função do advérbio
+### 1.3 Função do Advérbio
 
 | FUNÇÃO                  | EXEMPLO                                                             |
 |-------------------------|---------------------------------------------------------------------|
@@ -47,7 +49,7 @@ Ex: Não é permitido de jeito nenhum.
 | Modifica o adjetivo     | "Ela é **muito** inteligente." (modifica o adjetivo "inteligente"). |
 | Modifica outro advérbio | "Ele estuda **bem** demais." (modifica o advérbio "bem").           |
 
-> ### Classificação dos advérbios
+### 1.4 Classificação dos Advérbios
 
 | TIPO DE ADVÉRBIO        | DESCRIÇÃO                                                       | EXEMPLO                                           |
 |-------------------------|-----------------------------------------------------------------|---------------------------------------------------|

@@ -1,6 +1,6 @@
 # Acentuação
 
-## Definição
+## 1. Definição
 - A acentuação consiste em indicar a partir de sinais a diferença entre a tonicidade das palavras. Essa diferenciação consiste em adicionar o acento, nos menores grupos de palavras da língua portuguesa.
 - A divisão dos grupos de palavras é feito a partir da classificação da tonicidade das palavras. O maior grupo de palavras é o das paroxítonas, seguido das oxítonas e o menor é o das proparoxítonas.
 - Existem três sinais de acentuação:
@@ -11,7 +11,7 @@
 > [!CAUTION] OBSERVAÇÃO:
 > - O **~** (til) não é acento e sim uma marca léxica que indica nasalização (o som sai pelo nariz).
 
-> ### Regras Gerais de Acentuação
+### 1.1 Regras Gerais de Acentuação
 
 #### Todas as Proparoxítonas
 - Toda palavra proparoxítona é acentuada.
@@ -36,7 +36,7 @@ Ex: táxi
 >
 > Ex: mesário ⟶ me-sá-rio ou me-sá-ri-o
 
-> ### Regras Especiais de Acentuação
+### 1.2 Regras Especiais de Acentuação
 
 #### Monossílabos Tônicos Terminados em -a(s), -e(s) e -o(s)
 - Recebem acento as palavras formadas por uma única sílaba, que possuem sílaba tônica e terminam em **-a(s)**, **-e(s)** e **-o(s)**.

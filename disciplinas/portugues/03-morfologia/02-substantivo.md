@@ -11,6 +11,7 @@
 > - O grau (aumentativo/diminutivo) não faz parte da estruturação do grupo dos nomes.
 
 Ex: O carro velho.
+
 1. carro = substantivo
 2. o = artigo
 3. velho = adjetivo

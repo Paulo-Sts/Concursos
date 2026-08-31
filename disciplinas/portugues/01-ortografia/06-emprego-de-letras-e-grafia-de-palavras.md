@@ -2,19 +2,19 @@
 
 ## 1. Regras Gerais de Escrita
 
-#### Uso do S e Z
+### 1.1 Uso do S e Z
 
 | REGRA                                                   | EXEMPLOS                                 | EXCEÇÕES                       |
 |---------------------------------------------------------|------------------------------------------|--------------------------------|
 | Adjetivos com sufixo **-oso** (cheio de) escrevem com S | gostoso, gracioso, bondoso               |                                |
 | Sufixo **-ês** (origem/nacionalidade) usa S             | português, francês, camponês             |                                |
 | Sufixo **-isa** (profissão/título) usa S                | poetisa, sacerdotisa, profetisa          |                                |
-| Verbos terminados em **-isar** (com S no radical)       | análise → analisar; pesquisa → pesquisar | catequese → **catequizar** (Z) |
-| Verbos terminados em **-izar** (sem S no radical)       | civil → civilizar; fértil → fertilizar   |                                |
-| Palavras derivadas de outras com S                      | casa → casinha; liso → lisura            |                                |
-| **Exceções com Z** (sufixos)                            | beleza, nobreza, esperteza               |                                |
+| Verbos terminados em **-isar** (com S no radical)       | análise ⟶ analisar; pesquisa ⟶ pesquisar | catequese ⟶ catequizar (Z) |
+| Verbos terminados em **-izar** (sem S no radical)       | civil ⟶ civilizar; fértil ⟶ fertilizar   |                                |
+| Palavras derivadas de outras com S                      | casa ⟶ casinha; liso ⟶ lisura            |                                |
+| Exceções com Z (sufixos)                                | beleza, nobreza, esperteza                 |                                |
 
-#### Uso do G e J
+### 1.2 Uso do G e J
 
 | REGRA                                             | EXEMPLOS                                           |
 |---------------------------------------------------|----------------------------------------------------|
@@ -23,16 +23,16 @@
 | Verbos terminados em **-ger, -gir**               | proteger, eleger, dirigir, fugir                   |
 | Palavras de origem tupi/africana/árabe com J      | jiboia, canjica, alforje                           |
 
-#### Uso do X e CH
+### 1.3 Uso do X e CH
 
-| REGRA                             | EXEMPLOS                | DICA                                               |
-|-----------------------------------|-------------------------|----------------------------------------------------|
-| Depois de ditongo (vogal + vogal) | caixa, peixe, feixe     | Geralmente X                                       |
-| Depois de "en-" inicial           | enxada, enxame, enxugar | Exceto: **encher, encharcar** (derivados de cheio) |
-| Palavras de origem tupi/africana  | xará, xavante, caxumba  |                                                    |
-| **Pegadinha clássica:**           | **xingar** (com X)      | Não confundir com "ch"                             |
+| REGRA                             | EXEMPLOS                | DICA                                           |
+|-----------------------------------|-------------------------|------------------------------------------------|
+| Depois de ditongo (vogal + vogal) | caixa, peixe, feixe     | Geralmente X                                   |
+| Depois de "en-" inicial           | enxada, enxame, enxugar | Exceto: encher, encharcar (derivados de cheio) |
+| Palavras de origem tupi/africana  | xará, xavante, caxumba  |                                                |
+| Pegadinha clássica:               | xingar (com X)      | Não confundir com "ch"                             |
 
-#### Uso do SS, Ç, C, SC
+### 1.4 Uso do SS, Ç, C, SC
 
 | GRAFIA               | SOM | EXEMPLOS                            |
 |----------------------|-----|-------------------------------------|
@@ -81,24 +81,3 @@
 | discrição     | Ser discreto, reservado (com S)                     |
 | dispensa      | Ato de dispensar                                    |
 | despensa      | Lugar de guardar comida                             |
-
-#### Homônimos e Parônimos
-
-| PALAVRA | SIGNIFICADO           | EXEMPLO                         |
-|---------|-----------------------|---------------------------------|
-| sessão  | reunião, espetáculo   | "sessão de cinema"              |
-| seção   | divisão, departamento | "seção de esportes do jornal"   |
-| cessão  | ato de ceder          | "cessão de direitos"            |
-| viagem  | substantivo           | "a viagem foi ótima"            |
-| viajem  | verbo (eles viajem)   | "espero que eles viajem amanhã" |
-| mas     | porém (oposição)      | "estudei, mas não passei"       |
-| mais    | quantidade            | "quero mais comida"             |
-
-## 4. Memorização Rápida
-- **"Exceção"** tem "c" porque é **"coisa rara"** (começa com C).
-- **"Excesso"** tem SS porque é **"superando, sobrando"** (SS parece dobro).
-- **"Encher"** e **"encharcar"** têm CH porque vêm de **"cheio"** e **"charco"**.
-- **"MEXER"** com X: lembre da música "Mexe, mexe que é bom" (X no lugar do "xe").
-- **"Paralisar"** com S: vem de "paralisia" (com S).
-- **"Analisar"** com S: vem de "análise" (com S).
-- **"Pesquisar"** com S: vem de "pesquisa" (com S).

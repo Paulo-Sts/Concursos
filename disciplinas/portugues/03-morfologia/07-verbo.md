@@ -1,6 +1,6 @@
 # Verbo 
 
-## Definição
+## 1. Definição
 - Os verbos são palavras que indicam ação, estado ou fenômeno da natureza. O verbo, é a classe de palavras mais importante do português. Sendo o ponto de partida da análise textual. 
 - A morfologia do verbo é a flexão verbal. A flexão verbal tem relação com a conjugação do verbo, ou seja, o verbo tem sua forma alterada de acordo com o que é conjugado. A flexão verbal faz parte da perspectiva morfológica.
 - Os verbos, flexionam em modo, tempo, número e pessoa.
@@ -15,14 +15,15 @@
 3. Palavras subordinadas ao substantivo: artigos, adjetivos, numerais e pronomes.
 4. O resto.
 
-Ex: O rapaz correu.
+Ex: O rapaz correu.  
+
 1. correu = verbo
 2. rapaz = substantivo
 3. o = artigo
 
-## Classificação dos Verbos
+## 2. Classificação dos Verbos
 
-> ### Quanto à conjugação
+### 2.1 Quanto à Conjugação
 - A conjugação diz respeito às variações que o verbo sofre de acordo com a pessoa, número, tempo, modo e aspecto. A conjugação também define a classe verbal em que o verbo se enquadra, dependendo da terminação de sua forma infinitiva.
 - Exemplo: 
   - O verbo **falar** (terminação **-ar**) é conjugado de acordo com as diferentes pessoas e tempos, como "eu falo", "tu falas", "ele falou".
@@ -33,7 +34,7 @@ Ex: O rapaz correu.
 | 2ª conjugação | -er        | vender, correr, comer |
 | 3ª conjugação | -ir        | partir, abrir, fugir  |
 
-> ### Quanto à predicação
+### 2.2 Quanto à Predicação
 - A predicação verbal diz respeito ao tipo de relação que o verbo estabelece com seus complementos (se houver). Ou seja, define o tipo de complemento que o verbo exige para completar o sentido da frase.
 
 | TIPO                               | DESCRIÇÃO                                       | EXEMPLO                              |
@@ -44,7 +45,7 @@ Ex: O rapaz correu.
 | Verbo intransitivo                 | Não exige complemento                           | "Ele dormiu cedo."                   |
 | Verbo de ligação                   | Indica estado, ligando o sujeito ao predicativo | "Ela **é** inteligente."             |
 
-> ### Quanto à flexão
+### 2.3 Quanto à Flexão
 - As flexões verbais são as variações que os verbos sofrem para expressar pessoa, número, tempo, modo, e aspecto.
 
 | TIPO    | DESCRIÇÃO                                                           | EXEMPLO                                                                     |
@@ -55,7 +56,7 @@ Ex: O rapaz correu.
 | Modo    | Indica como a ação é realizada: indicativo, subjuntivo, imperativo. | "Eu falo" (indicativo), "Se eu falasse" (subjuntivo), "Fale!" (imperativo). |
 | Aspecto | Indica a duração da ação: perfeito, imperfeito, contínuo.           | "Eu falei" (ação concluída, perfeito), "Eu falava" (ação habitual, imperfeito), "Eu estou falando" (ação contínua, contínuo). |
 
-> ### Modos verbais
+### 2.4 Modos Verbais
 - Os modos verbais indicam a atitude do falante em relação à ação, ou seja, como ele percebe ou deseja que a ação aconteça.
 
 | MODO       | USO                      | EXEMPLO                        |
@@ -64,7 +65,7 @@ Ex: O rapaz correu.
 | Subjuntivo | Expressa hipótese/desejo | "Se eu **estudasse** mais..."  |
 | Imperativo | Expressa ordem/pedido    | "**Estude** mais!"             |
 
-> ### Tempos verbais
+### 2.5 Tempos Verbais
 - Os tempos verbais indicam quando a ação acontece (presente, passado ou futuro) e a duração dessa ação. Eles podem ser divididos em tempos simples e compostos.
 
 | TEMPO VERBAL                | DESCRIÇÃO                                                  | EXEMPLO                                  |
@@ -76,7 +77,7 @@ Ex: O rapaz correu.
 | Futuro do Presente          | Ação que ocorrerá no futuro.                               | "Eu **estudarei** amanhã."               |
 | Futuro do Pretérito         | Ação que ocorreria no passado, mas não ocorreu (hipótese). | "Eu **estudaria** se tivesse tempo."     |
 
-> ### Formas nominais
+### 2.6 Formas Nominais
 - As formas nominais são as formas do verbo que não estão conjugadas e desempenham um papel de substantivo, adjetivo ou advérbio dentro da frase.
 
 | FORMA      | DESCRIÇÃO                                             | EXEMPLO                       |
@@ -85,15 +86,15 @@ Ex: O rapaz correu.
 | Gerúndio   | Indica uma ação em andamento.                         | estudando, vendendo, partindo |
 | Particípio | Geralmente indica uma ação já concluída ou um estado. | estudado, vendido, partido    |
 
-> ### Locuções verbais
+### 2.7 Locuções Verbais
 - Uma locução verbal é uma expressão composta por dois ou mais verbos, onde um verbo é auxiliar e o outro é principal. O verbo auxiliar ajuda a indicar tempo, modo, voz, etc.
 - São formadas por um verbo auxiliar + verbo principal no infinitivo, gerúndio ou particípio.  
 - Exemplo:
   - "Ele **vai viajar** amanhã" (vai = auxiliar; viajar = principal).
 
-> ### Verbos irregulares e defectivos
+### 2.8 Verbos Irregulares e Defectivos
 
 | TIPO        | DESCRIÇÃO                                       | EXEMPLO                                              |
 |-------------|-------------------------------------------------|------------------------------------------------------|
-| Irregulares | Sofrem alterações no radical ou nas terminações | "fazer" => "faço"                                    |
+| Irregulares | Sofrem alterações no radical ou nas terminações | "fazer" ⟶ "faço"                                    |
 | Defectivos  | Não apresentam todas as formas verbais          | "abolir" (não tem 1ª pessoa do singular no presente) |
