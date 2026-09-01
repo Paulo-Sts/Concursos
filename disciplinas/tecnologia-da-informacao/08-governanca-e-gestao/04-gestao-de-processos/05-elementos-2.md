@@ -32,7 +32,7 @@
 
 > [!TIP] DICAS:
 > - A tarefa de serviço é a única que ocorre de forma completamente automática.
-> - Cai frequentemente em provas: "atividade que ocorre automaticamente sem intervenção humana = tarefa de serviço".
+> - Atividade que ocorre automaticamente sem intervenção humana é tarefa de serviço.
 
 ### 2.3 Tarefa de Recebimento
 - Atividade de recebimento de mensagem.
@@ -87,19 +87,6 @@
 > [!CAUTION] OBSERVAÇÃO:
 > - Diferencie bem: tarefa de usuário (com sistema) x tarefa manual (sem sistema) x tarefa de serviço (automática).
 
-### Tabela Resumo - Tipos de Tarefas
-
-| TIPO DE TAREFA | CARACTERÍSTICA PRINCIPAL |
-|----------------|--------------------------|
-| Abstrata | Utilizada em estágios iniciais do desenvolvimento |
-| Serviço | Ocorre automaticamente, sem intervenção humana |
-| Recebimento | Aguarda recebimento de mensagem |
-| Envio | Realiza envio de mensagem |
-| Usuário | Executada por pessoa com auxílio de sistema |
-| Execução de script | Segue um roteiro/checklist |
-| Manual | Executada por pessoa sem sistema |
-| Regra de negócio | Interage com motor de regras de negócio |
-
 ## 3. Tipos de Subprocessos
 
 ### 3.1 Subprocesso Incorporado
@@ -122,7 +109,7 @@
 </div><br><br><br><br>
 
 > [!TIP] DICAS:
-> - Subprocesso incorporado é dependente do processo pai; subprocesso reutilizável é independente e pode ser chamado por vários processos.
+> - Subprocesso incorporado é dependente do processo pai. Subprocesso reutilizável é independente e pode ser chamado por vários processos.
 
 ### 3.3 Subprocesso Eventual
 - Representa um conjunto lógico de atividades que pode ou não acontecer durante a execução de um processo.
@@ -246,16 +233,7 @@
 
 > [!CAUTION] OBSERVAÇÃO:
 > - Gateway inclusivo se assemelha ao paralelo (executa mais de um fluxo), mas pode executar todos ou somente alguns fluxos.
-> - Diferença crucial: no paralelo, TODOS os fluxos são executados; no inclusivo, UM OU MAIS fluxos são executados conforme a condição.
-
-### Tabela Resumo - Gateways
-
-| TIPO DE GATEWAY | DIVISÃO (FORK) | UNIFICAÇÃO (JOIN) | COMPORTAMENTO |
-|-----------------|----------------|-------------------|---------------|
-| Exclusivo baseado em dados | Apenas um caminho é escolhido | Primeiro caminho que chega dá sequência | OU exclusivo |
-| Exclusivo baseado em eventos | Apenas um caminho é escolhido com base em eventos | Primeiro evento que ocorre dá sequência | OU exclusivo (eventos) |
-| Paralelo | Todos os caminhos são executados | Aguarda TODOS os caminhos | E |
-| Inclusivo | Um ou mais caminhos são executados | Aguarda TODOS os ativos | E/OU |
+> - Diferença crucial: no paralelo, todos os fluxos são executados. No inclusivo, um ou mais fluxos são executados conforme a condição.
 
 ## 6. Repetição em Loop Multi-Instance
 - Avaliação numérica define quantas vezes a atividade será repetida.

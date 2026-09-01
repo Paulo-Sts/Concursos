@@ -74,6 +74,25 @@
   - O que o autor pensa sobre esse assunto? (tese)
   - Por que ele pensa assim? (argumentos)
 
+#### Médoto Dedutivo
+- Método dedutivo é o raciocício de um tipo de argumento. Esse argumento é feito do maior para o menor, ou seja, de uma premissa geral em direção a outra, particular ou singular. 
+- As conclusões encontradas nesse método já estavam nas premissas analisadas anteriormente e, portanto, ele não produz conhecimentos novos.
+- Exemplo:
+  - Todos os animais são mortais.
+  - Peixe é um animal.
+  - Logo, o peixe é mortal.
+
+#### Método Indutivo
+- No método indutivo o raciocínio vai do menor ao maior ou de uma premissa singular ou particular para outra, geral. 
+- Diferente do método dedutivo, onde a conclusão está implícita nas premissas, aqui, sua conclusão vai além desses enunciados.
+- Assim, o método indutivo é mais amplo sendo muito utilizado nas ciências.
+- Exemplo:
+  - Todo gato é mortal.
+  - Todo cão é mortal.
+  - Todo pássaro é mortal.
+  - Todo peixe é mortal.
+  - Logo, todo animal é mortal.
+
 ### 2.5 Tipo Injutivo
 - É o tipo textual que tem como objetivo dar ordens, avisos, conselhos, instruções e indicações para a realização de um trabalho ou para utilização de instrumentos. Também visa fazer advertências, prescrever normas e procedimentos.
 - Classificações dos textos injuntivos:

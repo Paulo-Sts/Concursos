@@ -22,7 +22,7 @@
 
 > [!CAUTION] OBSERVAÇÃO:
 > - É recomendável que todo processo tenha um evento de início e ao menos um evento de fim para facilitar a leitura do diagrama.
-> - Não existem eventos futuros; existem eventos de início, intermediários e de fim.
+> - Não existem eventos futuros, existem eventos de início, intermediários e de fim.
 
 ### 1.2 Eventos mais Complexos
 
@@ -78,7 +78,7 @@
 </div><br><br><br><br><br>
 
 > [!TIP] DICAS:
-> - Temporizador só existe no início e no intermediário; não há temporizador de fim de processo.
+> - Temporizador só existe no início e no intermediário, não há temporizador de fim de processo.
 
 ### 2.4 Início Condicional (Conditional)
 - Representado por um círculo com borda fina e um ícone específico no centro (semelhante a um envelope ou indicador de condição).
@@ -275,28 +275,11 @@
 - Gera um sinal que pode ser recebido por vários processos.
 - Comunicação do tipo broadcast.
 
-## 5. Tabela Resumo de Eventos por Tipo e Permissão
-
-| TIPO DE EVENTO | INÍCIO | INTERMEDIÁRIO | FIM | OBSERVAÇÃO |
-|----------------|--------|---------------|-----|------------|
-| Simples (None) | Sim | Sim | Sim | Início: sem ícone; Fim: sem ícone |
-| Mensagem | Sim | Sim | Sim | Envelope; início e intermediário: catch; fim: throw |
-| Temporizador (Timer) | Sim | Sim | NÃO | Relógio; não pode ser fim |
-| Regra/Condicional | Sim | Sim | NÃO | Ícone de condição; não pode ser fim |
-| Ligação (Link) | NÃO | Sim | NÃO | Conecta atividades do mesmo processo |
-| Múltiplo | Sim | Sim | Sim | Pentágono; início: várias formas; fim: várias consequências |
-| Múltiplo Paralelo | Sim | N/A | N/A | Sinal de mais; aguarda TODOS os eventos |
-| Sinal | Sim | Sim | Sim | Triângulo; comunicação broadcast |
-| Exceção | NÃO | Sim (borda) | Sim | Intermediário: só na borda da atividade |
-| Compensação | NÃO | Sim | Sim | Rollback; intermediário: identificador de compensação |
-| Cancelamento | NÃO | Sim | Sim | Intermediário: existe; fim: usuário cancelou |
-| Término (Terminate) | N/A | N/A | Sim | Círculo preto preenchido; interrompe tudo |
-
 > [!TIP] DICAS:
-> - Regra e temporizador NÃO podem ser eventos de fim.
-> - Exceção e compensação NÃO podem ser eventos de início.
-> - Cancelamento NÃO pode ser evento de início.
-> - Ligação NÃO pode ser início nem fim.
+> - Regra e temporizador não podem ser eventos de fim.
+> - Exceção e compensação não podem ser eventos de início.
+> - Cancelamento não pode ser evento de início.
+> - Ligação não pode ser início nem fim.
 
 > [!CAUTION] OBSERVAÇÃO:
 > - O conector de fluxo de mensagem é representado por uma linha tracejada com seta vazada apontando para o destino.

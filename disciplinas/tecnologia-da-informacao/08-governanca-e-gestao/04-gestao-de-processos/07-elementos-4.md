@@ -4,9 +4,7 @@
 - Artefatos são elementos complementares que auxiliam na sinalização visual do processo.
 - Não influenciam diretamente no fluxo de trabalho.
 - Fornecem informações adicionais sobre o processo.
-
-> [!TIP] DICAS:
-> - Artefatos = informações adicionais, não alteram o fluxo.
+- Artefatos são informações adicionais, não alteram o fluxo.
 
 ### 1.1 Objeto de Dados (Data Object)
 - Representa um conjunto de informações no contexto do processo.
@@ -19,7 +17,7 @@
   - Repositório de dados: representado por um símbolo específico que indica a armazenagem de informações dentro do processo.
 
 > [!CAUTION] OBSERVAÇÃO:
-> - Dados inseridos em um repositório de dados permanecem armazenados após a conclusão do processo; não "perecem" ao final da execução. Essa é uma pegadinha comum em provas.
+> - Dados inseridos em um repositório de dados permanecem armazenados após a conclusão do processo; não "perecem" ao final da execução.
 
 ### 1.2 Anotação de Texto (Text Annotation)
 - Utilizada para agregar comentários ao processo ou a um elemento específico.
@@ -59,7 +57,7 @@
 - Setas tracejadas: fluxo de mensagem (comunicação entre processos distintos) ou associação (conexão com artefatos).
 
 > [!CAUTION] OBSERVAÇÃO:
-> - Setas tracejadas NÃO servem para conectar figuras básicas em um mesmo processo; isso é função do fluxo de sequência (seta sólida). Essa é uma pegadinha comum em provas.
+> - Setas tracejadas não servem para conectar figuras básicas em um mesmo processo. Isso é função do fluxo de sequência (seta sólida).
 
 ### Exemplos de Modelagem BPMN
 

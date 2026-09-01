@@ -30,7 +30,7 @@
 </div><br><br><br><br><br><br><br>
 
 > [!TIP] DICAS:
-> - Pool é o ator mais amplo (ex.: organização); lane é a subdivisão (ex.: departamento).
+> - Pool é o ator mais amplo (ex.: organização). Lane é a subdivisão (ex.: departamento).
 > - O uso de swim lanes tem a vantagem de delimitar as responsabilidades de cada departamento.
 
 > [!CAUTION] OBSERVAÇÃO:
