@@ -2,19 +2,19 @@
 
 ## 1. Ortografia
 
-| ASSUNTO | ENTENDIDO | SITUAÇÃO | APROVEITAMENTO |
-|---|---|---|---|
-| Conceitos  | Sim | Não me lembro (Revisar e Praticar) |  |
-| Acentuação | Sim | Não me lembro (Revisar e Praticar) |  |
-| Hífen      | Sim | Não me lembro (Revisar e Praticar) |  |
-| Dígrafo    | Sim | Não me lembro (Revisar e Praticar) |  |
-| Grafia     | Sim | Não me lembro (Revisar e Praticar) |  |
-| Porques    | Sim | Não me lembro (Revisar e Praticar) |  |
+| ASSUNTO | APRENDIZADO (FASE 1 ) | REVISÃO ACUMULADA (FASE 2) | REVISÃO FATIADA (FASE 3) | REVISÃO CIRÚGICA (FASE 4) |APROVEITAMENTO |
+|---|---|---|---|---|---|
+| Conceitos  | Sim |  |  |
+| Acentuação | Sim |  |  |
+| Hífen      | Sim |  |  |
+| Dígrafo    | Sim |  |  |
+| Grafia     | Sim |  |  |
+| Porques    | Sim |  |  |
 
 ## 2. Morfologia
 
-| ASSUNTO | ENTENDIDO | SITUAÇÃO | APROVEITAMENTO |
-|---|---|---|---|
+| ASSUNTO | APRENDIZADO (FASE 1 ) | REVISÃO ACUMULADA (FASE 2) | REVISÃO FATIADA (FASE 3) | REVISÃO CIRÚGICA (FASE 4) |APROVEITAMENTO |
+|---|---|---|---|---|---|
 | Conceitos   | Sim | Não me lembro (Revisar e Praticar) |  |
 | Substantivo | Sim | Não me lembro (Revisar e Praticar) |  |
 | Artigo      | Sim | Não me lembro (Revisar e Praticar) |  |
@@ -29,51 +29,51 @@
 
 ## 3. Sintaxe
 
-| ASSUNTO | ENTENDIDO | SITUAÇÃO | APROVEITAMENTO |
-|---|---|---|---|
-| Introdução            | Sim | Não me lembro (Revisar e Praticar) |  |
-| Sujeito               | Sim | Não me lembro (Revisar e Praticar) |  |
-| Predicado             | Sim | Não me lembro (Revisar e Praticar) |  |
-| Transitividade Verbal | Sim | Não me lembro (Revisar e Praticar) |  |
+| ASSUNTO | APRENDIZADO (FASE 1 ) | REVISÃO ACUMULADA (FASE 2) | REVISÃO FATIADA (FASE 3) | REVISÃO CIRÚGICA (FASE 4) |APROVEITAMENTO |
+|---|---|---|---|---|---|
+| Introdução            | Sim |  |  |
+| Sujeito               | Sim |  |  |
+| Predicado             | Sim |  |  |
+| Transitividade Verbal | Sim |  |  |
 | Termos Integrantes    | Não |  |  |
 | Termos Acessórios     | Não |  |  |
 | Orações Coordenadas   | Não |  |  |
 | Orações Subordinadas  | Não |  |  |
 | Orações Reduzidas     | Não |  |  |
-| Concordância Verbal   | Sim | Não me lembro (Revisar e Praticar) |  |
-| Concordância Nominal  | Sim | Não me lembro (Revisar e Praticar) |  |
-| Regência Verbal       | Sim | Não me lembro (Revisar e Praticar) |  |
-| Regência Nominal      | Sim | Não me lembro (Revisar e Praticar) |  |
-| Pronomes Obliquos     | Sim | Não me lembro (Revisar e Praticar) |  |
-| Colocação Pronominal  | Sim | Não me lembro (Revisar e Praticar) |  |
+| Concordância Verbal   | Sim |  |  |
+| Concordância Nominal  | Sim |  |  |
+| Regência Verbal       | Sim |  |  |
+| Regência Nominal      | Sim |  |  |
+| Pronomes Obliquos     | Sim |  |  |
+| Colocação Pronominal  | Sim |  |  |
 | Verbo Haver           | Não |  |  |
-| Crase                 | Sim | Não me lembro (Revisar e Praticar) |  |
-| Pontuação             | Sim | Não me lembro (Revisar e Praticar) |  |
+| Crase                 | Sim |  |  |
+| Pontuação             | Sim |  |  |
 | Particula Se          | Não |  |  |
 | Particula Que         | Não |  |  |
 | Vozes Verbais         | Não |  |  |
 
 ## 4. Compreensão e Interpretação
 
-| ASSUNTO | ENTENDIDO | SITUAÇÃO | APROVEITAMENTO |
-|---|---|---|---|
-| Tipos e Gêneros          | Sim | Não me lembro (Revisar e Praticar) |  |
-| Elementos da Comunicação | Sim | Não me lembro (Revisar e Praticar) |  |
-| Funções da Linguagem     | Sim | Não me lembro (Revisar e Praticar) |  |
-| Marcas da Textualidade   | Sim | Não me lembro (Revisar e Praticar) |  |
-| Coesão                   | Sim | Não me lembro (Revisar e Praticar) |  |
-| Intertextualidade        | Sim | Não me lembro (Revisar e Praticar) |  |
-| Semântica                | Sim | Não me lembro (Revisar e Praticar) |  |
-| Registros de Linguagem   | Sim | Não me lembro (Revisar e Praticar) |  |
-| Tipos de Discurso        | Sim | Não me lembro (Revisar e Praticar) |  |
+| ASSUNTO | APRENDIZADO (FASE 1 ) | REVISÃO ACUMULADA (FASE 2) | REVISÃO FATIADA (FASE 3) | REVISÃO CIRÚGICA (FASE 4) |APROVEITAMENTO |
+|---|---|---|---|---|---|
+| Tipos e Gêneros          | Sim |  |  |
+| Elementos da Comunicação | Sim |  |  |
+| Funções da Linguagem     | Sim |  |  |
+| Marcas da Textualidade   | Sim |  |  |
+| Coesão                   | Sim |  |  |
+| Intertextualidade        | Sim |  |  |
+| Semântica                | Sim |  |  |
+| Registros de Linguagem   | Sim |  |  |
+| Tipos de Discurso        | Sim |  |  |
 
 ## 5. Redação Oficial
 
-| ASSUNTO | ENTENDIDO | SITUAÇÃO | APROVEITAMENTO |
-|---|---|---|---|
-| Conceitos            | Sim | Não me lembro (Revisar e Praticar) |  |
-| Vocativo             | Sim | Não me lembro (Revisar e Praticar) |  |
-| Fechos               | Sim | Não me lembro (Revisar e Praticar) |  |
-| Ofício               | Sim | Não me lembro (Revisar e Praticar) |  |
-| Exposição de Motivos | Sim | Não me lembro (Revisar e Praticar) |  |
-| Outros               | Sim | Não me lembro (Revisar e Praticar) |  |
+| ASSUNTO | APRENDIZADO (FASE 1 ) | REVISÃO ACUMULADA (FASE 2) | REVISÃO FATIADA (FASE 3) | REVISÃO CIRÚGICA (FASE 4) |APROVEITAMENTO |
+|---|---|---|---|---|---|
+| Conceitos            | Sim |  |  |
+| Vocativo             | Sim |  |  |
+| Fechos               | Sim |  |  |
+| Ofício               | Sim |  |  |
+| Exposição de Motivos | Sim |  |  |
+| Outros               | Sim |  |  |
