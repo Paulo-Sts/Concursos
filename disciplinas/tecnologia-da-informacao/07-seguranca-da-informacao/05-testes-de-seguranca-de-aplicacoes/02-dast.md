@@ -5,11 +5,11 @@
 - Avalia aplicações em execução para identificar vulnerabilidades exploráveis externamente.
 
 ### 1.1 Funcionamento
-- Varredura da Aplicação.
+- Varredura da aplicação.
 - Interage com a aplicação como um usuário mal-intencionado, explorando entradas e respostas.
-- Execução de Testes de Segurança
+- Execução de testes de segurança
 - São enviadas requisições HTTP/HTTPS para testar vulnerabilidades, como injeções SQL, falhas de autenticação, XSS e ataques de negação de serviço (DoS).
-- Relatório de Vulnerabilidades.
+- Relatório de vulnerabilidades.
 - Relatório apontando falhas detectadas e recomendações de correção.
 - Integração com DevSecOps.
 - Integrado em pipelines de CI/CD para testes contínuos.
@@ -23,7 +23,7 @@
 ### 1.3 Vantagens
 - Detecta vulnerabilidades no ambiente real de execução.
 - Testa aplicações em produção ou em ambiente de homologação.
-- Identifica falhas independentes da linguagem de programação.
+- Identifica falhas independente da linguagem de programação.
 - Integração com DevSecOps, permitindo testes contínuos.
 
 ### 1.4 Desvantagens
@@ -42,14 +42,14 @@
 ### 1.6 Exemplos de vulnerabilidades encontradas
 - Injeção de SQL.
 - Cross-Site Scripting (XSS).
-- Falhas de Autenticação.
-- Erro de Configuração de Segurança.
-- Exposição de Dados Sensíveis.
+- Falhas de autenticação.
+- Erro de configuração de segurança.
+- Exposição de dados sensíveis.
 
 ### 1.7 DAST no DevSecOps
 - Pipelines de CI/CD: DAST pode ser integrado em ferramentas como Jenkins, GitHub Actions e GitLab CI/CD para testes automatizados.
-- Monitoramento Contínuo: Algumas soluções permitem análises periódicas para verificar novas vulnerabilidades.
-- Teste em Ambientes de Homologação: Ideal para evitar riscos de impacto em produção.
+- Monitoramento contínuo: Algumas soluções permitem análises periódicas para verificar novas vulnerabilidades.
+- Teste em ambientes de homologação: Ideal para evitar riscos de impacto em produção.
 
 > [!TIP] DICAS: 
 > - Teste recomendado por ambiente:

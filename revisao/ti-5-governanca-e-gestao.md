@@ -2,7 +2,7 @@
 
 | ASSUNTO | ENTENDIDO | SITUAÇÃO | APROVEITAMENTO |
 |---|---|---|---|
-| PMBOK |  |  |  |
-| COBIT |  |  |  |
-| ITIL |  |  |  |
-| BPMN | Sim |  |  |
+| PMBOK *|  |  |  |
+| COBIT *|  |  |  |
+| ITIL *|  |  |  |
+| BPMN *| Sim |  |  |

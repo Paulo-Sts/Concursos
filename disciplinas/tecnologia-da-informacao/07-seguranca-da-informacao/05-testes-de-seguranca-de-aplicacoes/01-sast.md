@@ -23,8 +23,8 @@
 - Teste sem execução: Não depende da execução do software, diferentemente do DAST (Dynamic Application Security Testing).
 - Detecta vulnerabilidades no código-fonte: Permite correção precoce, reduzindo custos de segurança.
 - Integração com DevSecOps: Pode ser usado junto com ferramentas de CI/CD para análises automáticas.
-- Cobertura de Código: Avalia toda a base de código, incluindo caminhos de execução raramente testados manualmente.
-- Análise de Bibliotecas e Dependências: Identifica vulnerabilidades em pacotes externos.
+- Cobertura de código: Avalia toda a base de código, incluindo caminhos de execução raramente testados manualmente.
+- Análise de bibliotecas e dependências: Identifica vulnerabilidades em pacotes externos.
 
 ### 1.4 Vantagens
 - Detecta vulnerabilidades cedo, reduzindo custos de correção.
@@ -39,9 +39,9 @@
 ### 1.6 Exemplos de Vulnerabilidades Detectadas
 - Injeção de SQL.
 - Cross-Site Scripting (XSS).
-- Uso de Funções Inseguras.
-- Vazamento de Credenciais.
-- Erros de Controle de Acesso.
+- Uso de funções inseguras.
+- Vazamento de credenciais.
+- Erros de controle de acesso.
 
 ### 1.7 Principais Ferramentas SAST
 - SonarQube: Análise de código estático para detectar vulnerabilidades e falhas de qualidade.
