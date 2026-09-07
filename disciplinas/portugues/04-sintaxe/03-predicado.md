@@ -20,7 +20,7 @@
   - O céu **está** claro. (O verbo "está" é o núcleo do predicado e faz a ligação entre o sujeito "o céu" e o predicativo "claro".)
 
 ### 2.3 Predicado Verbo-nominal
-- Combina um verbo de ação e um predicativo. O predicativo pode caracterizar o sujeito ou o objeto.
+- Combina um verbo de ação e um predicativo. O predicativo pode caracterizar o sujeito ou o objeto (predicativo do sujeito ou objeto).
 - Exemplo: 
   - O professor **chegou** cansado. (O verbo "chegou" é o núcleo verbal, e o predicativo "cansado" caracteriza o sujeito "o professor".)
 
