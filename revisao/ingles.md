@@ -14,3 +14,4 @@
 - Insincere = insincero ou falso
 - Watchful = atento, vigilante
 - Made room = abriu espaço. um sinônimo seria: freed up more space = liberou mais espaço
+- Grapple with = Lidar com, enfrentar
