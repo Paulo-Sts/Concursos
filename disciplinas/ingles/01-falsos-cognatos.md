@@ -1,10 +1,10 @@
 # Falsos Cognatos (False Friends)
 
-## O que são Falsos Cognatos?
+## 1. O que são Falsos Cognatos?
 - São palavras em inglês que se parecem com palavras do português, mas têm significados diferentes.  
 - Parecem "amigas", mas enganam (por isso: "false friends").
 
-#### Exemplos Mais Comuns
+### 1.1 Exemplos Comuns
 
 | INGLÊS         | VERDADEIRO SIGNIFICADO (Certo)          | FALSO SIGNIFICADO (O que parece) |
 |---|---|---|
