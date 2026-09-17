@@ -42,7 +42,7 @@
 >     - Se for Agente (pratica a ação) é Adjunto Adnominal (Ex: A resposta do aluno/o aluno respondeu).
 >     - Se for Paciente (sofre a ação) é Complemento Nominal (Ex: A resposta ao aluno/o aluno foi respondido).
 
-> [!TIP] DICA: 
+> [!TIP] DICAS: 
 > - Como identificar os termos acessórios:
 >   - Adjunto Adnominal: Ele está "colado" ao nome sem intermediação de verbo.
 >   - Adjunto Adverbial: Pergunte ao verbo Quando? Onde? Como? Por quê? Quanto?.
