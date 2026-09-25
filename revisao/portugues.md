@@ -46,12 +46,12 @@
 | Regência Nominal      | Sim |  |  |
 | Pronomes Obliquos     | Sim |  |  |
 | Colocação Pronominal  | Sim |  |  |
-| Verbo Haver           | Não |  |  |
+| Verbo Haver           | Sim |  |  |
 | Crase                 | Sim |  |  |
 | Pontuação             | Sim |  |  |
 | Particula Se          | Não |  |  |
 | Particula Que         | Não |  |  |
-| Vozes Verbais         | Não |  |  |
+| Vozes Verbais         | Sim |  |  |
 
 ## 4. Compreensão e Interpretação
 

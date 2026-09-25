@@ -80,20 +80,6 @@ Exemplo:
 >   - Adjunto Adnominal: Característica permanente/própria do nome. (Ex: O professor avaliou o aluno inteligente — ele já é inteligente).
 >   - Predicativo do Objeto: Estado transitório/julgado pelo verbo. (Ex: O professor considerou o aluno inteligente — foi julgado assim no contexto).
 
-## 7. Vozes Verbais
-
-#### Ativa
-- Sujeito pratica a ação.
-- Ex.: O aluno escreveu a redação.
-
-#### Passiva Analítica
-- Verbo "ser" + particípio + agente da passiva.
-- Ex.: A redação foi escrita pelo aluno.
-
-#### Passiva Sintética
-- Verbo + "se" (partícula apassivadora), com sujeito paciente.
-- Ex.: Vendem-se livros. (os livros são vendidos)
-
 ## 8. Funções do "SE"
 
 #### Partícula Apassivadora

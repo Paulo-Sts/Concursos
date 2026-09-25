@@ -73,6 +73,7 @@ EXEMPLO DE ESTRUTURA REQUERIDA:
 > - (Destaques, Exceções ou Interpretações do Professor aqui)
 
 ### [Título da Tabela]
+
 | PRODUTO | CARACTERÍSTICA | RISCO |
 |---|---|---|
 
