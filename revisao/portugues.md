@@ -35,10 +35,10 @@
 | Sujeito               | Sim |  |  |
 | Predicado             | Sim |  |  |
 | Transitividade Verbal | Sim |  |  |
-| Termos Integrantes    | Não |  |  |
-| Termos Acessórios     | Não |  |  |
-| Orações Coordenadas   | Não |  |  |
-| Orações Subordinadas  | Não |  |  |
+| Termos Integrantes    | Sim |  |  |
+| Termos Acessórios     | Sim |  |  |
+| Orações Coordenadas   | Sim |  |  |
+| Orações Subordinadas  | Sim |  |  |
 | Orações Reduzidas     | Não |  |  |
 | Concordância Verbal   | Sim |  |  |
 | Concordância Nominal  | Sim |  |  |

@@ -1,0 +1,107 @@
+Vou enviar um conjunto de regras de resumo em varias partes, apenas confirme se entendeu.
+
+TAREFA:
+1. Aja como um professor especialista em concursos públicos e analise o arquivo em anexo. 
+2. Produza um resumo focado em revisão de alta performance, gerando as anotações seguindo RIGOROSAMENTE as instruções e o Style Guide abaixo.
+3. Quero um resumo bem simples e que foque em ser o mais claro possível para revisar o assunto rapidamente. 
+
+CRITÉRIOS DE ESCOPO:
+1. Gerenciamento de contexto: Se eu enviar mais de um arquivo e o atual contiver uma revisão do assunto anterior, NÃO RECORTE OU REPITA o conteúdo já resumido. Apenas complemente com novidades.
+2. Completude: Não omita conceitos, artigos, prazos ou tópicos importantes sob o pretexto de "resumir".
+3. Ênfase didática: Identifique e reforce tudo o que o professor sinalizar como "importante", "cai em prova" ou "pegadinha".
+4. Separação crucial: Pare imediatamente de misturar conceitos teóricos com questões de fixação. A teoria deve ser explicada de forma 100% isolada, podendo apresentar exemplos quando disponível ou necessário. 
+5. Se houver questões no material, não as inclua no resumo, a menos que estejam explicando algum conceito, ou seja, ajudando no entendimento. 
+
+Vou enviar mais um conjunto de regras de resumo, apenas confirme se entendeu.
+
+REGRAS DE FORMATAÇÃO E STYLE GUIDE DE SINTAXE MARKDOWN:
+1. Use numeração decimal estrita (ex: 1.1, 1.1.1) para estruturar artigos, parágrafos da lei ou a hierarquia dos tópicos.
+2. Quando o PDF apresentar uma tabela, transcreva-a OBRIGATORIAMENTE para o formato de Tabelas Markdown na sua respectiva posição dentro do fluxo didático.
+3. Pontuação de Listas: Use ponto e vírgula (;) para itens curtos e isolados; use ponto final (.) apenas para frases longas e completas. Todos os itens da lista devem conter um hífen (-) no início.
+4. Estruture os tópicos usando os títulos markdown, organizando a partir da apresentação do professor e da forma mais didática possível. Estruture os subtópicos usando a hierarquia de títulos. Nenhum título deve ser escrito todo em maiúsculo. Todos os parágrafos devem começar com um hífen (-).
+5. Regra Estrita de Destaques: Não utilize **Negrito**, *Itálico* ou ***Negrito e Itálico*** em nenhum momento no texto corrido dos parágrafos ou dentro das tabelas. A ÚNICA exceção obrigatória é a marcação dos blocos de Dicas e Observações conforme o exemplo do manual.
+6. Se for usar setas para indicar algo, use estritamente este padrão: ⟶
+7. Não separe cada tópico usando três hifens (---). Separe-os apenas com uma linha de espaço em branco entre o fim de um tópico e o início do próximo. É terminantemente PROIBIDO pular linha entre o título do tópico e o seu primeiro parágrafo descritivo; o parágrafo deve começar na linha imediatamente seguinte ao título.
+8. Não faça quadros resumo, de síntese ou de dicas finais ao término do documento, a menos que o próprio arquivo enviado contenha isso. Siga estritamente a didática apresentada no arquivo da aula.
+9. Não use o padrão de traço/hífen logo após a numeração nos títulos. Exemplo proibido: "# 1. IoT – Internet das Coisas". O correto é apenas a numeração e o texto.
+10. Aplique formatação de título (Title Case) em todos os cabeçalhos (#, ##, ###). Isso significa que a primeira letra de cada palavra deve ser MAIÚSCULA, EXCETO preposições, conjunções e artigos (como: de, da, do, em, no, na, e, ou, com, para, a, o, os, as), a menos que comecem o título. Letra de numeração romana ao final devem ser sempre trocadas pelo seu equivalente em número decimal.
+11. Dicas e observações devem ser posicionadas sempre após o tópico ou subtópico a que se referem, nunca no meio da descrição do tópico ou subtópico. 
+12.  ESTRUTURA DE TABELAS:
+    - CABEÇALHO DA TABELA: Deve ser escrito inteiramente em CAIXA ALTA e centralizado.
+    - Conteúdo da Tabela: Deve ser escrito em Sentence case (apenas a primeira letra maiúscula).
+    - O conteúdo da primeira coluna nunca deve ser negritada, deve ser formatado igual às demais.
+    - linha separadora do cabeçalho da tabela deve conter APENAS hifens puros (ex: |---|). É expressamente PROIBIDO o uso de dois pontos (:---, :---: ou ---:) para alinhamento. Mantenha a sintaxe padrão crua. 
+13. Se o arquivo possuir blocos de código como exemplo, os adicione dentro de um bloco de código markdown da sua respectiva linguagem.
+
+vou mandar um exemplo da aplicação das regras apenas confirme se entendeu.
+
+EXEMPLO DE ESTRUTURA REQUERIDA:
+
+# [Título Principal da Aula]
+
+## 1. [Título do Tópico]
+- [Parágrafo descritivo do conceito].
+- [Exemplo: descrição] 
+- Explicação (ex.: descrição do exemplo).
+- Lista:
+  - Item;
+  - Item;
+  - Item.
+
+### 1.1 [Título de Subtópico]
+- [Parágrafo descritivo do conceito].
+- [Exemplo: descrição] 
+- Explicação (ex.: descrição do exemplo).
+- Lista:
+  - Item;
+  - Item;
+  - Item.
+
+#### 1.1.1 [Título de Subtópico do Subtópico]
+- [Parágrafo descritivo do conceito].
+- [Exemplo: descrição] 
+- Explicação (ex.: descrição do exemplo).
+- Lista:
+  - Item;
+  - Item;
+  - Item.
+
+> [!TIP] DICAS: 
+> - (macetes ou dicas aqui)
+
+> [!CAUTION] OBSERVAÇÃO: 
+> - (Destaques, Exceções ou Interpretações do Professor aqui)
+
+### [Título da Tabela]
+| PRODUTO | CARACTERÍSTICA | RISCO |
+|---|---|---|
+
+Gere o resumo do arquivo selecionado aplicando exatamente as diretrizes definidas acima.
+
+
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
+
+ᵃ ᵇ ᶜ ᵈ ᵉ ᶠ ᵍ ʰ ⁱ ʲ ᵏ ˡ ᵐ ⁿ ᵒ ᵖ ʳ ˢ ᵗ ᵘ ᵛ ʷ ˣ ʸ ᶻ
+
+ᴬ ᴮ ᶜ ᴰ ᴱ ᴳ ᴴ ᴵ ᴶ ᴷ ᴸ ᴹ ᴺ ᴼ ᴾ ᴿ ᵀ ᵁ ⱽ ᵂ
+
+⁻
+⁺
+⁼
+⁽ ⁾
+
+₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
+ₐ ₑ ₕ ᵢ ⱼ ₖ ₗ ₘ ₙ ₒ ₚ ᵣ ₛ ₜ ᵤ ᵥ ₓ
+
+⟶ ≠
+```
+> [!TIP]
+> [!CAUTION]
+
+Prompt Ideal para a IA Gerar o Gatilho do Erro
+Quando você errar uma questão no Gran, copie a questão completa (enunciado + alternativas) e envie para a IA usando o prompt abaixo:
+
+Prompt:
+"Você é um especialista em concursos públicos focado na banca FGV. Analise a questão de TI abaixo e extraia APENAS o gatilho direto do erro em uma única frase assertiva (máximo 15 palavras). Não explique a teoria, não faça introduções e não copie a questão. Diga apenas a regra técnica ou a pegadinha da banca que define o gabarito correto.
+
+[COLE A QUESTÃO AQUI]"
