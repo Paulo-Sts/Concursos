@@ -67,3 +67,42 @@
 #### Aposto vs. Vocativo
 - Aposto: Explica, especifica ou resume um termo anterior. Vem geralmente entre vírgulas, travessões ou após dois-pontos. (Ex.: "Python, **linguagem versátil**, é muito usada.")
 - Vocativo: É um chamamento (invocação). É isolado e não pertence nem ao sujeito nem ao predicado. (Ex.: "**Candidato**, preste atenção!")
+
+
+### Macetes de Ouro para Provas de Português
+
+* **Crase (Substituição por Palavra Masculina):**
+Troque a palavra feminina depois do **a** por uma masculina equivalente (ex: *ir à praia* $\rightarrow$ *ir ao clube*). Se virou **AO**, tem crase (**À**). Se virou apenas **O**, não tem crase.
+* *Macetinho extra:* "Vou **A**, volto **DA**, crase no **Á**. Vou **A**, volto **DE**, crase pra quê?" (*Vou à Bahia / Volto da Bahia* $\rightarrow$ tem crase; *Vou a São Paulo / Volto de São Paulo* $\rightarrow$ sem crase).
+
+* **Complemento Nominal vs. Adjunto Adnominal:**
+Quando houver **Substantivo Abstrato + Preposição DE**:
+* Se o termo for **PACIENTE** (sofre a ação) = **Complemento Nominal**. (*A construção do prédio* $\rightarrow$ o prédio é construído).
+* Se o termo for **AGENTE** (pratica a ação) ou indicar posse = **Adjunto Adnominal**. (*A decisão do juiz* $\rightarrow$ o juiz decidiu).
+
+
+* **Verbos Abusivos (Haver e Fazer):**
+* **HAVER** (no sentido de existir, ocorrer ou tempo decorrido) e **FAZER** (indicando tempo decorrido) são **IMPESSOAIS**. Não têm sujeito e ficam **sempre no singular**.
+* *Errado:* "Houveram muitos problemas" / "Faz três anos".
+* *Certo:* "Houve muitos problemas" / "Faz três anos".
+* *Atenção:* Se houver locução verbal, o verbo auxiliar contamina: "Deve haver problemas" (e não *Devem haver*).
+
+
+* **Uso do "O QUAL" para Pronome Relativo:**
+Dúvida se o **QUE** é pronome relativo ou conjunção integrante? Troque o **QUE** por **O QUAL / A QUAL**.
+* Se couber = Pronome Relativo (inicia oração subordinada adjetiva).
+* Se der para trocar a oração inteira depois do verbo pela palavra **ISSO** = Conjunção Integrante. (*Quero [que você venha]* $\rightarrow$ *Quero [ISSO]*).
+
+
+* **Conjugação de Verbos Derivados:**
+Verbos derivados seguem RIGOROSAMENTE a conjugação do verbo primitivo.
+* **Reaver** segue **Haver** (só existe onde o verbo haver tem a letra *V*: *nós reavemos, vós reaveis*).
+* **Manter / Reter** seguem **Ter** (*ele teve* $\rightarrow$ *ele manteve* / *se ele tiver* $\rightarrow$ *se ele mantiver*).
+* **Propor / Compor** seguem **Pôr** (*se ele puser* $\rightarrow$ *se ele propuser*).
+
+| Macete / Gatilho | Teste Prático de Execução | Resultado do Teste |
+| --- | --- | --- |
+| **Crase antes de Pronome** | Troque por um pronome masculino (*a esta* $\rightarrow$ *a este*). | Se não gerou "AO", **Crase Proibida**. |
+| **Porque / Por que** | Troque por "por qual razão" ou "pelo qual". | Couber na frase = **Por que** (separado). |
+| **Mas / Mais** | Troque por "porém" ou pelo símbolo matemático (+). | Se couber "porém" = **Mas** (oposição). |
+| **Onde / Aonde** | O verbo exige a preposição "A" (ideia de movimento)? | Sim = **Aonde** (*Aonde você vai?*). Não = **Onde** (*Onde você mora?*). |
