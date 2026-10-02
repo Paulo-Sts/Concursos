@@ -49,8 +49,8 @@
 | Verbo Haver           | Sim |  |  |
 | Crase                 | Sim |  |  |
 | Pontuação             | Sim |  |  |
-| Particula Se          | Não |  |  |
-| Particula Que         | Não |  |  |
+| Particula Se          | Sim |  |  |
+| Particula Que         | Sim |  |  |
 | Vozes Verbais         | Sim |  |  |
 
 ## 4. Compreensão e Interpretação
