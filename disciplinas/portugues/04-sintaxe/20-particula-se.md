@@ -21,7 +21,7 @@
 >   - Encomendas são entregues.
 >   - Dinheiro foi poupado com a compra de roupas usadas.
 
-### 1.2 Índice de indeterminação do sujeito ou pronome indefinido
+### 1.2 Índice de Indeterminação do Sujeito ou Pronome Indefinido
 - Quando exerce a função de pronome indefinido, o "se" é utilizado com verbos flexionados na terceira pessoa do singular.
 - Esses verbos podem ser intransitivos, transitivos indiretos ou de ligação.
 - O pronome indefinido é utilizado quando não se quer ou não se pode identificar o sujeito da frase.
@@ -32,7 +32,7 @@
   - Vive-se com dificuldade neste país.
   - Confia-se no que foi prometido.
 
-### 1.3 Parte integrante do verbo
+### 1.3 Parte Integrante do Verbo
 - Essa classificação dá-se quando o "se" faz parte de verbos pronominais.
 - Exemplos:
   - Bianca se machucou ao cair do escorrega.
@@ -41,7 +41,7 @@
   - A professora se aborreceu com a turma.
   - Ela se envolveu na discussão desnecessariamente.
 
-### 1.4 Pronome reflexivo
+### 1.4 Pronome Reflexivo
 - Quando desempenha essa função, o "se" faz parte de verbos pronominais reflexivos, ou seja, de verbos que indicam que o sujeito da frase praticou e recebeu a ação.
 - Exemplos:
   - Giulia se cortou com a tesoura.
@@ -84,7 +84,7 @@
 
 ### 2.1 Conjunção Subordinativa Causal
 - Conforme a classificação já demonstra, essa conjunção é indicativa de causa.
-- Ela é bastante usada, mas muitas vezes confundida com a conjunção subordinativa condicional a que indica condição.
+- Ela é bastante usada, mas muitas vezes confundida com a conjunção subordinativa condicional que indica condição.
 - Exemplos:
   - Se não tinha dinheiro, não deveria ter viajado.
   - Deveria ter feito o trabalho se estava disponível.
@@ -124,15 +124,15 @@
 
 | FUNÇÃO | QUANDO OCORRE | COMO IDENTIFICAR | EXEMPLO |
 |---|---|---|---|
-| Conjunção Subordinativa Integrante | Introduz uma oração subordinada substantiva (dúvida ou pergunta indireta). | Substitua toda a oração introduzida pelo "se" pela palavra "sso". | Não sei se ele vem. ⟶ Não sei isso |
+| Conjunção Subordinativa Integrante | Introduz uma oração subordinada substantiva (dúvida ou pergunta indireta). | Substitua toda a oração introduzida pelo "se" pela palavra "isso". | Não sei se ele vem. ⟶ Não sei isso |
 | Conjunção Subordinativa Condicional | Exprime condição ou hipótese. | Substitua por "caso" ou "desde que" (ajustando o verbo). | Se chover, não iremos. ⟶ Caso chova, não iremos. |
-| Conjunção Subordinativa Causal | Exprime a causa de um fato. | Substitua por "já que", "visto que" ou "como". | Se você sabia do risco, por que foi? ⟶ Já que você sabia por que foi? |
+| Conjunção Subordinativa Causal | Exprime a causa de um fato. | Substitua por "já que", "visto que" ou "como". | Se você sabia do risco, por que foi? ⟶ Já que você sabia, por que foi? |
 
 > [!TIP] DICAS:
 > | PASSO | ESTRUTURA ENCONTRADA | CLASSIFICAÇÃO |
 > |---|---|---|
 > | 1 | O "se" introduz uma oração inteira que você troca por "isso" | Conjunção Integrante |
 > | 2 | O "se" introduz uma oração inteira que você troca por "caso" | Conjunção Condicional |
-> | 3 | Verbo no singular + Preposição logo após (se de, se a, se em) | Índice de Indeterminação do Sujeito |
+> | 3 | Verbo no singular + preposição (precisa-se de, confia-se em, gosta-se de) | Índice de Indeterminação do Sujeito |
 > | 4 | Verbo sem preposição que aceita voz passiva (Aluga-se casa/Alugam-se casas) | Pronome Apassivador |
 > | 5 | O "se" pode ser apagado sem mudar nada na frase | Partícula de Realce |
