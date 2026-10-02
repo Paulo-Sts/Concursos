@@ -1,7 +1,7 @@
 # Funções do "que"
 
 ## 1. Introdução
-- A palavra "que" pode desempenhar a função de advérbio, conjunção e pronome. Também pode ser substantivo, preposição, interjeição e partícula expletiva.
+- A palavra "que" pode desempenhar a função de advérbio, conjunção e pronome. Também pode ser substantivo, preposição acidental, interjeição e partícula expletiva.
 
 ## 2. Função de Pronome
 
@@ -30,6 +30,6 @@
 |---|---|---|---|
 | Substantivo | Significa "qualidade", "coisa" ou "algo". É acentuado (quê) e vem precedido de artigo/numeral. | Sempre aceita um artigo ou pronome antes: um quê, o quê. | Ela tem um quê de mistério. ⟶ Tem algo de mistério. |
 | Advérbio de Intensidade | Modifica adjetivo ou advérbio transmitindo intensidade em orações exclamativas. | Substitua por "quão" ou "muito". | Que linda essa paisagem! ⟶ Quão linda essa paisagem! |
-| Preposição | Liga dois verbos em uma locução verbal. | Substitua pela preposição "de". | Tenho que estudar hoje. ⟶ Tenho de estudar hoje. |
+| Preposição Acidental | Liga dois verbos em uma locução verbal. | Substitua pela preposição "de". | Tenho que estudar hoje. ⟶ Tenho de estudar hoje. |
 | Interjeição | Exprime surpresa, espanto ou admiração. Sempre vem acentuado (Quê?!). | Equivale a uma exclamação de espanto isolada. | Quê?! Você passou no concurso?! ⟶ Nossa! Você passou no concurso?! |
 | Partícula Expletiva/Realce | Serve apenas para dar ênfase à frase. | Pode ser retirado (ou a expressão "é que") sem alterar o sentido ou a gramática. | Eles é que sabem a verdade. ⟶ Eles sabem a verdade. |
