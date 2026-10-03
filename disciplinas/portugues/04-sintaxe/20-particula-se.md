@@ -11,20 +11,18 @@
   - Alugam-se quartos para estudantes.
   - Entregam-se encomendas.
   - Poupou-se dinheiro com a compra de roupas usadas.
+- Estrutura:
+  - Verbo transitivo direto (VTD) ou direto e indireto (VTDI) na 3ª pessoa + sujeito paciente.
 
 > [!TIP] DICAS:
-> - Para confirmar se a função do "se" é de partícula apassivadora, basta converter a frase na voz passiva sintética para a voz passiva analítica:
-> - Exemplos:
->   - Várias casas foram vendidas.
->   - Ouro é comprado.
->   - Quartos para estudantes são alugados.
->   - Encomendas são entregues.
->   - Dinheiro foi poupado com a compra de roupas usadas.
+> - Para confirmar se a função do "se" é de partícula apassivadora, basta converter a frase na voz passiva sintética para a voz passiva analítica (ser + particípio).
+> - Exemplo:
+>   - Compra-se ouro. ⟶ Ouro é comprado.
 
 ### 1.2 Índice de Indeterminação do Sujeito ou Pronome Indefinido
 - Quando exerce a função de pronome indefinido, o "se" é utilizado com verbos flexionados na terceira pessoa do singular.
 - Esses verbos podem ser intransitivos, transitivos indiretos ou de ligação.
-- O pronome indefinido é utilizado quando não se quer ou não se pode identificar o sujeito da frase.
+- O pronome indefinido é utilizado quando não se quer ou não se pode identificar o sujeito da frase. O sujeito é indeterminado.
 - Exemplos:
   - Fala-se muito do coronavírus.
   - Morre-se de fome e sede naquela região.
@@ -32,14 +30,25 @@
   - Vive-se com dificuldade neste país.
   - Confia-se no que foi prometido.
 
+> [!TIP] DICAS:
+> - Não aceita voz passiva. 
+> - Exemplo:
+>   - Precisa-se de ajudantes. ⟶ Ajudantes são precisados. (Incorreto)
+
 ### 1.3 Parte Integrante do Verbo
-- Essa classificação dá-se quando o "se" faz parte de verbos pronominais.
+- Essa classificação dá-se quando o "se" faz parte de verbos pronominais (que só existem conjugados com o pronome, como arrepender-se, queixar-se).
 - Exemplos:
   - Bianca se machucou ao cair do escorrega.
   - As crianças se perderam no parque.
   - Eles se encantaram com a beleza da cidade.
   - A professora se aborreceu com a turma.
   - Ela se envolveu na discussão desnecessariamente.
+
+> [!TIP] DICAS:
+> - O "se" faz parte de verbos pronominais (sentimentos, atitudes). Não pode ser retirado. 
+> - Se retirar o "se", a frase perde o sentido ou muda o significado do verbo (queixar-se, arrepender-se). 
+> - Exemplo:
+>   - Ela queixou-se do barulho. ⟶ Ela queixou do barulho. (Incorreto)
 
 ### 1.4 Pronome Reflexivo
 - Quando desempenha essa função, o "se" faz parte de verbos pronominais reflexivos, ou seja, de verbos que indicam que o sujeito da frase praticou e recebeu a ação.
@@ -50,6 +59,12 @@
   - O filhote de gato estava se lambendo.
   - Vanessa já se arrumou para a premiação.
 
+> [!TIP] DICAS:
+> - O sujeito pratica e recebe a própria ação. 
+> - Substitua por "a si mesmo(a)".
+> - Exemplo:
+>   - Ele cortou-se com a tesoura. ⟶ Ele cortou a si mesmo.
+
 ### 1.5 Pronome Reflexivo Recíproco
 - Quando exerce a função de pronome reflexivo recíproco, o "se" é usado em frases na voz passiva recíproca e indica que uma ação verbal ocorreu de forma mútua, ou seja, um fez um ao outro e vice-versa.
 - Exemplos:
@@ -58,6 +73,12 @@
   - Aline e Leonardo se olharam apaixonados.
   - As crianças desta turma se entendem muito bem.
   - Naquela família, todos se amam muito.
+
+> [!TIP] DICAS:
+> - Ação mútua entre dois ou mais sujeitos.
+> - Substitua por "um ao outro" ou "mutuamente". 
+> - Exemplo:
+>   - Os atletas cumprimentaram-se. ⟶ Os atletas cumprimentaram um ao outro.
 
 ### 1.6 Partícula de Realce ou Expletiva
 - O uso do "se" enquanto partícula de realce é opcional. O fato de ele não ser usado não causa nenhum tipo de prejuízo ao sentido da frase.
@@ -70,14 +91,11 @@
   - Do que que ele está falando?
   - Os dias se passavam e nada de notícias dele.
 
-| FUNÇÃO | QUANDO OCORRE | COMO IDENTIFICAR | EXEMPLO |
-|---|---|---|---|
-| Apassivador (ou Pronome Apassivador) | Verbo transitivo direto (VTD) na 3ª pessoa + sujeito paciente. Permite voz passiva. | Tente transformar para a voz passiva analítica (ser + particípio). Se o verbo for ao plural com o sujeito, confirma. | Alugam-se casas. ⟶ Casas são alugadas. |
-| Índice de Indeterminação do Sujeito | Verbo transitivo indireto (VTI), intransitivo ou de ligação na 3ª pessoa do singular. Sujeito é indeterminado. | O verbo fica sempre no singular e há uma preposição em seguida. Não aceita voz passiva. | Precisa-se de ajudantes. ⟶ Ajudantes são precisados. (Incorreto) |
-| Reflexivo | O sujeito pratica e recebe a própria ação. | Substitua por "a si mesmo(a)". | Ele cortou-se com a tesoura. ⟶ Ele cortou a si mesmo. |
-| Recíproco | Ação mútua entre dois ou mais sujeitos. | Substitua por "um ao outro" ou "mutuamente". | Os atletas cumprimentaram-se. ⟶ Os atletas cumprimentaram um ao outro. |
-| Parte Integrante do Verbo | O "se" faz parte de verbos pronominais (sentimentos, atitudes). Não pode ser retirado. | Se retirar o "se", a frase perde o sentido ou muda o significado do verbo (queixar-se, arrepender-se). | Ela queixou-se do barulho. ⟶ Ela queixou do barulho. (Incorreto) |
-| Partícula de Realce (Expletivo) | Serve apenas para dar ênfase ou expressividade. | Pode ser retirado sem prejuízo gramatical ou alteração de sentido. | Foi-se embora sem avisar. ⟶ Foi embora sem avisar. |
+> [!TIP] DICAS:
+> - Serve apenas para dar ênfase ou expressividade. 
+> - Pode ser retirado sem prejuízo gramatical ou alteração de sentido. 
+> - Exemplo:  
+>   - Foi-se embora sem avisar. ⟶ Foi embora sem avisar.
 
 ## 2. Funções da conjunção "se"
 - A classificação do "se" enquanto conjunção subdivide-se em causal, condicional e integrante.
@@ -93,8 +111,10 @@
   - Se eles não entraram em contato, você poderia telefonar para o escritório.
 
 > [!TIP] DICAS:
-> - Para se certificar de que o "se" de uma determinada frase é uma conjunção subordinativa causal, basta substituí-lo por "já que" ou "uma vez que".
-> - Mesmo quando se faz a substituição do "se" por "já que" ou "uma vez que", as frases continuam fazendo sentido:
+> - Para se certificar de que o "se" de uma determinada frase é uma conjunção subordinativa causal, basta substituí-lo por "já que", "uma vez que", "visto que" ou "como".
+> - Rezliando a substituição, as frases devem continuar fazendo sentido.
+> - Exemplo:
+>   - Se você sabia do risco, por que foi? ⟶ Já que você sabia, por que foi?
 >   - Já que não tinha dinheiro, não deveria ter viajado.
 >   - Deveria ter feito o trabalho uma vez que estava disponível.
 >   - Uma vez que ela diz que é neutra, não deveria tomar partido de ninguém.
@@ -111,6 +131,12 @@
   - Se você me esperar, posso te dar carona.
 - Nas frases acima, a oração com "se" indica a condição necessária para que a ação da outra oração se concretize.
 
+> [!TIP] DICAS:
+> - Exprime condição ou hipótese. 
+> - Para identificar substitui-se por "caso" ou "desde que" (ajustando o verbo). 
+> - Exemplo:
+>   - Se chover, não iremos. ⟶ Caso chova, não iremos.
+
 ### 2.3 Conjunção Subordinativa Integrante
 - Sob essa classificação, o "se" introduz uma oração que desempenha papel de substantivo. Esse papel é uma função do "que" e do "se".
 - As frases introduzidas por conjunções subordinativas integrantes funcionam como sujeito, objeto direto, objeto indireto, predicativo, complemento nominal ou aposto de outra oração.
@@ -122,17 +148,8 @@
   - Minha dúvida é se ele aceitará a proposta. (predicado)
   - Essa é a minha vontade: que você seja feliz. (aposto)
 
-| FUNÇÃO | QUANDO OCORRE | COMO IDENTIFICAR | EXEMPLO |
-|---|---|---|---|
-| Conjunção Subordinativa Integrante | Introduz uma oração subordinada substantiva (dúvida ou pergunta indireta). | Substitua toda a oração introduzida pelo "se" pela palavra "isso". | Não sei se ele vem. ⟶ Não sei isso |
-| Conjunção Subordinativa Condicional | Exprime condição ou hipótese. | Substitua por "caso" ou "desde que" (ajustando o verbo). | Se chover, não iremos. ⟶ Caso chova, não iremos. |
-| Conjunção Subordinativa Causal | Exprime a causa de um fato. | Substitua por "já que", "visto que" ou "como". | Se você sabia do risco, por que foi? ⟶ Já que você sabia, por que foi? |
-
 > [!TIP] DICAS:
-> | PASSO | ESTRUTURA ENCONTRADA | CLASSIFICAÇÃO |
-> |---|---|---|
-> | 1 | O "se" introduz uma oração inteira que você troca por "isso" | Conjunção Integrante |
-> | 2 | O "se" introduz uma oração inteira que você troca por "caso" | Conjunção Condicional |
-> | 3 | Verbo no singular + preposição (precisa-se de, confia-se em, gosta-se de) | Índice de Indeterminação do Sujeito |
-> | 4 | Verbo sem preposição que aceita voz passiva (Aluga-se casa/Alugam-se casas) | Pronome Apassivador |
-> | 5 | O "se" pode ser apagado sem mudar nada na frase | Partícula de Realce |
+> - Introduz uma oração subordinada substantiva (dúvida ou pergunta indireta). 
+> - Para identificar substitui-se toda a oração introduzida pelo "se" pela palavra "isso". 
+> - Exemplo:
+>   - Não sei se ele vem. ⟶ Não sei isso.
