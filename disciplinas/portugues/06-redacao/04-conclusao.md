@@ -4,7 +4,7 @@
 - A conclusão é a última parte texto, e sua função é finalizar o argumento apresentado durante todo o texto. 
 - Existem dois tipos de conclusão, o qual será determinado pelo tema, que pode exigir uma conclusão síntese ou uma conclusão solução.
 
-> ### Tipos de Conclusão
+### 1.1 Tipos de Conclusão
 
 #### Conclusão Solução
 - A conclusão solução é usada quando o tema apresenta um problema.

@@ -81,48 +81,56 @@
 - O desdobramento do argumento, é a apresentação das consequências que o argumento (causa) produz.
 - Pode-se também provar o argumento.
 
+#### 7º Fechamento
+- Apresentar as consequências da argumentação do desenvolvimento 1.
+- Também é possível reforçar a tese.
+- Pode-se fazer uma ligação com o parágrafo de desenvolvimento 2.
+
 > ### Desenvolvimento 2
 
-#### 7º Tópico Frasal
+#### 8º Tópico Frasal
 - O primeiro período do desenvolvimento, apresenta uma frase que resume o parágrafo.
 - O segundo parágrafo de desenvolvimento, trata do segundo argumento exposto na tese.
 - O tópico frasal deve trazer um conectivo que some esse argumento ao argumento do parágrafo anterior (gerando complemento) e também informe que trata da elaboração do segundo argumento.
 - Logo o tópico frasal expõe o argumento que vai ser desenvolvido no parágrafo.
 
-#### 8º Embasamento
+#### 9º Embasamento
 - O segundo período do desenvolvimento, traz um repertório (citação) que da embasamento ao argumento apresentado (tem relação com o argumento e não necessariamente com o tema).
 - A elaboração do repertório deve apresentar a síntese da ideia principal e o relacionar com o argumento.
 - A citação pode se aproximar do argumento ou gerar oposição.
 
-#### 9º Argumentação
+#### 10º Argumentação
 - Se trata de explicar o argumento, ou seja, aprofundar o que o argumento propõe.
 - O desdobramento do argumento, é a apresentação das consequências que o argumento (causa) produz.
 - Pode-se também provar o argumento.
 
+#### 11º Fechamanto
+- Apresentar as consequências da argumentação do desenvolvimento 2.
+- Também é possível reforçar a tese.
+- Concluir o raciocínio e apresentar a gravidade do problema construindo uma ligação com a proposta de intervenção.
+
 > ### Conclusão
 
-#### 10º Anúncio da Proposta de Intervenção
+#### 12º Anúncio da Proposta de Intervenção
 - Se trata de apresentar um tópico frasal anunciando que se falará sobre a proposta de intervenção.
 
-#### 11º Proposta de Intervenção
+#### 13º Proposta de Intervenção
 - Apresentar a proposta de intervenção.
 - Inicia-se com um conectivo que da ideia de continuidade ao texto.
-- A proposta de intervenção começa tratando do primeiro argumento exposto ao longo do texto e apresenta todos os elementos da proposta de intervenção. 
+- A proposta de intervenção deve responder aos dois argumentos expostos ao longo do texto e apresentar todos os elementos da proposta de intervenção. 
 - Elementos da proposta de intervenção:
   - Agente (quem fará)
   - Ação (o que será feito)
-  - Modo (como será feito)
-  - Detalhamento (explicar o que o modo fará)
+  - Meio (como será feito)
+  - Detalhamento (explicar em profundidade como o que o agente fará por meio da ação)
   - Finalidade (o que a ação vai produzir)
-- Deve-se retomar o segundo argumento, apresentando também uma proposta de intervenção.
-- Essa segunda proposta pode ser composta por todos os elementos, ou mais simples.
 
-#### 12º Fechamento
+#### 14º Fechamento
 - Iniciar com um conectivo que ligue ao período anterior e que coloca que o perído a seguir, trata de um resultado das ações da proposta de intervenção.
 - Esse resultado é uma possível solução para o problema e uma retomada da citação apresentada na introdução.
 
 Resumo:
 1. Introdução = Citação ⟶ Apresentar o problema ⟶ Apresentar posição sobre o problema com 2 argumentos
-2. Desenvolvimento 1 = Tópico frasal ⟶ Citação ⟶ Aprofundamento do argumento 1 da tese
-3. Desenvolvimento 2 = Tópico frasal ⟶ Citação ⟶ Aprofundamento do argumento 2 da tese
-4. Conclusão = Anúncio da proposta de intervenção ⟶ Proposta de intervenção do argumento 1 ⟶ Proposta de intervenção do argumento 2 ⟶ Fechamento com possibilidade de solução e retomada da citação da introdução
+2. Desenvolvimento 1 = Tópico frasal ⟶ Citação ⟶ Aprofundamento do argumento 1 da tese ⟶ Fechamento do desenvolvimento 1 (consequência, retomada da tese ou conexão com o próximo parágrafo)
+3. Desenvolvimento 2 = Tópico frasal ⟶ Citação ⟶ Aprofundamento do argumento 2 da tese ⟶ Fechamento do desenvolvimento 2 (concluir o raciocínio e mostrar a gravidade do problema, preparando para proposta de intervenção)
+4. Conclusão = Anúncio da proposta de intervenção ⟶ Proposta de intervenção do argumento 1 ⟶ Fechamento com possibilidade de solução e retomada da citação da introdução

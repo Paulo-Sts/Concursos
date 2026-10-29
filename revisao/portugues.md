@@ -39,7 +39,7 @@
 | Termos Acessórios     | Sim |  |  |
 | Orações Coordenadas   | Sim |  |  |
 | Orações Subordinadas  | Sim |  |  |
-| Orações Reduzidas     | Não |  |  |
+| Orações Reduzidas     | Sim |  |  |
 | Concordância Verbal   | Sim |  |  |
 | Concordância Nominal  | Sim |  |  |
 | Regência Verbal       | Sim |  |  |

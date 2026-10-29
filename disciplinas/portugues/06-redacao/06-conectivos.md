@@ -20,7 +20,7 @@
 | Organizar as ideias por ordem sequencial | Em primeiro lugar, num primeiro momento, antes de, em seguida, seguidamente, depois de, após, até, por fim, finalmente... |
 | Ideia de causa                           | Pois, pois que, visto que, já que, porque, dado que, uma vez que, por causa de...                                         |
 
-> ### 1.1 Conectivos para a Introdução
+### 1.1 Conectivos para a Introdução
 
 1. Para começar.
 2. Primeiramente.
@@ -58,14 +58,14 @@
 34. Exceto.
 35. Com o fim de.
 
-> ### 1.2 Conectivos para o Desenvolvimento
+### 1.2 Conectivos para o Desenvolvimento
 
 1. Em primeiro lugar.
 2. Por exemplo.
 3. Da mesma forma.
 4. Por outro lado.
 5. Apesar de.
-6. Primeiramente.
+6. **Primeiramente.**
 7. Em segundo lugar.
 8. Dessa forma.
 9. Assim como.
@@ -87,7 +87,7 @@
 25. Uma vez que.
 26. Graças a.
 27. Devido a.
-28. Além disso.
+28. **Além disso.**
 29. Em paralelo.
 30. Adicionalmente.
 31. Bem como.
@@ -95,11 +95,11 @@
 33. Outrossim.
 34. Por outro lado.
 
-> ### 1.3 Conectivos para a Conclusão
+### 1.3 Conectivos para a Conclusão
 
 1. Conclui-se.
 2. Desse modo.
-3. Dessa forma.
+3. **Dessa forma.**
 4. Destarte.
 5. Diante disso.
 6. Diante do exposto.

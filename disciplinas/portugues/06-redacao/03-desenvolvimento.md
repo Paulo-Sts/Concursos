@@ -1,6 +1,6 @@
 # Desenvolvimento
 
-#### O que é argumentar?
+## 1. O que é Argumentar?
 - Argumentar é apresentar razões que sustentem uma opinião (tese).
 - É necessário fornecer justificativas que embasem a opinião anteriormente declarada. Nos parágrafos de desenvolvimento, essa ideia será ampliada, ou seja, trata-se de expandir o ponto de vista apresentado. 
 - É como em uma conversa: a opinião é expressa, e em seguida alguém pergunta o motivo. Por que é importante? Por que não é? Por que deve ser feito de determinada forma? Por que não de outra?
@@ -11,7 +11,7 @@
   - Tem lógica interna;
   - É desenvolvido com clareza.
 
-#### Tipos de Desenvolvimento
+## 2. Tipos de Desenvolvimento
 
 | TIPO                                                                | FUNÇÃO/DESCRIÇÃO                                                           |
 |:--------------------------------------------------------------------|:---------------------------------------------------------------------------|
@@ -21,7 +21,7 @@
 | Desenvolvimento por Dados Estatísticos                              | Apresentam-se pesquisas feitas por órgãos de reconhecimento público.       |
 | Desenvolvimento por Testemunho de Autoridade                        | Mostra-se opiniões de pessoas consideradas autoridades no tema em questão. |
 
-#### Como Desenvolver um Parágrafo?
+## 3. Como Desenvolver um Parágrafo?
 - Estrutura básica do parágrafo argumentativo:
   - Frase-tema (apresenta o argumento);
   - Explicação (detalha o argumento);
