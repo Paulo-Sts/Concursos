@@ -1,4 +1,4 @@
-# Relatório Geral
+# Relatório de Revisão Geral
 
 | MATÉRIA | TOTAL DE QUESTÕES (ÚLTIMOS 30 DIAS) | % DE ACERTOS ATUAL | GRUPO/STATUS |
 |---|---|---|---|
