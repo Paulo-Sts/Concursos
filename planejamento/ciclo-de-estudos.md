@@ -18,6 +18,8 @@
 - Analisar desempenho em todos os assuntos, falhas e reforçar assuntos mais cobrados. 
 - Reforçar com leis/resumos/anki/mapas mentais e atualização materiais.
 
+### Ciclo
+
 | INGLÊS | ESTOU?
 |---|---|
 |MEC Idiomas + Podcast BBC + Anki + Questão	  | AQUI |
