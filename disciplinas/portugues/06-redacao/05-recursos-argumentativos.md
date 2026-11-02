@@ -104,6 +104,7 @@ Exemplos:
 24. 66,56% dos domicílios tem arborização, segundo o IBGE.
 25. 90,7% da população brasileira possui alguma religião, segundo o IBGE.
 26. 21% das pessoas utilizam ônibus para ir ao trabalho, segundo o IBGE.
+27. No Brasil 84,2 milhões de pessoas estão endividadas em setembro de 2026, segundo o Serasa.
 
 ### 1.3 Argumentos
 - Tipos de argumentos:
