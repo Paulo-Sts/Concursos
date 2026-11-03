@@ -16,7 +16,7 @@
   - Todo problema tem consequências.
 
 #### Lógica Textual
-- Uma boa redação além de ideias boas precisa de organização, sequência lógica e progresso argumentativo.
+- Uma boa redação além de ideias boas precisa de organização, sequência lógica e progressão argumentativa.
 - As ideias devem estar encadeadas e fazer sentido entre si.
 - Cada parágrafo deve surgir naturalmente do anterior.
 
@@ -133,4 +133,4 @@ Resumo:
 1. Introdução = Citação ⟶ Apresentar o problema ⟶ Apresentar posição sobre o problema com 2 argumentos
 2. Desenvolvimento 1 = Tópico frasal ⟶ Citação ⟶ Aprofundamento do argumento 1 da tese ⟶ Fechamento do desenvolvimento 1 (consequência, retomada da tese ou conexão com o próximo parágrafo)
 3. Desenvolvimento 2 = Tópico frasal ⟶ Citação ⟶ Aprofundamento do argumento 2 da tese ⟶ Fechamento do desenvolvimento 2 (concluir o raciocínio e mostrar a gravidade do problema, preparando para proposta de intervenção)
-4. Conclusão = Anúncio da proposta de intervenção ⟶ Proposta de intervenção do argumento 1 ⟶ Fechamento com possibilidade de solução e retomada da citação da introdução
+4. Conclusão = Anúncio da proposta de intervenção ⟶ Proposta de intervenção que englobe o argumento 1 e 2 ⟶ Fechamento com possibilidade de solução e retomada da citação da introdução
