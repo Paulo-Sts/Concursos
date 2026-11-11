@@ -10,10 +10,8 @@
 
 ### 2027
 - TJ PB TI (Analista Ti): ESTUDANDO
-- IBGE (Resenceador): ESTUDANDO
 - DPE PB (Técnico): ESTUDANDO
 - DPE PB (Analista): ESTUDANDO
-- PM PE (Soldado): ESTUDANDO
 - Polícia Civil PE (Agente): ESTUDANDO
 
 ### Esperados

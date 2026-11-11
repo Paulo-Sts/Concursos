@@ -18,13 +18,21 @@
 - Analisar desempenho em todos os assuntos, falhas e reforçar assuntos mais cobrados. 
 - Reforçar com leis/resumos/anki/mapas mentais e atualização materiais.
 
-### Ciclo
+### Ciclo Pessoal
 
-| INGLÊS | ESTOU?
+| INGLÊS | ESTOU? |
 |---|---|
-|MEC Idiomas + Podcast BBC + Anki + Questão	  | AQUI |
-|MEC Idiomas + News in levels + Anki +Questão |	     |
-|MEC Idiomas + Anotações de Gramática + Anki  |	     |
+| MEC Idiomas + Podcast BBC + Anki + Questão   | AQUI |
+| MEC Idiomas + News in levels + Anki +Questão |      |
+| MEC Idiomas + Anotações de Gramática + Anki  |      |
+
+| EXTRAS | ESTOU? |
+|---|---|
+| Área Bancária | AQUI |
+| Filosofia     |	   |
+| Escrita       |      |
+
+### Ciclo Concursos
 
 | DISCIPLINAS BÁSICAS | TEMPO | BLOCOS POR SEMANA |	ESTOU? |
 |---|---|---|---|
@@ -57,7 +65,7 @@
 | Noções de Administração Pública Aplicada as Defensorias | 2h    |                   |        |	
 | Noções de D. do Consumidor                              | 2h    |                   |        |	
 | Noções de Direitos Humanos                              | 2h    |                   |        |	
-| Noções de direito da Criança e Adolescente, Idoso, PCD, Mulher, Pessoa em Situação de Rua | 2h |  |  |	
+| Noções de Direito da Criança e Adolescente, Idoso, PCD, Mulher, Pessoa em Situação de Rua | 2h |  |  |	
 
 | DISCIPLINAS BNB | TEMPO | BLOCOS POR SEMANA |	ESTOU? |
 |---|---|---|---|
