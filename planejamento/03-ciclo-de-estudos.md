@@ -2,20 +2,14 @@
 
 ### Organização
 
-#### FASE 1: (Aprendizado) - Primeiro Contato
+#### FASE 1: (Aprendizado)
 - Entender as materias base (ver teoria). 
-- Praticar questões do assunto sem focar em acertar (Exercícios de Fixação).
-- Revisar Tópico do dia anterior (Relembrar Ativamente e com questões) - Revisão 24h.
+- Praticar questões do assunto sem focar em acertar e sim em fixar e aprender o assunto.
 
-#### FASE 2: (Revisão Conjunta) 
-- Separar um conjunto de assuntos já estudados.
-- Fazer questões do conjunto de assuntos (Fazer questões da banca).
-- Reforçar pontos fracos.
-- Voltar a fase 1.
-
-#### FASE 3: (Revisão Total) - Segundo Contato (Após Finalizar a Disciplina)
-- Fazer simulados de todos os assuntos estudados (Fazer provas antigas).
-- Analisar desempenho em todos os assuntos, falhas e reforçar assuntos mais cobrados. 
+#### FASE 2: (Revisão) 
+- Separar um conjunto de assuntos já estudados e fazer questões do conjunto de assuntos (Fazer questões da banca). 
+- Fazer simulados e provas antigas.
+- Analisar desempenho em todos os assuntos, identificar pontos fracos, falhas e reforçar assuntos mais cobrados. 
 - Reforçar com leis/resumos/anki/mapas mentais e atualização materiais.
 
 ### Ciclo Pessoal
