@@ -20,7 +20,7 @@
 |          | Português     | Matemática    | Português     | Matemática     | Port/Mat      |          |
 |          | Ti            | Ti/Info       | Direito       | Ti             | Ti/Info       |          |
 
-OBS: Atualidades do Mercado Financeiro/Conhecimentos Bancários/ESG/Redação no estudo extra
+OBS: Atualidades do Mercado Financeiro, Conhecimentos Bancários, ESG, Redação e Conhecimentos Técnicos do IBGE no estudo extra.
 
 ### Disciplinas
 
