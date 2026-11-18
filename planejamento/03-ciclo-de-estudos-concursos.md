@@ -20,7 +20,7 @@
 |          | Português     | Matemática    | Português     | Matemática     | Port/Mat      |          |
 |          | Ti            | Ti/Info       | Direito       | Ti             | Ti/Info       |          |
 
-OBS: Atualidades do Mercado Financeiro/Conhecimentos Bancários/Redação no estudo extra
+OBS: Atualidades do Mercado Financeiro/Conhecimentos Bancários/ESG/Redação no estudo extra
 
 ### Disciplinas
 
@@ -32,7 +32,17 @@ OBS: Atualidades do Mercado Financeiro/Conhecimentos Bancários/Redação no est
 
 | DISCIPLINAS ESPECÍFICAS IBGE | TEMPO | BLOCOS POR SEMANA |	ESTOU? |
 |---|---|---|---|
+| Língua Portuguesa	  | 1h30m |                   |	       |
+| Matemática e RLM	  | 1h30m |                   |	AQUI   |
 | Conhecimentos Técnicos**	  | 1h30m |                   |	AQUI   |
+
+| DISCIPLINAS BANESTES | TEMPO | BLOCOS POR SEMANA |	ESTOU? |
+|---|---|---|---|
+| Língua Portuguesa	  | 1h30m |                   |	       |
+| Matemática/RLM/Matemática Financeira/Estatística	  | 1h30m |                   |	AQUI   |
+| Atualidades do Mercado Financeiro |||||
+| Ética, Compliance e ESG |  | | | |
+| Ti | 2h |  |  |
 
 | DISCIPLINAS DPE PB TÉCNICO/ANALISTA TI                  | TEMPO | BLOCOS POR SEMANA |	ESTOU? |
 |---|---|---|---|
@@ -56,13 +66,13 @@ OBS: Atualidades do Mercado Financeiro/Conhecimentos Bancários/Redação no est
 | Contabilidade                 | 2h    |                   |          |	
 | Estatística                   | 2h    |                   |          |
 | Informática	                | 1h30m |                   |	       |
-| Redação**                       | 1h30m |                   |	       |
+| Redação                       | 1h30m |                   |	       |
 
 | DISCIPLINAS BNB | TEMPO | BLOCOS POR SEMANA |	ESTOU? |
 |---|---|---|---|
 | Língua Portuguesa                | 2h |  |  |     
-| Matemática/Matemática Financeira** | 2h |  |  |     
-| C.Bancários/AMF**                  | 2h |  |  |     
+| Matemática/Matemática Financeira | 2h |  |  |     
+| C.Bancários/AMF                  | 2h |  |  |     
 
 | DISCIPLINAS CAIXA Ti | TEMPO | BLOCOS POR SEMANA | ESTOU? |
 |---|---|---|---|
@@ -70,7 +80,7 @@ OBS: Atualidades do Mercado Financeiro/Conhecimentos Bancários/Redação no est
 | Língua Inglesa              | 2h |  |  |
 | Probabilidade e Estatística | 2h |  |  |
 | Matemática Financeira	      | 2h |  |  |	
-| C. Éticos e Compliance**      | 2h |  |  |
+| C. Éticos e Compliance      | 2h |  |  |
 | Ti                          | 2h |  |  |
 | C. e Com. Digitais**          | 2h |  |  |
 | Redação 	                  | 2h |  |  |
