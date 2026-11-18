@@ -20,6 +20,8 @@
 |          | Português     | Matemática    | Português     | Matemática     | Port/Mat      |          |
 |          | Ti            | Ti/Info       | Direito       | Ti             | Ti/Info       |          |
 
+OBS: Atualidades do Mercado Financeiro/Conhecimentos Bancários/Redação no estudo extra
+
 ### Disciplinas
 
 | DISCIPLINAS ESPECÍFICAS UFPE | TEMPO | BLOCOS POR SEMANA |	ESTOU? |
