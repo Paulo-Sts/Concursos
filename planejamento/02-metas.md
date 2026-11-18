@@ -1,5 +1,12 @@
 # Metas 
 
+## Consolidação
+- Reforçar máterias básicas = 95% de acerto.
+- Preencher lacunas nas matérias específicas focando no "até a prova" = 85% de acerto.
+- Eliminar erros por falta de conhecimento e desatenção = Simulados todo domingo a partir de 22/11.
+- Não estudar todas específicas ao mesmo tempo ir adicionando conforme avanço no tempo.
+- Bater 10 mil questões entre novembro e fevereiro resolvidas até 28/02/27.
+
 ### Novembro 2026
 - 80% de acertos em português, matemática, informática.
 - 80% de acertos em conhecimentos bancários e vendas e negociação.
